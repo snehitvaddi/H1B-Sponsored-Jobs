@@ -100,4 +100,4 @@ https://applyloop.pro/api/public/h1b-jobs
   <p><sub>Built for people on F-1 OPT and H-1B timelines, where speed decides outcomes.</sub></p>
 </div>
 
-<sub>Last updated: 2026-08-23 23:14 UTC</sub>
+<sub>Last updated: 2026-08-23 23:35 UTC</sub>
