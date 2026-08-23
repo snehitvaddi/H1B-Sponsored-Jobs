@@ -1,0 +1,334 @@
+{
+  "source": "ApplyLoop",
+  "site": "https://applyloop.pro",
+  "license": "CC0-1.0",
+  "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Listings are point-in-time and are not monitored for closure.",
+  "generated_at": "2026-08-23T18:11:17.727Z",
+  "count": 40,
+  "jobs": [
+    {
+      "company": "Intel",
+      "title": "AI Infrastructure Engineer",
+      "location": "USA - CA - Santa Clara",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/AI-Infrastructure-Engineer_JR0286233",
+      "date_posted": 1787184000,
+      "flags": []
+    },
+    {
+      "company": "Nvidia",
+      "title": "Senior Applied AI Engineer, Cybersecurity",
+      "location": "US, CA, Remote",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Applied-Scientist-Cyber-Defense_JR2022761-1",
+      "date_posted": 1787011200,
+      "flags": []
+    },
+    {
+      "company": "Adobe",
+      "title": "Machine Learning Engineer",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Machine-Learning-Engineer_R171337",
+      "date_posted": 1787011200,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Software Engineer, Fullstack - Moveworks",
+      "location": "Mountain View, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144649929",
+      "date_posted": 1787263990,
+      "flags": []
+    },
+    {
+      "company": "Workday",
+      "title": "Sr Analytics Engineer",
+      "location": "USA, GA, Atlanta",
+      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Jobs/job/Sr-Analytics-Engineer_JR-0108667",
+      "date_posted": 1783296000,
+      "flags": []
+    },
+    {
+      "company": "Medtronic",
+      "title": "IT Developer - Data Engineer",
+      "location": "Minneapolis, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/IT-Developer---Data-Engineer_R68340-1",
+      "date_posted": 1786809766,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Software Engineer, Fulfillment Core Services",
+      "location": "Seattle, WA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8716222002",
+      "date_posted": 1787313936,
+      "flags": []
+    },
+    {
+      "company": "Kla",
+      "title": "AI Software Engineer|Manufacturing",
+      "location": "USA-MI-Ann Arbor-KLA",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/AI-Software-Engineer_2636885-1",
+      "date_posted": 1784505600,
+      "flags": []
+    },
+    {
+      "company": "Zillow",
+      "title": "Machine Learning Engineer, Agentic AI",
+      "location": "Remote",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Machine-Learning-Engineer--Agentic-AI_P749437-2",
+      "date_posted": 1785888000,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Machine Learning Engineer, Customer Support Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://careers.airbnb.com/positions/8014904?gh_jid=8014904",
+      "date_posted": 1786742877,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Staff Software Engineer, Startup Products",
+      "location": "United States",
+      "url": "https://stripe.com/jobs/search?gh_jid=8146271",
+      "date_posted": 1787355353,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Software Engineer L3 Control Flow",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7816159",
+      "date_posted": 1787342306,
+      "flags": []
+    },
+    {
+      "company": "Netflix",
+      "title": "Group Product Manager, Content Ingestion & Distribution",
+      "location": "California - Remote",
+      "url": "https://netflix.wd108.myworkdayjobs.com/netflix/job/california---remote/group-product-manager--content-ingestion---distribution_jr41997",
+      "date_posted": 1786420966,
+      "flags": []
+    },
+    {
+      "company": "Nordstrom",
+      "title": "Product Manager II — Customer Data Platform & Marketing Technology (Hybrid - Seattle)",
+      "location": "Seattle WA",
+      "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Product-Manager-II---Customer-Data-Platform---Marketing-Technology--Hybrid---Seattle-_R-863566",
+      "date_posted": 1786410166,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Machine Learning Engineer, Monetization Engineering",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543",
+      "date_posted": 1721776209,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Data Engineer",
+      "location": "Mountain View, California",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7438328",
+      "date_posted": 1765314719,
+      "flags": []
+    },
+    {
+      "company": "Humana",
+      "title": "Principal AI Engineer – Agentic AI",
+      "location": "Waterside Bldg",
+      "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Principal-AI-Engineer_R-406154",
+      "date_posted": 1786492800,
+      "flags": []
+    },
+    {
+      "company": "Broadcom",
+      "title": "Java Engineer - REST APIs & Database Systems",
+      "location": "USA-IL Lisle Warrenville Road",
+      "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Java-Engineer---REST-APIs---Database-Systems_R025498",
+      "date_posted": 1784851200,
+      "flags": []
+    },
+    {
+      "company": "Roku",
+      "title": "Senior Data Engineer",
+      "location": "San Jose, California",
+      "url": "https://job-boards.greenhouse.io/roku/jobs/8042568",
+      "date_posted": 1783090603,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Software Engineer - Capacity",
+      "location": "US-WA-Bellevue",
+      "url": "https://jobs.ashbyhq.com/snowflake/bcd7eea8-1f1e-437b-b7d1-52361493d55e/application",
+      "date_posted": 1787335314,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Software Engineering Intern (2027 Start) - Winter",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+      "date_posted": 1787269225,
+      "flags": []
+    },
+    {
+      "company": "Salesforce",
+      "title": "Full-Stack Software Engineer: Mid, Senior, and Lead",
+      "location": "California - San Francisco",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Full-Stack-Software-Engineer---MTS---SMTS_JR253369",
+      "date_posted": 1786233600,
+      "flags": []
+    },
+    {
+      "company": "Data",
+      "title": "Cloud Engineer - Data",
+      "location": "National Harbor, Maryland",
+      "url": "https://jobs.lever.co/go-cloudforce/d108470e-8138-4069-a98d-8e449e03bb96",
+      "date_posted": 1781655776,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521",
+      "date_posted": 1774917452,
+      "flags": []
+    },
+    {
+      "company": "Zoox",
+      "title": "Machine Learning Automation Engineer",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562",
+      "date_posted": 1784326628,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Staff TDI Site Reliability Engineer, Okta Federal",
+      "location": "San Francisco, California",
+      "url": "https://www.okta.com/company/careers/opportunity/8073062?gh_jid=8073062",
+      "date_posted": 1784322330,
+      "flags": [
+        "clearance"
+      ]
+    },
+    {
+      "company": "Nxp",
+      "title": "AI/ML driven ASIC Design and Implementation Automation Engineer",
+      "location": "Austin (Oakhill, Office)",
+      "url": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065561",
+      "date_posted": 1786320000,
+      "flags": []
+    },
+    {
+      "company": "Spotify",
+      "title": "Senior Backend Engineer, Podcast",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/481e84f8-9048-4da3-9ad4-e2fba06e005f",
+      "date_posted": 1787326453,
+      "flags": []
+    },
+    {
+      "company": "Tiger-analytics",
+      "title": "Senior Data Engineer",
+      "location": "United States",
+      "url": "https://apply.workable.com/tiger-analytics/j/1729DF4E9E/apply",
+      "date_posted": 1786320000,
+      "flags": []
+    },
+    {
+      "company": "Ness",
+      "title": "Techno-Functional Business Analyst in Professional Services",
+      "location": "New Jersey, New Jersey",
+      "url": "https://jobs.jobvite.com/ness/job/o3rzAfwn",
+      "date_posted": 1785369600,
+      "flags": []
+    },
+    {
+      "company": "CA",
+      "title": "Sr. AI Engineer",
+      "location": "Remote - CA",
+      "url": "https://job-boards.greenhouse.io/samsara/jobs/8083352",
+      "date_posted": 1786488220,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "[Summer 2027] Software Engineer Intern",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+      "date_posted": 1785945796,
+      "flags": []
+    },
+    {
+      "company": "Cloudera",
+      "title": "Forward Deployed AI Engineer (Senior/Principal Level)",
+      "location": "US-New York-New York",
+      "url": "https://cloudera.wd5.myworkdayjobs.com/en-US/External_Career/job/Forward-Deployed-AI-Engineer_261076-1",
+      "date_posted": 1786579200,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Manager, Software Engineering (App Experiences)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7918497003",
+      "date_posted": 1787348506,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Staff Software Development Engineer",
+      "location": "San Jose, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5202464007",
+      "date_posted": 1787313730,
+      "flags": []
+    },
+    {
+      "company": "Leidos",
+      "title": "Senior Salesforce Developer Architect",
+      "location": "8744 Gaithersburg MD Home Office",
+      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Senior-Salesforce-Developer-Architect_R-00185757",
+      "date_posted": 1781740800,
+      "flags": [
+        "clearance"
+      ]
+    },
+    {
+      "company": "Cotiviti",
+      "title": "Integration Business Analyst",
+      "location": "United States",
+      "url": "https://careers-cotiviti.icims.com/jobs/17497/integration-business-analyst/job",
+      "date_posted": 1786619086,
+      "flags": []
+    },
+    {
+      "company": "Ringcentral",
+      "title": "ML/AI Engineer (Full Time; Multiple Openings)",
+      "location": "Belmont",
+      "url": "https://ringcentral.wd1.myworkdayjobs.com/en-US/RingCentral_Careers/job/ML-AI-Engineer--Full-Time--Multiple-Openings-_R078414",
+      "date_posted": 1786579200,
+      "flags": []
+    },
+    {
+      "company": "Quantiphi",
+      "title": "Senior Machine Learning Engineer",
+      "location": "USA - Remote",
+      "url": "https://quantiphi.wd1.myworkdayjobs.com/en-US/Careers_at_Quantiphi/job/Senior-Machine-Learning-Engineer_JR11018",
+      "date_posted": 1784026914,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Software Engineer - Quicksilver - Distributed Key Value",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8140310?gh_jid=8140310",
+      "date_posted": 1787331443,
+      "flags": []
+    }
+  ]
+}

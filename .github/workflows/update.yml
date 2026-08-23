@@ -1,0 +1,41 @@
+name: Update job list
+on:
+  schedule:
+    - cron: "17 11 * * *"   # 11:17 UTC — off the hour, so we do not pile onto GitHub's :00 spike
+    - cron: "17 23 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch fresh roles
+        run: |
+          set -euo pipefail
+          curl -fsSL --retry 3 --retry-delay 5 --max-time 60 \
+            "https://applyloop.pro/api/public/h1b-jobs?limit=40" -o /tmp/incoming.json
+          # A malformed or empty response must never blank the published list.
+          test "$(node -e 'const d=require("/tmp/incoming.json");process.stdout.write(String((d.jobs||[]).length))')" -gt 0
+      - name: Merge (append-only) and regenerate
+        run: |
+          node -e '
+            const fs=require("fs");
+            const inc=JSON.parse(fs.readFileSync("/tmp/incoming.json","utf8"));
+            let cur={jobs:[]};
+            try{cur=JSON.parse(fs.readFileSync("data/listings.json","utf8"))}catch{}
+            const byUrl=new Map((cur.jobs||[]).map(j=>[j.url,j]));
+            for(const j of inc.jobs) if(!byUrl.has(j.url)) byUrl.set(j.url,j);
+            const jobs=[...byUrl.values()].sort((a,b)=>b.date_posted-a.date_posted).slice(0,400);
+            fs.writeFileSync("data/listings.json",JSON.stringify({...inc,count:jobs.length,jobs},null,2)+"\n");
+            console.log("merged:",jobs.length);
+          '
+          node scripts/generate_readme.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/listings.json README.md
+          git diff --staged --quiet || git commit -m "Update job list — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

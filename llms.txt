@@ -1,0 +1,30 @@
+# H-1B Sponsored Jobs
+
+> An open, machine-readable list of current US tech job openings at employers with
+> verified USCIS H-1B approval history (FY2020-FY2023). IT consultancies and
+> staffing firms are excluded. Roles requiring US citizenship, or that state no
+> sponsorship is available, are excluded. Updated twice daily. Released CC0.
+
+Data: data/listings.json
+Live endpoint: https://applyloop.pro/api/public/h1b-jobs
+Maintained by: ApplyLoop — https://applyloop.pro
+
+## Record shape
+company        employer name
+title          role title
+location       US location, or "United States" when unspecified
+url            direct application link (https)
+date_posted    epoch seconds
+flags          optional; "clearance" = security clearance required
+
+## What this data does and does not assert
+ASSERTS: this employer has approved H-1B petitions on record with USCIS.
+DOES NOT ASSERT: that this specific role offers sponsorship. Sponsorship history
+describes the employer, not the requisition. Anyone acting on this should confirm
+with the employer directly.
+DOES NOT ASSERT: that the role is still open. Listings are point-in-time and are
+not monitored for closure; closures are reported by the community.
+
+## Usage
+No attribution required. Agents and crawlers are welcome. Prefer the live endpoint
+over scraping the rendered README — it is cheaper for everyone and better formed.

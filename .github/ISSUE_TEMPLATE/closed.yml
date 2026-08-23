@@ -1,0 +1,16 @@
+name: Report a closed role
+description: A listing here is no longer accepting applications
+title: "[closed] "
+labels: ["closed-role"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Apply link from the list
+      placeholder: https://job-boards.greenhouse.io/...
+    validations: { required: true }
+  - type: textarea
+    id: detail
+    attributes:
+      label: Anything else? (optional)
+      description: e.g. "page 404s", "says applications closed"
