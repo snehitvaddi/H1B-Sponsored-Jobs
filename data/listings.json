@@ -3,9 +3,49 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-24T11:44:39.906Z",
-  "count": 48,
+  "generated_at": "2026-08-24T23:34:44.610Z",
+  "count": 74,
   "jobs": [
+    {
+      "company": "ServiceNow",
+      "title": "Senior Manager - Software Engineering Management - Platform Persistence",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145360640",
+      "date_posted": 1787603329,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Staff Software Engineer, Snowpark Container Service",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/b470bf43-46b4-4a31-a164-7181e7372d29/application",
+      "date_posted": 1787602834,
+      "flags": []
+    },
+    {
+      "company": "Roku",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Jose, California",
+      "url": "https://job-boards.greenhouse.io/roku/jobs/8143094",
+      "date_posted": 1787594444,
+      "flags": []
+    },
+    {
+      "company": "Anaplan",
+      "title": "Sr. GTM Analytics Manager",
+      "location": "Minneapolis",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8742271002",
+      "date_posted": 1787584730,
+      "flags": []
+    },
+    {
+      "company": "Cognex",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Natick, Massachusetts",
+      "url": "https://cognex.wd1.myworkdayjobs.com/de-DE/External_Career_Site/job/Natick-Massachusetts/Senior-Machine-Learning-Engineer_R0011776",
+      "date_posted": 1787572901,
+      "flags": []
+    },
     {
       "company": "Lyft",
       "title": "Software Engineer, Observability",
@@ -55,6 +95,14 @@
       "flags": []
     },
     {
+      "company": "Mongodb",
+      "title": "Software Engineer 3, Atlas Clusters Platform",
+      "location": "New York City",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8089859",
+      "date_posted": 1787333959,
+      "flags": []
+    },
+    {
       "company": "Cloudflare",
       "title": "Senior Software Engineer - Quicksilver - Distributed Key Value",
       "location": "Hybrid",
@@ -87,6 +135,14 @@
       "flags": []
     },
     {
+      "company": "Computech Corporation",
+      "title": "Cloud Network Engineer",
+      "location": "San Diego, CA",
+      "url": "https://jobs.smartrecruiters.com/ComputechCorporation1/86322816-cloud-network-engineer-us-citizen-green-card-",
+      "date_posted": 1787313697,
+      "flags": []
+    },
+    {
       "company": "Databricks",
       "title": "Software Engineering Intern (2027 Start) - Winter",
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
@@ -103,11 +159,35 @@
       "flags": []
     },
     {
+      "company": "Plaid",
+      "title": "Staff Software Engineer - Protect",
+      "location": "San Francisco HQ",
+      "url": "https://jobs.ashbyhq.com/plaid/a40369be-a709-485d-b666-4d68e4370917/application",
+      "date_posted": 1787253756,
+      "flags": []
+    },
+    {
       "company": "Intel",
       "title": "AI Infrastructure Engineer",
       "location": "USA - CA - Santa Clara",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/AI-Infrastructure-Engineer_JR0286233",
       "date_posted": 1787184000,
+      "flags": []
+    },
+    {
+      "company": "Valeo",
+      "title": "Software Engineer",
+      "location": "TROY - TRO1",
+      "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer_REQ2026080107",
+      "date_posted": 1787184000,
+      "flags": []
+    },
+    {
+      "company": "Autodesk",
+      "title": "Software Engineer",
+      "location": "AMER - United States - California - San Francisco - One Market",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Software-Engineer_26WD100686",
+      "date_posted": 1787097600,
       "flags": []
     },
     {
@@ -124,6 +204,22 @@
       "location": "San Jose",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Machine-Learning-Engineer_R171337",
       "date_posted": 1787011200,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Staff Software Engineer, Voice AI Platform",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8131117",
+      "date_posted": 1786938894,
+      "flags": []
+    },
+    {
+      "company": "Guidehouse",
+      "title": "Business Analyst",
+      "location": "GH Office: Tysons Corner, VA (Headquarters)",
+      "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Business-Analyst_43056",
+      "date_posted": 1786924800,
       "flags": []
     },
     {
@@ -239,6 +335,22 @@
       "flags": []
     },
     {
+      "company": "Salesforce",
+      "title": "Backend Software Development Engineer - Mid/Senior/Lead/Principal",
+      "location": "California - San Francisco",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Backend-Software-Development-Engineer---Senior-Lead-Principal_JR249832",
+      "date_posted": 1786233600,
+      "flags": []
+    },
+    {
+      "company": "Crowdstrike",
+      "title": "Principal Data Engineer, LLM/AI Platforms (Remote)",
+      "location": "USA TX Remote",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Principal-Data-Engineer--LLM-AI-Platforms--Remote-_R28829",
+      "date_posted": 1785974400,
+      "flags": []
+    },
+    {
       "company": "Roblox",
       "title": "[Summer 2027] Software Engineer Intern",
       "location": "San Mateo, CA",
@@ -263,6 +375,30 @@
       "flags": []
     },
     {
+      "company": "Adobe",
+      "title": "Full-Stack Engineer",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Full-Stack-Engineer_R170948",
+      "date_posted": 1785369600,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Systems Engineer 2, Technical Solutions (US-East)",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8092973/?gh_jid=8092973",
+      "date_posted": 1785355197,
+      "flags": []
+    },
+    {
+      "company": "Coursera",
+      "title": "Senior Manager, Deal Desk",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6127484004",
+      "date_posted": 1785346514,
+      "flags": []
+    },
+    {
       "company": "Asana",
       "title": "Senior Software Engineer, Security Development",
       "location": "San Francisco",
@@ -276,6 +412,14 @@
       "location": "USA-IL Lisle Warrenville Road",
       "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Java-Engineer---REST-APIs---Database-Systems_R025498",
       "date_posted": 1784851200,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Site Reliability Engineer, EPG (FedRAMP)",
+      "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/8064877?gh_jid=8064877",
+      "date_posted": 1784659298,
       "flags": []
     },
     {
@@ -303,6 +447,22 @@
       "flags": [
         "clearance"
       ]
+    },
+    {
+      "company": "Netskope",
+      "title": "Staff Software Development Engineer in Test, PKI",
+      "location": "Santa Clara, California",
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8072229",
+      "date_posted": 1784308736,
+      "flags": []
+    },
+    {
+      "company": "Turo",
+      "title": "Senior Data Engineer, Marketing",
+      "location": "San Francisco",
+      "url": "https://turo.wd12.myworkdayjobs.com/en-US/Turo_careers/job/Senior-Data-Engineer--Data-Platform-_R-102481",
+      "date_posted": 1784246400,
+      "flags": []
     },
     {
       "company": "Quantiphi",
@@ -347,11 +507,35 @@
       "flags": []
     },
     {
+      "company": "Reddit",
+      "title": "Staff Software Engineer, Onboarding",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7961154",
+      "date_posted": 1780522213,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Staff Software Engineer - Detection and Response Platform",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5143766007",
+      "date_posted": 1779337133,
+      "flags": []
+    },
+    {
       "company": "Saviynt",
       "title": "AI Platform Engineer, Training and Inference",
       "location": "Milpitas, California",
       "url": "https://jobs.lever.co/saviynt/9a8661ce-8856-4977-87f4-b06567125e28",
       "date_posted": 1779124421,
+      "flags": []
+    },
+    {
+      "company": "Tiger Analytics Inc.",
+      "title": "Sr. Site Reliability Engineer",
+      "location": "Washington, District of Columbia",
+      "url": "https://apply.workable.com/j/AF0D1A3499/apply",
+      "date_posted": 1778198400,
       "flags": []
     },
     {
@@ -371,6 +555,22 @@
       "flags": []
     },
     {
+      "company": "Samsara",
+      "title": "Lead Machine Learning Engineer - ML Infrastructure",
+      "location": "Remote",
+      "url": "https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193",
+      "date_posted": 1774371140,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Technical Program Manager, Systems Engineering",
+      "location": "San Francisco, CA,US; Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7733791",
+      "date_posted": 1774029558,
+      "flags": []
+    },
+    {
       "company": "Coinbase",
       "title": "Staff Software Engineer, Solana Staking Protocol",
       "location": "Remote",
@@ -384,6 +584,14 @@
       "location": "Mountain View, California",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7438328",
       "date_posted": 1765314719,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Staff Software Engineer, Routing",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=7196037",
+      "date_posted": 1756274540,
       "flags": []
     },
     {
