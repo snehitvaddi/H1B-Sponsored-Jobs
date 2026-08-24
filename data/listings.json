@@ -3,9 +3,17 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-23T23:35:20.078Z",
-  "count": 42,
+  "generated_at": "2026-08-24T11:44:39.906Z",
+  "count": 48,
   "jobs": [
+    {
+      "company": "Lyft",
+      "title": "Software Engineer, Observability",
+      "location": "United States",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8716220002",
+      "date_posted": 1787501110,
+      "flags": []
+    },
     {
       "company": "Stripe",
       "title": "Staff Software Engineer, Startup Products",
@@ -135,6 +143,14 @@
       "flags": []
     },
     {
+      "company": "Crowdstrike",
+      "title": "Sr. Machine Learning Engineer (Remote)",
+      "location": "USA CA Remote",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---remote/sr-machine-learning-engineer--remote-_r29841",
+      "date_posted": 1786665600,
+      "flags": []
+    },
+    {
       "company": "Cotiviti",
       "title": "Integration Business Analyst",
       "location": "United States",
@@ -172,6 +188,14 @@
       "location": "Remote - CA",
       "url": "https://job-boards.greenhouse.io/samsara/jobs/8083352",
       "date_posted": 1786488220,
+      "flags": []
+    },
+    {
+      "company": "Anaplan",
+      "title": "Enterprise Account Executive - Retail",
+      "location": "Georgia",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8696994002",
+      "date_posted": 1786476325,
       "flags": []
     },
     {
@@ -236,6 +260,14 @@
       "location": "New Jersey, New Jersey",
       "url": "https://jobs.jobvite.com/ness/job/o3rzAfwn",
       "date_posted": 1785369600,
+      "flags": []
+    },
+    {
+      "company": "Asana",
+      "title": "Senior Software Engineer, Security Development",
+      "location": "San Francisco",
+      "url": "https://www.asana.com/jobs/apply/8088588?gh_jid=8088588",
+      "date_posted": 1785163027,
       "flags": []
     },
     {
@@ -315,6 +347,14 @@
       "flags": []
     },
     {
+      "company": "Saviynt",
+      "title": "AI Platform Engineer, Training and Inference",
+      "location": "Milpitas, California",
+      "url": "https://jobs.lever.co/saviynt/9a8661ce-8856-4977-87f4-b06567125e28",
+      "date_posted": 1779124421,
+      "flags": []
+    },
+    {
       "company": "Pinterest",
       "title": "Staff Technical Program Manager, Monetization Data Science",
       "location": "San Francisco, CA, US; Remote",
@@ -328,6 +368,14 @@
       "location": "Remote",
       "url": "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521",
       "date_posted": 1774917452,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, Solana Staking Protocol",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/7684298?gh_jid=7684298",
+      "date_posted": 1772742297,
       "flags": []
     },
     {
