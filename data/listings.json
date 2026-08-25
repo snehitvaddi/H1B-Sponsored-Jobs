@@ -3,9 +3,49 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-24T23:34:44.610Z",
-  "count": 74,
+  "generated_at": "2026-08-25T11:45:26.717Z",
+  "count": 100,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Principal Customer Engineer (based in Canberra)",
+      "location": "Distributed",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7956845?gh_jid=7956845",
+      "date_posted": 1787623308,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Staff Machine Learning Engineer, Financial Connections",
+      "location": "New York",
+      "url": "https://stripe.com/jobs/search?gh_jid=8148653",
+      "date_posted": 1787619971,
+      "flags": []
+    },
+    {
+      "company": "American-technology-services",
+      "title": "Senior Threat Detection Analyst",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/american-technology-services/jobs/987e7ece-ceb9-4125-a61b-8782377eef3f",
+      "date_posted": 1787616155,
+      "flags": []
+    },
+    {
+      "company": "Leidos",
+      "title": "Cybersecurity Analyst",
+      "location": "United States",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Cybersecurity-Analyst_R-00183238-1",
+      "date_posted": 1787616135,
+      "flags": []
+    },
+    {
+      "company": "Samsara",
+      "title": "Staff Software Engineer, Maps Services",
+      "location": "Remote",
+      "url": "https://www.samsara.com/company/careers/roles/8153269?gh_jid=8153269",
+      "date_posted": 1787611023,
+      "flags": []
+    },
     {
       "company": "ServiceNow",
       "title": "Senior Manager - Software Engineering Management - Platform Persistence",
@@ -28,6 +68,14 @@
       "location": "San Jose, California",
       "url": "https://job-boards.greenhouse.io/roku/jobs/8143094",
       "date_posted": 1787594444,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Vice President, Solutions Architect",
+      "location": "Austin; New York City; San Francisco",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8138914",
+      "date_posted": 1787591441,
       "flags": []
     },
     {
@@ -60,6 +108,14 @@
       "location": "United States",
       "url": "https://stripe.com/jobs/search?gh_jid=8146271",
       "date_posted": 1787355353,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Director, Product Management - Snowflake Transactions",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/82f841ea-c0f8-4f5a-b170-212cc9da8c72/application",
+      "date_posted": 1787351364,
       "flags": []
     },
     {
@@ -247,6 +303,22 @@
       "flags": []
     },
     {
+      "company": "Zscaler",
+      "title": "IT Help Desk Engineer",
+      "location": "Mohali, IND",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5211037007",
+      "date_posted": 1786634921,
+      "flags": []
+    },
+    {
+      "company": "Amplitude",
+      "title": "Senior Sales Engineer - Enterprise (Fluent Spanish Speaking)",
+      "location": "Albuquerque, NM; Austin, TX; Dallas, TX; Houston, TX; Los Angeles, CA; Phoenix, AZ; San Diego, CA; Santa Fe, NM; Scottsdale, AZ; Tucson, AZ",
+      "url": "https://job-boards.greenhouse.io/amplitude/jobs/8705194002",
+      "date_posted": 1786627432,
+      "flags": []
+    },
+    {
       "company": "Cotiviti",
       "title": "Integration Business Analyst",
       "location": "United States",
@@ -287,6 +359,14 @@
       "flags": []
     },
     {
+      "company": "Propel",
+      "title": "Senior Full Stack Engineer",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/propel/d0e96770-a073-4d53-88b6-586d74db35e8/application",
+      "date_posted": 1786476601,
+      "flags": []
+    },
+    {
       "company": "Anaplan",
       "title": "Enterprise Account Executive - Retail",
       "location": "Georgia",
@@ -308,6 +388,22 @@
       "location": "Seattle WA",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Product-Manager-II---Customer-Data-Platform---Marketing-Technology--Hybrid---Seattle-_R-863566",
       "date_posted": 1786410166,
+      "flags": []
+    },
+    {
+      "company": "Socure",
+      "title": "Senior Data Scientist - Document Verification",
+      "location": "Hybrid - San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/socure/00bb129a-db80-4186-90fe-2279be6aa922/application",
+      "date_posted": 1786406206,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Staff Software Engineer, Lyft Business",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8688631002?gh_jid=8688631002",
+      "date_posted": 1786393203,
       "flags": []
     },
     {
@@ -473,6 +569,14 @@
       "flags": []
     },
     {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Retail, Travel & Hospitality",
+      "location": "Charlotte, North Carolina; Raleigh, North Carolina; Remote - North Carolina",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8607059002",
+      "date_posted": 1783965783,
+      "flags": []
+    },
+    {
       "company": "Workday",
       "title": "Sr Analytics Engineer",
       "location": "USA, GA, Atlanta",
@@ -489,6 +593,14 @@
       "flags": []
     },
     {
+      "company": "Waymo",
+      "title": "Technical Recruiter, AI/ML",
+      "location": "Mountain View, California",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8010005",
+      "date_posted": 1782159445,
+      "flags": []
+    },
+    {
       "company": "Leidos",
       "title": "Senior Salesforce Developer Architect",
       "location": "8744 Gaithersburg MD Home Office",
@@ -499,6 +611,14 @@
       ]
     },
     {
+      "company": "Okta",
+      "title": "Technical Architect",
+      "location": "Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/8011143?gh_jid=8011143",
+      "date_posted": 1781719374,
+      "flags": []
+    },
+    {
       "company": "Data",
       "title": "Cloud Engineer - Data",
       "location": "National Harbor, Maryland",
@@ -507,11 +627,59 @@
       "flags": []
     },
     {
+      "company": "Plaid",
+      "title": "Enterprise Sales Engineer - Sales Engineering",
+      "location": "San Francisco HQ",
+      "url": "https://jobs.ashbyhq.com/plaid/18208822-26ee-4485-a3e7-c9cfb4ad1c66/application",
+      "date_posted": 1781218111,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Senior Systems Test Engineer, Autonomy Behavior",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=7736044",
+      "date_posted": 1780950995,
+      "flags": []
+    },
+    {
+      "company": "Anaplan",
+      "title": "Principal Data Scientist - AI",
+      "location": "Pennsylvania-Remote",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8580719002",
+      "date_posted": 1780756494,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Staff Solutions Architect, Opportunity LifeCycle Management",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7979240",
+      "date_posted": 1780667132,
+      "flags": []
+    },
+    {
       "company": "Reddit",
       "title": "Staff Software Engineer, Onboarding",
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7961154",
       "date_posted": 1780522213,
+      "flags": []
+    },
+    {
+      "company": "TransPerfect",
+      "title": "QA Automation Engineer (Mid–Senior Level)",
+      "location": "Casablanca, Casablanca-Settat, Morocco",
+      "url": "https://transperfect.com/o/qa-automation-engineer-midsenior-level/c/new",
+      "date_posted": 1780414853,
+      "flags": []
+    },
+    {
+      "company": "Netskope",
+      "title": "Sr. Solutions Engineer",
+      "location": "California",
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7942319",
+      "date_posted": 1780094512,
       "flags": []
     },
     {
@@ -531,6 +699,14 @@
       "flags": []
     },
     {
+      "company": "Blend360",
+      "title": "SVP, Agentic Transformation",
+      "location": "Columbia, MD",
+      "url": "https://jobs.smartrecruiters.com/Blend360/744000126143119",
+      "date_posted": 1778606969,
+      "flags": []
+    },
+    {
       "company": "Tiger Analytics Inc.",
       "title": "Sr. Site Reliability Engineer",
       "location": "Washington, District of Columbia",
@@ -539,11 +715,27 @@
       "flags": []
     },
     {
+      "company": "Verkada",
+      "title": "Technical Content Architect",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5128183007",
+      "date_posted": 1777923901,
+      "flags": []
+    },
+    {
       "company": "Pinterest",
       "title": "Staff Technical Program Manager, Monetization Data Science",
       "location": "San Francisco, CA, US; Remote",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494686",
       "date_posted": 1776208028,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Services Architect 3 - Denver",
+      "location": "Denver, Colorado",
+      "url": "https://careers.datadoghq.com/detail/7807783/?gh_jid=7807783",
+      "date_posted": 1776091748,
       "flags": []
     },
     {
@@ -579,6 +771,14 @@
       "flags": []
     },
     {
+      "company": "Vercel",
+      "title": "Solutions Architect",
+      "location": "Hybrid - San Francisco, New York City, Austin",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5806749004",
+      "date_posted": 1771432316,
+      "flags": []
+    },
+    {
       "company": "Waymo",
       "title": "Data Engineer",
       "location": "Mountain View, California",
@@ -592,6 +792,14 @@
       "location": "Mountain View, California (HQ)",
       "url": "https://nuro.ai/careersitem?gh_jid=7196037",
       "date_posted": 1756274540,
+      "flags": []
+    },
+    {
+      "company": "Webflow",
+      "title": "Senior Solutions Engineer, EMEA",
+      "location": "London, U.K. (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/webflow/jobs/7118711",
+      "date_posted": 1753910844,
       "flags": []
     },
     {
