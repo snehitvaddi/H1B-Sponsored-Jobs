@@ -3,9 +3,65 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-25T11:45:26.717Z",
-  "count": 100,
+  "generated_at": "2026-08-25T23:37:17.935Z",
+  "count": 122,
   "jobs": [
+    {
+      "company": "Fivetran",
+      "title": "Senior Staff Software Engineer",
+      "location": "Oakland, California",
+      "url": "https://www.fivetran.com/careers/job?gh_jid=7976827003",
+      "date_posted": 1787690661,
+      "flags": []
+    },
+    {
+      "company": "Zip",
+      "title": "Software Engineer, New Grad (2027 Start)",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea/application",
+      "date_posted": 1787690231,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Solutions Engineer, Observe",
+      "location": "US-IL-Remote",
+      "url": "https://jobs.ashbyhq.com/snowflake/afaaccae-b713-4432-9c04-cc8b1be52d59/application",
+      "date_posted": 1787684905,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Software Engineer, Core Infrastructure - Moveworks",
+      "location": "Mountain View, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145579989",
+      "date_posted": 1787681193,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Systems Engineer, R2 Gateway",
+      "location": "In-Office",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8155463?gh_jid=8155463",
+      "date_posted": 1787679175,
+      "flags": []
+    },
+    {
+      "company": "Leidos",
+      "title": "Cybersecurity Engineer",
+      "location": "United States",
+      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Cybersecurity-Engineer_R-00187720",
+      "date_posted": 1787659322,
+      "flags": []
+    },
+    {
+      "company": "Vercel",
+      "title": "Senior Data Engineer - GTM",
+      "location": "Hybrid - San Francisco, New York City",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5914473004",
+      "date_posted": 1787654286,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Principal Customer Engineer (based in Canberra)",
@@ -95,11 +151,27 @@
       "flags": []
     },
     {
+      "company": "Amgen",
+      "title": "Machine Learning Engineer, AI Studio",
+      "location": "US - Florida - Jacksonville - Field/Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/Machine-Learning-Engineer--AI-Studio_R-250796",
+      "date_posted": 1787529600,
+      "flags": []
+    },
+    {
       "company": "Lyft",
       "title": "Software Engineer, Observability",
       "location": "United States",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8716220002",
       "date_posted": 1787501110,
+      "flags": []
+    },
+    {
+      "company": "Nvidia",
+      "title": "Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Software-Engineer--Kubernetes-and-Virtualization---DGX-Cloud_JR2007944",
+      "date_posted": 1787443200,
       "flags": []
     },
     {
@@ -220,6 +292,14 @@
       "location": "San Francisco HQ",
       "url": "https://jobs.ashbyhq.com/plaid/a40369be-a709-485d-b666-4d68e4370917/application",
       "date_posted": 1787253756,
+      "flags": []
+    },
+    {
+      "company": "Netskope",
+      "title": "Solutions Engineer - DEM",
+      "location": "United States",
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8119463",
+      "date_posted": 1787241564,
       "flags": []
     },
     {
@@ -351,6 +431,14 @@
       "flags": []
     },
     {
+      "company": "Roblox",
+      "title": "TLM (Tech Lead Manager) - Recommendation Systems (Homepage)",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8123084?gh_jid=8123084",
+      "date_posted": 1786491877,
+      "flags": []
+    },
+    {
       "company": "CA",
       "title": "Sr. AI Engineer",
       "location": "Remote - CA",
@@ -455,6 +543,14 @@
       "flags": []
     },
     {
+      "company": "Toast",
+      "title": "Senior Solutions Consultant",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8097746",
+      "date_posted": 1785941674,
+      "flags": []
+    },
+    {
       "company": "Zillow",
       "title": "Machine Learning Engineer, Agentic AI",
       "location": "Remote",
@@ -495,11 +591,35 @@
       "flags": []
     },
     {
+      "company": "Socure",
+      "title": "Senior Pre-Sales Solution Consulting, Gaming",
+      "location": "New York - Remote",
+      "url": "https://jobs.ashbyhq.com/socure/4aba09cb-32f2-4a45-8815-88515f9711af/application",
+      "date_posted": 1785261885,
+      "flags": []
+    },
+    {
+      "company": "Whoop",
+      "title": "Security Architect",
+      "location": "Boston, MA",
+      "url": "https://jobs.ashbyhq.com/whoop/727a9e67-4ebe-4a97-9291-e7b3e29d9bf6/application",
+      "date_posted": 1785167215,
+      "flags": []
+    },
+    {
       "company": "Asana",
       "title": "Senior Software Engineer, Security Development",
       "location": "San Francisco",
       "url": "https://www.asana.com/jobs/apply/8088588?gh_jid=8088588",
       "date_posted": 1785163027,
+      "flags": []
+    },
+    {
+      "company": "Samsara",
+      "title": "Sr. Software Engineer II, AI Platform",
+      "location": "Remote - SF Bay Area",
+      "url": "https://www.samsara.com/company/careers/roles/8050373?gh_jid=8050373",
+      "date_posted": 1784932126,
       "flags": []
     },
     {
@@ -723,6 +843,14 @@
       "flags": []
     },
     {
+      "company": "Smartsheet",
+      "title": "Sr. Forward Deployed AI Engineer (Remote Eligible in the UK)",
+      "location": "-REMOTE, UK",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/7873872",
+      "date_posted": 1777638690,
+      "flags": []
+    },
+    {
       "company": "Pinterest",
       "title": "Staff Technical Program Manager, Monetization Data Science",
       "location": "San Francisco, CA, US; Remote",
@@ -755,11 +883,27 @@
       "flags": []
     },
     {
+      "company": "Tenstorrent",
+      "title": "Technical Program Manager, Architecture",
+      "location": "Santa Clara, California",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5086977007",
+      "date_posted": 1774288610,
+      "flags": []
+    },
+    {
       "company": "Waymo",
       "title": "Technical Program Manager, Systems Engineering",
       "location": "San Francisco, CA,US; Mountain View, CA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7733791",
       "date_posted": 1774029558,
+      "flags": []
+    },
+    {
+      "company": "Adobe",
+      "title": "Sr Machine Learning Engineer",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Sr-Machine-Learning-Engineer-4_R165400-1",
+      "date_posted": 1773619200,
       "flags": []
     },
     {
@@ -771,11 +915,37 @@
       "flags": []
     },
     {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect - Consumer Product Goods",
+      "location": "Dallas, Texas; Missouri; Remote - Missouri; Remote - Texas; St. Louis, Missouri; Texas;",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407186002",
+      "date_posted": 1771432357,
+      "flags": []
+    },
+    {
       "company": "Vercel",
       "title": "Solutions Architect",
       "location": "Hybrid - San Francisco, New York City, Austin",
       "url": "https://job-boards.greenhouse.io/vercel/jobs/5806749004",
       "date_posted": 1771432316,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Site Reliability Engineer, Networking w/ active TS/SCI",
+      "location": "Maryland; Virginia; Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/7575679?gh_jid=7575679",
+      "date_posted": 1770145016,
+      "flags": [
+        "clearance"
+      ]
+    },
+    {
+      "company": "Zoox",
+      "title": "System Test Engineer",
+      "location": "San Diego, CA",
+      "url": "https://jobs.lever.co/zoox/ec1de483-ebd5-4b87-96b7-d749f077aefb",
+      "date_posted": 1767648465,
       "flags": []
     },
     {
@@ -808,6 +978,14 @@
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543",
       "date_posted": 1721776209,
+      "flags": []
+    },
+    {
+      "company": "Tiger Analytics Inc.",
+      "title": "UiPath Automation Architect",
+      "location": "Richardson, Texas",
+      "url": "https://apply.workable.com/j/3D04547D59/apply",
+      "date_posted": 1710115200,
       "flags": []
     }
   ]
