@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-25T23:37:17.935Z",
-  "count": 122,
+  "generated_at": "2026-08-26T11:46:28.447Z",
+  "count": 131,
   "jobs": [
+    {
+      "company": "Wpromote",
+      "title": "Senior Data Engineer (Data Architecture)",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/wpromote/ae4a14bc-8b57-4e70-abfa-f79aee5b5e1a",
+      "date_posted": 1787706334,
+      "flags": []
+    },
+    {
+      "company": "Zoox",
+      "title": "Software Engineer - C++ Core Data",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/c2abc555-0105-4eda-b9c9-5c9ee28703e7",
+      "date_posted": 1787700102,
+      "flags": []
+    },
     {
       "company": "Fivetran",
       "title": "Senior Staff Software Engineer",
@@ -28,6 +44,22 @@
       "location": "US-IL-Remote",
       "url": "https://jobs.ashbyhq.com/snowflake/afaaccae-b713-4432-9c04-cc8b1be52d59/application",
       "date_posted": 1787684905,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Security Software Engineering Intern 2027",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+      "date_posted": 1787681528,
+      "flags": []
+    },
+    {
+      "company": "Zocdoc",
+      "title": "Platform Engineering Manager",
+      "location": "USA Remote",
+      "url": "https://job-boards.greenhouse.io/zocdoc/jobs/8155444",
+      "date_posted": 1787681299,
       "flags": []
     },
     {
@@ -615,6 +647,14 @@
       "flags": []
     },
     {
+      "company": "Waymo",
+      "title": "Sr. Staff Software Engineer, Fleet Orchestration, TLM",
+      "location": "Mountain View, CA, United States; San Francisco, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7901943",
+      "date_posted": 1784948465,
+      "flags": []
+    },
+    {
       "company": "Samsara",
       "title": "Sr. Software Engineer II, AI Platform",
       "location": "Remote - SF Bay Area",
@@ -721,6 +761,14 @@
       "flags": []
     },
     {
+      "company": "Braze",
+      "title": "Team Lead Solutions Consultant, Financial Services",
+      "location": "New York City",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8017295",
+      "date_posted": 1781820549,
+      "flags": []
+    },
+    {
       "company": "Leidos",
       "title": "Senior Salesforce Developer Architect",
       "location": "8744 Gaithersburg MD Home Office",
@@ -752,6 +800,14 @@
       "location": "San Francisco HQ",
       "url": "https://jobs.ashbyhq.com/plaid/18208822-26ee-4485-a3e7-c9cfb4ad1c66/application",
       "date_posted": 1781218111,
+      "flags": []
+    },
+    {
+      "company": "Duolingo",
+      "title": "Senior Software Engineer, Backend",
+      "location": "Pittsburgh, PA",
+      "url": "https://careers.duolingo.com/jobs/8584012002?gh_jid=8584012002",
+      "date_posted": 1781018833,
       "flags": []
     },
     {
@@ -800,6 +856,14 @@
       "location": "California",
       "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7942319",
       "date_posted": 1780094512,
+      "flags": []
+    },
+    {
+      "company": "Benchling",
+      "title": "Agentic AI Engineer",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/benchling/d5896e95-fed2-4cd4-b104-1ea4df92f7d7/application",
+      "date_posted": 1779486931,
       "flags": []
     },
     {
@@ -856,6 +920,14 @@
       "location": "San Francisco, CA, US; Remote",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494686",
       "date_posted": 1776208028,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Senior Cloud Security Engineer - K8s",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/7815616/?gh_jid=7815616",
+      "date_posted": 1776188048,
       "flags": []
     },
     {
