@@ -3,9 +3,81 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-26T11:46:28.447Z",
-  "count": 131,
+  "generated_at": "2026-08-27T04:31:02.484Z",
+  "count": 155,
   "jobs": [
+    {
+      "company": "Anyscale",
+      "title": "Software Engineer, ML Developer Experience",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/anyscale/81c3c26a-71e3-4c4c-a88e-88c538a169be/application",
+      "date_posted": 1787782601,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Principal Product Analyst - Workday Delivery Lead",
+      "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/8159623?gh_jid=8159623",
+      "date_posted": 1787781053,
+      "flags": []
+    },
+    {
+      "company": "Zoox",
+      "title": "Software Engineer, Wireless Technologies",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/7522162e-a518-444e-8fe7-49b8b45bbdd3",
+      "date_posted": 1787774646,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Director, AI Data & Analytics GTM",
+      "location": "Austin, TEXAS",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145819089",
+      "date_posted": 1787771945,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Manager/ Senior Manager, Finance Analytics & AI",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/ac7e29e2-35d0-4670-aff8-5dd2e98833a9/application",
+      "date_posted": 1787766669,
+      "flags": []
+    },
+    {
+      "company": "Wise",
+      "title": "Senior Software Engineer",
+      "location": "Austin",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000145786000",
+      "date_posted": 1787760969,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Solutions Architect (Pre-Sales)",
+      "location": "Austin; Dallas; Houston",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8152813",
+      "date_posted": 1787755427,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Forward Deployed Engineer, Professional Services",
+      "location": "Distributed",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8043339?gh_jid=8043339",
+      "date_posted": 1787753924,
+      "flags": []
+    },
+    {
+      "company": "Samsara",
+      "title": "Sales Operations Admin I",
+      "location": "Remote",
+      "url": "https://www.samsara.com/company/careers/roles/8153145?gh_jid=8153145",
+      "date_posted": 1787743382,
+      "flags": []
+    },
     {
       "company": "Wpromote",
       "title": "Senior Data Engineer (Data Architecture)",
@@ -15,11 +87,27 @@
       "flags": []
     },
     {
+      "company": "Tiger Analytics Inc.",
+      "title": "MLOps Lead Engineer",
+      "location": "St. Louis, Missouri",
+      "url": "https://apply.workable.com/j/EA56EAD756/apply",
+      "date_posted": 1787702400,
+      "flags": []
+    },
+    {
       "company": "Zoox",
       "title": "Software Engineer - C++ Core Data",
       "location": "Foster City, CA",
       "url": "https://jobs.lever.co/zoox/c2abc555-0105-4eda-b9c9-5c9ee28703e7",
       "date_posted": 1787700102,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Software Engineer, Creator Studio",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8131689?gh_jid=8131689",
+      "date_posted": 1787697989,
       "flags": []
     },
     {
@@ -148,6 +236,14 @@
       "location": "US-CA-Menlo Park",
       "url": "https://jobs.ashbyhq.com/snowflake/b470bf43-46b4-4a31-a164-7181e7372d29/application",
       "date_posted": 1787602834,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, Backend - Platform (Core AI Automation)",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8154983?gh_jid=8154983",
+      "date_posted": 1787601532,
       "flags": []
     },
     {
@@ -359,6 +455,14 @@
       "flags": []
     },
     {
+      "company": "Databricks",
+      "title": "Sr. Solutions Engineer - Games",
+      "location": "Northeast",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8727543002",
+      "date_posted": 1787081117,
+      "flags": []
+    },
+    {
       "company": "Nvidia",
       "title": "Senior Applied AI Engineer, Cybersecurity",
       "location": "US, CA, Remote",
@@ -412,6 +516,14 @@
       "location": "USA CA Remote",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---remote/sr-machine-learning-engineer--remote-_r29841",
       "date_posted": 1786665600,
+      "flags": []
+    },
+    {
+      "company": "Spotify",
+      "title": "Staff Machine Learning Engineer - Music Mission",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/cb45b193-9f92-4e9b-b936-8a738eed5fdc",
+      "date_posted": 1786642405,
       "flags": []
     },
     {
@@ -591,6 +703,14 @@
       "flags": []
     },
     {
+      "company": "Gusto",
+      "title": "WFM Capacity & Analytics Planner",
+      "location": "Denver, Pheonix, Las Vegas",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8104180",
+      "date_posted": 1785792485,
+      "flags": []
+    },
+    {
       "company": "Ness",
       "title": "Techno-Functional Business Analyst in Professional Services",
       "location": "New Jersey, New Jersey",
@@ -729,11 +849,27 @@
       "flags": []
     },
     {
+      "company": "Humana",
+      "title": "Lead Data Engineer - Primary Care",
+      "location": "Remote",
+      "url": "https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Lead-Data-Engineer---Primary-Care_R-416497",
+      "date_posted": 1783987200,
+      "flags": []
+    },
+    {
       "company": "Databricks",
       "title": "Sr. Solutions Architect - Retail, Travel & Hospitality",
       "location": "Charlotte, North Carolina; Raleigh, North Carolina; Remote - North Carolina",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8607059002",
       "date_posted": 1783965783,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Software Engineer, Orders API",
+      "location": "Boston, MA",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8039434",
+      "date_posted": 1783554636,
       "flags": []
     },
     {
@@ -750,6 +886,14 @@
       "location": "San Jose, California",
       "url": "https://job-boards.greenhouse.io/roku/jobs/8042568",
       "date_posted": 1783090603,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "AI Engineer",
+      "location": "Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=8044460",
+      "date_posted": 1783080062,
       "flags": []
     },
     {
@@ -792,6 +936,14 @@
       "location": "National Harbor, Maryland",
       "url": "https://jobs.lever.co/go-cloudforce/d108470e-8138-4069-a98d-8e449e03bb96",
       "date_posted": 1781655776,
+      "flags": []
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Sr. Software Engineer, AI Enablement",
+      "location": "Boston, MA",
+      "url": "https://www.klaviyo.com/careers/jobs/7688416003?gh_jid=7688416003",
+      "date_posted": 1781538258,
       "flags": []
     },
     {
@@ -891,11 +1043,35 @@
       "flags": []
     },
     {
+      "company": "Roku",
+      "title": "Technical Architect - Business Applications",
+      "location": "New York, New York",
+      "url": "https://www.weareroku.com/jobs/7908405?gh_jid=7908405",
+      "date_posted": 1778503250,
+      "flags": []
+    },
+    {
       "company": "Tiger Analytics Inc.",
       "title": "Sr. Site Reliability Engineer",
       "location": "Washington, District of Columbia",
       "url": "https://apply.workable.com/j/AF0D1A3499/apply",
       "date_posted": 1778198400,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Staff Technical Program Manager - Compliance Architecture",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5074405007",
+      "date_posted": 1778014172,
+      "flags": []
+    },
+    {
+      "company": "Launchdarkly",
+      "title": "Technical and Agentic Enablement Lead",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7724911003",
+      "date_posted": 1778008677,
       "flags": []
     },
     {
@@ -912,6 +1088,22 @@
       "location": "-REMOTE, UK",
       "url": "https://job-boards.greenhouse.io/smartsheet/jobs/7873872",
       "date_posted": 1777638690,
+      "flags": []
+    },
+    {
+      "company": "Zuora",
+      "title": "Software Engineer (Payment)",
+      "location": "Foster City, California",
+      "url": "https://boards.greenhouse.io/zuora/jobs/7845455?gh_jid=7845455",
+      "date_posted": 1777411324,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Staff Software Engineer, Autonomous Freight Systems",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/7819181",
+      "date_posted": 1777045146,
       "flags": []
     },
     {
