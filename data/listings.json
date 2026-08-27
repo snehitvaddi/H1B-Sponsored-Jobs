@@ -3,9 +3,97 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-27T04:31:02.484Z",
-  "count": 155,
+  "generated_at": "2026-08-27T21:02:36.184Z",
+  "count": 171,
   "jobs": [
+    {
+      "company": "Elastic",
+      "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
+      "location": "United States",
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8162445&gh_jid=8162445",
+      "date_posted": 1787856873,
+      "flags": []
+    },
+    {
+      "company": "Sentilink",
+      "title": "Senior Software Engineer, Platform/Backend",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/sentilink/cbeda58b-9a35-4c75-a89a-5fa2c6dd83c1/application",
+      "date_posted": 1787853746,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Solution Architect",
+      "location": "Remote, Virginia",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146042249",
+      "date_posted": 1787852673,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8756214002",
+      "date_posted": 1787850192,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Software Engineer, Rulesets",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8159348?gh_jid=8159348",
+      "date_posted": 1787849088,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Staff Software Engineer - Snowhouse",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/68b45abb-f1d6-46b2-a30e-c551076e7e7e/application",
+      "date_posted": 1787846680,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Technical Program Manager, Security",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/7494650",
+      "date_posted": 1787832121,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Technical Program Manager 2, Technical Solutions",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA; San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/datadog/jobs/8030837",
+      "date_posted": 1787832121,
+      "flags": []
+    },
+    {
+      "company": "Workday",
+      "title": "Machine Learning Engineer(GenAI)",
+      "location": "USA, CA, Pleasanton",
+      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Principal-Machine-Learning-Engineer-GenAI-_JR-0104686",
+      "date_posted": 1787832086,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, Compute Platform (Routing)",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8160557?gh_jid=8160557",
+      "date_posted": 1787791000,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Specialist Solutions Architect, Data",
+      "location": "SF, NY, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8144262",
+      "date_posted": 1787790819,
+      "flags": []
+    },
     {
       "company": "Anyscale",
       "title": "Software Engineer, ML Developer Experience",
@@ -52,6 +140,14 @@
       "location": "Austin",
       "url": "https://jobs.smartrecruiters.com/Wise/744000145786000",
       "date_posted": 1787760969,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Sr. Software Development Engineer (Controlplane)",
+      "location": "San Jose, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216926007",
+      "date_posted": 1787756484,
       "flags": []
     },
     {
@@ -399,6 +495,14 @@
       "flags": []
     },
     {
+      "company": "Symbotic",
+      "title": "Staff AI Data Analytics Engineer",
+      "location": "USA Wilmington, MA - HQ",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/Senior-AI-Analytics-Engineer_R6834",
+      "date_posted": 1787270400,
+      "flags": []
+    },
+    {
       "company": "Databricks",
       "title": "Software Engineering Intern (2027 Start) - Winter",
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
@@ -679,6 +783,14 @@
       "flags": []
     },
     {
+      "company": "Modernatx",
+      "title": "Sr. Technical Program Manager, AI Security",
+      "location": "325 Binney St - Cambridge - USA - MA",
+      "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Sr-Technical-Program-Manager--AI-Security_R19295",
+      "date_posted": 1785974400,
+      "flags": []
+    },
+    {
       "company": "Roblox",
       "title": "[Summer 2027] Software Engineer Intern",
       "location": "San Mateo, CA",
@@ -862,6 +974,14 @@
       "location": "Charlotte, North Carolina; Raleigh, North Carolina; Remote - North Carolina",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8607059002",
       "date_posted": 1783965783,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Strategic Sales Engineer",
+      "location": "Seattle, WA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8054518?gh_jid=8054518",
+      "date_posted": 1783710274,
       "flags": []
     },
     {
@@ -1218,6 +1338,14 @@
       "location": "Mountain View, California",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7438328",
       "date_posted": 1765314719,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Site Reliability Engineer (FedRAMP)",
+      "location": "San Francisco, California",
+      "url": "https://www.okta.com/company/careers/opportunity/7289458?gh_jid=7289458",
+      "date_posted": 1759423664,
       "flags": []
     },
     {
