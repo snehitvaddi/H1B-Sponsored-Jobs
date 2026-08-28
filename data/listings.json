@@ -3,8 +3,8 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-27T21:02:36.184Z",
-  "count": 171,
+  "generated_at": "2026-08-28T06:55:41.206Z",
+  "count": 177,
   "jobs": [
     {
       "company": "Elastic",
@@ -92,6 +92,14 @@
       "location": "SF, NY, Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=8144262",
       "date_posted": 1787790819,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Core Engine",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8160843?gh_jid=8160843",
+      "date_posted": 1787789146,
       "flags": []
     },
     {
@@ -551,6 +559,14 @@
       "flags": []
     },
     {
+      "company": "Snowflake",
+      "title": "Senior Software Engineer - Observe by Snowflake, Data Management",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/db4f0492-ae21-49b7-a7eb-100be61e92bb/application",
+      "date_posted": 1787170679,
+      "flags": []
+    },
+    {
       "company": "Autodesk",
       "title": "Software Engineer",
       "location": "AMER - United States - California - San Francisco - One Market",
@@ -743,6 +759,14 @@
       "flags": []
     },
     {
+      "company": "Databricks",
+      "title": "SAP Functional SME",
+      "location": "Mountain View, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679970002",
+      "date_posted": 1786329189,
+      "flags": []
+    },
+    {
       "company": "Nxp",
       "title": "AI/ML driven ASIC Design and Implementation Automation Engineer",
       "location": "Austin (Oakhill, Office)",
@@ -879,6 +903,14 @@
       "flags": []
     },
     {
+      "company": "Lyft",
+      "title": "Staff Applied Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8649343002?gh_jid=8649343002",
+      "date_posted": 1785101773,
+      "flags": []
+    },
+    {
       "company": "Waymo",
       "title": "Sr. Staff Software Engineer, Fleet Orchestration, TLM",
       "location": "Mountain View, CA, United States; San Francisco, CA",
@@ -899,6 +931,14 @@
       "title": "Java Engineer - REST APIs & Database Systems",
       "location": "USA-IL Lisle Warrenville Road",
       "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Java-Engineer---REST-APIs---Database-Systems_R025498",
+      "date_posted": 1784851200,
+      "flags": []
+    },
+    {
+      "company": "Tiger Analytics Inc.",
+      "title": "Gen AI Engineer",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/E4D011CBB5/apply",
       "date_posted": 1784851200,
       "flags": []
     },
@@ -1362,6 +1402,14 @@
       "location": "London, U.K. (Hybrid)",
       "url": "https://job-boards.greenhouse.io/webflow/jobs/7118711",
       "date_posted": 1753910844,
+      "flags": []
+    },
+    {
+      "company": "Nxp",
+      "title": "[WiFi] Software Engineer / Senior Software Engineer / Principal Software Engineer",
+      "location": "Hsinchu, 台灣",
+      "url": "https://nxp.wd3.myworkdayjobs.com/zh-TW/careers/job/XMLNAME--WiFi--Software-Engineer---Senior-Software-Engineer---Principal-Software-Engineer_R-10029317",
+      "date_posted": 1738627200,
       "flags": []
     },
     {
