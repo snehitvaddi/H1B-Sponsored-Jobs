@@ -3,9 +3,81 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-28T06:55:41.206Z",
-  "count": 177,
+  "generated_at": "2026-08-28T21:26:27.409Z",
+  "count": 193,
   "jobs": [
+    {
+      "company": "Pinterest",
+      "title": "Machine Learning Engineer, Core Engineering",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/6121450",
+      "date_posted": 1787947302,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Software Engineer, CDP - Payment Acceptance",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730",
+      "date_posted": 1787946547,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Product Analyst (Workday Payroll, Absence & Time Tracking)",
+      "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/8159611?gh_jid=8159611",
+      "date_posted": 1787944292,
+      "flags": []
+    },
+    {
+      "company": "Plaid",
+      "title": "Data Scientist",
+      "location": "San Francisco HQ",
+      "url": "https://jobs.ashbyhq.com/plaid/172bb8e8-7dc8-4fdc-ae20-525456989ff4/application",
+      "date_posted": 1787938948,
+      "flags": []
+    },
+    {
+      "company": "Zoox",
+      "title": "Senior Software Engineer - Mapping Web",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/ef2fe77d-9b7b-4fdf-a98d-93e46f7ed272",
+      "date_posted": 1787932219,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Senior Applied Scientist",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8164181/?gh_jid=8164181",
+      "date_posted": 1787925442,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Staff Software Engineer, Backend (Identity International)",
+      "location": "Remote UK",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7979134003",
+      "date_posted": 1787916613,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Systems Reliability Engineer (SRE), Edge",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8161940?gh_jid=8161940",
+      "date_posted": 1787910412,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Staff Data Platform Engineer - Data Access Team",
+      "location": "Santa Clara, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146075479",
+      "date_posted": 1787870404,
+      "flags": []
+    },
     {
       "company": "Elastic",
       "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
@@ -100,6 +172,14 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8160843?gh_jid=8160843",
       "date_posted": 1787789146,
+      "flags": []
+    },
+    {
+      "company": "Amgen",
+      "title": "Senior Machine Learning Engineer",
+      "location": "US - California - Thousand Oaks - Field/Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/united-states---remote/senior-machine-learning-engineer_r-253246",
+      "date_posted": 1787788800,
       "flags": []
     },
     {
@@ -268,6 +348,14 @@
       "location": "In-Office",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8155463?gh_jid=8155463",
       "date_posted": 1787679175,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Principal Industry Architect, FINS",
+      "location": "US-NY-New York",
+      "url": "https://jobs.ashbyhq.com/snowflake/2d574a89-1c83-43f6-bbf4-d02787f6a97d/application",
+      "date_posted": 1787671860,
       "flags": []
     },
     {
@@ -783,6 +871,16 @@
       "flags": []
     },
     {
+      "company": "Guidehouse",
+      "title": "AI Engineer",
+      "location": "Home Office: Huntsville, AL",
+      "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/AI-Engineer_42927",
+      "date_posted": 1786320000,
+      "flags": [
+        "clearance"
+      ]
+    },
+    {
       "company": "Salesforce",
       "title": "Full-Stack Software Engineer: Mid, Senior, and Lead",
       "location": "California - San Francisco",
@@ -1195,11 +1293,27 @@
       "flags": []
     },
     {
+      "company": "Zscaler",
+      "title": "Staff Software Development Engineer (Microservices)",
+      "location": "San Jose, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5105258007",
+      "date_posted": 1778686925,
+      "flags": []
+    },
+    {
       "company": "Blend360",
       "title": "SVP, Agentic Transformation",
       "location": "Columbia, MD",
       "url": "https://jobs.smartrecruiters.com/Blend360/744000126143119",
       "date_posted": 1778606969,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Lead Engagement Manager, Forward Deployed Engineering - Digital Native Business",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423291002",
+      "date_posted": 1778537608,
       "flags": []
     },
     {
@@ -1291,11 +1405,27 @@
       "flags": []
     },
     {
+      "company": "Brex",
+      "title": "Senior Software Engineer, Frontend",
+      "location": "Seattle, Washington",
+      "url": "https://www.brex.com/careers/8501025002?gh_jid=8501025002",
+      "date_posted": 1775770438,
+      "flags": []
+    },
+    {
       "company": "Coinbase",
       "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
       "location": "Remote",
       "url": "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521",
       "date_posted": 1774917452,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Frontend/Fullstack Software Engineer, Social Graph",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/7760129?gh_jid=7760129",
+      "date_posted": 1774639621,
       "flags": []
     },
     {
