@@ -3,8 +3,8 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-29T04:09:51.795Z",
-  "count": 197,
+  "generated_at": "2026-08-29T15:38:39.883Z",
+  "count": 198,
   "jobs": [
     {
       "company": "ServiceNow",
@@ -1532,6 +1532,14 @@
       "location": "Mountain View, California",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7438328",
       "date_posted": 1765314719,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Tech Lead, Machine Learning Engineer, Perception",
+      "location": "Mountain View, California, United States; San Francisco, California",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7450706",
+      "date_posted": 1765306155,
       "flags": []
     },
     {
