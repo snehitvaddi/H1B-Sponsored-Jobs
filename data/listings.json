@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-28T21:26:27.409Z",
-  "count": 193,
+  "generated_at": "2026-08-29T04:09:51.795Z",
+  "count": 197,
   "jobs": [
+    {
+      "company": "ServiceNow",
+      "title": "Sr Staff AI Engineer - Veza",
+      "location": "Minneapolis, Minnesota",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146269339",
+      "date_posted": 1787957552,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Staff Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8761940002?gh_jid=8761940002",
+      "date_posted": 1787957433,
+      "flags": []
+    },
     {
       "company": "Pinterest",
       "title": "Machine Learning Engineer, Core Engineering",
@@ -1269,6 +1285,14 @@
       "flags": []
     },
     {
+      "company": "Zoox",
+      "title": "Software Engineer, Operational Tools",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/c8ca7105-5044-49ee-88d3-cf6b7145a2ec",
+      "date_posted": 1780081741,
+      "flags": []
+    },
+    {
       "company": "Benchling",
       "title": "Agentic AI Engineer",
       "location": "Remote",
@@ -1556,6 +1580,14 @@
       "location": "Richardson, Texas",
       "url": "https://apply.workable.com/j/3D04547D59/apply",
       "date_posted": 1710115200,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Senior Software Engineer - Frontend",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/4732393/?gh_jid=4732393",
+      "date_posted": 1670959963,
       "flags": []
     }
   ]
