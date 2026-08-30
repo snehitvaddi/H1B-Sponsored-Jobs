@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-29T15:38:39.883Z",
-  "count": 198,
+  "generated_at": "2026-08-30T01:15:25.581Z",
+  "count": 203,
   "jobs": [
+    {
+      "company": "Leidos",
+      "title": "Senior Vulnerability Analyst",
+      "location": "United States",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Senior-Vulnerability-Analyst_R-00184271",
+      "date_posted": 1788019302,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Machine Learning Engineer II, Responsible AI",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8162046",
+      "date_posted": 1788019301,
+      "flags": []
+    },
     {
       "company": "ServiceNow",
       "title": "Sr Staff AI Engineer - Veza",
@@ -44,6 +60,14 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8159611?gh_jid=8159611",
       "date_posted": 1787944292,
+      "flags": []
+    },
+    {
+      "company": "Roku",
+      "title": "Senior Software Engineer - AI Automation",
+      "location": "San Jose, California",
+      "url": "https://www.weareroku.com/jobs/8162838?gh_jid=8162838",
+      "date_posted": 1787942246,
       "flags": []
     },
     {
@@ -929,6 +953,14 @@
       "flags": []
     },
     {
+      "company": "Crowdstrike",
+      "title": "SRE/Dev Ops Engineer (Hybrid, Sunnyvale)",
+      "location": "Sunnyvale",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/SRE-Dev-Ops-Engineer--Hybrid--Sunnyvale-_R28583",
+      "date_posted": 1785974400,
+      "flags": []
+    },
+    {
       "company": "Roblox",
       "title": "[Summer 2027] Software Engineer Intern",
       "location": "San Mateo, CA",
@@ -1434,6 +1466,14 @@
       "location": "Seattle, Washington",
       "url": "https://www.brex.com/careers/8501025002?gh_jid=8501025002",
       "date_posted": 1775770438,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Revenue Operations Lead",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7686481003",
+      "date_posted": 1775151420,
       "flags": []
     },
     {
