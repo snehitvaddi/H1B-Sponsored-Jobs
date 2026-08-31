@@ -3,9 +3,41 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-31T01:22:30.747Z",
-  "count": 204,
+  "generated_at": "2026-08-31T18:01:00.051Z",
+  "count": 212,
   "jobs": [
+    {
+      "company": "Snowflake",
+      "title": "Staff Software Engineer - Snowflake Feature Store",
+      "location": "US-WA-Bellevue",
+      "url": "https://jobs.ashbyhq.com/snowflake/3744bda5-c74a-4fa0-abb2-73da7fcfef09/application",
+      "date_posted": 1788194056,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Agencies",
+      "location": "Northeast",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8758645002",
+      "date_posted": 1788188938,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Staff Reliability Engineer",
+      "location": "Santa Clara, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146495429",
+      "date_posted": 1788188863,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, Enterprise Apps",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8166218?gh_jid=8166218",
+      "date_posted": 1788146714,
+      "flags": []
+    },
     {
       "company": "Leidos",
       "title": "Senior Vulnerability Analyst",
@@ -993,6 +1025,14 @@
       "flags": []
     },
     {
+      "company": "Cloudflare",
+      "title": "Software Engineer, Registrar",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8092731?gh_jid=8092731",
+      "date_posted": 1785461912,
+      "flags": []
+    },
+    {
       "company": "Spotify",
       "title": "Staff Machine Learning Engineer, Personalization",
       "location": "New York, NY",
@@ -1317,6 +1357,14 @@
       "flags": []
     },
     {
+      "company": "Datadog",
+      "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
+      "date_posted": 1780341568,
+      "flags": []
+    },
+    {
       "company": "Netskope",
       "title": "Sr. Solutions Engineer",
       "location": "California",
@@ -1354,6 +1402,14 @@
       "location": "Milpitas, California",
       "url": "https://jobs.lever.co/saviynt/9a8661ce-8856-4977-87f4-b06567125e28",
       "date_posted": 1779124421,
+      "flags": []
+    },
+    {
+      "company": "Roku",
+      "title": "Senior Machine Learning Engineer, Search",
+      "location": "San Jose, California",
+      "url": "https://www.weareroku.com/jobs/7931292?gh_jid=7931292",
+      "date_posted": 1778885794,
       "flags": []
     },
     {
@@ -1565,6 +1621,14 @@
       "flags": [
         "clearance"
       ]
+    },
+    {
+      "company": "Rubrik",
+      "title": "Sr. Sales Engineer - Rubrik Agent Cloud",
+      "location": "Colorado, Illinois",
+      "url": "https://www.rubrik.com/company/careers/departments/job.7472096?gh_jid=7472096",
+      "date_posted": 1769534850,
+      "flags": []
     },
     {
       "company": "Zoox",
