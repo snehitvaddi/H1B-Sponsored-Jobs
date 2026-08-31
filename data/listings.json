@@ -3,8 +3,8 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-30T15:21:01.977Z",
-  "count": 203,
+  "generated_at": "2026-08-31T01:22:30.747Z",
+  "count": 204,
   "jobs": [
     {
       "company": "Leidos",
@@ -990,6 +990,14 @@
       "location": "Denver, Pheonix, Las Vegas",
       "url": "https://job-boards.greenhouse.io/gusto/jobs/8104180",
       "date_posted": 1785792485,
+      "flags": []
+    },
+    {
+      "company": "Spotify",
+      "title": "Staff Machine Learning Engineer, Personalization",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/9761af44-be41-43ca-8c01-79cdbb2aef93",
+      "date_posted": 1785444939,
       "flags": []
     },
     {
