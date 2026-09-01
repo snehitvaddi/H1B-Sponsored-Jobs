@@ -3,15 +3,55 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-08-31T18:01:00.051Z",
-  "count": 212,
+  "generated_at": "2026-09-01T01:49:20.390Z",
+  "count": 223,
   "jobs": [
+    {
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad",
+      "location": "San Francisco, Seattle, New York",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+      "date_posted": 1788214947,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Principal AI Platform Engineer",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146559474",
+      "date_posted": 1788213320,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Teleco",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8747038002",
+      "date_posted": 1788207966,
+      "flags": []
+    },
+    {
+      "company": "Zoox",
+      "title": "Senior Staff / Principal Software Engineer - Freeway Autonomy",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/bea6c1d0-09dc-47db-9fff-ed2f33151763",
+      "date_posted": 1788207190,
+      "flags": []
+    },
     {
       "company": "Snowflake",
       "title": "Staff Software Engineer - Snowflake Feature Store",
       "location": "US-WA-Bellevue",
       "url": "https://jobs.ashbyhq.com/snowflake/3744bda5-c74a-4fa0-abb2-73da7fcfef09/application",
       "date_posted": 1788194056,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Salesforce Engineer",
+      "location": "Seattle, WA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8761609002?gh_jid=8761609002",
+      "date_posted": 1788191236,
       "flags": []
     },
     {
@@ -55,6 +95,14 @@
       "flags": []
     },
     {
+      "company": "Roblox",
+      "title": "Software Engineer, Economy Platform",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
+      "date_posted": 1787957828,
+      "flags": []
+    },
+    {
       "company": "ServiceNow",
       "title": "Sr Staff AI Engineer - Veza",
       "location": "Minneapolis, Minnesota",
@@ -92,6 +140,22 @@
       "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8159611?gh_jid=8159611",
       "date_posted": 1787944292,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Revenue Operations Manager",
+      "location": "Palo Alto",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8157127",
+      "date_posted": 1787943491,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Senior Systems Engineer (Identity and Access)",
+      "location": "U.S. Remote",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8164901",
+      "date_posted": 1787943334,
       "flags": []
     },
     {
@@ -284,6 +348,14 @@
       "location": "Austin, TEXAS",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145819089",
       "date_posted": 1787771945,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Tech Lead Software Engineer, Fleet Connectivity",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8160091",
+      "date_posted": 1787766875,
       "flags": []
     },
     {
@@ -1017,6 +1089,14 @@
       "flags": []
     },
     {
+      "company": "Nvidia",
+      "title": "Senior Software Engineer, CUDA Deep Learning Systems",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-Deep-Learning-Systems_JR2022830",
+      "date_posted": 1785888000,
+      "flags": []
+    },
+    {
       "company": "Gusto",
       "title": "WFM Capacity & Analytics Planner",
       "location": "Denver, Pheonix, Las Vegas",
@@ -1378,6 +1458,14 @@
       "location": "Foster City, CA",
       "url": "https://jobs.lever.co/zoox/c8ca7105-5044-49ee-88d3-cf6b7145a2ec",
       "date_posted": 1780081741,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer (AI-Native), Database Engineering",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/073c91f2-0758-4544-9297-3f48a81fb04d/application",
+      "date_posted": 1779845890,
       "flags": []
     },
     {
