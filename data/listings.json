@@ -3,9 +3,33 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-01T01:49:20.390Z",
-  "count": 223,
+  "generated_at": "2026-09-01T15:28:17.409Z",
+  "count": 231,
   "jobs": [
+    {
+      "company": "Pinterest",
+      "title": "Staff Product Designer, Design Innovation",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/7839695",
+      "date_posted": 1788264108,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Software Engineer - Platforms & Productivity",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8168623?gh_jid=8168623",
+      "date_posted": 1788239952,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Observability",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8129395?gh_jid=8129395",
+      "date_posted": 1788217810,
+      "flags": []
+    },
     {
       "company": "Stripe",
       "title": "Software Engineer, New Grad",
@@ -20,6 +44,14 @@
       "location": "Santa Clara, California",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146559474",
       "date_posted": 1788213320,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Software Engineer, Fleet Optimization",
+      "location": "San Francisco, CA ; Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8164291",
+      "date_posted": 1788212283,
       "flags": []
     },
     {
@@ -76,6 +108,14 @@
       "location": "Remote",
       "url": "https://www.coinbase.com/careers/positions/8166218?gh_jid=8166218",
       "date_posted": 1788146714,
+      "flags": []
+    },
+    {
+      "company": "Nvidia",
+      "title": "Senior Software Engineer, Security",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Security-Architect_JR2018245",
+      "date_posted": 1788048000,
       "flags": []
     },
     {
@@ -1097,6 +1137,14 @@
       "flags": []
     },
     {
+      "company": "Intel",
+      "title": "Quality Reliability Engineer",
+      "location": "USA - AZ - Chandler",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Quality-Reliability-Engineer_JR0286138-1",
+      "date_posted": 1785801600,
+      "flags": []
+    },
+    {
       "company": "Gusto",
       "title": "WFM Capacity & Analytics Planner",
       "location": "Denver, Pheonix, Las Vegas",
@@ -1233,6 +1281,14 @@
       "flags": []
     },
     {
+      "company": "Ncr",
+      "title": "Senior Site Reliability Engineer – Unified Observability",
+      "location": "Atlanta HQ North Tower Office",
+      "url": "https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/ATLANTA-GA-USA/Senior-Site-Reliability-Engineer---Unified-Observability_R0157786",
+      "date_posted": 1784505600,
+      "flags": []
+    },
+    {
       "company": "Zoox",
       "title": "Machine Learning Automation Engineer",
       "location": "Foster City, CA",
@@ -1344,6 +1400,14 @@
       "location": "New York City",
       "url": "https://job-boards.greenhouse.io/braze/jobs/8017295",
       "date_posted": 1781820549,
+      "flags": []
+    },
+    {
+      "company": "Roku",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Austin, Texas",
+      "url": "https://www.weareroku.com/jobs/7974536?gh_jid=7974536",
+      "date_posted": 1781804854,
       "flags": []
     },
     {
