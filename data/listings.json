@@ -3,9 +3,73 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-02T01:01:08.117Z",
-  "count": 247,
+  "generated_at": "2026-09-02T15:06:56.973Z",
+  "count": 257,
   "jobs": [
+    {
+      "company": "Workday",
+      "title": "Sr Cybersecurity Engineer",
+      "location": "USA.VA.Reston",
+      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Sr-Cybersecurity-Engineer_JR-0107488",
+      "date_posted": 1788350608,
+      "flags": []
+    },
+    {
+      "company": "Leidos",
+      "title": "Security Operations Center (SOC) Analyst (Mid)",
+      "location": "United States",
+      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Security-Operations-Center--SOC--Analyst--Mid-_R-00185685",
+      "date_posted": 1788350608,
+      "flags": []
+    },
+    {
+      "company": "Intel",
+      "title": "Sr. Infrastructure Engineer - Observability and Monitoring",
+      "location": "USA - AZ - Chandler",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Sr-Infrastructure-Engineer---Observability-and-Monitoring_JR0282063",
+      "date_posted": 1788350515,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Enterprise Commerce Architect, Strategy & Transformation",
+      "location": "San Francisco or Seattle",
+      "url": "https://stripe.com/jobs/search?gh_jid=8139711",
+      "date_posted": 1788347823,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Customer Solutions Engineer, Korea",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8172845?gh_jid=8172845",
+      "date_posted": 1788335728,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business)",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8761732002",
+      "date_posted": 1788320559,
+      "flags": []
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Principal Software Engineer - Observability & Telemetry Data",
+      "location": "Bellevue, WA",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8172240",
+      "date_posted": 1788302638,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Card Ledger & Money Movement)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7980264003",
+      "date_posted": 1788301904,
+      "flags": []
+    },
     {
       "company": "Roblox",
       "title": "Senior Software Engineer - Desktop",
@@ -1135,6 +1199,14 @@
       "flags": []
     },
     {
+      "company": "Pinterest",
+      "title": "Staff Software Engineer, Web Product Enablement",
+      "location": "San Francisco, CA, US; Remote, CA",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8075888",
+      "date_posted": 1786379170,
+      "flags": []
+    },
+    {
       "company": "Databricks",
       "title": "SAP Functional SME",
       "location": "Mountain View, California",
@@ -1167,6 +1239,14 @@
       "flags": [
         "clearance"
       ]
+    },
+    {
+      "company": "Adobe",
+      "title": "Senior Machine Learning Engineer, AI Platform",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Senior-Machine-Learning-Engineer_R166678",
+      "date_posted": 1786320000,
+      "flags": []
     },
     {
       "company": "Salesforce",
