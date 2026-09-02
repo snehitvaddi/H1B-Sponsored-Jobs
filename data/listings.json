@@ -3,9 +3,97 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-01T15:28:17.409Z",
-  "count": 231,
+  "generated_at": "2026-09-02T01:01:08.117Z",
+  "count": 247,
   "jobs": [
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer - Desktop",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8127056?gh_jid=8127056",
+      "date_posted": 1788301338,
+      "flags": []
+    },
+    {
+      "company": "Workday",
+      "title": "Software Engineer/Software Development Engineer (P3)",
+      "location": "USA, GA, Atlanta",
+      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Software-Engineer-Software-Development-Engineer--P3-_JR-0108515-2",
+      "date_posted": 1788300342,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Staff Data Platform Software Engineer",
+      "location": "Santa Clara, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146828569",
+      "date_posted": 1788300031,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Staff Software Engineer, Payments and Applied Machine Learning",
+      "location": "Seattle, New York, San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8172164",
+      "date_posted": 1788299876,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Senior Solutions Engineer",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8171110",
+      "date_posted": 1788299474,
+      "flags": []
+    },
+    {
+      "company": "Plaid",
+      "title": "Revenue Operations Accountant",
+      "location": "San Francisco HQ",
+      "url": "https://jobs.ashbyhq.com/plaid/c73b1d9e-e7d8-415e-bbdf-f95696a968db/application",
+      "date_posted": 1788294048,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "SAP Technical Lead",
+      "location": "Mountain View, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679972002",
+      "date_posted": 1788292946,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Solutions Engineer, Okta (Enterprise West Coast)",
+      "location": "San Francisco, California",
+      "url": "https://www.okta.com/company/careers/opportunity/8171367?gh_jid=8171367",
+      "date_posted": 1788292699,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Software Engineer",
+      "location": "New York City",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8167460",
+      "date_posted": 1788289096,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Software Engineer, Community Support Engineering (Frontend)",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/airbnb/jobs/8138069",
+      "date_posted": 1788285960,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Staff Software Engineer - Query Processing (Snowtrail)",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/eb080f61-42f2-4bec-91d3-9c0466ea5918/application",
+      "date_posted": 1788275382,
+      "flags": []
+    },
     {
       "company": "Pinterest",
       "title": "Staff Product Designer, Design Innovation",
@@ -52,6 +140,14 @@
       "location": "San Francisco, CA ; Mountain View, CA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8164291",
       "date_posted": 1788212283,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Senior Software Engineer - SaaS Data Protection",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8157246?gh_jid=8157246",
+      "date_posted": 1788209056,
       "flags": []
     },
     {
@@ -492,6 +588,14 @@
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea/application",
       "date_posted": 1787690231,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Sr. Systems Analyst, Finance, Enterprise Apps",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8154856?gh_jid=8154856",
+      "date_posted": 1787685743,
       "flags": []
     },
     {
@@ -1525,6 +1629,14 @@
       "flags": []
     },
     {
+      "company": "Zoox",
+      "title": "Software Engineer, ML Performance Optimization",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/bc11276c-8db7-426e-9d00-d41c2097723a",
+      "date_posted": 1780007689,
+      "flags": []
+    },
+    {
       "company": "Snowflake",
       "title": "Software Engineer (AI-Native), Database Engineering",
       "location": "US-CA-Menlo Park",
@@ -1634,6 +1746,14 @@
       "location": "-REMOTE, UK",
       "url": "https://job-boards.greenhouse.io/smartsheet/jobs/7873872",
       "date_posted": 1777638690,
+      "flags": []
+    },
+    {
+      "company": "Netskope",
+      "title": "Channel Solutions Engineer -North Central Region",
+      "location": "Illinois",
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7861730",
+      "date_posted": 1777516270,
       "flags": []
     },
     {
@@ -1780,6 +1900,14 @@
       "location": "Colorado, Illinois",
       "url": "https://www.rubrik.com/company/careers/departments/job.7472096?gh_jid=7472096",
       "date_posted": 1769534850,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Customer Engineer, Public Sector Federal",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7530475?gh_jid=7530475",
+      "date_posted": 1768241812,
       "flags": []
     },
     {
