@@ -3,9 +3,65 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-02T15:06:56.973Z",
-  "count": 257,
+  "generated_at": "2026-09-03T01:06:44.009Z",
+  "count": 274,
   "jobs": [
+    {
+      "company": "Snowflake",
+      "title": "Senior Software Engineer - Cloud Security",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/f4754cf9-8e07-46b9-8874-528e810892f0/application",
+      "date_posted": 1788389799,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Senior Software Engineer",
+      "location": "South San Francisco, CA",
+      "url": "https://stripe.com/jobs/search?gh_jid=8175099",
+      "date_posted": 1788384848,
+      "flags": []
+    },
+    {
+      "company": "Netskope",
+      "title": "Channel Solutions Engineer - NYC",
+      "location": "New York",
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8096118",
+      "date_posted": 1788383764,
+      "flags": []
+    },
+    {
+      "company": "Leidos",
+      "title": "Data Engineer",
+      "location": "United States",
+      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Data-Engineer_R-00172767",
+      "date_posted": 1788372179,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Software Engineer, R2 Gateway",
+      "location": "In-Office",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8174207?gh_jid=8174207",
+      "date_posted": 1788369878,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Staff Research Engineer/Scientist",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147044517",
+      "date_posted": 1788367626,
+      "flags": []
+    },
+    {
+      "company": "Intel",
+      "title": "Applied Machine Learning Engineer (LLMs & RL)",
+      "location": "USA - CA - Santa Clara",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Applied-Machine-Learning-Engineer--LLMs---RL-_JR0282825",
+      "date_posted": 1788364924,
+      "flags": []
+    },
     {
       "company": "Workday",
       "title": "Sr Cybersecurity Engineer",
@@ -47,6 +103,14 @@
       "flags": []
     },
     {
+      "company": "Lyft",
+      "title": "Software Engineer",
+      "location": "Seattle, WA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8772594002?gh_jid=8772594002",
+      "date_posted": 1788333235,
+      "flags": []
+    },
+    {
       "company": "Databricks",
       "title": "Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business)",
       "location": "United States",
@@ -55,11 +119,35 @@
       "flags": []
     },
     {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, 3D Engine Scalability",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8131354?gh_jid=8131354",
+      "date_posted": 1788308384,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Systems Engineer, Depot & Offhail Automation",
+      "location": "Mountain View, CA, USA; San Francisco, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8168620",
+      "date_posted": 1788304136,
+      "flags": []
+    },
+    {
       "company": "Smartsheet",
       "title": "Principal Software Engineer - Observability & Telemetry Data",
       "location": "Bellevue, WA",
       "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8172240",
       "date_posted": 1788302638,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, Developer Infrastructure",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8170956?gh_jid=8170956",
+      "date_posted": 1788302505,
       "flags": []
     },
     {
@@ -108,6 +196,14 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8171110",
       "date_posted": 1788299474,
+      "flags": []
+    },
+    {
+      "company": "Marlabs",
+      "title": "Security Automation & Integration Engineer",
+      "location": "United States",
+      "url": "https://marlabs.breezy.hr/p/b4bd55c6dabf-security-automation-integration-engineer",
+      "date_posted": 1788294659,
       "flags": []
     },
     {
@@ -172,6 +268,14 @@
       "location": "Hybrid",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8168623?gh_jid=8168623",
       "date_posted": 1788239952,
+      "flags": []
+    },
+    {
+      "company": "Workday",
+      "title": "Sr. Software Engineer (Distributed Systems)",
+      "location": "USA, GA, Atlanta",
+      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Sr-Software-Engineer--Distributed-Systems-_JR-0108061",
+      "date_posted": 1788220800,
       "flags": []
     },
     {
@@ -268,6 +372,22 @@
       "location": "Remote",
       "url": "https://www.coinbase.com/careers/positions/8166218?gh_jid=8166218",
       "date_posted": 1788146714,
+      "flags": []
+    },
+    {
+      "company": "Nvidia",
+      "title": "Senior Software Engineer, NeMo Core Platform",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/senior-software-engineer--nemo-core-platform_jr2024160",
+      "date_posted": 1788134400,
+      "flags": []
+    },
+    {
+      "company": "Asurion",
+      "title": "Senior Software Engineer",
+      "location": "US-Headquarters",
+      "url": "https://asurion.wd5.myworkdayjobs.com/en-US/AsurionCareers_US/job/US-Headquarters/Senior-Software-Engineer_ASU0021257-1",
+      "date_posted": 1788134400,
       "flags": []
     },
     {
@@ -1507,6 +1627,14 @@
       "flags": []
     },
     {
+      "company": "Okta",
+      "title": "Staff Backend Engineer, Identity Threat Protection",
+      "location": "San Francisco, California",
+      "url": "https://www.okta.com/company/careers/opportunity/8053199?gh_jid=8053199",
+      "date_posted": 1784047756,
+      "flags": []
+    },
+    {
       "company": "Quantiphi",
       "title": "Senior Machine Learning Engineer",
       "location": "USA - Remote",
@@ -1980,6 +2108,14 @@
       "location": "Colorado, Illinois",
       "url": "https://www.rubrik.com/company/careers/departments/job.7472096?gh_jid=7472096",
       "date_posted": 1769534850,
+      "flags": []
+    },
+    {
+      "company": "Tiger Analytics Inc.",
+      "title": "GenAI Engineer",
+      "location": "Remote",
+      "url": "https://jobs.workable.com/view/fQueepDox4aovnr1oKuPJj/remote-genai-engineer-in-canada-at-tiger-analytics-inc.",
+      "date_posted": 1768851452,
       "flags": []
     },
     {
