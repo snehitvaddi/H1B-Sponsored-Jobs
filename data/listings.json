@@ -3,15 +3,39 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-03T01:06:44.009Z",
-  "count": 274,
+  "generated_at": "2026-09-03T15:01:06.770Z",
+  "count": 281,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Software Engineer, Security Rules",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8160660?gh_jid=8160660",
+      "date_posted": 1788439183,
+      "flags": []
+    },
+    {
+      "company": "Tiger Analytics Inc.",
+      "title": "Technology Partner - Databricks",
+      "location": "Sunnyvale, California",
+      "url": "https://apply.workable.com/j/83F54268FF/apply",
+      "date_posted": 1788393600,
+      "flags": []
+    },
     {
       "company": "Snowflake",
       "title": "Senior Software Engineer - Cloud Security",
       "location": "US-CA-Menlo Park",
       "url": "https://jobs.ashbyhq.com/snowflake/f4754cf9-8e07-46b9-8874-528e810892f0/application",
       "date_posted": 1788389799,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Staff Application Security Engineer (ServiceNow Instance Security)",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147091979",
+      "date_posted": 1788388984,
       "flags": []
     },
     {
@@ -279,6 +303,14 @@
       "flags": []
     },
     {
+      "company": "Kla",
+      "title": "Software Engineer",
+      "location": "USA-CA-Milpitas-KLA",
+      "url": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineer_2640196",
+      "date_posted": 1788220800,
+      "flags": []
+    },
+    {
       "company": "Roblox",
       "title": "Senior Software Engineer, Observability",
       "location": "San Mateo, CA",
@@ -332,6 +364,14 @@
       "location": "Foster City, CA",
       "url": "https://jobs.lever.co/zoox/bea6c1d0-09dc-47db-9fff-ed2f33151763",
       "date_posted": 1788207190,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Sr. Staff Software Development Engineer",
+      "location": "USA - Update Location",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5212682007",
+      "date_posted": 1788207115,
       "flags": []
     },
     {
@@ -1071,6 +1111,14 @@
       "flags": []
     },
     {
+      "company": "Medtronic",
+      "title": "Sr. Software Engineer - Signals & Algorithm Interfaces (Python/C++)",
+      "location": "USA-MA Newton",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Sr-Software-Engineer---Signals---Algorithm-Interfaces--Python-C---_R65927-1",
+      "date_posted": 1787270400,
+      "flags": []
+    },
+    {
       "company": "Databricks",
       "title": "Software Engineering Intern (2027 Start) - Winter",
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
@@ -1140,6 +1188,14 @@
       "location": "Northeast",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8727543002",
       "date_posted": 1787081117,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect",
+      "location": "Atlanta, Georgia; Chicago, Illinois",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8697987002",
+      "date_posted": 1787032619,
       "flags": []
     },
     {
