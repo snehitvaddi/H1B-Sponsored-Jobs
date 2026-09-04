@@ -3,9 +3,41 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-04T00:58:32.311Z",
-  "count": 295,
+  "generated_at": "2026-09-04T14:58:25.189Z",
+  "count": 305,
   "jobs": [
+    {
+      "company": "Workday",
+      "title": "Senior Software Engineer/Software Engineer III (Data ...",
+      "location": "USA, CA, Pleasanton",
+      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Senior-Software-Engineer-Software-Engineer-III--Data-Engineering-_JR-0106163",
+      "date_posted": 1788523397,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect, Customer Lake",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8762360002",
+      "date_posted": 1788483007,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Principal Applied AI Architect",
+      "location": "Denver, Colorado",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147375129",
+      "date_posted": 1788481028,
+      "flags": []
+    },
+    {
+      "company": "Zoox",
+      "title": "Software Engineer - Collision Avoidance System Metrics",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5",
+      "date_posted": 1788473127,
+      "flags": []
+    },
     {
       "company": "Intel",
       "title": "Business Analyst - Intel",
@@ -52,6 +84,22 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8171112",
       "date_posted": 1788460808,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Threat Intelligence Platform Engineer",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619",
+      "date_posted": 1788458536,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Staff Software Engineer, Fullstack (Marketplace and Consumer Experiences)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7978722003",
+      "date_posted": 1788449433,
       "flags": []
     },
     {
@@ -119,6 +167,14 @@
       "flags": []
     },
     {
+      "company": "Asana",
+      "title": "Senior Software Engineer, Product Frameworks",
+      "location": "New York City",
+      "url": "https://www.asana.com/jobs/apply/8174616?gh_jid=8174616",
+      "date_posted": 1788377131,
+      "flags": []
+    },
+    {
       "company": "Leidos",
       "title": "Data Engineer",
       "location": "United States",
@@ -132,6 +188,14 @@
       "location": "In-Office",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8174207?gh_jid=8174207",
       "date_posted": 1788369878,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Principal Engineer, Big Data Platform",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7683981",
+      "date_posted": 1788367822,
       "flags": []
     },
     {
@@ -364,6 +428,14 @@
       "location": "San Francisco, CA, US; Remote",
       "url": "https://job-boards.greenhouse.io/pinterest/jobs/7839695",
       "date_posted": 1788264108,
+      "flags": []
+    },
+    {
+      "company": "Spotify",
+      "title": "Senior Machine Learning Engineer - Artist-First AI Music Lab",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/0d82639f-54c4-4e44-984e-4c9de7e8fffe",
+      "date_posted": 1788252605,
       "flags": []
     },
     {
@@ -1776,6 +1848,14 @@
       "location": "San Francisco",
       "url": "https://turo.wd12.myworkdayjobs.com/en-US/Turo_careers/job/Senior-Data-Engineer--Data-Platform-_R-102481",
       "date_posted": 1784246400,
+      "flags": []
+    },
+    {
+      "company": "Salesforce",
+      "title": "Revenue Cloud Specialist - SE",
+      "location": "Georgia - Remote",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Lead--Specialist-SE_JR341332",
+      "date_posted": 1784160000,
       "flags": []
     },
     {
