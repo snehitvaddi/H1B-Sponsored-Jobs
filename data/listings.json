@@ -3,9 +3,73 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-03T15:01:06.770Z",
-  "count": 281,
+  "generated_at": "2026-09-04T00:58:32.311Z",
+  "count": 295,
   "jobs": [
+    {
+      "company": "Intel",
+      "title": "Business Analyst - Intel",
+      "location": "USA - AZ - Chandler",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Business-Analyst_JR0284479",
+      "date_posted": 1788473009,
+      "flags": []
+    },
+    {
+      "company": "Davita",
+      "title": "Analyst, Business (ROPS)",
+      "location": "09507 - Colorado Remote",
+      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/09507---colorado-remote/analyst--business--rops-_r0452314",
+      "date_posted": 1788473009,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Manager Product Management ServiceNow Cloud",
+      "location": "Kirkland, Washington",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147362229",
+      "date_posted": 1788471317,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Systems Engineer, Growth Engineering",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8175620?gh_jid=8175620",
+      "date_posted": 1788468804,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Software Engineer, Online Database Infrastructure",
+      "location": "Seattle, WA",
+      "url": "https://stripe.com/jobs/search?gh_jid=8177930",
+      "date_posted": 1788461822,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Principal Presales Engineer, ISV HLS",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8171112",
+      "date_posted": 1788460808,
+      "flags": []
+    },
+    {
+      "company": "Zuora",
+      "title": "Senior Java Engineer",
+      "location": "Foster City, California",
+      "url": "https://boards.greenhouse.io/zuora/jobs/7966286?gh_jid=7966286",
+      "date_posted": 1788449293,
+      "flags": []
+    },
+    {
+      "company": "Tiger Analytics Inc.",
+      "title": "Technology Partner - Databricks",
+      "location": "Remote",
+      "url": "https://jobs.workable.com/view/pYJFjQCCjWjuyQNCLdM1t8/remote-technology-partner---databricks-in-new-york-at-tiger-analytics-inc",
+      "date_posted": 1788444160,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Software Engineer, Security Rules",
@@ -148,6 +212,22 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8131354?gh_jid=8131354",
       "date_posted": 1788308384,
+      "flags": []
+    },
+    {
+      "company": "Nvidia",
+      "title": "Security Software Engineer, Vulnerability Operations",
+      "location": "US, CA, Remote",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Security-Software-Engineer--Vulnerability-Operations_JR2024620-1",
+      "date_posted": 1788307200,
+      "flags": []
+    },
+    {
+      "company": "Pfizer",
+      "title": "Translational AI Engineer",
+      "location": "USA - MA - Cambridge Kendall Sq. 610 Main",
+      "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Massachusetts---Cambridge/Translational-AI-Engineer_4962398-1",
+      "date_posted": 1788307200,
       "flags": []
     },
     {
@@ -427,6 +507,22 @@
       "title": "Senior Software Engineer",
       "location": "US-Headquarters",
       "url": "https://asurion.wd5.myworkdayjobs.com/en-US/AsurionCareers_US/job/US-Headquarters/Senior-Software-Engineer_ASU0021257-1",
+      "date_posted": 1788134400,
+      "flags": []
+    },
+    {
+      "company": "Adobe",
+      "title": "2027 Intern - Machine Learning Engineer",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+      "date_posted": 1788134400,
+      "flags": []
+    },
+    {
+      "company": "Transunion",
+      "title": "Security Automation Engineer",
+      "location": "Chicago - 555 West Adams St",
+      "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Security-Automation-Engineer_19041837",
       "date_posted": 1788134400,
       "flags": []
     },
@@ -1837,6 +1933,14 @@
       "flags": []
     },
     {
+      "company": "Roblox",
+      "title": "Senior Software Engineer - Safety Experience",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/7985997?gh_jid=7985997",
+      "date_posted": 1780935596,
+      "flags": []
+    },
+    {
       "company": "Anaplan",
       "title": "Principal Data Scientist - AI",
       "location": "Pennsylvania-Remote",
@@ -2034,6 +2138,14 @@
       "location": "San Francisco, California",
       "url": "https://job-boards.greenhouse.io/flexport/jobs/7819181",
       "date_posted": 1777045146,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Lead Engagement Manager, Forward Deployed Engineering - Healthcare & Life Sciences",
+      "location": "Central - United States; Northeast - United States; Southeast",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438803002",
+      "date_posted": 1776371206,
       "flags": []
     },
     {
