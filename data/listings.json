@@ -3,8 +3,8 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-05T00:57:07.316Z",
-  "count": 315,
+  "generated_at": "2026-09-05T13:52:10.132Z",
+  "count": 316,
   "jobs": [
     {
       "company": "Cloudflare",
@@ -12,6 +12,14 @@
       "location": "Hybrid",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8158016?gh_jid=8158016",
       "date_posted": 1788562071,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Manager, Field Engineering - Healthcare and Life Sciences (Healthcare Providers)",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8697989002",
+      "date_posted": 1788560839,
       "flags": []
     },
     {
