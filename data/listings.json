@@ -3,15 +3,63 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-04T14:58:25.189Z",
-  "count": 305,
+  "generated_at": "2026-09-05T00:57:07.316Z",
+  "count": 315,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Systems Engineer - Database Platform",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8158016?gh_jid=8158016",
+      "date_posted": 1788562071,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Post-Transaction)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7981803003",
+      "date_posted": 1788551270,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Manager, Data Platform Engineering - Kubernetes - Distributed Systems",
+      "location": "San Diego, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147592179",
+      "date_posted": 1788550014,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Principal Software Engineer - Performance Engineering (Cloud Infrastructure)",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/351f89c9-7502-4c5c-b600-b3a1192c45eb/application",
+      "date_posted": 1788546479,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Data Engineering (Short Term)",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8174475?gh_jid=8174475",
+      "date_posted": 1788537710,
+      "flags": []
+    },
     {
       "company": "Workday",
       "title": "Senior Software Engineer/Software Engineer III (Data ...",
       "location": "USA, CA, Pleasanton",
       "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Senior-Software-Engineer-Software-Engineer-III--Data-Engineering-_JR-0106163",
       "date_posted": 1788523397,
+      "flags": []
+    },
+    {
+      "company": "Netskope",
+      "title": "Solutions Engineer - Healthcare",
+      "location": "Texas",
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8045251",
+      "date_posted": 1788516085,
       "flags": []
     },
     {
@@ -595,6 +643,14 @@
       "title": "Security Automation Engineer",
       "location": "Chicago - 555 West Adams St",
       "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Security-Automation-Engineer_19041837",
+      "date_posted": 1788134400,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Data Engineer - Databricks",
+      "location": "Remote - Virginia",
+      "url": "https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Data-Engineer---Databricks_JR101081",
       "date_posted": 1788134400,
       "flags": []
     },
@@ -1359,6 +1415,14 @@
       "flags": []
     },
     {
+      "company": "Lyft",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8688633002?gh_jid=8688633002",
+      "date_posted": 1787079869,
+      "flags": []
+    },
+    {
       "company": "Databricks",
       "title": "Solutions Architect",
       "location": "Atlanta, Georgia; Chicago, Illinois",
@@ -1939,6 +2003,14 @@
       "flags": []
     },
     {
+      "company": "Workday",
+      "title": "Senior Software Engineer",
+      "location": "USA, CA, Pleasanton",
+      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Senior-Software-Engineer_JR-0107919",
+      "date_posted": 1782086400,
+      "flags": []
+    },
+    {
       "company": "Braze",
       "title": "Team Lead Solutions Consultant, Financial Services",
       "location": "New York City",
@@ -2428,6 +2500,14 @@
       "location": "Hsinchu, 台灣",
       "url": "https://nxp.wd3.myworkdayjobs.com/zh-TW/careers/job/XMLNAME--WiFi--Software-Engineer---Senior-Software-Engineer---Principal-Software-Engineer_R-10029317",
       "date_posted": 1738627200,
+      "flags": []
+    },
+    {
+      "company": "Zoox",
+      "title": "Senior / Staff Software Engineer - Learned Trajectory Machine Learning Engineer",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/24acfe86-aa1b-4aa6-903b-99b4596e42cf",
+      "date_posted": 1730965187,
       "flags": []
     },
     {
