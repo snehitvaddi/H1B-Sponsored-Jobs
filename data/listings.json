@@ -3,9 +3,17 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-06T00:57:07.789Z",
-  "count": 318,
+  "generated_at": "2026-09-06T14:11:49.806Z",
+  "count": 320,
   "jobs": [
+    {
+      "company": "ServiceNow",
+      "title": "Staff Full-Stack Engineer, Experience Team",
+      "location": "San Diego, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147650939",
+      "date_posted": 1788641175,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Systems Engineer - Database Platform",
@@ -172,6 +180,14 @@
       "location": "Foster City, California",
       "url": "https://boards.greenhouse.io/zuora/jobs/7966286?gh_jid=7966286",
       "date_posted": 1788449293,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Sales Engineer - UK",
+      "location": "Remote - UK",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5211686007",
+      "date_posted": 1788445162,
       "flags": []
     },
     {
