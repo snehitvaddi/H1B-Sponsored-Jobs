@@ -3,9 +3,17 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-06T14:11:49.806Z",
-  "count": 320,
+  "generated_at": "2026-09-07T01:00:55.139Z",
+  "count": 322,
   "jobs": [
+    {
+      "company": "Roblox",
+      "title": "Growth Marketing Manager Lead",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/roblox/jobs/8077671",
+      "date_posted": 1788710492,
+      "flags": []
+    },
     {
       "company": "ServiceNow",
       "title": "Staff Full-Stack Engineer, Experience Team",
@@ -68,6 +76,14 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8174475?gh_jid=8174475",
       "date_posted": 1788537710,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Senior Manager, Global Deal Desk",
+      "location": "United States",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8174784?gh_jid=8174784",
+      "date_posted": 1788537192,
       "flags": []
     },
     {
