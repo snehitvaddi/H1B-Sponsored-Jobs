@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-07T01:00:55.139Z",
-  "count": 322,
+  "generated_at": "2026-09-07T16:28:31.879Z",
+  "count": 327,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Director, Customer Engineering Engineering",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8007189?gh_jid=8007189",
+      "date_posted": 1788787836,
+      "flags": []
+    },
+    {
+      "company": "Nvidia",
+      "title": "Senior Data Infrastructure Engineer, AI Performance",
+      "location": "United States",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970/apply/autofillWithResume",
+      "date_posted": 1788782601,
+      "flags": []
+    },
     {
       "company": "Roblox",
       "title": "Growth Marketing Manager Lead",
@@ -52,6 +68,14 @@
       "location": "San Diego, CALIFORNIA",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147592179",
       "date_posted": 1788550014,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Site Reliability Engineer, Lead",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8157888",
+      "date_posted": 1788548942,
       "flags": []
     },
     {
@@ -1721,6 +1745,14 @@
       "flags": []
     },
     {
+      "company": "Adobe",
+      "title": "Senior Data Engineer",
+      "location": "San Francisco",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Senior-Data-Engineer_R170680-1",
+      "date_posted": 1786190695,
+      "flags": []
+    },
+    {
       "company": "Crowdstrike",
       "title": "Principal Data Engineer, LLM/AI Platforms (Remote)",
       "location": "USA TX Remote",
@@ -2024,6 +2056,14 @@
       "location": "USA, GA, Atlanta",
       "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Jobs/job/Sr-Analytics-Engineer_JR-0108667",
       "date_posted": 1783296000,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Staff Software Development Engineer - AI Engineer",
+      "location": "Mohali, IND",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5173177007",
+      "date_posted": 1783236925,
       "flags": []
     },
     {
