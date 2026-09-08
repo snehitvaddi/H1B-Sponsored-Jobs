@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-08T01:12:15.548Z",
-  "count": 328,
+  "generated_at": "2026-09-08T15:07:54.473Z",
+  "count": 332,
   "jobs": [
+    {
+      "company": "Workday",
+      "title": "Senior Software Development Engineer",
+      "location": "USA, CA, Pleasanton",
+      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Senior-Software-Development-Engineer_JR-0108270",
+      "date_posted": 1788869311,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Principal Partner Solutions Engineer, Japan (Based in Tokyo)",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8172554?gh_jid=8172554",
+      "date_posted": 1788830778,
+      "flags": []
+    },
     {
       "company": "Netskope",
       "title": "Solutions Engineer Manager",
@@ -887,6 +903,14 @@
       "flags": []
     },
     {
+      "company": "Marlabs",
+      "title": "Senior Software Engineer (.Net)",
+      "location": "Coppell, TX",
+      "url": "https://marlabs.breezy.hr/p/9a9cabbb5a49-senior-software-engineer-net",
+      "date_posted": 1787855915,
+      "flags": []
+    },
+    {
       "company": "Sentilink",
       "title": "Senior Software Engineer, Platform/Backend",
       "location": "United States",
@@ -1221,6 +1245,16 @@
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Cybersecurity-Analyst_R-00183238-1",
       "date_posted": 1787616135,
       "flags": []
+    },
+    {
+      "company": "Leidos",
+      "title": "Cyber Security Analyst",
+      "location": "3309 Army Research Laboratory Adelphi MD",
+      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Cyber-Security-Analyst_R-00190071",
+      "date_posted": 1787616000,
+      "flags": [
+        "clearance"
+      ]
     },
     {
       "company": "Samsara",
