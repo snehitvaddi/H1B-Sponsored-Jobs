@@ -3,9 +3,57 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-08T15:07:54.473Z",
-  "count": 332,
+  "generated_at": "2026-09-09T01:14:55.389Z",
+  "count": 340,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Senior Customer Engineer, LATAM - MCR (Santiago, Chile).",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8174368?gh_jid=8174368",
+      "date_posted": 1788899936,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Creator Core Systems",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8159886?gh_jid=8159886",
+      "date_posted": 1788899185,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Principal Presales Product Specialist",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8180238",
+      "date_posted": 1788893274,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Travel and Hospitality",
+      "location": "Remote - Washington; Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569637002",
+      "date_posted": 1788891324,
+      "flags": []
+    },
+    {
+      "company": "Zoox",
+      "title": "Software Engineer - Robot Software Infrastructure",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/6da52aa7-0ccb-48d0-af25-0889f41ddee5",
+      "date_posted": 1788887190,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Director, Mobile Platform Engineering",
+      "location": "West Palm Beach, Florida",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148303489",
+      "date_posted": 1788887044,
+      "flags": []
+    },
     {
       "company": "Workday",
       "title": "Senior Software Development Engineer",
@@ -68,6 +116,14 @@
       "location": "Hybrid",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8158016?gh_jid=8158016",
       "date_posted": 1788562071,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Staff Software Engineer, Institutional Exchange",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8179210?gh_jid=8179210",
+      "date_posted": 1788560924,
       "flags": []
     },
     {
@@ -2630,6 +2686,14 @@
       "location": "London, U.K. (Hybrid)",
       "url": "https://job-boards.greenhouse.io/webflow/jobs/7118711",
       "date_posted": 1753910844,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Solutions Engineer, Okta",
+      "location": "Bellevue, Washington; Los Angeles, California; Oregon; San Francisco, California",
+      "url": "https://www.okta.com/company/careers/opportunity/7103874?gh_jid=7103874",
+      "date_posted": 1753390861,
       "flags": []
     },
     {
