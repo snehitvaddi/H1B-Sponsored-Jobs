@@ -3,9 +3,65 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-09T01:14:55.389Z",
-  "count": 340,
+  "generated_at": "2026-09-09T15:07:42.485Z",
+  "count": 352,
   "jobs": [
+    {
+      "company": "Affirm",
+      "title": "Staff Sales Engineer",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7985476003",
+      "date_posted": 1788961468,
+      "flags": []
+    },
+    {
+      "company": "Leidos",
+      "title": "Senior Information System Security Engineer (ISSE)",
+      "location": "United States",
+      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Senior-Information-System-Security-Engineer--ISSE-_R-00187506",
+      "date_posted": 1788955353,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Digital Native Business (Healthtech)",
+      "location": "Remote - California; San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8782711002",
+      "date_posted": 1788921558,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Workday Integration Specialist",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8158104?gh_jid=8158104",
+      "date_posted": 1788914930,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Principal Sales Engineer - Federal",
+      "location": "Remote - Maryland, USA; Remote - New Jersey, USA; Remote - North Carolina, USA; Remote - Pennsylvania, USA; Remote - South Carolina, USA; Remote - Virginia, USA; Remote - West Virginia",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5226899007",
+      "date_posted": 1788911806,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Staff Software Engineer | Security Data Platform | Expert in Python",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148349979",
+      "date_posted": 1788905571,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Software Engineer Intern",
+      "location": "Hybrid - San Francisco, CA",
+      "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+      "date_posted": 1788905540,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Senior Customer Engineer, LATAM - MCR (Santiago, Chile).",
@@ -15,11 +71,27 @@
       "flags": []
     },
     {
+      "company": "Nuro",
+      "title": "Workday Analyst",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8187131",
+      "date_posted": 1788899899,
+      "flags": []
+    },
+    {
       "company": "Roblox",
       "title": "Senior Software Engineer, Creator Core Systems",
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8159886?gh_jid=8159886",
       "date_posted": 1788899185,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Global Solutions Architect",
+      "location": "USA , Remote",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8140609?gh_jid=8140609",
+      "date_posted": 1788893336,
       "flags": []
     },
     {
@@ -1971,6 +2043,14 @@
       "flags": []
     },
     {
+      "company": "Intel",
+      "title": "Information Security Engineer",
+      "location": "USA - CA - Folsom",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Information-Security-Engineer_JR0285296",
+      "date_posted": 1785283200,
+      "flags": []
+    },
+    {
       "company": "Socure",
       "title": "Senior Pre-Sales Solution Consulting, Gaming",
       "location": "New York - Remote",
@@ -2471,6 +2551,14 @@
       "flags": []
     },
     {
+      "company": "Spotify",
+      "title": "Senior Staff Machine Learning Engineer, Content Platform",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/47d4eabf-8d5a-4dab-ac72-de7b5b56841c",
+      "date_posted": 1777466429,
+      "flags": []
+    },
+    {
       "company": "Zuora",
       "title": "Software Engineer (Payment)",
       "location": "Foster City, California",
@@ -2646,6 +2734,14 @@
       "location": "San Diego, CA",
       "url": "https://jobs.lever.co/zoox/ec1de483-ebd5-4b87-96b7-d749f077aefb",
       "date_posted": 1767648465,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Machine Learning Engineer, Mapping",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7429791",
+      "date_posted": 1765315340,
       "flags": []
     },
     {
