@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-10T01:03:47.556Z",
-  "count": 364,
+  "generated_at": "2026-09-10T14:59:23.334Z",
+  "count": 400,
   "jobs": [
+    {
+      "company": "Spotify",
+      "title": "Data Scientist - Music Promotion",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+      "date_posted": 1789046011,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Director, Data & Storage Reliability Engineering",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148663539",
+      "date_posted": 1789007273,
+      "flags": []
+    },
     {
       "company": "Snowflake",
       "title": "AI Systems Research and Development Engineer – LLM Inference Systems & Optimization",
@@ -20,6 +36,14 @@
       "location": "Remote",
       "url": "https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839",
       "date_posted": 1788994303,
+      "flags": []
+    },
+    {
+      "company": "Coursera",
+      "title": "Staff Product Manager, Search",
+      "location": "United States",
+      "url": "https://app.careerpuck.com/job-board/udemy/job/6186173004?gh_jid=6186173004",
+      "date_posted": 1788991194,
       "flags": []
     },
     {
@@ -60,6 +84,14 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8052068",
       "date_posted": 1788981166,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Manager, Field Marketing - US Majors Financial Services",
+      "location": "US-NY-New York",
+      "url": "https://jobs.ashbyhq.com/snowflake/8106ecf2-a0c4-46da-8cf7-98fc5f3bb50d/application",
+      "date_posted": 1788980611,
       "flags": []
     },
     {
@@ -143,6 +175,14 @@
       "flags": []
     },
     {
+      "company": "Anaplan",
+      "title": "Account Based Marketing Specialist",
+      "location": "Minneapolis",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8780826002",
+      "date_posted": 1788904280,
+      "flags": []
+    },
+    {
       "company": "Cloudflare",
       "title": "Senior Customer Engineer, LATAM - MCR (Santiago, Chile).",
       "location": "Hybrid",
@@ -191,6 +231,14 @@
       "flags": []
     },
     {
+      "company": "Brex",
+      "title": "Staff Brand Designer, Interactive",
+      "location": "New York, New York",
+      "url": "https://www.brex.com/careers/8782407002?gh_jid=8782407002",
+      "date_posted": 1788890084,
+      "flags": []
+    },
+    {
       "company": "Zoox",
       "title": "Software Engineer - Robot Software Infrastructure",
       "location": "Foster City, CA",
@@ -223,6 +271,14 @@
       "flags": []
     },
     {
+      "company": "Point72",
+      "title": "Market Intelligence Emerging Talent Network",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/point72/jobs/6656054002",
+      "date_posted": 1788818711,
+      "flags": []
+    },
+    {
       "company": "Netskope",
       "title": "Solutions Engineer Manager",
       "location": "United States",
@@ -244,6 +300,14 @@
       "location": "United States",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970/apply/autofillWithResume",
       "date_posted": 1788782601,
+      "flags": []
+    },
+    {
+      "company": "Shipt",
+      "title": "Senior Security Engineer",
+      "location": "AL Birmingham: Shipt Tower",
+      "url": "https://shipt.wd1.myworkdayjobs.com/en-US/Shipt_External/job/Birmingham-AL/Security-Engineer_R4275",
+      "date_posted": 1788739200,
       "flags": []
     },
     {
@@ -519,6 +583,22 @@
       "flags": []
     },
     {
+      "company": "Plaid",
+      "title": "Senior Product Manager, Consumer",
+      "location": "San Francisco HQ",
+      "url": "https://jobs.ashbyhq.com/plaid/780fdd2e-5c29-4f25-831a-8f30e24923cd/application",
+      "date_posted": 1788381508,
+      "flags": []
+    },
+    {
+      "company": "Asana",
+      "title": "Social Media Lead",
+      "location": "Chicago",
+      "url": "https://www.asana.com/jobs/apply/8129531?gh_jid=8129531",
+      "date_posted": 1788377593,
+      "flags": []
+    },
+    {
       "company": "Asana",
       "title": "Senior Software Engineer, Product Frameworks",
       "location": "New York City",
@@ -532,6 +612,14 @@
       "location": "United States",
       "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Data-Engineer_R-00172767",
       "date_posted": 1788372179,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Technical Program Manager",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7832310003",
+      "date_posted": 1788370106,
       "flags": []
     },
     {
@@ -556,6 +644,14 @@
       "location": "Santa Clara, California",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147044517",
       "date_posted": 1788367626,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "[Summer 2027] Product Management Intern",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
+      "date_posted": 1788367273,
       "flags": []
     },
     {
@@ -815,6 +911,14 @@
       "flags": []
     },
     {
+      "company": "Trimble",
+      "title": "Lead Product Manager – Identity & Access Management",
+      "location": "US - CO, Westminster",
+      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Product-Manager_R53677",
+      "date_posted": 1788220800,
+      "flags": []
+    },
+    {
       "company": "Roblox",
       "title": "Senior Software Engineer, Observability",
       "location": "San Mateo, CA",
@@ -887,6 +991,14 @@
       "flags": []
     },
     {
+      "company": "Verkada",
+      "title": "Technical Content Delivery Manager",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5225570007",
+      "date_posted": 1788194053,
+      "flags": []
+    },
+    {
       "company": "Lyft",
       "title": "Salesforce Engineer",
       "location": "Seattle, WA",
@@ -955,6 +1067,14 @@
       "title": "Data Engineer - Databricks",
       "location": "Remote - Virginia",
       "url": "https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Data-Engineer---Databricks_JR101081",
+      "date_posted": 1788134400,
+      "flags": []
+    },
+    {
+      "company": "Guidehouse",
+      "title": "AWS Lakehouse Data Engineer",
+      "location": "Home Office: Tysons, VA",
+      "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/AWS-Lakehouse-Data-Engineer_43865",
       "date_posted": 1788134400,
       "flags": []
     },
@@ -1351,6 +1471,14 @@
       "flags": []
     },
     {
+      "company": "Databricks",
+      "title": "Sr. Industry Marketing Manager, Startups",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8638650002",
+      "date_posted": 1787685908,
+      "flags": []
+    },
+    {
       "company": "Coinbase",
       "title": "Sr. Systems Analyst, Finance, Enterprise Apps",
       "location": "Remote",
@@ -1463,6 +1591,14 @@
       "flags": [
         "clearance"
       ]
+    },
+    {
+      "company": "Okta",
+      "title": "Program Manager, ISV Ecosystem",
+      "location": "Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/8155421?gh_jid=8155421",
+      "date_posted": 1787611162,
+      "flags": []
     },
     {
       "company": "Samsara",
@@ -1697,6 +1833,14 @@
       "flags": []
     },
     {
+      "company": "Datadog",
+      "title": "Technical Program Manager II",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8144018/?gh_jid=8144018",
+      "date_posted": 1787240185,
+      "flags": []
+    },
+    {
       "company": "Intel",
       "title": "AI Infrastructure Engineer",
       "location": "USA - CA - Santa Clara",
@@ -1769,6 +1913,14 @@
       "flags": []
     },
     {
+      "company": "Pinterest",
+      "title": "Staff Technical Program Manager, Identity and Product Safety",
+      "location": "San Francisco, CA, US; Remote, CA",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8049832",
+      "date_posted": 1786996612,
+      "flags": []
+    },
+    {
       "company": "Toast",
       "title": "Staff Software Engineer, Voice AI Platform",
       "location": "Remote",
@@ -1798,6 +1950,22 @@
       "location": "San Francisco, CA",
       "url": "https://careers.airbnb.com/positions/8014904?gh_jid=8014904",
       "date_posted": 1786742877,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Sr. Talent Management Program Manager",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8130943",
+      "date_posted": 1786742176,
+      "flags": []
+    },
+    {
+      "company": "Netskope",
+      "title": "Sr. Field Marketing Manager",
+      "location": "Texas",
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8111988",
+      "date_posted": 1786716133,
       "flags": []
     },
     {
@@ -1841,6 +2009,14 @@
       "flags": []
     },
     {
+      "company": "Zoox",
+      "title": "Technical Program Manager, Robot Platforms",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/15efc87a-f31b-40e0-967f-5927dae73b5d",
+      "date_posted": 1786583310,
+      "flags": []
+    },
+    {
       "company": "Cloudera",
       "title": "Forward Deployed AI Engineer (Senior/Principal Level)",
       "location": "US-New York-New York",
@@ -1854,6 +2030,14 @@
       "location": "Belmont",
       "url": "https://ringcentral.wd1.myworkdayjobs.com/en-US/RingCentral_Careers/job/ML-AI-Engineer--Full-Time--Multiple-Openings-_R078414",
       "date_posted": 1786579200,
+      "flags": []
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Sr. CE Program Manager",
+      "location": "Bellevue, WA",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8125833",
+      "date_posted": 1786549855,
       "flags": []
     },
     {
@@ -1894,6 +2078,14 @@
       "location": "Georgia",
       "url": "https://job-boards.greenhouse.io/anaplan/jobs/8696994002",
       "date_posted": 1786476325,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Staff Product Manager, Virtual Platforms",
+      "location": "Palo Altp, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8120738?gh_jid=8120738",
+      "date_posted": 1786426755,
       "flags": []
     },
     {
@@ -2000,6 +2192,14 @@
       "location": "San Francisco",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Senior-Data-Engineer_R170680-1",
       "date_posted": 1786190695,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Staff Technical Program Manager (Software Deployments)",
+      "location": "San Jose, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5174350007",
+      "date_posted": 1786162338,
       "flags": []
     },
     {
@@ -2123,6 +2323,14 @@
       "flags": []
     },
     {
+      "company": "Waymo",
+      "title": "Training Delivery Manager (Fleet Maintenance & Validation TTT)",
+      "location": "San Francisco, CA, USA; Tempe, AZ",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8049302",
+      "date_posted": 1785340723,
+      "flags": []
+    },
+    {
       "company": "Intel",
       "title": "Information Security Engineer",
       "location": "USA - CA - Folsom",
@@ -2203,6 +2411,14 @@
       "flags": []
     },
     {
+      "company": "Mongodb",
+      "title": "VP, AI Marketing Strategy",
+      "location": "Palo Alto; San Francisco",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8072839",
+      "date_posted": 1784582413,
+      "flags": []
+    },
+    {
       "company": "Kla",
       "title": "AI Software Engineer|Manufacturing",
       "location": "USA-MI-Ann Arbor-KLA",
@@ -2261,6 +2477,14 @@
       "flags": []
     },
     {
+      "company": "Cloudflare",
+      "title": "Senior Product Manager - FinTech",
+      "location": "In-Office",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8064473?gh_jid=8064473",
+      "date_posted": 1784145545,
+      "flags": []
+    },
+    {
       "company": "Okta",
       "title": "Staff Backend Engineer, Identity Threat Protection",
       "location": "San Francisco, California",
@@ -2309,6 +2533,22 @@
       "flags": []
     },
     {
+      "company": "Reddit",
+      "title": "Staff Technical Program Manager",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8049762",
+      "date_posted": 1783459980,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Technical Program Manager, Money-as-a-Service",
+      "location": "Remote in the",
+      "url": "https://stripe.com/jobs/search?gh_jid=8042055",
+      "date_posted": 1783434896,
+      "flags": []
+    },
+    {
       "company": "Workday",
       "title": "Sr Analytics Engineer",
       "location": "USA, GA, Atlanta",
@@ -2341,6 +2581,14 @@
       "flags": []
     },
     {
+      "company": "Workday",
+      "title": "Salesforce Developer",
+      "location": "USA, CA, Pleasanton",
+      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Jobs/job/Salesforce-Developer_JR-0108531/apply",
+      "date_posted": 1782777600,
+      "flags": []
+    },
+    {
       "company": "Waymo",
       "title": "Technical Recruiter, AI/ML",
       "location": "Mountain View, California",
@@ -2362,6 +2610,14 @@
       "location": "New York City",
       "url": "https://job-boards.greenhouse.io/braze/jobs/8017295",
       "date_posted": 1781820549,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Technical Program Manager, CX Intelligence & AI",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8013948?gh_jid=8013948",
+      "date_posted": 1781807247,
       "flags": []
     },
     {
@@ -2399,6 +2655,14 @@
       "flags": []
     },
     {
+      "company": "Lyft",
+      "title": "Staff Product Manager I, Ad Serving",
+      "location": "New York, NY",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8594167002?gh_jid=8594167002",
+      "date_posted": 1781629791,
+      "flags": []
+    },
+    {
       "company": "Qualtrics",
       "title": "Machine Learning Engineer II",
       "location": "Seattle, Washington",
@@ -2420,6 +2684,14 @@
       "location": "San Francisco HQ",
       "url": "https://jobs.ashbyhq.com/plaid/18208822-26ee-4485-a3e7-c9cfb4ad1c66/application",
       "date_posted": 1781218111,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Product Manager, Toast Now",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=7979861",
+      "date_posted": 1781037903,
       "flags": []
     },
     {
@@ -2556,6 +2828,14 @@
       "location": "San Jose, California",
       "url": "https://www.weareroku.com/jobs/7931292?gh_jid=7931292",
       "date_posted": 1778885794,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Staff Product Manager - Enterprise AI",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7918885",
+      "date_posted": 1778692819,
       "flags": []
     },
     {
@@ -2862,6 +3142,14 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/7289458?gh_jid=7289458",
       "date_posted": 1759423664,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Staff Program Manager, Strategic Initiatives (Fulfillment)",
+      "location": "Atlanta, Georgia, United States; Bellevue, Washington, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Los Angeles, California, United States; New York City, New York, United States; Phillipsburg Warehouse",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/7238381",
+      "date_posted": 1757430299,
       "flags": []
     },
     {
