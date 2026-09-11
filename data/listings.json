@@ -3,9 +3,73 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-10T14:59:23.334Z",
+  "generated_at": "2026-09-11T01:04:54.973Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Snowflake",
+      "title": "Principal Software Engineer - Semantic Views",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/81f44bce-ec85-4674-b07e-1c9bda452788/application",
+      "date_posted": 1789070098,
+      "flags": []
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Machine Learning Engineer - Embedded Insights",
+      "location": "New York City Office",
+      "url": "https://jobs.ashbyhq.com/plaid/a1db9566-d51d-495e-9e87-4d57ac307d3c/application",
+      "date_posted": 1789067583,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Manager, Forward Deployed Engineering",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8192032?gh_jid=8192032",
+      "date_posted": 1789065700,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Solutions Engineering Associate, Okta",
+      "location": "Boston, Massachusetts; New York, New York; Pennsylvania",
+      "url": "https://www.okta.com/company/careers/opportunity/8191371?gh_jid=8191371",
+      "date_posted": 1789063751,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Product Marketing Manager, Workplace",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5233774007",
+      "date_posted": 1789062172,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Enterprise Hunter (Presales)",
+      "location": "San Francisco, CA",
+      "url": "https://stripe.com/jobs/search?gh_jid=8175663",
+      "date_posted": 1789059399,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Sales Engineer (SLED, K-12)",
+      "location": "Remote",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8128167?gh_jid=8128167",
+      "date_posted": 1789059141,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Lifecycle & Email Marketing Strategist",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148829349",
+      "date_posted": 1789058298,
+      "flags": []
+    },
     {
       "company": "Spotify",
       "title": "Data Scientist - Music Promotion",
@@ -151,6 +215,22 @@
       "flags": []
     },
     {
+      "company": "Workday",
+      "title": "Software Development Engineer",
+      "location": "USA, CA, Pleasanton",
+      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0109889",
+      "date_posted": 1788912000,
+      "flags": []
+    },
+    {
+      "company": "Salesforce",
+      "title": "Senior/Lead Full Stack Software Engineer",
+      "location": "California - San Francisco",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Lead-Full-Stack-Software-Engineer_JR359438-1",
+      "date_posted": 1788912000,
+      "flags": []
+    },
+    {
       "company": "Zscaler",
       "title": "Principal Sales Engineer - Federal",
       "location": "Remote - Maryland, USA; Remote - New Jersey, USA; Remote - North Carolina, USA; Remote - Pennsylvania, USA; Remote - South Carolina, USA; Remote - Virginia, USA; Remote - West Virginia",
@@ -268,6 +348,14 @@
       "location": "Hybrid",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8172554?gh_jid=8172554",
       "date_posted": 1788830778,
+      "flags": []
+    },
+    {
+      "company": "Sunpower",
+      "title": "Data Engineer",
+      "location": "Orem, UT",
+      "url": "https://sunpower.breezy.hr/p/ac3ec921b870-data-engineer",
+      "date_posted": 1788825600,
       "flags": []
     },
     {
@@ -1761,6 +1849,14 @@
       "flags": []
     },
     {
+      "company": "Toast",
+      "title": "Customer Growth Sales Account Executive",
+      "location": "Dublin, OH",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8147379",
+      "date_posted": 1787325018,
+      "flags": []
+    },
+    {
       "company": "Lyft",
       "title": "Software Engineer, Fulfillment Core Services",
       "location": "Seattle, WA",
@@ -2259,6 +2355,14 @@
       "flags": []
     },
     {
+      "company": "Zscaler",
+      "title": "Principal Specialist Sales Engineer, Zero Trust Branch - Majors, West",
+      "location": "Remote - Arizona, USA; Remote - California, USA; Remote - Colorado, USA; Remote - Idaho, USA; Remote - Iowa, USA; Remote - Minnesota, USA; Remote - Montana, USA; Remote - Nebraska, USA; Remote - Nevada, USA; Remote - New Mexico, USA; Remote - North Dakota, USA; Remote - Oregon, USA; Remote - South Dakota, USA; Remote - Utah, USA; Remote - Washington, USA; Remote - Wisconsin, USA; Remote - Wyoming",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5196219007",
+      "date_posted": 1785866085,
+      "flags": []
+    },
+    {
       "company": "Intel",
       "title": "Quality Reliability Engineer",
       "location": "USA - AZ - Chandler",
@@ -2586,6 +2690,14 @@
       "location": "USA, CA, Pleasanton",
       "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Jobs/job/Salesforce-Developer_JR-0108531/apply",
       "date_posted": 1782777600,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Senior Sales Engineer - Ohio Valley",
+      "location": "Ohio, USA, Remote",
+      "url": "https://careers.datadoghq.com/detail/8027427/?gh_jid=8027427",
+      "date_posted": 1782755923,
       "flags": []
     },
     {
@@ -3102,118 +3214,6 @@
       "location": "Mountain View, CA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7429795",
       "date_posted": 1767815141,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "System Test Engineer",
-      "location": "San Diego, CA",
-      "url": "https://jobs.lever.co/zoox/ec1de483-ebd5-4b87-96b7-d749f077aefb",
-      "date_posted": 1767648465,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Staff Machine Learning Engineer, Mapping",
-      "location": "Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7429791",
-      "date_posted": 1765315340,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Data Engineer",
-      "location": "Mountain View, California",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7438328",
-      "date_posted": 1765314719,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Staff Tech Lead, Machine Learning Engineer, Perception",
-      "location": "Mountain View, California, United States; San Francisco, California",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7450706",
-      "date_posted": 1765306155,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Site Reliability Engineer (FedRAMP)",
-      "location": "San Francisco, California",
-      "url": "https://www.okta.com/company/careers/opportunity/7289458?gh_jid=7289458",
-      "date_posted": 1759423664,
-      "flags": []
-    },
-    {
-      "company": "Flexport",
-      "title": "Staff Program Manager, Strategic Initiatives (Fulfillment)",
-      "location": "Atlanta, Georgia, United States; Bellevue, Washington, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Los Angeles, California, United States; New York City, New York, United States; Phillipsburg Warehouse",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/7238381",
-      "date_posted": 1757430299,
-      "flags": []
-    },
-    {
-      "company": "Nuro",
-      "title": "Staff Software Engineer, Routing",
-      "location": "Mountain View, California (HQ)",
-      "url": "https://nuro.ai/careersitem?gh_jid=7196037",
-      "date_posted": 1756274540,
-      "flags": []
-    },
-    {
-      "company": "Webflow",
-      "title": "Senior Solutions Engineer, EMEA",
-      "location": "London, U.K. (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/webflow/jobs/7118711",
-      "date_posted": 1753910844,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Solutions Engineer, Okta",
-      "location": "Bellevue, Washington; Los Angeles, California; Oregon; San Francisco, California",
-      "url": "https://www.okta.com/company/careers/opportunity/7103874?gh_jid=7103874",
-      "date_posted": 1753390861,
-      "flags": []
-    },
-    {
-      "company": "Nxp",
-      "title": "[WiFi] Software Engineer / Senior Software Engineer / Principal Software Engineer",
-      "location": "Hsinchu, 台灣",
-      "url": "https://nxp.wd3.myworkdayjobs.com/zh-TW/careers/job/XMLNAME--WiFi--Software-Engineer---Senior-Software-Engineer---Principal-Software-Engineer_R-10029317",
-      "date_posted": 1738627200,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Senior / Staff Software Engineer - Learned Trajectory Machine Learning Engineer",
-      "location": "Foster City, CA",
-      "url": "https://jobs.lever.co/zoox/24acfe86-aa1b-4aa6-903b-99b4596e42cf",
-      "date_posted": 1730965187,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Machine Learning Engineer, Monetization Engineering",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543",
-      "date_posted": 1721776209,
-      "flags": []
-    },
-    {
-      "company": "Tiger Analytics Inc.",
-      "title": "UiPath Automation Architect",
-      "location": "Richardson, Texas",
-      "url": "https://apply.workable.com/j/3D04547D59/apply",
-      "date_posted": 1710115200,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Software Engineer - Frontend",
-      "location": "New York, New York",
-      "url": "https://careers.datadoghq.com/detail/4732393/?gh_jid=4732393",
-      "date_posted": 1670959963,
       "flags": []
     }
   ]
