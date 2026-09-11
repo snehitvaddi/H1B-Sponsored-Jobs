@@ -3,9 +3,97 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-11T01:04:54.973Z",
+  "generated_at": "2026-09-11T15:02:26.553Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Rubrik",
+      "title": "Site Reliability Engineer- FedRAMP",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8177762?gh_jid=8177762",
+      "date_posted": 1789132798,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Hunter (Communications, Media, Entertainment and Games)",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8788266002",
+      "date_posted": 1789131415,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Product Manager, Startup Products",
+      "location": "NYC, Chicago, Seattle, San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8176254",
+      "date_posted": 1789129157,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Frontend Engineer, Ads",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
+      "date_posted": 1789101415,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Frontend (Auth Experiences)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7984714003",
+      "date_posted": 1789082404,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Lead Ads Product Marketing Manager",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8130606",
+      "date_posted": 1789079691,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Staff Cloud Architect",
+      "location": "Kirkland, Washington",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148877067",
+      "date_posted": 1789079078,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Staff Technical Program Manager - Security",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/21bfc3fe-827c-46e9-bc56-d0a676a6d9d0/application",
+      "date_posted": 1789078235,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Software Engineer, Mapping Data & Eval",
+      "location": "San Francisco, CA, USA; Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8177548",
+      "date_posted": 1789077847,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer - Machine Bootstrap",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8148696?gh_jid=8148696",
+      "date_posted": 1789073369,
+      "flags": []
+    },
+    {
+      "company": "Spotify",
+      "title": "Staff Machine Learning Engineer, Home Surfaces",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/281e7db9-86ba-4a1c-8773-c23b96ed32dc",
+      "date_posted": 1789071945,
+      "flags": []
+    },
     {
       "company": "Snowflake",
       "title": "Principal Software Engineer - Semantic Views",
@@ -236,6 +324,14 @@
       "location": "Remote - Maryland, USA; Remote - New Jersey, USA; Remote - North Carolina, USA; Remote - Pennsylvania, USA; Remote - South Carolina, USA; Remote - Virginia, USA; Remote - West Virginia",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5226899007",
       "date_posted": 1788911806,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Software Engineer- Money Movement",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946",
+      "date_posted": 1788905856,
       "flags": []
     },
     {
@@ -2323,6 +2419,16 @@
       "flags": []
     },
     {
+      "company": "Leidos",
+      "title": "Senior AWS Generative AI Solution Engineer",
+      "location": "8744 Gaithersburg MD Home Office",
+      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Senior-AWS-Generative-AI-Solution-Engineer_R-00188621-1",
+      "date_posted": 1785974400,
+      "flags": [
+        "clearance"
+      ]
+    },
+    {
       "company": "Roblox",
       "title": "[Summer 2027] Software Engineer Intern",
       "location": "San Mateo, CA",
@@ -2351,6 +2457,14 @@
       "title": "Senior Software Engineer, CUDA Deep Learning Systems",
       "location": "US, CA, Santa Clara",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-Deep-Learning-Systems_JR2022830",
+      "date_posted": 1785888000,
+      "flags": []
+    },
+    {
+      "company": "Transunion",
+      "title": "Senior Data Analyst",
+      "location": "Chicago - 555 West Adams St",
+      "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/details/Senior-Data-Analyst_19038819",
       "date_posted": 1785888000,
       "flags": []
     },
@@ -2384,6 +2498,14 @@
       "location": "Hybrid",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8092731?gh_jid=8092731",
       "date_posted": 1785461912,
+      "flags": []
+    },
+    {
+      "company": "Nvidia",
+      "title": "Senior Software Engineer, AIOps and Observability",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Software-Engineer--AIOps-and-Observability_JR2022104",
+      "date_posted": 1785456000,
       "flags": []
     },
     {
@@ -2448,6 +2570,14 @@
       "location": "New York - Remote",
       "url": "https://jobs.ashbyhq.com/socure/4aba09cb-32f2-4a45-8815-88515f9711af/application",
       "date_posted": 1785261885,
+      "flags": []
+    },
+    {
+      "company": "Netflix",
+      "title": "Associate Manager, UCAN Marketing Operations",
+      "location": "Los Angeles",
+      "url": "https://netflix.wd108.myworkdayjobs.com/en-US/Netflix/job/Associate-Manager--UCAN-Marketing-Operations_JR41272",
+      "date_posted": 1785196800,
       "flags": []
     },
     {
@@ -2682,6 +2812,14 @@
       "location": "Chicago",
       "url": "https://stripe.com/jobs/search?gh_jid=8044460",
       "date_posted": 1783080062,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Retail Revenue Operations: Sales & Onboarding Operations",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8026998",
+      "date_posted": 1782823339,
       "flags": []
     },
     {
@@ -3055,6 +3193,14 @@
       "flags": []
     },
     {
+      "company": "Asm",
+      "title": "Senior Engineer I, Software Engineering",
+      "location": "US > Arizona > Phoenix",
+      "url": "https://job-boards.greenhouse.io/asm/jobs/4838594101",
+      "date_posted": 1776441968,
+      "flags": []
+    },
+    {
       "company": "Databricks",
       "title": "Lead Engagement Manager, Forward Deployed Engineering - Healthcare & Life Sciences",
       "location": "Central - United States; Northeast - United States; Southeast",
@@ -3068,152 +3214,6 @@
       "location": "San Francisco, CA, US; Remote",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494686",
       "date_posted": 1776208028,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Cloud Security Engineer - K8s",
-      "location": "New York, New York",
-      "url": "https://careers.datadoghq.com/detail/7815616/?gh_jid=7815616",
-      "date_posted": 1776188048,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Services Architect 3 - Denver",
-      "location": "Denver, Colorado",
-      "url": "https://careers.datadoghq.com/detail/7807783/?gh_jid=7807783",
-      "date_posted": 1776091748,
-      "flags": []
-    },
-    {
-      "company": "Brex",
-      "title": "Senior Software Engineer, Frontend",
-      "location": "Seattle, Washington",
-      "url": "https://www.brex.com/careers/8501025002?gh_jid=8501025002",
-      "date_posted": 1775770438,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Revenue Operations Lead",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7686481003",
-      "date_posted": 1775151420,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521",
-      "date_posted": 1774917452,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Frontend/Fullstack Software Engineer, Social Graph",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/7760129?gh_jid=7760129",
-      "date_posted": 1774639621,
-      "flags": []
-    },
-    {
-      "company": "Samsara",
-      "title": "Lead Machine Learning Engineer - ML Infrastructure",
-      "location": "Remote",
-      "url": "https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193",
-      "date_posted": 1774371140,
-      "flags": []
-    },
-    {
-      "company": "Tenstorrent",
-      "title": "Technical Program Manager, Architecture",
-      "location": "Santa Clara, California",
-      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5086977007",
-      "date_posted": 1774288610,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Technical Program Manager, Systems Engineering",
-      "location": "San Francisco, CA,US; Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7733791",
-      "date_posted": 1774029558,
-      "flags": []
-    },
-    {
-      "company": "Adobe",
-      "title": "Sr Machine Learning Engineer",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Sr-Machine-Learning-Engineer-4_R165400-1",
-      "date_posted": 1773619200,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Staff Software Engineer, Solana Staking Protocol",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/7684298?gh_jid=7684298",
-      "date_posted": 1772742297,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Senior Solutions Architect - Consumer Product Goods",
-      "location": "Dallas, Texas; Missouri; Remote - Missouri; Remote - Texas; St. Louis, Missouri; Texas;",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407186002",
-      "date_posted": 1771432357,
-      "flags": []
-    },
-    {
-      "company": "Vercel",
-      "title": "Solutions Architect",
-      "location": "Hybrid - San Francisco, New York City, Austin",
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/5806749004",
-      "date_posted": 1771432316,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Site Reliability Engineer, Networking w/ active TS/SCI",
-      "location": "Maryland; Virginia; Washington, DC",
-      "url": "https://www.okta.com/company/careers/opportunity/7575679?gh_jid=7575679",
-      "date_posted": 1770145016,
-      "flags": [
-        "clearance"
-      ]
-    },
-    {
-      "company": "Rubrik",
-      "title": "Sr. Sales Engineer - Rubrik Agent Cloud",
-      "location": "Colorado, Illinois",
-      "url": "https://www.rubrik.com/company/careers/departments/job.7472096?gh_jid=7472096",
-      "date_posted": 1769534850,
-      "flags": []
-    },
-    {
-      "company": "Tiger Analytics Inc.",
-      "title": "GenAI Engineer",
-      "location": "Remote",
-      "url": "https://jobs.workable.com/view/fQueepDox4aovnr1oKuPJj/remote-genai-engineer-in-canada-at-tiger-analytics-inc.",
-      "date_posted": 1768851452,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Customer Engineer, Public Sector Federal",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7530475?gh_jid=7530475",
-      "date_posted": 1768241812,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Senior Software Engineer, Internal Tooling",
-      "location": "Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7429795",
-      "date_posted": 1767815141,
       "flags": []
     }
   ]
