@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-12T01:06:36.091Z",
+  "generated_at": "2026-09-12T14:09:30.098Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Netskope",
+      "title": "Revenue Accounting Manager",
+      "location": "United States",
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8165199",
+      "date_posted": 1789214107,
+      "flags": []
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Machine Learning Engineer - Fraud",
+      "location": "San Francisco HQ",
+      "url": "https://jobs.ashbyhq.com/plaid/85cd5d07-9920-45fa-931a-daf8c3558e5b/application",
+      "date_posted": 1789192165,
+      "flags": []
+    },
     {
       "company": "Stripe",
       "title": "Partner Solutions Architecture Manager",
@@ -311,6 +327,14 @@
       "flags": []
     },
     {
+      "company": "Asana",
+      "title": "Senior Revenue Accountant",
+      "location": "San Francisco",
+      "url": "https://www.asana.com/jobs/apply/8189390?gh_jid=8189390",
+      "date_posted": 1788986151,
+      "flags": []
+    },
+    {
       "company": "Twilio",
       "title": "Software Engineer (L2), Identity",
       "location": "Remote",
@@ -404,6 +428,14 @@
       "location": "Remote - Maryland, USA; Remote - New Jersey, USA; Remote - North Carolina, USA; Remote - Pennsylvania, USA; Remote - South Carolina, USA; Remote - Virginia, USA; Remote - West Virginia",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5226899007",
       "date_posted": 1788911806,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Tax Operations Intern",
+      "location": "Hybrid - New York, NY",
+      "url": "https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453",
+      "date_posted": 1788908876,
       "flags": []
     },
     {
@@ -679,6 +711,14 @@
       "flags": []
     },
     {
+      "company": "Snowflake",
+      "title": "RVP, SOLUTION ENGINEERING, FINANCIAL SERVICES",
+      "location": "US-NY-New York",
+      "url": "https://jobs.ashbyhq.com/snowflake/edbc6f39-b5db-496e-8b01-debd7893d174/application",
+      "date_posted": 1788535458,
+      "flags": []
+    },
+    {
       "company": "Workday",
       "title": "Senior Software Engineer/Software Engineer III (Data ...",
       "location": "USA, CA, Pleasanton",
@@ -692,6 +732,14 @@
       "location": "Texas",
       "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8045251",
       "date_posted": 1788516085,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Strategic Enterprise Account Executive - Financial Services",
+      "location": "New York City, New York",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8770530002",
+      "date_posted": 1788500171,
       "flags": []
     },
     {
@@ -788,6 +836,14 @@
       "location": "Foster City, California",
       "url": "https://boards.greenhouse.io/zuora/jobs/7966286?gh_jid=7966286",
       "date_posted": 1788449293,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Manager, Financial Systems",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7983767003",
+      "date_posted": 1788447856,
       "flags": []
     },
     {
@@ -1639,6 +1695,14 @@
       "flags": []
     },
     {
+      "company": "Spotify",
+      "title": "Senior Revenue Accountant, Advertising",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/439b6276-df60-4a26-be26-ebdbc0891d4c",
+      "date_posted": 1787772302,
+      "flags": []
+    },
+    {
       "company": "ServiceNow",
       "title": "Director, AI Data & Analytics GTM",
       "location": "Austin, TEXAS",
@@ -1668,6 +1732,14 @@
       "location": "Austin",
       "url": "https://jobs.smartrecruiters.com/Wise/744000145786000",
       "date_posted": 1787760969,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "ServiceNow Senior Solution Sales Executive - Finance & Supply Chain Solutions",
+      "location": "Salt Lake City , Utah",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145776362",
+      "date_posted": 1787758800,
       "flags": []
     },
     {
@@ -1775,6 +1847,14 @@
       "flags": []
     },
     {
+      "company": "Roku",
+      "title": "Treasury Manager",
+      "location": "Santa Monica, California",
+      "url": "https://www.weareroku.com/jobs/8157009?gh_jid=8157009",
+      "date_posted": 1787682605,
+      "flags": []
+    },
+    {
       "company": "Verkada",
       "title": "Security Software Engineering Intern 2027",
       "location": "San Mateo, CA",
@@ -1873,6 +1953,14 @@
       ]
     },
     {
+      "company": "Nvidia",
+      "title": "Senior Applied AI Engineer, Product Simulation",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-AI-Engineer--Product-Simulation_JR2018441",
+      "date_posted": 1787616000,
+      "flags": []
+    },
+    {
       "company": "Okta",
       "title": "Program Manager, ISV Ecosystem",
       "location": "Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",
@@ -1934,6 +2022,14 @@
       "location": "Minneapolis",
       "url": "https://job-boards.greenhouse.io/anaplan/jobs/8742271002",
       "date_posted": 1787584730,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Technical Account Manager, Billing",
+      "location": "San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8142304",
+      "date_posted": 1787584503,
       "flags": []
     },
     {
@@ -2073,6 +2169,14 @@
       "flags": []
     },
     {
+      "company": "Brex",
+      "title": "Business Development (Embedded Finance) Director",
+      "location": "New York, New York",
+      "url": "https://www.brex.com/careers/8735431002?gh_jid=8735431002",
+      "date_posted": 1787277312,
+      "flags": []
+    },
+    {
       "company": "Symbotic",
       "title": "Staff AI Data Analytics Engineer",
       "location": "USA Wilmington, MA - HQ",
@@ -2110,6 +2214,14 @@
       "location": "San Francisco HQ",
       "url": "https://jobs.ashbyhq.com/plaid/a40369be-a709-485d-b666-4d68e4370917/application",
       "date_posted": 1787253756,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Senior Tax and Compliance Analyst (Payroll)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8141746",
+      "date_posted": 1787249476,
       "flags": []
     },
     {
@@ -2661,6 +2773,14 @@
       "flags": []
     },
     {
+      "company": "Netflix",
+      "title": "Analytics Engineer 5 - Content & Studio",
+      "location": "USA - Remote",
+      "url": "https://netflix.wd108.myworkdayjobs.com/en-US/Netflix/job/Analytics-Engineer-5---Content---Studio_JR41240",
+      "date_posted": 1785283200,
+      "flags": []
+    },
+    {
       "company": "Socure",
       "title": "Senior Pre-Sales Solution Consulting, Gaming",
       "location": "New York - Remote",
@@ -2674,6 +2794,14 @@
       "location": "Los Angeles",
       "url": "https://netflix.wd108.myworkdayjobs.com/en-US/Netflix/job/Associate-Manager--UCAN-Marketing-Operations_JR41272",
       "date_posted": 1785196800,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Sr. Manager, GTM FP&A",
+      "location": "San Francisco, California",
+      "url": "https://www.okta.com/company/careers/opportunity/8088636?gh_jid=8088636",
+      "date_posted": 1785191030,
       "flags": []
     },
     {
@@ -2733,6 +2861,14 @@
       "flags": []
     },
     {
+      "company": "Cloudflare",
+      "title": "Vice President, Internal Audit",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8080851?gh_jid=8080851",
+      "date_posted": 1784849273,
+      "flags": []
+    },
+    {
       "company": "Okta",
       "title": "Staff Site Reliability Engineer, EPG (FedRAMP)",
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
@@ -2746,6 +2882,14 @@
       "location": "Palo Alto; San Francisco",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8072839",
       "date_posted": 1784582413,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Manager, Financial Planning & Analysis",
+      "location": "Austin; New York City",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8072504",
+      "date_posted": 1784568445,
       "flags": []
     },
     {
@@ -2796,6 +2940,14 @@
       "location": "San Francisco",
       "url": "https://turo.wd12.myworkdayjobs.com/en-US/Turo_careers/job/Senior-Data-Engineer--Data-Platform-_R-102481",
       "date_posted": 1784246400,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Sr Finance Manager, GTM",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8064148?gh_jid=8064148",
+      "date_posted": 1784226994,
       "flags": []
     },
     {
@@ -2855,6 +3007,14 @@
       "flags": []
     },
     {
+      "company": "Zoox",
+      "title": "Senior Program Controller",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/ac3b7bb9-71f8-4804-a576-f21343180b72",
+      "date_posted": 1783640330,
+      "flags": []
+    },
+    {
       "company": "Toast",
       "title": "Software Engineer, Orders API",
       "location": "Boston, MA",
@@ -2876,6 +3036,14 @@
       "location": "Remote in the",
       "url": "https://stripe.com/jobs/search?gh_jid=8042055",
       "date_posted": 1783434896,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Senior Financial Analyst, North America Sales & Operations Finance",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8025116",
+      "date_posted": 1783380381,
       "flags": []
     },
     {
@@ -3025,6 +3193,14 @@
       "flags": []
     },
     {
+      "company": "Lyft",
+      "title": "Internal Audit Manager",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8588463002?gh_jid=8588463002",
+      "date_posted": 1781496352,
+      "flags": []
+    },
+    {
       "company": "Plaid",
       "title": "Enterprise Sales Engineer - Sales Engineering",
       "location": "San Francisco HQ",
@@ -3038,182 +3214,6 @@
       "location": "Remote",
       "url": "https://careers.toasttab.com/jobs?gh_jid=7979861",
       "date_posted": 1781037903,
-      "flags": []
-    },
-    {
-      "company": "Duolingo",
-      "title": "Senior Software Engineer, Backend",
-      "location": "Pittsburgh, PA",
-      "url": "https://careers.duolingo.com/jobs/8584012002?gh_jid=8584012002",
-      "date_posted": 1781018833,
-      "flags": []
-    },
-    {
-      "company": "Nuro",
-      "title": "Senior Systems Test Engineer, Autonomy Behavior",
-      "location": "Mountain View, California (HQ)",
-      "url": "https://nuro.ai/careersitem?gh_jid=7736044",
-      "date_posted": 1780950995,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer - Safety Experience",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/7985997?gh_jid=7985997",
-      "date_posted": 1780935596,
-      "flags": []
-    },
-    {
-      "company": "Anaplan",
-      "title": "Principal Data Scientist - AI",
-      "location": "Pennsylvania-Remote",
-      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8580719002",
-      "date_posted": 1780756494,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Staff Solutions Architect, Opportunity LifeCycle Management",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7979240",
-      "date_posted": 1780667132,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Staff Software Engineer, Onboarding",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7961154",
-      "date_posted": 1780522213,
-      "flags": []
-    },
-    {
-      "company": "TransPerfect",
-      "title": "QA Automation Engineer (Mid–Senior Level)",
-      "location": "Casablanca, Casablanca-Settat, Morocco",
-      "url": "https://transperfect.com/o/qa-automation-engineer-midsenior-level/c/new",
-      "date_posted": 1780414853,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
-      "location": "New York, New York",
-      "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
-      "date_posted": 1780341568,
-      "flags": []
-    },
-    {
-      "company": "Netskope",
-      "title": "Sr. Solutions Engineer",
-      "location": "California",
-      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7942319",
-      "date_posted": 1780094512,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Software Engineer, Operational Tools",
-      "location": "Foster City, CA",
-      "url": "https://jobs.lever.co/zoox/c8ca7105-5044-49ee-88d3-cf6b7145a2ec",
-      "date_posted": 1780081741,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Software Engineer, ML Performance Optimization",
-      "location": "Foster City, CA",
-      "url": "https://jobs.lever.co/zoox/bc11276c-8db7-426e-9d00-d41c2097723a",
-      "date_posted": 1780007689,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Software Engineer (AI-Native), Database Engineering",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/073c91f2-0758-4544-9297-3f48a81fb04d/application",
-      "date_posted": 1779845890,
-      "flags": []
-    },
-    {
-      "company": "Benchling",
-      "title": "Agentic AI Engineer",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/benchling/d5896e95-fed2-4cd4-b104-1ea4df92f7d7/application",
-      "date_posted": 1779486931,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Security Compliance Architect",
-      "location": "Remote - USA; San Jose, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5140589007",
-      "date_posted": 1779462582,
-      "flags": []
-    },
-    {
-      "company": "Verkada",
-      "title": "Staff Software Engineer - Detection and Response Platform",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5143766007",
-      "date_posted": 1779337133,
-      "flags": []
-    },
-    {
-      "company": "Saviynt",
-      "title": "AI Platform Engineer, Training and Inference",
-      "location": "Milpitas, California",
-      "url": "https://jobs.lever.co/saviynt/9a8661ce-8856-4977-87f4-b06567125e28",
-      "date_posted": 1779124421,
-      "flags": []
-    },
-    {
-      "company": "Roku",
-      "title": "Senior Machine Learning Engineer, Search",
-      "location": "San Jose, California",
-      "url": "https://www.weareroku.com/jobs/7931292?gh_jid=7931292",
-      "date_posted": 1778885794,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Staff Product Manager - Enterprise AI",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7918885",
-      "date_posted": 1778692819,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Staff Software Development Engineer (Microservices)",
-      "location": "San Jose, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5105258007",
-      "date_posted": 1778686925,
-      "flags": []
-    },
-    {
-      "company": "Blend360",
-      "title": "SVP, Agentic Transformation",
-      "location": "Columbia, MD",
-      "url": "https://jobs.smartrecruiters.com/Blend360/744000126143119",
-      "date_posted": 1778606969,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Lead Engagement Manager, Forward Deployed Engineering - Digital Native Business",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423291002",
-      "date_posted": 1778537608,
-      "flags": []
-    },
-    {
-      "company": "Roku",
-      "title": "Technical Architect - Business Applications",
-      "location": "New York, New York",
-      "url": "https://www.weareroku.com/jobs/7908405?gh_jid=7908405",
-      "date_posted": 1778503250,
       "flags": []
     }
   ]
