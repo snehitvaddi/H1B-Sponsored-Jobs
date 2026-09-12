@@ -3,9 +3,65 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-11T15:02:26.553Z",
+  "generated_at": "2026-09-12T01:06:36.091Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Stripe",
+      "title": "Partner Solutions Architecture Manager",
+      "location": "NY, SF, Chicago, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8175651",
+      "date_posted": 1789157126,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Loan Origination and Reporting)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7906337003",
+      "date_posted": 1789155106,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Product Manager, Email Security",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8173954?gh_jid=8173954",
+      "date_posted": 1789155011,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Data Analyst Intern (Summer 2027)",
+      "location": "New York, NY",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002",
+      "date_posted": 1789154457,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Senior Sales Engineer - Army",
+      "location": "Remote - Maryland, USA; Remote - Virginia",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5235465007",
+      "date_posted": 1789152382,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Software Engineer - Security Foundations",
+      "location": "US-WA-Bellevue",
+      "url": "https://jobs.ashbyhq.com/snowflake/1c90dd70-ffa8-4a50-844d-00a3e8726bd3/application",
+      "date_posted": 1789142770,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Public Relations Manager, Partnerships",
+      "location": "Mountain View, CA, USA; San Francisco, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8120390",
+      "date_posted": 1789136594,
+      "flags": []
+    },
     {
       "company": "Rubrik",
       "title": "Site Reliability Engineer- FedRAMP",
@@ -172,6 +228,30 @@
       "location": "Santa Clara, California",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148663539",
       "date_posted": 1789007273,
+      "flags": []
+    },
+    {
+      "company": "Intel",
+      "title": "AI Software Engineering PhD Intern",
+      "location": "US, Arizona, Phoenix",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730",
+      "date_posted": 1788998400,
+      "flags": []
+    },
+    {
+      "company": "Kla",
+      "title": "AI Software Engineer|Manufacturing",
+      "location": "Ann Arbor, MI",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/AnnArbor/job/Ann-Arbor-MI/AI-Software-Engineer-Manufacturing_2640648",
+      "date_posted": 1788998400,
+      "flags": []
+    },
+    {
+      "company": "Pfizer",
+      "title": "Director, Data Integration Engineer",
+      "location": "United States - New York - New York City",
+      "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Director--Data-Integration-Engineer_4963451-1",
+      "date_posted": 1788998400,
       "flags": []
     },
     {
@@ -428,6 +508,14 @@
       "location": "West Palm Beach, Florida",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148303489",
       "date_posted": 1788887044,
+      "flags": []
+    },
+    {
+      "company": "Zoox",
+      "title": "Software Engineer - Pipeline Infrastructure & Integration",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/978e36ef-e8e9-4874-ade6-f33a80e46309",
+      "date_posted": 1788885986,
       "flags": []
     },
     {
@@ -923,6 +1011,14 @@
       "title": "Translational AI Engineer",
       "location": "USA - MA - Cambridge Kendall Sq. 610 Main",
       "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Massachusetts---Cambridge/Translational-AI-Engineer_4962398-1",
+      "date_posted": 1788307200,
+      "flags": []
+    },
+    {
+      "company": "Mckesson",
+      "title": "Data Analyst Intern - Summer 2027",
+      "location": "USA, OH, Columbus",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844",
       "date_posted": 1788307200,
       "flags": []
     },
@@ -3118,102 +3214,6 @@
       "location": "New York, New York",
       "url": "https://www.weareroku.com/jobs/7908405?gh_jid=7908405",
       "date_posted": 1778503250,
-      "flags": []
-    },
-    {
-      "company": "Tiger Analytics Inc.",
-      "title": "Sr. Site Reliability Engineer",
-      "location": "Washington, District of Columbia",
-      "url": "https://apply.workable.com/j/AF0D1A3499/apply",
-      "date_posted": 1778198400,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Staff Technical Program Manager - Compliance Architecture",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5074405007",
-      "date_posted": 1778014172,
-      "flags": []
-    },
-    {
-      "company": "Launchdarkly",
-      "title": "Technical and Agentic Enablement Lead",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7724911003",
-      "date_posted": 1778008677,
-      "flags": []
-    },
-    {
-      "company": "Verkada",
-      "title": "Technical Content Architect",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5128183007",
-      "date_posted": 1777923901,
-      "flags": []
-    },
-    {
-      "company": "Smartsheet",
-      "title": "Sr. Forward Deployed AI Engineer (Remote Eligible in the UK)",
-      "location": "-REMOTE, UK",
-      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/7873872",
-      "date_posted": 1777638690,
-      "flags": []
-    },
-    {
-      "company": "Netskope",
-      "title": "Channel Solutions Engineer -North Central Region",
-      "location": "Illinois",
-      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7861730",
-      "date_posted": 1777516270,
-      "flags": []
-    },
-    {
-      "company": "Spotify",
-      "title": "Senior Staff Machine Learning Engineer, Content Platform",
-      "location": "New York, NY",
-      "url": "https://jobs.lever.co/spotify/47d4eabf-8d5a-4dab-ac72-de7b5b56841c",
-      "date_posted": 1777466429,
-      "flags": []
-    },
-    {
-      "company": "Zuora",
-      "title": "Software Engineer (Payment)",
-      "location": "Foster City, California",
-      "url": "https://boards.greenhouse.io/zuora/jobs/7845455?gh_jid=7845455",
-      "date_posted": 1777411324,
-      "flags": []
-    },
-    {
-      "company": "Flexport",
-      "title": "Staff Software Engineer, Autonomous Freight Systems",
-      "location": "San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/7819181",
-      "date_posted": 1777045146,
-      "flags": []
-    },
-    {
-      "company": "Asm",
-      "title": "Senior Engineer I, Software Engineering",
-      "location": "US > Arizona > Phoenix",
-      "url": "https://job-boards.greenhouse.io/asm/jobs/4838594101",
-      "date_posted": 1776441968,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Lead Engagement Manager, Forward Deployed Engineering - Healthcare & Life Sciences",
-      "location": "Central - United States; Northeast - United States; Southeast",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438803002",
-      "date_posted": 1776371206,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Technical Program Manager, Monetization Data Science",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494686",
-      "date_posted": 1776208028,
       "flags": []
     }
   ]
