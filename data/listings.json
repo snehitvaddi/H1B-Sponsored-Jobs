@@ -3,9 +3,17 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-12T14:09:30.098Z",
+  "generated_at": "2026-09-13T00:59:54.450Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Anaplan",
+      "title": "Director of ISV and Strategic Growth Partners",
+      "location": "New York-Remote, MN",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8805253002",
+      "date_posted": 1789236621,
+      "flags": []
+    },
     {
       "company": "Netskope",
       "title": "Revenue Accounting Manager",
@@ -20,6 +28,14 @@
       "location": "San Francisco HQ",
       "url": "https://jobs.ashbyhq.com/plaid/85cd5d07-9920-45fa-931a-daf8c3558e5b/application",
       "date_posted": 1789192165,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Senior Software Engineer, Community Builders",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8192057",
+      "date_posted": 1789166575,
       "flags": []
     },
     {
@@ -271,6 +287,14 @@
       "flags": []
     },
     {
+      "company": "Workday",
+      "title": "Sr Customer Success Manager",
+      "location": "USA, MA, Boston",
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-MA-Boston/Sr-Customer-Success-Manager_JR-0109833",
+      "date_posted": 1788998400,
+      "flags": []
+    },
+    {
       "company": "Snowflake",
       "title": "AI Systems Research and Development Engineer – LLM Inference Systems & Optimization",
       "location": "US-WA-Bellevue",
@@ -419,6 +443,14 @@
       "title": "Senior/Lead Full Stack Software Engineer",
       "location": "California - San Francisco",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Lead-Full-Stack-Software-Engineer_JR359438-1",
+      "date_posted": 1788912000,
+      "flags": []
+    },
+    {
+      "company": "Salesforce",
+      "title": "Customer Success Manager – Digital (Marketing & Commerce) Clouds",
+      "location": "Indiana - Indianapolis",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Customer-Success-Manager---Digital--Marketing---Commerce--Clouds_JR332573",
       "date_posted": 1788912000,
       "flags": []
     },
@@ -1559,6 +1591,14 @@
       "flags": []
     },
     {
+      "company": "Waymo",
+      "title": "Senior FP&A Analyst, Operations",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8157691",
+      "date_posted": 1787866934,
+      "flags": []
+    },
+    {
       "company": "Elastic",
       "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
       "location": "United States",
@@ -2297,6 +2337,14 @@
       "flags": []
     },
     {
+      "company": "Nuro",
+      "title": "Senior Manager, FP&A",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8114353",
+      "date_posted": 1787028720,
+      "flags": []
+    },
+    {
       "company": "Nvidia",
       "title": "Senior Applied AI Engineer, Cybersecurity",
       "location": "US, CA, Remote",
@@ -2382,6 +2430,14 @@
       "location": "New York, NY",
       "url": "https://jobs.lever.co/spotify/cb45b193-9f92-4e9b-b936-8a738eed5fdc",
       "date_posted": 1786642405,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Staff Analyst, GTM Analytics",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/c6034a32-de0f-407f-b9cb-7e05b4d20c99/application",
+      "date_posted": 1786636466,
       "flags": []
     },
     {
@@ -2677,6 +2733,14 @@
       "flags": []
     },
     {
+      "company": "ServiceNow",
+      "title": "Staff Inbound Product Manager",
+      "location": "Orlando, Florida",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000141575829",
+      "date_posted": 1785874604,
+      "flags": []
+    },
+    {
       "company": "Zscaler",
       "title": "Principal Specialist Sales Engineer, Zero Trust Branch - Majors, West",
       "location": "Remote - Arizona, USA; Remote - California, USA; Remote - Colorado, USA; Remote - Idaho, USA; Remote - Iowa, USA; Remote - Minnesota, USA; Remote - Montana, USA; Remote - Nebraska, USA; Remote - Nevada, USA; Remote - New Mexico, USA; Remote - North Dakota, USA; Remote - Oregon, USA; Remote - South Dakota, USA; Remote - Utah, USA; Remote - Washington, USA; Remote - Wisconsin, USA; Remote - Wyoming",
@@ -2737,6 +2801,14 @@
       "title": "Full-Stack Engineer",
       "location": "San Jose",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Full-Stack-Engineer_R170948",
+      "date_posted": 1785369600,
+      "flags": []
+    },
+    {
+      "company": "Adobe",
+      "title": "Product Designer, Acrobat Mobile Growth",
+      "location": "San Francisco",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Product-Designer--Acrobat-Mobile-Growth_R170472-1",
       "date_posted": 1785369600,
       "flags": []
     },
@@ -3007,6 +3079,14 @@
       "flags": []
     },
     {
+      "company": "Confluent",
+      "title": "Staff Security Risk & Compliance Program Manager - Access Management",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/confluent/39143513-ad4c-41fb-86ed-b939a66e53d2/application",
+      "date_posted": 1783701022,
+      "flags": []
+    },
+    {
       "company": "Zoox",
       "title": "Senior Program Controller",
       "location": "Foster City, CA",
@@ -3095,6 +3175,14 @@
       "flags": []
     },
     {
+      "company": "Amadeus",
+      "title": "Customer Success Manager",
+      "location": "Maitland",
+      "url": "https://amadeus.wd502.myworkdayjobs.com/en-US/jobs/job/Customer-Success-Manager_R35722",
+      "date_posted": 1782777600,
+      "flags": []
+    },
+    {
       "company": "Datadog",
       "title": "Senior Sales Engineer - Ohio Valley",
       "location": "Ohio, USA, Remote",
@@ -3124,96 +3212,6 @@
       "location": "New York City",
       "url": "https://job-boards.greenhouse.io/braze/jobs/8017295",
       "date_posted": 1781820549,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Technical Program Manager, CX Intelligence & AI",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8013948?gh_jid=8013948",
-      "date_posted": 1781807247,
-      "flags": []
-    },
-    {
-      "company": "Roku",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Austin, Texas",
-      "url": "https://www.weareroku.com/jobs/7974536?gh_jid=7974536",
-      "date_posted": 1781804854,
-      "flags": []
-    },
-    {
-      "company": "Leidos",
-      "title": "Senior Salesforce Developer Architect",
-      "location": "8744 Gaithersburg MD Home Office",
-      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Senior-Salesforce-Developer-Architect_R-00185757",
-      "date_posted": 1781740800,
-      "flags": [
-        "clearance"
-      ]
-    },
-    {
-      "company": "Okta",
-      "title": "Technical Architect",
-      "location": "Washington, DC",
-      "url": "https://www.okta.com/company/careers/opportunity/8011143?gh_jid=8011143",
-      "date_posted": 1781719374,
-      "flags": []
-    },
-    {
-      "company": "Data",
-      "title": "Cloud Engineer - Data",
-      "location": "National Harbor, Maryland",
-      "url": "https://jobs.lever.co/go-cloudforce/d108470e-8138-4069-a98d-8e449e03bb96",
-      "date_posted": 1781655776,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Staff Product Manager I, Ad Serving",
-      "location": "New York, NY",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8594167002?gh_jid=8594167002",
-      "date_posted": 1781629791,
-      "flags": []
-    },
-    {
-      "company": "Qualtrics",
-      "title": "Machine Learning Engineer II",
-      "location": "Seattle, Washington",
-      "url": "https://www.qualtrics.com/careers/us/en/job/8003475?gh_jid=8003475",
-      "date_posted": 1781543764,
-      "flags": []
-    },
-    {
-      "company": "Klaviyo",
-      "title": "Sr. Software Engineer, AI Enablement",
-      "location": "Boston, MA",
-      "url": "https://www.klaviyo.com/careers/jobs/7688416003?gh_jid=7688416003",
-      "date_posted": 1781538258,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Internal Audit Manager",
-      "location": "San Francisco, CA",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8588463002?gh_jid=8588463002",
-      "date_posted": 1781496352,
-      "flags": []
-    },
-    {
-      "company": "Plaid",
-      "title": "Enterprise Sales Engineer - Sales Engineering",
-      "location": "San Francisco HQ",
-      "url": "https://jobs.ashbyhq.com/plaid/18208822-26ee-4485-a3e7-c9cfb4ad1c66/application",
-      "date_posted": 1781218111,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Senior Product Manager, Toast Now",
-      "location": "Remote",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=7979861",
-      "date_posted": 1781037903,
       "flags": []
     }
   ]
