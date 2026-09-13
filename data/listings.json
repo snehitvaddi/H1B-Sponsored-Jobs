@@ -3,7 +3,7 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-13T00:59:54.450Z",
+  "generated_at": "2026-09-13T14:55:28.764Z",
   "count": 400,
   "jobs": [
     {
@@ -247,6 +247,14 @@
       "flags": []
     },
     {
+      "company": "Natera",
+      "title": "Senior Software Engineer - Commercial Services",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6146411004",
+      "date_posted": 1789056489,
+      "flags": []
+    },
+    {
       "company": "Spotify",
       "title": "Data Scientist - Music Promotion",
       "location": "New York, NY",
@@ -380,6 +388,14 @@
       "location": "LOCATION",
       "url": "https://stripe.com/jobs/search?gh_jid=8185294",
       "date_posted": 1788976122,
+      "flags": []
+    },
+    {
+      "company": "Zuora",
+      "title": "Sr. Analyst, Revenue Operations and Analytics",
+      "location": "Remote",
+      "url": "https://boards.greenhouse.io/zuora/jobs/8137987?gh_jid=8137987",
+      "date_posted": 1788968751,
       "flags": []
     },
     {
@@ -1340,6 +1356,14 @@
       "location": "Foster City, CA",
       "url": "https://jobs.lever.co/zoox/bea6c1d0-09dc-47db-9fff-ed2f33151763",
       "date_posted": 1788207190,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Tax Manager",
+      "location": "Santa Clara, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5200877007",
+      "date_posted": 1788207144,
       "flags": []
     },
     {
@@ -2417,6 +2441,14 @@
       "flags": []
     },
     {
+      "company": "ServiceNow",
+      "title": "Principal Software Engineer - Multi-Cloud - Control Plane - Kubernetes",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000143409629",
+      "date_posted": 1786668690,
+      "flags": []
+    },
+    {
       "company": "Crowdstrike",
       "title": "Sr. Machine Learning Engineer (Remote)",
       "location": "USA CA Remote",
@@ -2753,6 +2785,14 @@
       "title": "Quality Reliability Engineer",
       "location": "USA - AZ - Chandler",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Quality-Reliability-Engineer_JR0286138-1",
+      "date_posted": 1785801600,
+      "flags": []
+    },
+    {
+      "company": "Zillow",
+      "title": "Principal Analytics Engineer",
+      "location": "Remote",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Principal-Analytics-Engineer_P751074-1",
       "date_posted": 1785801600,
       "flags": []
     },
@@ -3172,46 +3212,6 @@
       "location": "USA, CA, Pleasanton",
       "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Jobs/job/Salesforce-Developer_JR-0108531/apply",
       "date_posted": 1782777600,
-      "flags": []
-    },
-    {
-      "company": "Amadeus",
-      "title": "Customer Success Manager",
-      "location": "Maitland",
-      "url": "https://amadeus.wd502.myworkdayjobs.com/en-US/jobs/job/Customer-Success-Manager_R35722",
-      "date_posted": 1782777600,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Sales Engineer - Ohio Valley",
-      "location": "Ohio, USA, Remote",
-      "url": "https://careers.datadoghq.com/detail/8027427/?gh_jid=8027427",
-      "date_posted": 1782755923,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Technical Recruiter, AI/ML",
-      "location": "Mountain View, California",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8010005",
-      "date_posted": 1782159445,
-      "flags": []
-    },
-    {
-      "company": "Workday",
-      "title": "Senior Software Engineer",
-      "location": "USA, CA, Pleasanton",
-      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Senior-Software-Engineer_JR-0107919",
-      "date_posted": 1782086400,
-      "flags": []
-    },
-    {
-      "company": "Braze",
-      "title": "Team Lead Solutions Consultant, Financial Services",
-      "location": "New York City",
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8017295",
-      "date_posted": 1781820549,
       "flags": []
     }
   ]
