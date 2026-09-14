@@ -3,9 +3,17 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-14T01:04:25.549Z",
+  "generated_at": "2026-09-14T16:58:09.826Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "ServiceNow",
+      "title": "Senior Staff Inbound Product Manager",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149335309",
+      "date_posted": 1789392290,
+      "flags": []
+    },
     {
       "company": "Anaplan",
       "title": "Director of ISV and Strategic Growth Partners",
@@ -2417,6 +2425,14 @@
       "flags": []
     },
     {
+      "company": "Affirm",
+      "title": "Staff Software Engineer, Mobile (App Infrastructure)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
+      "date_posted": 1786748447,
+      "flags": []
+    },
+    {
       "company": "Airbnb",
       "title": "Senior Machine Learning Engineer, Customer Support Engineering",
       "location": "San Francisco, CA",
@@ -2430,6 +2446,14 @@
       "location": "Mountain View, California (HQ)",
       "url": "https://nuro.ai/careersitem?gh_jid=8130943",
       "date_posted": 1786742176,
+      "flags": []
+    },
+    {
+      "company": "Asana",
+      "title": "Head of Technical Revenue Accounting",
+      "location": "San Francisco",
+      "url": "https://www.asana.com/jobs/apply/8104491?gh_jid=8104491",
+      "date_posted": 1786720737,
       "flags": []
     },
     {
@@ -3188,30 +3212,6 @@
       "location": "Mohali, IND",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5173177007",
       "date_posted": 1783236925,
-      "flags": []
-    },
-    {
-      "company": "Roku",
-      "title": "Senior Data Engineer",
-      "location": "San Jose, California",
-      "url": "https://job-boards.greenhouse.io/roku/jobs/8042568",
-      "date_posted": 1783090603,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "AI Engineer",
-      "location": "Chicago",
-      "url": "https://stripe.com/jobs/search?gh_jid=8044460",
-      "date_posted": 1783080062,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Retail Revenue Operations: Sales & Onboarding Operations",
-      "location": "Remote",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8026998",
-      "date_posted": 1782823339,
       "flags": []
     }
   ]
