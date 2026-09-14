@@ -3,7 +3,7 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-13T14:55:28.764Z",
+  "generated_at": "2026-09-14T01:04:25.549Z",
   "count": 400,
   "jobs": [
     {
@@ -3111,6 +3111,14 @@
       "flags": []
     },
     {
+      "company": "Ptc",
+      "title": "Partner Program Specialist",
+      "location": "Boston, MA",
+      "url": "https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Partner-Program-Specialist_JR112445",
+      "date_posted": 1783900800,
+      "flags": []
+    },
+    {
       "company": "Rubrik",
       "title": "Strategic Sales Engineer",
       "location": "Seattle, WA",
@@ -3204,14 +3212,6 @@
       "location": "Remote",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8026998",
       "date_posted": 1782823339,
-      "flags": []
-    },
-    {
-      "company": "Workday",
-      "title": "Salesforce Developer",
-      "location": "USA, CA, Pleasanton",
-      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Jobs/job/Salesforce-Developer_JR-0108531/apply",
-      "date_posted": 1782777600,
       "flags": []
     }
   ]
