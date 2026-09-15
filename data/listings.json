@@ -3,9 +3,49 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-15T01:28:03.861Z",
+  "generated_at": "2026-09-15T15:34:34.825Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - Data Engineering (Healthcare & Life Sciences)",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8717331002",
+      "date_posted": 1789444267,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Software Engineer, Payins Card Networks",
+      "location": "Seattle, WA",
+      "url": "https://stripe.com/jobs/search?gh_jid=8198207",
+      "date_posted": 1789422368,
+      "flags": []
+    },
+    {
+      "company": "Zoox",
+      "title": "Technical Program Manager - Body & Closures",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/92aa7d9b-2a89-4e3e-b48e-7b2fc5fa1e9e",
+      "date_posted": 1789422061,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+      "location": "Seattle, WA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8806969002?gh_jid=8806969002",
+      "date_posted": 1789420190,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899",
+      "date_posted": 1789412600,
+      "flags": []
+    },
     {
       "company": "Databricks",
       "title": "Sr. Manager, Field Engineering - Sports",
@@ -28,6 +68,14 @@
       "location": "San Francisco, California",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
       "date_posted": 1789402104,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Staff Technical Product Manager - Quote to Cash",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149362100",
+      "date_posted": 1789398321,
       "flags": []
     },
     {
@@ -3053,6 +3101,14 @@
       "flags": []
     },
     {
+      "company": "Airbnb",
+      "title": "Workplace Operations Program Manager",
+      "location": "San Francisco",
+      "url": "https://careers.airbnb.com/positions/8079378?gh_jid=8079378",
+      "date_posted": 1784729344,
+      "flags": []
+    },
+    {
       "company": "Okta",
       "title": "Staff Site Reliability Engineer, EPG (FedRAMP)",
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
@@ -3156,62 +3212,6 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8053199?gh_jid=8053199",
       "date_posted": 1784047756,
-      "flags": []
-    },
-    {
-      "company": "Quantiphi",
-      "title": "Senior Machine Learning Engineer",
-      "location": "USA - Remote",
-      "url": "https://quantiphi.wd1.myworkdayjobs.com/en-US/Careers_at_Quantiphi/job/Senior-Machine-Learning-Engineer_JR11018",
-      "date_posted": 1784026914,
-      "flags": []
-    },
-    {
-      "company": "Humana",
-      "title": "Lead Data Engineer - Primary Care",
-      "location": "Remote",
-      "url": "https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Lead-Data-Engineer---Primary-Care_R-416497",
-      "date_posted": 1783987200,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Solutions Architect - Retail, Travel & Hospitality",
-      "location": "Charlotte, North Carolina; Raleigh, North Carolina; Remote - North Carolina",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8607059002",
-      "date_posted": 1783965783,
-      "flags": []
-    },
-    {
-      "company": "Ptc",
-      "title": "Partner Program Specialist",
-      "location": "Boston, MA",
-      "url": "https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Partner-Program-Specialist_JR112445",
-      "date_posted": 1783900800,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Strategic Sales Engineer",
-      "location": "Seattle, WA",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8054518?gh_jid=8054518",
-      "date_posted": 1783710274,
-      "flags": []
-    },
-    {
-      "company": "Confluent",
-      "title": "Staff Security Risk & Compliance Program Manager - Access Management",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/confluent/39143513-ad4c-41fb-86ed-b939a66e53d2/application",
-      "date_posted": 1783701022,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Senior Program Controller",
-      "location": "Foster City, CA",
-      "url": "https://jobs.lever.co/zoox/ac3b7bb9-71f8-4804-a576-f21343180b72",
-      "date_posted": 1783640330,
       "flags": []
     }
   ]
