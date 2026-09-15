@@ -3,9 +3,41 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-14T16:58:09.826Z",
+  "generated_at": "2026-09-15T01:28:03.861Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Databricks",
+      "title": "Sr. Manager, Field Engineering - Sports",
+      "location": "Northeast",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8716314002",
+      "date_posted": 1789408661,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer- Wallets, Liquidity & Bridging",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8197831?gh_jid=8197831",
+      "date_posted": 1789402366,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS, Software Engineer",
+      "location": "San Francisco, California",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+      "date_posted": 1789402104,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Software Engineer, Internal Fraud Platform",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8185561?gh_jid=8185561",
+      "date_posted": 1789396268,
+      "flags": []
+    },
     {
       "company": "ServiceNow",
       "title": "Senior Staff Inbound Product Manager",
@@ -132,6 +164,14 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
       "date_posted": 1789101415,
+      "flags": []
+    },
+    {
+      "company": "Paypal",
+      "title": "Staff Software Engineer - BE Python",
+      "location": "San Jose, California",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Staff-Software-Engineer---BE-Python_R0134436-1",
+      "date_posted": 1789084800,
       "flags": []
     },
     {
@@ -475,6 +515,14 @@
       "title": "Customer Success Manager – Digital (Marketing & Commerce) Clouds",
       "location": "Indiana - Indianapolis",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Customer-Success-Manager---Digital--Marketing---Commerce--Clouds_JR332573",
+      "date_posted": 1788912000,
+      "flags": []
+    },
+    {
+      "company": "Nvidia",
+      "title": "Senior Software Engineer, Cloud-Native Stack – CSP Engagements",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Software-Engineer--Cloud-Native-Stack---CSP-Engagements_JR2001098",
       "date_posted": 1788912000,
       "flags": []
     },
@@ -3164,54 +3212,6 @@
       "location": "Foster City, CA",
       "url": "https://jobs.lever.co/zoox/ac3b7bb9-71f8-4804-a576-f21343180b72",
       "date_posted": 1783640330,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Software Engineer, Orders API",
-      "location": "Boston, MA",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8039434",
-      "date_posted": 1783554636,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Staff Technical Program Manager",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8049762",
-      "date_posted": 1783459980,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Technical Program Manager, Money-as-a-Service",
-      "location": "Remote in the",
-      "url": "https://stripe.com/jobs/search?gh_jid=8042055",
-      "date_posted": 1783434896,
-      "flags": []
-    },
-    {
-      "company": "Flexport",
-      "title": "Senior Financial Analyst, North America Sales & Operations Finance",
-      "location": "San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/8025116",
-      "date_posted": 1783380381,
-      "flags": []
-    },
-    {
-      "company": "Workday",
-      "title": "Sr Analytics Engineer",
-      "location": "USA, GA, Atlanta",
-      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Jobs/job/Sr-Analytics-Engineer_JR-0108667",
-      "date_posted": 1783296000,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Staff Software Development Engineer - AI Engineer",
-      "location": "Mohali, IND",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5173177007",
-      "date_posted": 1783236925,
       "flags": []
     }
   ]
