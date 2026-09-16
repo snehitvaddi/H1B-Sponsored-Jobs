@@ -2,10 +2,66 @@
   "source": "ApplyLoop",
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
-  "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-16T01:24:54.361Z",
+  "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
+  "generated_at": "2026-09-16T15:25:43.682Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Netskope",
+      "title": "Solutions Engineer",
+      "location": "Massachusetts",
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8207753",
+      "date_posted": 1789566344,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Principal Customer Engineer, Majors",
+      "location": "Distributed",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8200786?gh_jid=8200786",
+      "date_posted": 1789551341,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Client Partner, Pinterest Spark",
+      "location": "US Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8206769",
+      "date_posted": 1789523161,
+      "flags": []
+    },
+    {
+      "company": "Zoox",
+      "title": "Program Manager, Fleet Readiness & Response",
+      "location": "Las Vegas, NV",
+      "url": "https://jobs.lever.co/zoox/29783182-a9c1-444b-bfc4-74cad9a32476",
+      "date_posted": 1789522501,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Staff Solution Designer",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149732679",
+      "date_posted": 1789514531,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Sr. Staff Technical Program Manager",
+      "location": "Remote - USA; San Jose, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5225789007",
+      "date_posted": 1789514214,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Machine Learning Engineer L2",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8178588",
+      "date_posted": 1789510941,
+      "flags": []
+    },
     {
       "company": "Zoox",
       "title": "Technical Program Manager, Manufacturing",
@@ -819,6 +875,30 @@
       "title": "Data Engineer",
       "location": "Orem, UT",
       "url": "https://sunpower.breezy.hr/p/ac3ec921b870-data-engineer",
+      "date_posted": 1788825600,
+      "flags": []
+    },
+    {
+      "company": "Workday",
+      "title": "Machine Learning Engineer III",
+      "location": "USA, CA, Pleasanton",
+      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Machine-Learning-Engineer_JR-0106147",
+      "date_posted": 1788825600,
+      "flags": []
+    },
+    {
+      "company": "Medtronic",
+      "title": "Principal Software Engineer - Signals & Algorithm Interfaces (Python/C++)",
+      "location": "Newton, Massachusetts",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Principal-Software-Engineer---Signals---Algorithm-Interfaces--Python-C---_R65929-1",
+      "date_posted": 1788825600,
+      "flags": []
+    },
+    {
+      "company": "Morningstar",
+      "title": "Senior Accountant",
+      "location": "Chicago",
+      "url": "https://morningstar.wd5.myworkdayjobs.com/en-US/morningstar/job/Chicago/Senior-Accountant_REQ-058073",
       "date_posted": 1788825600,
       "flags": []
     },
@@ -3130,86 +3210,6 @@
       "location": "USA - CA - Folsom",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Information-Security-Engineer_JR0285296",
       "date_posted": 1785283200,
-      "flags": []
-    },
-    {
-      "company": "Netflix",
-      "title": "Analytics Engineer 5 - Content & Studio",
-      "location": "USA - Remote",
-      "url": "https://netflix.wd108.myworkdayjobs.com/en-US/Netflix/job/Analytics-Engineer-5---Content---Studio_JR41240",
-      "date_posted": 1785283200,
-      "flags": []
-    },
-    {
-      "company": "Socure",
-      "title": "Senior Pre-Sales Solution Consulting, Gaming",
-      "location": "New York - Remote",
-      "url": "https://jobs.ashbyhq.com/socure/4aba09cb-32f2-4a45-8815-88515f9711af/application",
-      "date_posted": 1785261885,
-      "flags": []
-    },
-    {
-      "company": "Netflix",
-      "title": "Associate Manager, UCAN Marketing Operations",
-      "location": "Los Angeles",
-      "url": "https://netflix.wd108.myworkdayjobs.com/en-US/Netflix/job/Associate-Manager--UCAN-Marketing-Operations_JR41272",
-      "date_posted": 1785196800,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Sr. Manager, GTM FP&A",
-      "location": "San Francisco, California",
-      "url": "https://www.okta.com/company/careers/opportunity/8088636?gh_jid=8088636",
-      "date_posted": 1785191030,
-      "flags": []
-    },
-    {
-      "company": "Whoop",
-      "title": "Security Architect",
-      "location": "Boston, MA",
-      "url": "https://jobs.ashbyhq.com/whoop/727a9e67-4ebe-4a97-9291-e7b3e29d9bf6/application",
-      "date_posted": 1785167215,
-      "flags": []
-    },
-    {
-      "company": "Asana",
-      "title": "Senior Software Engineer, Security Development",
-      "location": "San Francisco",
-      "url": "https://www.asana.com/jobs/apply/8088588?gh_jid=8088588",
-      "date_posted": 1785163027,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Staff Applied Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8649343002?gh_jid=8649343002",
-      "date_posted": 1785101773,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Sr. Staff Software Engineer, Fleet Orchestration, TLM",
-      "location": "Mountain View, CA, United States; San Francisco, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7901943",
-      "date_posted": 1784948465,
-      "flags": []
-    },
-    {
-      "company": "Samsara",
-      "title": "Sr. Software Engineer II, AI Platform",
-      "location": "Remote - SF Bay Area",
-      "url": "https://www.samsara.com/company/careers/roles/8050373?gh_jid=8050373",
-      "date_posted": 1784932126,
-      "flags": []
-    },
-    {
-      "company": "Broadcom",
-      "title": "Java Engineer - REST APIs & Database Systems",
-      "location": "USA-IL Lisle Warrenville Road",
-      "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Java-Engineer---REST-APIs---Database-Systems_R025498",
-      "date_posted": 1784851200,
       "flags": []
     }
   ]
