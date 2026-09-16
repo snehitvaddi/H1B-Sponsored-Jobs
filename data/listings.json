@@ -3,9 +3,97 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role — always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-15T15:34:34.825Z",
+  "generated_at": "2026-09-16T01:24:54.361Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Zoox",
+      "title": "Technical Program Manager, Manufacturing",
+      "location": "Hayward, CA",
+      "url": "https://jobs.lever.co/zoox/300e20c4-8c4b-4325-90aa-473e7d4abe52",
+      "date_posted": 1789505906,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Geometry Systems",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8205219?gh_jid=8205219",
+      "date_posted": 1789504848,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Marketing Analytics Manager",
+      "location": "Chicago, Illinois",
+      "url": "https://www.okta.com/company/careers/opportunity/8204938?gh_jid=8204938",
+      "date_posted": 1789504794,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Product Manager, Employee Experiences",
+      "location": "United States",
+      "url": "https://stripe.com/jobs/search?gh_jid=8203423",
+      "date_posted": 1789502725,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Qualitative UX Researcher, Monetization",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684577",
+      "date_posted": 1789500871,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MBA, Salesforce Product Owner",
+      "location": "Los Angeles, California",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198582",
+      "date_posted": 1789498298,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Sr. Marketing Strategy and Analytics Manager",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8189769",
+      "date_posted": 1789496710,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Senior Software Engineer - iOS",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8780012002?gh_jid=8780012002",
+      "date_posted": 1789489519,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Solution Engineer, Financial Services",
+      "location": "US-NY-New York",
+      "url": "https://jobs.ashbyhq.com/snowflake/0e1ea0b0-bf78-46e6-94d4-673d586271a1/application",
+      "date_posted": 1789489162,
+      "flags": []
+    },
+    {
+      "company": "Spotify",
+      "title": "Backend Engineer, Mimir, Personalization",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/318f73b5-6a78-49c7-b625-ecb1481042b9",
+      "date_posted": 1789488681,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Staff Workday Integration Engineer, Tech Foundations",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8202878?gh_jid=8202878",
+      "date_posted": 1789488280,
+      "flags": []
+    },
     {
       "company": "Databricks",
       "title": "Specialist Solutions Architect - Data Engineering (Healthcare & Life Sciences)",
@@ -592,6 +680,14 @@
     },
     {
       "company": "Coinbase",
+      "title": "User Research Intern",
+      "location": "Hybrid - San Francisco, CA",
+      "url": "https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360",
+      "date_posted": 1788905868,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
       "title": "Software Engineer- Money Movement",
       "location": "Remote",
       "url": "https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946",
@@ -740,6 +836,14 @@
       "location": "United States",
       "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8155161",
       "date_posted": 1788795269,
+      "flags": []
+    },
+    {
+      "company": "Dropbox",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "location": "Remote - US: All locations",
+      "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
+      "date_posted": 1788793606,
       "flags": []
     },
     {
@@ -1020,6 +1124,14 @@
       "location": "Hybrid",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8160660?gh_jid=8160660",
       "date_posted": 1788439183,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Senior Product Designer",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8174226",
+      "date_posted": 1788400124,
       "flags": []
     },
     {
@@ -2641,6 +2753,14 @@
       "flags": []
     },
     {
+      "company": "ServiceNow",
+      "title": "Staff Product Designer, Customer & Partner Experience (CPEX)",
+      "location": "San Diego, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000143173984",
+      "date_posted": 1786565384,
+      "flags": []
+    },
+    {
       "company": "Smartsheet",
       "title": "Sr. CE Program Manager",
       "location": "Bellevue, WA",
@@ -2662,6 +2782,14 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8123084?gh_jid=8123084",
       "date_posted": 1786491877,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Staff Product Designer, Design System",
+      "location": "San Jose, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5205203007",
+      "date_posted": 1786490374,
       "flags": []
     },
     {
@@ -3082,136 +3210,6 @@
       "location": "USA-IL Lisle Warrenville Road",
       "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Java-Engineer---REST-APIs---Database-Systems_R025498",
       "date_posted": 1784851200,
-      "flags": []
-    },
-    {
-      "company": "Tiger Analytics Inc.",
-      "title": "Gen AI Engineer",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/E4D011CBB5/apply",
-      "date_posted": 1784851200,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Vice President, Internal Audit",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8080851?gh_jid=8080851",
-      "date_posted": 1784849273,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Workplace Operations Program Manager",
-      "location": "San Francisco",
-      "url": "https://careers.airbnb.com/positions/8079378?gh_jid=8079378",
-      "date_posted": 1784729344,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Site Reliability Engineer, EPG (FedRAMP)",
-      "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
-      "url": "https://www.okta.com/company/careers/opportunity/8064877?gh_jid=8064877",
-      "date_posted": 1784659298,
-      "flags": []
-    },
-    {
-      "company": "Mongodb",
-      "title": "VP, AI Marketing Strategy",
-      "location": "Palo Alto; San Francisco",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8072839",
-      "date_posted": 1784582413,
-      "flags": []
-    },
-    {
-      "company": "Mongodb",
-      "title": "Senior Manager, Financial Planning & Analysis",
-      "location": "Austin; New York City",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8072504",
-      "date_posted": 1784568445,
-      "flags": []
-    },
-    {
-      "company": "Kla",
-      "title": "AI Software Engineer|Manufacturing",
-      "location": "USA-MI-Ann Arbor-KLA",
-      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/AI-Software-Engineer_2636885-1",
-      "date_posted": 1784505600,
-      "flags": []
-    },
-    {
-      "company": "Ncr",
-      "title": "Senior Site Reliability Engineer – Unified Observability",
-      "location": "Atlanta HQ North Tower Office",
-      "url": "https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/ATLANTA-GA-USA/Senior-Site-Reliability-Engineer---Unified-Observability_R0157786",
-      "date_posted": 1784505600,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Machine Learning Automation Engineer",
-      "location": "Foster City, CA",
-      "url": "https://jobs.lever.co/zoox/b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562",
-      "date_posted": 1784326628,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Staff TDI Site Reliability Engineer, Okta Federal",
-      "location": "San Francisco, California",
-      "url": "https://www.okta.com/company/careers/opportunity/8073062?gh_jid=8073062",
-      "date_posted": 1784322330,
-      "flags": [
-        "clearance"
-      ]
-    },
-    {
-      "company": "Netskope",
-      "title": "Staff Software Development Engineer in Test, PKI",
-      "location": "Santa Clara, California",
-      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8072229",
-      "date_posted": 1784308736,
-      "flags": []
-    },
-    {
-      "company": "Turo",
-      "title": "Senior Data Engineer, Marketing",
-      "location": "San Francisco",
-      "url": "https://turo.wd12.myworkdayjobs.com/en-US/Turo_careers/job/Senior-Data-Engineer--Data-Platform-_R-102481",
-      "date_posted": 1784246400,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Sr Finance Manager, GTM",
-      "location": "Palo Alto, CA",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8064148?gh_jid=8064148",
-      "date_posted": 1784226994,
-      "flags": []
-    },
-    {
-      "company": "Salesforce",
-      "title": "Revenue Cloud Specialist - SE",
-      "location": "Georgia - Remote",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Lead--Specialist-SE_JR341332",
-      "date_posted": 1784160000,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Product Manager - FinTech",
-      "location": "In-Office",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8064473?gh_jid=8064473",
-      "date_posted": 1784145545,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Backend Engineer, Identity Threat Protection",
-      "location": "San Francisco, California",
-      "url": "https://www.okta.com/company/careers/opportunity/8053199?gh_jid=8053199",
-      "date_posted": 1784047756,
       "flags": []
     }
   ]
