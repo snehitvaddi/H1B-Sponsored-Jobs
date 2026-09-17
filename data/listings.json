@@ -3,9 +3,57 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-17T01:24:42.854Z",
+  "generated_at": "2026-09-17T15:33:13.879Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Software Engineer, CDN Configuration Group",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8188899?gh_jid=8188899",
+      "date_posted": 1789643418,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
+      "location": "San Francisco, California",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+      "date_posted": 1789616038,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Technical Program Manager - AppEx",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/4940628b-6b19-47a0-83b2-0fb96353614f/application",
+      "date_posted": 1789612442,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Finance Manager I, Platform",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8189872",
+      "date_posted": 1789600163,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Software Engineer - Ingestion Core team",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8815669002",
+      "date_posted": 1789598943,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Principal Machine Learning Engineer, SecureAI",
+      "location": "San Francisco, California",
+      "url": "https://www.okta.com/company/careers/opportunity/8208377?gh_jid=8208377",
+      "date_posted": 1789597847,
+      "flags": []
+    },
     {
       "company": "Twilio",
       "title": "Executive Communications Director, Chief Product & Technology Officer",
@@ -68,6 +116,22 @@
       "location": "Las Vegas, NV",
       "url": "https://jobs.lever.co/zoox/29783182-a9c1-444b-bfc4-74cad9a32476",
       "date_posted": 1789522501,
+      "flags": []
+    },
+    {
+      "company": "Salesforce",
+      "title": "Staff Backend Product Engineer (SlackBot)",
+      "location": "California - San Francisco",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Staff-Backend-Product-Engineer--SlackBot-_JR359771",
+      "date_posted": 1789516800,
+      "flags": []
+    },
+    {
+      "company": "Davita",
+      "title": "Director, Talent Acquisition",
+      "location": "09507 - Colorado Remote",
+      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/09507---colorado-remote/director--talent-acquisition_r0473785",
+      "date_posted": 1789516800,
       "flags": []
     },
     {
@@ -411,6 +475,14 @@
       "title": "Staff Software Engineer - BE Python",
       "location": "San Jose, California",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Staff-Software-Engineer---BE-Python_R0134436-1",
+      "date_posted": 1789084800,
+      "flags": []
+    },
+    {
+      "company": "Zillow",
+      "title": "Program Manager, HR Compliance",
+      "location": "Remote",
+      "url": "https://zillow.wd5.myworkdayjobs.com/zillow_group_external/job/remote-usa/program-manager--hr-compliance_p751326-1",
       "date_posted": 1789084800,
       "flags": []
     },
@@ -2801,6 +2873,14 @@
       "flags": []
     },
     {
+      "company": "ServiceNow",
+      "title": "Principal Technical Program Manager",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000143924019",
+      "date_posted": 1786998047,
+      "flags": []
+    },
+    {
       "company": "Pinterest",
       "title": "Staff Technical Program Manager, Identity and Product Safety",
       "location": "San Francisco, CA, US; Remote, CA",
@@ -3128,88 +3208,6 @@
       "location": "California - San Francisco",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Backend-Software-Development-Engineer---Senior-Lead-Principal_JR249832",
       "date_posted": 1786233600,
-      "flags": []
-    },
-    {
-      "company": "Adobe",
-      "title": "Senior Data Engineer",
-      "location": "San Francisco",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Senior-Data-Engineer_R170680-1",
-      "date_posted": 1786190695,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Staff Technical Program Manager (Software Deployments)",
-      "location": "San Jose, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5174350007",
-      "date_posted": 1786162338,
-      "flags": []
-    },
-    {
-      "company": "Crowdstrike",
-      "title": "Principal Data Engineer, LLM/AI Platforms (Remote)",
-      "location": "USA TX Remote",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Principal-Data-Engineer--LLM-AI-Platforms--Remote-_R28829",
-      "date_posted": 1785974400,
-      "flags": []
-    },
-    {
-      "company": "Modernatx",
-      "title": "Sr. Technical Program Manager, AI Security",
-      "location": "325 Binney St - Cambridge - USA - MA",
-      "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Sr-Technical-Program-Manager--AI-Security_R19295",
-      "date_posted": 1785974400,
-      "flags": []
-    },
-    {
-      "company": "Crowdstrike",
-      "title": "SRE/Dev Ops Engineer (Hybrid, Sunnyvale)",
-      "location": "Sunnyvale",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/SRE-Dev-Ops-Engineer--Hybrid--Sunnyvale-_R28583",
-      "date_posted": 1785974400,
-      "flags": []
-    },
-    {
-      "company": "Leidos",
-      "title": "Senior AWS Generative AI Solution Engineer",
-      "location": "8744 Gaithersburg MD Home Office",
-      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Senior-AWS-Generative-AI-Solution-Engineer_R-00188621-1",
-      "date_posted": 1785974400,
-      "flags": [
-        "clearance"
-      ]
-    },
-    {
-      "company": "Roblox",
-      "title": "[Summer 2027] Software Engineer Intern",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-      "date_posted": 1785945796,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Senior Solutions Consultant",
-      "location": "Remote",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8097746",
-      "date_posted": 1785941674,
-      "flags": []
-    },
-    {
-      "company": "Zillow",
-      "title": "Machine Learning Engineer, Agentic AI",
-      "location": "Remote",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Machine-Learning-Engineer--Agentic-AI_P749437-2",
-      "date_posted": 1785888000,
-      "flags": []
-    },
-    {
-      "company": "Nvidia",
-      "title": "Senior Software Engineer, CUDA Deep Learning Systems",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-Deep-Learning-Systems_JR2022830",
-      "date_posted": 1785888000,
       "flags": []
     }
   ]
