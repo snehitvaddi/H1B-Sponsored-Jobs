@@ -3,9 +3,41 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-16T15:25:43.682Z",
+  "generated_at": "2026-09-17T01:24:42.854Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Twilio",
+      "title": "Executive Communications Director, Chief Product & Technology Officer",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8208337",
+      "date_posted": 1789596044,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Systems",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8168916?gh_jid=8168916",
+      "date_posted": 1789595056,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+      "location": "Mountain View, California, United States | San Francisco, California",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+      "date_posted": 1789589312,
+      "flags": []
+    },
+    {
+      "company": "Netskope",
+      "title": "Technical Account Manager",
+      "location": "North America",
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8155105",
+      "date_posted": 1789571710,
+      "flags": []
+    },
     {
       "company": "Netskope",
       "title": "Solutions Engineer",
@@ -100,6 +132,14 @@
       "location": "San Francisco, CA, US; Remote",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684577",
       "date_posted": 1789500871,
+      "flags": []
+    },
+    {
+      "company": "Dropbox",
+      "title": "Customer Success Manager",
+      "location": "Remote - US: Select locations",
+      "url": "https://jobs.dropbox.com/listing/8186675?gh_jid=8186675",
+      "date_posted": 1789498739,
       "flags": []
     },
     {
@@ -268,6 +308,14 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8192057",
       "date_posted": 1789166575,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Engineering Onboarding Manager",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7984707003",
+      "date_posted": 1789160088,
       "flags": []
     },
     {
@@ -639,6 +687,14 @@
       "flags": []
     },
     {
+      "company": "Rubrik",
+      "title": "Senior GSI Partner Account Manager - Cognizant / Kyndryl",
+      "location": "Remote",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8132457?gh_jid=8132457",
+      "date_posted": 1788965194,
+      "flags": []
+    },
+    {
       "company": "ServiceNow",
       "title": "Solution Architect, Strategic Portfolio & Enterprise Architecture",
       "location": "Dallas, Texas",
@@ -796,6 +852,14 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8159886?gh_jid=8159886",
       "date_posted": 1788899185,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Technical Account Manager Analyst (New Grad)",
+      "location": "Chicago, Illinois",
+      "url": "https://www.okta.com/company/careers/opportunity/7363101?gh_jid=7363101",
+      "date_posted": 1788898764,
       "flags": []
     },
     {
@@ -1303,6 +1367,14 @@
       "flags": []
     },
     {
+      "company": "Lyft",
+      "title": "Enterprise Account Manager",
+      "location": "New York, NY",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8777403002?gh_jid=8777403002",
+      "date_posted": 1788368051,
+      "flags": []
+    },
+    {
       "company": "Pinterest",
       "title": "Principal Engineer, Big Data Platform",
       "location": "San Francisco, CA, US; Remote",
@@ -1460,6 +1532,14 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8127056?gh_jid=8127056",
       "date_posted": 1788301338,
+      "flags": []
+    },
+    {
+      "company": "Asana",
+      "title": "Senior Implementation Manager",
+      "location": "Chicago",
+      "url": "https://www.asana.com/jobs/apply/8163422?gh_jid=8163422",
+      "date_posted": 1788301171,
       "flags": []
     },
     {
@@ -1868,6 +1948,14 @@
       "location": "San Francisco HQ",
       "url": "https://jobs.ashbyhq.com/plaid/172bb8e8-7dc8-4fdc-ae20-525456989ff4/application",
       "date_posted": 1787938948,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Global Account Manager, Telco",
+      "location": "US-WA-Bellevue",
+      "url": "https://jobs.ashbyhq.com/snowflake/c67fe2e1-f4b6-44ae-989a-f6e9058cb1f2/application",
+      "date_posted": 1787938001,
       "flags": []
     },
     {
@@ -2337,6 +2425,14 @@
       "flags": []
     },
     {
+      "company": "Flexport",
+      "title": "Regional Implementation Manager",
+      "location": "Atlanta, Georgia, United States; Bellevue, Washington, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Denver, Colorado, United States; Los Angeles, California, United States; Miami, Florida, United States; New York City, New York, United States; San Francisco, California, United States; Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8155210",
+      "date_posted": 1787605995,
+      "flags": []
+    },
+    {
       "company": "ServiceNow",
       "title": "Senior Manager - Software Engineering Management - Platform Persistence",
       "location": "Santa Clara, California",
@@ -2358,6 +2454,14 @@
       "location": "Remote",
       "url": "https://www.coinbase.com/careers/positions/8154983?gh_jid=8154983",
       "date_posted": 1787601532,
+      "flags": []
+    },
+    {
+      "company": "Anaplan",
+      "title": "Sr. Customer Success Strategy & Operations Manager",
+      "location": "New York City",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8742733002",
+      "date_posted": 1787595669,
       "flags": []
     },
     {
@@ -2633,6 +2737,14 @@
       "flags": []
     },
     {
+      "company": "Zscaler",
+      "title": "Senior IT Help Desk Specialist",
+      "location": "USA - Update Location",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5212055007",
+      "date_posted": 1787095718,
+      "flags": []
+    },
+    {
       "company": "Databricks",
       "title": "Sr. Solutions Engineer - Games",
       "location": "Northeast",
@@ -2646,6 +2758,14 @@
       "location": "San Francisco, CA",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8688633002?gh_jid=8688633002",
       "date_posted": 1787079869,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Support Specialist, Premium Support",
+      "location": "Nevada",
+      "url": "https://careers.airbnb.com/positions/8132178?gh_jid=8132178",
+      "date_posted": 1787060471,
       "flags": []
     },
     {
@@ -2829,6 +2949,14 @@
       "title": "ML/AI Engineer (Full Time; Multiple Openings)",
       "location": "Belmont",
       "url": "https://ringcentral.wd1.myworkdayjobs.com/en-US/RingCentral_Careers/job/ML-AI-Engineer--Full-Time--Multiple-Openings-_R078414",
+      "date_posted": 1786579200,
+      "flags": []
+    },
+    {
+      "company": "Autodesk",
+      "title": "Principal Full Stack Engineer",
+      "location": "AMER - United States - Oregon - Portland",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Principal-Full-Stack-Engineer---San-Francisco--Hybrid-_26WD95847",
       "date_posted": 1786579200,
       "flags": []
     },
@@ -3082,134 +3210,6 @@
       "location": "US, CA, Santa Clara",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-Deep-Learning-Systems_JR2022830",
       "date_posted": 1785888000,
-      "flags": []
-    },
-    {
-      "company": "Transunion",
-      "title": "Senior Data Analyst",
-      "location": "Chicago - 555 West Adams St",
-      "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/details/Senior-Data-Analyst_19038819",
-      "date_posted": 1785888000,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Staff Inbound Product Manager",
-      "location": "Orlando, Florida",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000141575829",
-      "date_posted": 1785874604,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Principal Specialist Sales Engineer, Zero Trust Branch - Majors, West",
-      "location": "Remote - Arizona, USA; Remote - California, USA; Remote - Colorado, USA; Remote - Idaho, USA; Remote - Iowa, USA; Remote - Minnesota, USA; Remote - Montana, USA; Remote - Nebraska, USA; Remote - Nevada, USA; Remote - New Mexico, USA; Remote - North Dakota, USA; Remote - Oregon, USA; Remote - South Dakota, USA; Remote - Utah, USA; Remote - Washington, USA; Remote - Wisconsin, USA; Remote - Wyoming",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5196219007",
-      "date_posted": 1785866085,
-      "flags": []
-    },
-    {
-      "company": "Intel",
-      "title": "Quality Reliability Engineer",
-      "location": "USA - AZ - Chandler",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Quality-Reliability-Engineer_JR0286138-1",
-      "date_posted": 1785801600,
-      "flags": []
-    },
-    {
-      "company": "Zillow",
-      "title": "Principal Analytics Engineer",
-      "location": "Remote",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Principal-Analytics-Engineer_P751074-1",
-      "date_posted": 1785801600,
-      "flags": []
-    },
-    {
-      "company": "Gusto",
-      "title": "WFM Capacity & Analytics Planner",
-      "location": "Denver, Pheonix, Las Vegas",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8104180",
-      "date_posted": 1785792485,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Software Engineer, Registrar",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8092731?gh_jid=8092731",
-      "date_posted": 1785461912,
-      "flags": []
-    },
-    {
-      "company": "Nvidia",
-      "title": "Senior Software Engineer, AIOps and Observability",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Software-Engineer--AIOps-and-Observability_JR2022104",
-      "date_posted": 1785456000,
-      "flags": []
-    },
-    {
-      "company": "Spotify",
-      "title": "Staff Machine Learning Engineer, Personalization",
-      "location": "New York, NY",
-      "url": "https://jobs.lever.co/spotify/9761af44-be41-43ca-8c01-79cdbb2aef93",
-      "date_posted": 1785444939,
-      "flags": []
-    },
-    {
-      "company": "Ness",
-      "title": "Techno-Functional Business Analyst in Professional Services",
-      "location": "New Jersey, New Jersey",
-      "url": "https://jobs.jobvite.com/ness/job/o3rzAfwn",
-      "date_posted": 1785369600,
-      "flags": []
-    },
-    {
-      "company": "Adobe",
-      "title": "Full-Stack Engineer",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Full-Stack-Engineer_R170948",
-      "date_posted": 1785369600,
-      "flags": []
-    },
-    {
-      "company": "Adobe",
-      "title": "Product Designer, Acrobat Mobile Growth",
-      "location": "San Francisco",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Product-Designer--Acrobat-Mobile-Growth_R170472-1",
-      "date_posted": 1785369600,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Systems Engineer 2, Technical Solutions (US-East)",
-      "location": "New York, New York",
-      "url": "https://careers.datadoghq.com/detail/8092973/?gh_jid=8092973",
-      "date_posted": 1785355197,
-      "flags": []
-    },
-    {
-      "company": "Coursera",
-      "title": "Senior Manager, Deal Desk",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/coursera/jobs/6127484004",
-      "date_posted": 1785346514,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Training Delivery Manager (Fleet Maintenance & Validation TTT)",
-      "location": "San Francisco, CA, USA; Tempe, AZ",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8049302",
-      "date_posted": 1785340723,
-      "flags": []
-    },
-    {
-      "company": "Intel",
-      "title": "Information Security Engineer",
-      "location": "USA - CA - Folsom",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Information-Security-Engineer_JR0285296",
-      "date_posted": 1785283200,
       "flags": []
     }
   ]
