@@ -3,9 +3,41 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-18T01:16:56.155Z",
+  "generated_at": "2026-09-18T15:00:15.786Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Senior Distribution Account Manager, META",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8188313?gh_jid=8188313",
+      "date_posted": 1789736851,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Staff Product Manager, Conversational AI",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150270254",
+      "date_posted": 1789699935,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Software Engineer, Early Career - Immediate Start",
+      "location": "San Francisco, Seattle, New York",
+      "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+      "date_posted": 1789687352,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Software Engineer - UI Platform",
+      "location": "San Francisco, California",
+      "url": "https://www.okta.com/company/careers/opportunity/8211380?gh_jid=8211380",
+      "date_posted": 1789686587,
+      "flags": []
+    },
     {
       "company": "Databricks",
       "title": "Sr Staff Technical Program Manager- Security",
@@ -28,6 +60,14 @@
       "location": "San Francisco, CA, US; Remote",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209845",
       "date_posted": 1789681143,
+      "flags": []
+    },
+    {
+      "company": "Asana",
+      "title": "Senior Staff Software Engineer, Developer Productivity",
+      "location": "New York City",
+      "url": "https://www.asana.com/jobs/apply/8212172?gh_jid=8212172",
+      "date_posted": 1789678490,
       "flags": []
     },
     {
@@ -117,6 +157,16 @@
       "url": "https://jobs.ashbyhq.com/snowflake/4940628b-6b19-47a0-83b2-0fb96353614f/application",
       "date_posted": 1789612442,
       "flags": []
+    },
+    {
+      "company": "Broadcom",
+      "title": "Staff Technical Support Engineer - Mainframe",
+      "location": "USA-IL Lisle Warrenville Road",
+      "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Staff-Technical-Support-Engineer---Mainframe_R025730",
+      "date_posted": 1789603200,
+      "flags": [
+        "clearance"
+      ]
     },
     {
       "company": "Pinterest",
@@ -460,6 +510,14 @@
       "location": "San Francisco HQ",
       "url": "https://jobs.ashbyhq.com/plaid/85cd5d07-9920-45fa-931a-daf8c3558e5b/application",
       "date_posted": 1789192165,
+      "flags": []
+    },
+    {
+      "company": "Nvidia",
+      "title": "Senior Systems Software Engineer, Data Center Platform Enablement",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870",
+      "date_posted": 1789171200,
       "flags": []
     },
     {
@@ -963,6 +1021,14 @@
       "title": "Field Inventory Analyst - Kansas City / St. Louis, MO",
       "location": "St. Louis, Missouri",
       "url": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Field-Inventory-Analyst---Kansas-City---St-Louis--MO_R76588-1",
+      "date_posted": 1788912000,
+      "flags": []
+    },
+    {
+      "company": "Transunion",
+      "title": "Lead Java Engineer",
+      "location": "Chicago, Illinois",
+      "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Lead-Java-Engineer_19042110-1",
       "date_posted": 1788912000,
       "flags": []
     },
@@ -2937,6 +3003,14 @@
       "flags": []
     },
     {
+      "company": "Snowflake",
+      "title": "Staff/Principal AI Software Engineer - Snowflake CoWork",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/92b3b8b0-b60d-43c5-a15b-7fcd7aeeeb3e/application",
+      "date_posted": 1787098631,
+      "flags": []
+    },
+    {
       "company": "Autodesk",
       "title": "Software Engineer",
       "location": "AMER - United States - California - San Francisco - One Market",
@@ -3134,78 +3208,6 @@
       "location": "Mohali, IND",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5211037007",
       "date_posted": 1786634921,
-      "flags": []
-    },
-    {
-      "company": "Amplitude",
-      "title": "Senior Sales Engineer - Enterprise (Fluent Spanish Speaking)",
-      "location": "Albuquerque, NM; Austin, TX; Dallas, TX; Houston, TX; Los Angeles, CA; Phoenix, AZ; San Diego, CA; Santa Fe, NM; Scottsdale, AZ; Tucson, AZ",
-      "url": "https://job-boards.greenhouse.io/amplitude/jobs/8705194002",
-      "date_posted": 1786627432,
-      "flags": []
-    },
-    {
-      "company": "Cotiviti",
-      "title": "Integration Business Analyst",
-      "location": "United States",
-      "url": "https://careers-cotiviti.icims.com/jobs/17497/integration-business-analyst/job",
-      "date_posted": 1786619086,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Technical Program Manager, Robot Platforms",
-      "location": "Foster City, CA",
-      "url": "https://jobs.lever.co/zoox/15efc87a-f31b-40e0-967f-5927dae73b5d",
-      "date_posted": 1786583310,
-      "flags": []
-    },
-    {
-      "company": "Cloudera",
-      "title": "Forward Deployed AI Engineer (Senior/Principal Level)",
-      "location": "US-New York-New York",
-      "url": "https://cloudera.wd5.myworkdayjobs.com/en-US/External_Career/job/Forward-Deployed-AI-Engineer_261076-1",
-      "date_posted": 1786579200,
-      "flags": []
-    },
-    {
-      "company": "Ringcentral",
-      "title": "ML/AI Engineer (Full Time; Multiple Openings)",
-      "location": "Belmont",
-      "url": "https://ringcentral.wd1.myworkdayjobs.com/en-US/RingCentral_Careers/job/ML-AI-Engineer--Full-Time--Multiple-Openings-_R078414",
-      "date_posted": 1786579200,
-      "flags": []
-    },
-    {
-      "company": "Autodesk",
-      "title": "Principal Full Stack Engineer",
-      "location": "AMER - United States - Oregon - Portland",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Principal-Full-Stack-Engineer---San-Francisco--Hybrid-_26WD95847",
-      "date_posted": 1786579200,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Staff Product Designer, Customer & Partner Experience (CPEX)",
-      "location": "San Diego, CALIFORNIA",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000143173984",
-      "date_posted": 1786565384,
-      "flags": []
-    },
-    {
-      "company": "Smartsheet",
-      "title": "Sr. CE Program Manager",
-      "location": "Bellevue, WA",
-      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8125833",
-      "date_posted": 1786549855,
-      "flags": []
-    },
-    {
-      "company": "Humana",
-      "title": "Principal AI Engineer – Agentic AI",
-      "location": "Waterside Bldg",
-      "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Principal-AI-Engineer_R-406154",
-      "date_posted": 1786492800,
       "flags": []
     }
   ]
