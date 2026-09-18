@@ -3,9 +3,97 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-17T15:33:13.879Z",
+  "generated_at": "2026-09-18T01:16:56.155Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Databricks",
+      "title": "Sr Staff Technical Program Manager- Security",
+      "location": "Bellevue, Washington; Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8818416002",
+      "date_posted": 1789683678,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Program Manager, Customer Advocacy & Programs",
+      "location": "US-ATL, US-CHI, US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8181030",
+      "date_posted": 1789683090,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. IT Project & Program Manager, Asset Management",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209845",
+      "date_posted": 1789681143,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Technical Program Manager - Onboard Systems, ML Modeling",
+      "location": "Mountain View, CA, USA; San Francisco, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8204338",
+      "date_posted": 1789678149,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Senior Director of Production Engineering-Observability & Telemetry Platforms",
+      "location": "San Jose, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5237917007",
+      "date_posted": 1789677976,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Sr. Specialist, Crisis Communications",
+      "location": "Nashville, TN",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8817335002?gh_jid=8817335002",
+      "date_posted": 1789672782,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Manager, Solutions Engineering, SLED",
+      "location": "Bellevue, Washington; Chicago, Illinois; Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/8211603?gh_jid=8211603",
+      "date_posted": 1789672583,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Machine Learning Platform Engineer(Platform - Identity)",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8211490?gh_jid=8211490",
+      "date_posted": 1789668393,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Communications Coordinator, Product Communications",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8177553?gh_jid=8177553",
+      "date_posted": 1789665536,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Staff AI Engineer",
+      "location": "West Palm Beach, Florida",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150113774",
+      "date_posted": 1789651957,
+      "flags": []
+    },
+    {
+      "company": "Spotify",
+      "title": "Senior Digital Learning Experience Designer - Learning & Inclusion",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/9d1c90b5-a8a4-4218-b2f3-7bbaefae7fd1",
+      "date_posted": 1789646284,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Software Engineer, CDN Configuration Group",
@@ -260,6 +348,14 @@
       "location": "United States",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8717331002",
       "date_posted": 1789444267,
+      "flags": []
+    },
+    {
+      "company": "Paypal",
+      "title": "Analyst, Business Operations",
+      "location": "Pennsylvania, United States of America (Virtual)",
+      "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Pennsylvania-United-States-of-America-Virtual/Analyst--Business-Operations_R0138041/apply",
+      "date_posted": 1789430400,
       "flags": []
     },
     {
@@ -599,6 +695,14 @@
       "flags": []
     },
     {
+      "company": "Airbnb",
+      "title": "Senior Product Manager, Community Support Experience",
+      "location": "Remote",
+      "url": "https://careers.airbnb.com/positions/8186787?gh_jid=8186787",
+      "date_posted": 1789058876,
+      "flags": []
+    },
+    {
       "company": "ServiceNow",
       "title": "Senior Lifecycle & Email Marketing Strategist",
       "location": "Santa Clara, California",
@@ -659,6 +763,14 @@
       "title": "Sr Customer Success Manager",
       "location": "USA, MA, Boston",
       "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-MA-Boston/Sr-Customer-Success-Manager_JR-0109833",
+      "date_posted": 1788998400,
+      "flags": []
+    },
+    {
+      "company": "Athenahealth",
+      "title": "Creative Director",
+      "location": "Remote - NC",
+      "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Creative-Director_R15475-1",
       "date_posted": 1788998400,
       "flags": []
     },
@@ -843,6 +955,14 @@
       "title": "Senior Software Engineer, Cloud-Native Stack – CSP Engagements",
       "location": "US, CA, Santa Clara",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Software-Engineer--Cloud-Native-Stack---CSP-Engagements_JR2001098",
+      "date_posted": 1788912000,
+      "flags": []
+    },
+    {
+      "company": "Medtronic",
+      "title": "Field Inventory Analyst - Kansas City / St. Louis, MO",
+      "location": "St. Louis, Missouri",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Field-Inventory-Analyst---Kansas-City---St-Louis--MO_R76588-1",
       "date_posted": 1788912000,
       "flags": []
     },
@@ -1035,6 +1155,14 @@
       "title": "Senior Accountant",
       "location": "Chicago",
       "url": "https://morningstar.wd5.myworkdayjobs.com/en-US/morningstar/job/Chicago/Senior-Accountant_REQ-058073",
+      "date_posted": 1788825600,
+      "flags": []
+    },
+    {
+      "company": "Stryker",
+      "title": "Technical Project Manager",
+      "location": "Portage, Michigan",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Technical-Project-Manager_R570870",
       "date_posted": 1788825600,
       "flags": []
     },
@@ -1563,6 +1691,14 @@
       "title": "Data Analyst Intern - Summer 2027",
       "location": "USA, OH, Columbus",
       "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844",
+      "date_posted": 1788307200,
+      "flags": []
+    },
+    {
+      "company": "Ncr",
+      "title": "Senior Workday Integration Engineer",
+      "location": "ATLANTA, GA",
+      "url": "https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/Senior-Workday-Integration-Engineer_R0157637",
       "date_posted": 1788307200,
       "flags": []
     },
@@ -2833,6 +2969,14 @@
       "flags": []
     },
     {
+      "company": "Snowflake",
+      "title": "Principal Data Platform Architect",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/95564ff4-bf27-4b41-a87e-e4defff7cd4e/application",
+      "date_posted": 1787076691,
+      "flags": []
+    },
+    {
       "company": "Airbnb",
       "title": "Senior Support Specialist, Premium Support",
       "location": "Nevada",
@@ -3062,152 +3206,6 @@
       "location": "Waterside Bldg",
       "url": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Principal-AI-Engineer_R-406154",
       "date_posted": 1786492800,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "TLM (Tech Lead Manager) - Recommendation Systems (Homepage)",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8123084?gh_jid=8123084",
-      "date_posted": 1786491877,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Staff Product Designer, Design System",
-      "location": "San Jose, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5205203007",
-      "date_posted": 1786490374,
-      "flags": []
-    },
-    {
-      "company": "CA",
-      "title": "Sr. AI Engineer",
-      "location": "Remote - CA",
-      "url": "https://job-boards.greenhouse.io/samsara/jobs/8083352",
-      "date_posted": 1786488220,
-      "flags": []
-    },
-    {
-      "company": "Propel",
-      "title": "Senior Full Stack Engineer",
-      "location": "United States",
-      "url": "https://jobs.ashbyhq.com/propel/d0e96770-a073-4d53-88b6-586d74db35e8/application",
-      "date_posted": 1786476601,
-      "flags": []
-    },
-    {
-      "company": "Anaplan",
-      "title": "Enterprise Account Executive - Retail",
-      "location": "Georgia",
-      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8696994002",
-      "date_posted": 1786476325,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Staff Product Manager, Virtual Platforms",
-      "location": "Palo Altp, CA",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8120738?gh_jid=8120738",
-      "date_posted": 1786426755,
-      "flags": []
-    },
-    {
-      "company": "Netflix",
-      "title": "Group Product Manager, Content Ingestion & Distribution",
-      "location": "California - Remote",
-      "url": "https://netflix.wd108.myworkdayjobs.com/netflix/job/california---remote/group-product-manager--content-ingestion---distribution_jr41997",
-      "date_posted": 1786420966,
-      "flags": []
-    },
-    {
-      "company": "Nordstrom",
-      "title": "Product Manager II — Customer Data Platform & Marketing Technology (Hybrid - Seattle)",
-      "location": "Seattle WA",
-      "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Product-Manager-II---Customer-Data-Platform---Marketing-Technology--Hybrid---Seattle-_R-863566",
-      "date_posted": 1786410166,
-      "flags": []
-    },
-    {
-      "company": "Socure",
-      "title": "Senior Data Scientist - Document Verification",
-      "location": "Hybrid - San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/socure/00bb129a-db80-4186-90fe-2279be6aa922/application",
-      "date_posted": 1786406206,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Staff Software Engineer, Lyft Business",
-      "location": "San Francisco, CA",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8688631002?gh_jid=8688631002",
-      "date_posted": 1786393203,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Software Engineer, Web Product Enablement",
-      "location": "San Francisco, CA, US; Remote, CA",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8075888",
-      "date_posted": 1786379170,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "SAP Functional SME",
-      "location": "Mountain View, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679970002",
-      "date_posted": 1786329189,
-      "flags": []
-    },
-    {
-      "company": "Nxp",
-      "title": "AI/ML driven ASIC Design and Implementation Automation Engineer",
-      "location": "Austin (Oakhill, Office)",
-      "url": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065561",
-      "date_posted": 1786320000,
-      "flags": []
-    },
-    {
-      "company": "Tiger-analytics",
-      "title": "Senior Data Engineer",
-      "location": "United States",
-      "url": "https://apply.workable.com/tiger-analytics/j/1729DF4E9E/apply",
-      "date_posted": 1786320000,
-      "flags": []
-    },
-    {
-      "company": "Guidehouse",
-      "title": "AI Engineer",
-      "location": "Home Office: Huntsville, AL",
-      "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/AI-Engineer_42927",
-      "date_posted": 1786320000,
-      "flags": [
-        "clearance"
-      ]
-    },
-    {
-      "company": "Adobe",
-      "title": "Senior Machine Learning Engineer, AI Platform",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Senior-Machine-Learning-Engineer_R166678",
-      "date_posted": 1786320000,
-      "flags": []
-    },
-    {
-      "company": "Salesforce",
-      "title": "Full-Stack Software Engineer: Mid, Senior, and Lead",
-      "location": "California - San Francisco",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Full-Stack-Software-Engineer---MTS---SMTS_JR253369",
-      "date_posted": 1786233600,
-      "flags": []
-    },
-    {
-      "company": "Salesforce",
-      "title": "Backend Software Development Engineer - Mid/Senior/Lead/Principal",
-      "location": "California - San Francisco",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Backend-Software-Development-Engineer---Senior-Lead-Principal_JR249832",
-      "date_posted": 1786233600,
       "flags": []
     }
   ]
