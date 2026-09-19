@@ -3,9 +3,113 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-18T15:00:15.786Z",
+  "generated_at": "2026-09-19T01:09:42.263Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Waymo",
+      "title": "Staff Tech Lead Software Engineer, Vehicle Realism Platform",
+      "location": "Mountain View, CA, USA; San Francisco, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8209835",
+      "date_posted": 1789773906,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Backend Software Engineer, Airports",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002",
+      "date_posted": 1789771233,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Social Media Manager, Developer Community",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/ccefa621-7c3c-4908-a7ce-380033415bd8/application",
+      "date_posted": 1789768263,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Staff Software Engineer, Tech Foundations",
+      "location": "Remote",
+      "url": "https://careers.airbnb.com/positions/8187190?gh_jid=8187190",
+      "date_posted": 1789767180,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Customer Success Manager, Enterprise",
+      "location": "Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=8208521",
+      "date_posted": 1789766902,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Supply Chain Program Manager",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8214726?gh_jid=8214726",
+      "date_posted": 1789766694,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer - Account Infrastructure",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8209010?gh_jid=8209010",
+      "date_posted": 1789766095,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Senior IT Systems Engineer",
+      "location": "U.S. Remote",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8213955",
+      "date_posted": 1789762121,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Principal Program Manager",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5236314007",
+      "date_posted": 1789761550,
+      "flags": []
+    },
+    {
+      "company": "Dropbox",
+      "title": "Senior Financial Planning & Analysis Partner - Product & Growth",
+      "location": "Remote - US: Select locations",
+      "url": "https://jobs.dropbox.com/listing/8207874?gh_jid=8207874",
+      "date_posted": 1789758956,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Engineer - Digital Native Business (Strategic Accounts)",
+      "location": "Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8756686002",
+      "date_posted": 1789755490,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "ServiceNow Product Management Director - Contact Center Frameworks",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150427265",
+      "date_posted": 1789752318,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Software Engineering Winter Internship",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
+      "date_posted": 1789750991,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Senior Distribution Account Manager, META",
@@ -3104,110 +3208,6 @@
       "location": "San Francisco, CA, US; Remote, CA",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8049832",
       "date_posted": 1786996612,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Staff Software Engineer, Voice AI Platform",
-      "location": "Remote",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8131117",
-      "date_posted": 1786938894,
-      "flags": []
-    },
-    {
-      "company": "Guidehouse",
-      "title": "Business Analyst",
-      "location": "GH Office: Tysons Corner, VA (Headquarters)",
-      "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Business-Analyst_43056",
-      "date_posted": 1786924800,
-      "flags": []
-    },
-    {
-      "company": "Medtronic",
-      "title": "IT Developer - Data Engineer",
-      "location": "Minneapolis, MN",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/IT-Developer---Data-Engineer_R68340-1",
-      "date_posted": 1786809766,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Staff Software Engineer, Mobile (App Infrastructure)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
-      "date_posted": 1786748447,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Senior Machine Learning Engineer, Customer Support Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://careers.airbnb.com/positions/8014904?gh_jid=8014904",
-      "date_posted": 1786742877,
-      "flags": []
-    },
-    {
-      "company": "Nuro",
-      "title": "Sr. Talent Management Program Manager",
-      "location": "Mountain View, California (HQ)",
-      "url": "https://nuro.ai/careersitem?gh_jid=8130943",
-      "date_posted": 1786742176,
-      "flags": []
-    },
-    {
-      "company": "Asana",
-      "title": "Head of Technical Revenue Accounting",
-      "location": "San Francisco",
-      "url": "https://www.asana.com/jobs/apply/8104491?gh_jid=8104491",
-      "date_posted": 1786720737,
-      "flags": []
-    },
-    {
-      "company": "Netskope",
-      "title": "Sr. Field Marketing Manager",
-      "location": "Texas",
-      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8111988",
-      "date_posted": 1786716133,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Principal Software Engineer - Multi-Cloud - Control Plane - Kubernetes",
-      "location": "Santa Clara, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000143409629",
-      "date_posted": 1786668690,
-      "flags": []
-    },
-    {
-      "company": "Crowdstrike",
-      "title": "Sr. Machine Learning Engineer (Remote)",
-      "location": "USA CA Remote",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---remote/sr-machine-learning-engineer--remote-_r29841",
-      "date_posted": 1786665600,
-      "flags": []
-    },
-    {
-      "company": "Spotify",
-      "title": "Staff Machine Learning Engineer - Music Mission",
-      "location": "New York, NY",
-      "url": "https://jobs.lever.co/spotify/cb45b193-9f92-4e9b-b936-8a738eed5fdc",
-      "date_posted": 1786642405,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Staff Analyst, GTM Analytics",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/c6034a32-de0f-407f-b9cb-7e05b4d20c99/application",
-      "date_posted": 1786636466,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "IT Help Desk Engineer",
-      "location": "Mohali, IND",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5211037007",
-      "date_posted": 1786634921,
       "flags": []
     }
   ]
