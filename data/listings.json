@@ -3,9 +3,33 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-19T01:09:42.263Z",
+  "generated_at": "2026-09-19T14:26:24.486Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "ServiceNow",
+      "title": "Staff Software Engineer - AI Search",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150494819",
+      "date_posted": 1789783829,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Software Engineer II, Data Analytics & Engineering",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
+      "date_posted": 1789777952,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Product Operations Lead, Marketplace Operations",
+      "location": "Mountain View, California; San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8823880002",
+      "date_posted": 1789776529,
+      "flags": []
+    },
     {
       "company": "Waymo",
       "title": "Staff Tech Lead Software Engineer, Vehicle Realism Platform",
@@ -124,6 +148,14 @@
       "location": "Santa Clara, California",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150270254",
       "date_posted": 1789699935,
+      "flags": []
+    },
+    {
+      "company": "Davita",
+      "title": "Payor Partnerships Project Manager",
+      "location": "01548 - Texas Remote",
+      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/01548---texas-remote/payor-partnerships-project-manager_r0478197",
+      "date_posted": 1789689600,
       "flags": []
     },
     {
@@ -509,6 +541,14 @@
       "title": "Analyst, Business Operations",
       "location": "Pennsylvania, United States of America (Virtual)",
       "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Pennsylvania-United-States-of-America-Virtual/Analyst--Business-Operations_R0138041/apply",
+      "date_posted": 1789430400,
+      "flags": []
+    },
+    {
+      "company": "Intel",
+      "title": "Product Manager - AI Software and Solution",
+      "location": "US, California, Santa Clara",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Product-Manager---AI-Software-and-Solution_JR0287128",
       "date_posted": 1789430400,
       "flags": []
     },
@@ -2497,6 +2537,14 @@
       "flags": []
     },
     {
+      "company": "Gartner",
+      "title": "Data Analyst Internship (2028 Graduates)",
+      "location": "Irving, TX",
+      "url": "https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297",
+      "date_posted": 1787788800,
+      "flags": []
+    },
+    {
       "company": "Anyscale",
       "title": "Software Engineer, ML Developer Experience",
       "location": "San Francisco",
@@ -3160,54 +3208,6 @@
       "location": "Nevada",
       "url": "https://careers.airbnb.com/positions/8132178?gh_jid=8132178",
       "date_posted": 1787060471,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Solutions Architect",
-      "location": "Atlanta, Georgia; Chicago, Illinois",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8697987002",
-      "date_posted": 1787032619,
-      "flags": []
-    },
-    {
-      "company": "Nuro",
-      "title": "Senior Manager, FP&A",
-      "location": "Mountain View, California (HQ)",
-      "url": "https://nuro.ai/careersitem?gh_jid=8114353",
-      "date_posted": 1787028720,
-      "flags": []
-    },
-    {
-      "company": "Nvidia",
-      "title": "Senior Applied AI Engineer, Cybersecurity",
-      "location": "US, CA, Remote",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Applied-Scientist-Cyber-Defense_JR2022761-1",
-      "date_posted": 1787011200,
-      "flags": []
-    },
-    {
-      "company": "Adobe",
-      "title": "Machine Learning Engineer",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Machine-Learning-Engineer_R171337",
-      "date_posted": 1787011200,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Principal Technical Program Manager",
-      "location": "Santa Clara, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000143924019",
-      "date_posted": 1786998047,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Technical Program Manager, Identity and Product Safety",
-      "location": "San Francisco, CA, US; Remote, CA",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8049832",
-      "date_posted": 1786996612,
       "flags": []
     }
   ]
