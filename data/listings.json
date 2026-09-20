@@ -3,9 +3,17 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-19T14:26:24.486Z",
+  "generated_at": "2026-09-20T01:08:10.970Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Snowflake",
+      "title": "Senior Director, Analytics Engineering, Data Analytics & AI",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/517c85f9-9b37-4510-a969-978671021376/application",
+      "date_posted": 1789843202,
+      "flags": []
+    },
     {
       "company": "ServiceNow",
       "title": "Staff Software Engineer - AI Search",
@@ -3200,14 +3208,6 @@
       "location": "US-CA-Menlo Park",
       "url": "https://jobs.ashbyhq.com/snowflake/95564ff4-bf27-4b41-a87e-e4defff7cd4e/application",
       "date_posted": 1787076691,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Senior Support Specialist, Premium Support",
-      "location": "Nevada",
-      "url": "https://careers.airbnb.com/positions/8132178?gh_jid=8132178",
-      "date_posted": 1787060471,
       "flags": []
     }
   ]
