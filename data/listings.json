@@ -3,7 +3,7 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-20T01:08:10.970Z",
+  "generated_at": "2026-09-20T14:42:19.152Z",
   "count": 400,
   "jobs": [
     {
@@ -745,6 +745,14 @@
       "flags": []
     },
     {
+      "company": "Okta",
+      "title": "Principal, Global Security Operations Center",
+      "location": "Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/8186035?gh_jid=8186035",
+      "date_posted": 1789135867,
+      "flags": []
+    },
+    {
       "company": "Rubrik",
       "title": "Site Reliability Engineer- FedRAMP",
       "location": "Palo Alto, CA",
@@ -1006,6 +1014,14 @@
       "location": "United States",
       "url": "https://app.careerpuck.com/job-board/udemy/job/6186173004?gh_jid=6186173004",
       "date_posted": 1788991194,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Security Incident Response Manager, Abuse Operations",
+      "location": "Seattle, SF, NYC, Chicago, Atlanta, Remote in the",
+      "url": "https://stripe.com/jobs/search?gh_jid=8172497",
+      "date_posted": 1788991118,
       "flags": []
     },
     {
@@ -1526,6 +1542,14 @@
       "location": "United States",
       "url": "https://www.rubrik.com/company/careers/departments/job.8174784?gh_jid=8174784",
       "date_posted": 1788537192,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Staff Security Engineer, Threat Hunting",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8157344",
+      "date_posted": 1788535532,
       "flags": []
     },
     {
@@ -3184,30 +3208,6 @@
       "location": "USA - Update Location",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5212055007",
       "date_posted": 1787095718,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Solutions Engineer - Games",
-      "location": "Northeast",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8727543002",
-      "date_posted": 1787081117,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8688633002?gh_jid=8688633002",
-      "date_posted": 1787079869,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Principal Data Platform Architect",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/95564ff4-bf27-4b41-a87e-e4defff7cd4e/application",
-      "date_posted": 1787076691,
       "flags": []
     }
   ]
