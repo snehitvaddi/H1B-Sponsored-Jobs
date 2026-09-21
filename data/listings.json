@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-21T01:04:40.394Z",
+  "generated_at": "2026-09-21T17:04:29.106Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "ServiceNow",
+      "title": "Senior Manager, Lifecycle Marketing",
+      "location": "New York, New York",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150689709",
+      "date_posted": 1789995363,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Staff Product Manager, Payments Intelligence",
+      "location": "NYC, SF, Seattle, US - Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8209996",
+      "date_posted": 1789994398,
+      "flags": []
+    },
     {
       "company": "Snowflake",
       "title": "Senior Director, Analytics Engineering, Data Analytics & AI",
@@ -140,6 +156,14 @@
       "location": "Palo Alto, CA",
       "url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
       "date_posted": 1789750991,
+      "flags": []
+    },
+    {
+      "company": "Adobe",
+      "title": "Machine Learning Engineer",
+      "location": "San Jose",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171645-1",
+      "date_posted": 1789740148,
       "flags": []
     },
     {
@@ -313,6 +337,14 @@
       ]
     },
     {
+      "company": "Nvidia",
+      "title": "Senior AI Infrastructure Engineer - EDA Infrastructure",
+      "location": "US, CA, Remote",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-AI-infrastructure-engineer---Hardware-Infrastructure-Engineering_JR2024816",
+      "date_posted": 1789603200,
+      "flags": []
+    },
+    {
       "company": "Pinterest",
       "title": "Finance Manager I, Platform",
       "location": "San Francisco, CA, US; Remote",
@@ -334,6 +366,14 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8208377?gh_jid=8208377",
       "date_posted": 1789597847,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Threat Intelligence Engineer",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8209803?gh_jid=8209803",
+      "date_posted": 1789596607,
       "flags": []
     },
     {
@@ -537,6 +577,14 @@
       "flags": []
     },
     {
+      "company": "Affirm",
+      "title": "Staff Security Engineer, Enterprise AI",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7994553003",
+      "date_posted": 1789488255,
+      "flags": []
+    },
+    {
       "company": "Databricks",
       "title": "Specialist Solutions Architect - Data Engineering (Healthcare & Life Sciences)",
       "location": "United States",
@@ -638,6 +686,22 @@
       "location": "Santa Clara, California",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149335309",
       "date_posted": 1789392290,
+      "flags": []
+    },
+    {
+      "company": "Zendesk",
+      "title": "Senior Staff Data Engineer",
+      "location": "Austin, Texas",
+      "url": "https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk/job/Austin-Texas-United-States-of-America/Senior-Staff-Data-Engineer_R34767",
+      "date_posted": 1789344000,
+      "flags": []
+    },
+    {
+      "company": "Netflix",
+      "title": "Product Operations Lead, Ads Platform",
+      "location": "New York",
+      "url": "https://netflix.wd108.myworkdayjobs.com/Netflix/job/New-York/Product-Operations-Lead--Ads-Platform_JR42548",
+      "date_posted": 1789257600,
       "flags": []
     },
     {
@@ -934,6 +998,14 @@
       "location": "US Remote",
       "url": "https://job-boards.greenhouse.io/natera/jobs/6146411004",
       "date_posted": 1789056489,
+      "flags": []
+    },
+    {
+      "company": "Paypal",
+      "title": "Senior Software Engineer - Python",
+      "location": "San Jose, California",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Senior-Software-Engineer---Python_R0134448-1",
+      "date_posted": 1789049185,
       "flags": []
     },
     {
@@ -3136,78 +3208,6 @@
       "location": "San Francisco HQ",
       "url": "https://jobs.ashbyhq.com/plaid/a40369be-a709-485d-b666-4d68e4370917/application",
       "date_posted": 1787253756,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Senior Tax and Compliance Analyst (Payroll)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8141746",
-      "date_posted": 1787249476,
-      "flags": []
-    },
-    {
-      "company": "Netskope",
-      "title": "Solutions Engineer - DEM",
-      "location": "United States",
-      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8119463",
-      "date_posted": 1787241564,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Technical Program Manager II",
-      "location": "New York, New York",
-      "url": "https://careers.datadoghq.com/detail/8144018/?gh_jid=8144018",
-      "date_posted": 1787240185,
-      "flags": []
-    },
-    {
-      "company": "Intel",
-      "title": "AI Infrastructure Engineer",
-      "location": "USA - CA - Santa Clara",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/AI-Infrastructure-Engineer_JR0286233",
-      "date_posted": 1787184000,
-      "flags": []
-    },
-    {
-      "company": "Valeo",
-      "title": "Software Engineer",
-      "location": "TROY - TRO1",
-      "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer_REQ2026080107",
-      "date_posted": 1787184000,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Senior Software Engineer - Observe by Snowflake, Data Management",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/db4f0492-ae21-49b7-a7eb-100be61e92bb/application",
-      "date_posted": 1787170679,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Staff/Principal AI Software Engineer - Snowflake CoWork",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/92b3b8b0-b60d-43c5-a15b-7fcd7aeeeb3e/application",
-      "date_posted": 1787098631,
-      "flags": []
-    },
-    {
-      "company": "Autodesk",
-      "title": "Software Engineer",
-      "location": "AMER - United States - California - San Francisco - One Market",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Software-Engineer_26WD100686",
-      "date_posted": 1787097600,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior IT Help Desk Specialist",
-      "location": "USA - Update Location",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5212055007",
-      "date_posted": 1787095718,
       "flags": []
     }
   ]
