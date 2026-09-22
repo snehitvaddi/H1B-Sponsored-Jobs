@@ -3,9 +3,49 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-22T01:36:20.508Z",
+  "generated_at": "2026-09-22T15:31:35.665Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Computer Graphics",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8154929?gh_jid=8154929",
+      "date_posted": 1790059572,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Principal Software Development Engineer (Control-Plane)",
+      "location": "San Jose, California, USA; Santa Clara, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5238481007",
+      "date_posted": 1790054516,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Integrated Marketing Lead, Cross Product",
+      "location": "South San Francisco HQ, New York City, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8187572",
+      "date_posted": 1790047266,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Software Engineer, Trust & Platform Security",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/59fb145c-1a98-4fbb-897c-22b9b4d5a97d/application",
+      "date_posted": 1790042948,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Tax Information Reporting Intern",
+      "location": "Hybrid - New York, NY",
+      "url": "https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241",
+      "date_posted": 1790042532,
+      "flags": []
+    },
     {
       "company": "Databricks",
       "title": "Sr. Deployment Strategist, FDE - Financial Services",
@@ -2529,6 +2569,14 @@
       "flags": []
     },
     {
+      "company": "Flexport",
+      "title": "Senior Security Engineer, Detection & Response",
+      "location": "U.S. Remote",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8164847",
+      "date_posted": 1787941157,
+      "flags": []
+    },
+    {
       "company": "Plaid",
       "title": "Data Scientist",
       "location": "San Francisco HQ",
@@ -3160,54 +3208,6 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7816159",
       "date_posted": 1787342306,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Senior Software Engineer - Capacity",
-      "location": "US-WA-Bellevue",
-      "url": "https://jobs.ashbyhq.com/snowflake/bcd7eea8-1f1e-437b-b7d1-52361493d55e/application",
-      "date_posted": 1787335314,
-      "flags": []
-    },
-    {
-      "company": "Mongodb",
-      "title": "Software Engineer 3, Atlas Clusters Platform",
-      "location": "New York City",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8089859",
-      "date_posted": 1787333959,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Software Engineer - Quicksilver - Distributed Key Value",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8140310?gh_jid=8140310",
-      "date_posted": 1787331443,
-      "flags": []
-    },
-    {
-      "company": "Spotify",
-      "title": "Senior Backend Engineer, Podcast",
-      "location": "New York, NY",
-      "url": "https://jobs.lever.co/spotify/481e84f8-9048-4da3-9ad4-e2fba06e005f",
-      "date_posted": 1787326453,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Customer Growth Sales Account Executive",
-      "location": "Dublin, OH",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8147379",
-      "date_posted": 1787325018,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Software Engineer, Fulfillment Core Services",
-      "location": "Seattle, WA",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8716222002",
-      "date_posted": 1787313936,
       "flags": []
     }
   ]
