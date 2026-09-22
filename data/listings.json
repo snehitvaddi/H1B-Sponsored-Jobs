@@ -3,9 +3,73 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-21T17:04:29.106Z",
+  "generated_at": "2026-09-22T01:36:20.508Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Databricks",
+      "title": "Sr. Deployment Strategist, FDE - Financial Services",
+      "location": "Atlanta, Georgia; Boston, Massachusetts; Chicago, Illinois; New York City, New York; Washington, D.C.",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8687869002",
+      "date_posted": 1790028302,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "AI Solutions Developer",
+      "location": "SEA. SF, NYC, CHI",
+      "url": "https://stripe.com/jobs/search?gh_jid=8221776",
+      "date_posted": 1790027095,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
+      "location": "Mountain View, California",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+      "date_posted": 1790026843,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Partner Technical Architect",
+      "location": "Boston, Massachusetts",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150790159",
+      "date_posted": 1790025155,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Software Engineer - Cloud Infrastructure",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8209928?gh_jid=8209928",
+      "date_posted": 1790022084,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Senior Sales Engineer, Majors - Central (Chicago)",
+      "location": "Remote - Illinois, USA; Remote - Wisconsin",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5198876007",
+      "date_posted": 1790019110,
+      "flags": []
+    },
+    {
+      "company": "Zoox",
+      "title": "Lead AI Engineer - Enterprise Data & AI",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/48a6b2ac-0dcb-4481-ab26-386ce62decab",
+      "date_posted": 1790015112,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior/Principal Product Manager, Video Generation (Roblox Reality)",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8180420?gh_jid=8180420",
+      "date_posted": 1790014047,
+      "flags": []
+    },
     {
       "company": "ServiceNow",
       "title": "Senior Manager, Lifecycle Marketing",
@@ -3144,70 +3208,6 @@
       "location": "Seattle, WA",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8716222002",
       "date_posted": 1787313936,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Staff Software Development Engineer",
-      "location": "San Jose, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5202464007",
-      "date_posted": 1787313730,
-      "flags": []
-    },
-    {
-      "company": "Computech Corporation",
-      "title": "Cloud Network Engineer",
-      "location": "San Diego, CA",
-      "url": "https://jobs.smartrecruiters.com/ComputechCorporation1/86322816-cloud-network-engineer-us-citizen-green-card-",
-      "date_posted": 1787313697,
-      "flags": []
-    },
-    {
-      "company": "Brex",
-      "title": "Business Development (Embedded Finance) Director",
-      "location": "New York, New York",
-      "url": "https://www.brex.com/careers/8735431002?gh_jid=8735431002",
-      "date_posted": 1787277312,
-      "flags": []
-    },
-    {
-      "company": "Symbotic",
-      "title": "Staff AI Data Analytics Engineer",
-      "location": "USA Wilmington, MA - HQ",
-      "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/Senior-AI-Analytics-Engineer_R6834",
-      "date_posted": 1787270400,
-      "flags": []
-    },
-    {
-      "company": "Medtronic",
-      "title": "Sr. Software Engineer - Signals & Algorithm Interfaces (Python/C++)",
-      "location": "USA-MA Newton",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Sr-Software-Engineer---Signals---Algorithm-Interfaces--Python-C---_R65927-1",
-      "date_posted": 1787270400,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Software Engineering Intern (2027 Start) - Winter",
-      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
-      "date_posted": 1787269225,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Software Engineer, Fullstack - Moveworks",
-      "location": "Mountain View, CALIFORNIA",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144649929",
-      "date_posted": 1787263990,
-      "flags": []
-    },
-    {
-      "company": "Plaid",
-      "title": "Staff Software Engineer - Protect",
-      "location": "San Francisco HQ",
-      "url": "https://jobs.ashbyhq.com/plaid/a40369be-a709-485d-b666-4d68e4370917/application",
-      "date_posted": 1787253756,
       "flags": []
     }
   ]
