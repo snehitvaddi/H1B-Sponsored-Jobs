@@ -3,9 +3,57 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-23T01:30:14.337Z",
+  "generated_at": "2026-09-23T15:27:19.262Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "ServiceNow",
+      "title": "Senior Staff Inbound Product Manager - AI Search",
+      "location": "Addison, Texas",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000151392329",
+      "date_posted": 1790171968,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "location": "United States",
+      "url": "https://stripe.com/jobs/search?gh_jid=8203973",
+      "date_posted": 1790170919,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Principal Specialist Sales Engineer, Data Security - Majors",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5240511007",
+      "date_posted": 1790133482,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Revenue Accounting Manager",
+      "location": "Mountain View, California; San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8788152002",
+      "date_posted": 1790128772,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal Client Platform Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8212529?gh_jid=8212529",
+      "date_posted": 1790124248,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Systems Engineer - Application Security",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8222091?gh_jid=8222091",
+      "date_posted": 1790120386,
+      "flags": []
+    },
     {
       "company": "Waymo",
       "title": "2027 Summer Intern, PhD, Data Science",
@@ -3160,54 +3208,6 @@
       "location": "Atlanta, Georgia, United States; Bellevue, Washington, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Denver, Colorado, United States; Los Angeles, California, United States; Miami, Florida, United States; New York City, New York, United States; San Francisco, California, United States; Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/flexport/jobs/8155210",
       "date_posted": 1787605995,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Manager - Software Engineering Management - Platform Persistence",
-      "location": "Santa Clara, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145360640",
-      "date_posted": 1787603329,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Staff Software Engineer, Snowpark Container Service",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/b470bf43-46b4-4a31-a164-7181e7372d29/application",
-      "date_posted": 1787602834,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Staff Software Engineer, Backend - Platform (Core AI Automation)",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8154983?gh_jid=8154983",
-      "date_posted": 1787601532,
-      "flags": []
-    },
-    {
-      "company": "Anaplan",
-      "title": "Sr. Customer Success Strategy & Operations Manager",
-      "location": "New York City",
-      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8742733002",
-      "date_posted": 1787595669,
-      "flags": []
-    },
-    {
-      "company": "Roku",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Jose, California",
-      "url": "https://job-boards.greenhouse.io/roku/jobs/8143094",
-      "date_posted": 1787594444,
-      "flags": []
-    },
-    {
-      "company": "Mongodb",
-      "title": "Vice President, Solutions Architect",
-      "location": "Austin; New York City; San Francisco",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8138914",
-      "date_posted": 1787591441,
       "flags": []
     }
   ]
