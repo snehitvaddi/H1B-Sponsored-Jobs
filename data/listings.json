@@ -3,9 +3,81 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-22T15:31:35.665Z",
+  "generated_at": "2026-09-23T01:30:14.337Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Data Science",
+      "location": "Mountain View, CA, USA; San Francisco, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221956",
+      "date_posted": 1790114532,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer- Openflow",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/ab0abd7e-7e3f-4f1e-bca0-297765ed6425/application",
+      "date_posted": 1790111864,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Embedded Software Engineer",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8180955",
+      "date_posted": 1790110303,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Channel/Partner Sales Engineer - Southeast",
+      "location": "Atlanta, GA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8220615?gh_jid=8220615",
+      "date_posted": 1790107848,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Staff Data Engineer, Foundational Data",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
+      "date_posted": 1790103508,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Principal Technical Marketing Engineer",
+      "location": "San Jose, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239534007",
+      "date_posted": 1790103063,
+      "flags": []
+    },
+    {
+      "company": "Dropbox",
+      "title": "Data Engineer",
+      "location": "Remote - US: Select locations",
+      "url": "https://jobs.dropbox.com/listing/8211529?gh_jid=8211529",
+      "date_posted": 1790097498,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Unified Communications Engineer",
+      "location": "San Francisco, California;",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8816437002",
+      "date_posted": 1790097286,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Senior Account Manager, Fulfillment",
+      "location": "Atlanta Warehouse; Chicago Warehouse; Dallas Warehouse; Phillipsburg Warehouse; San Bernardino Warehouse",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8213809",
+      "date_posted": 1790093766,
+      "flags": []
+    },
     {
       "company": "Roblox",
       "title": "Senior Software Engineer, Computer Graphics",
@@ -108,6 +180,14 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8180420?gh_jid=8180420",
       "date_posted": 1790014047,
+      "flags": []
+    },
+    {
+      "company": "Spotify",
+      "title": "Senior Applied Research Scientist - Personalization",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/6eb9ce0e-5372-4a4f-b2fa-d005f9426750",
+      "date_posted": 1790012752,
       "flags": []
     },
     {
@@ -2585,6 +2665,14 @@
       "flags": []
     },
     {
+      "company": "Stripe",
+      "title": "Product Operations Manager",
+      "location": "NYC, SF, Seattle",
+      "url": "https://stripe.com/jobs/search?gh_jid=8163532",
+      "date_posted": 1787938230,
+      "flags": []
+    },
+    {
       "company": "Snowflake",
       "title": "Global Account Manager, Telco",
       "location": "US-WA-Bellevue",
@@ -3120,94 +3208,6 @@
       "location": "Austin; New York City; San Francisco",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8138914",
       "date_posted": 1787591441,
-      "flags": []
-    },
-    {
-      "company": "Anaplan",
-      "title": "Sr. GTM Analytics Manager",
-      "location": "Minneapolis",
-      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8742271002",
-      "date_posted": 1787584730,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Technical Account Manager, Billing",
-      "location": "San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8142304",
-      "date_posted": 1787584503,
-      "flags": []
-    },
-    {
-      "company": "Cognex",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Natick, Massachusetts",
-      "url": "https://cognex.wd1.myworkdayjobs.com/de-DE/External_Career_Site/job/Natick-Massachusetts/Senior-Machine-Learning-Engineer_R0011776",
-      "date_posted": 1787572901,
-      "flags": []
-    },
-    {
-      "company": "Amgen",
-      "title": "Machine Learning Engineer, AI Studio",
-      "location": "US - Florida - Jacksonville - Field/Remote",
-      "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/Machine-Learning-Engineer--AI-Studio_R-250796",
-      "date_posted": 1787529600,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Software Engineer, Observability",
-      "location": "United States",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8716220002",
-      "date_posted": 1787501110,
-      "flags": []
-    },
-    {
-      "company": "Nvidia",
-      "title": "Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Software-Engineer--Kubernetes-and-Virtualization---DGX-Cloud_JR2007944",
-      "date_posted": 1787443200,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Staff Software Engineer, Startup Products",
-      "location": "United States",
-      "url": "https://stripe.com/jobs/search?gh_jid=8146271",
-      "date_posted": 1787355353,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Director, Product Management - Snowflake Transactions",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/82f841ea-c0f8-4f5a-b170-212cc9da8c72/application",
-      "date_posted": 1787351364,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Manager, Software Engineering (App Experiences)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7918497003",
-      "date_posted": 1787348506,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Staff/Senior Staff Software Engineer - Full Stack",
-      "location": "Foster City, CA",
-      "url": "https://jobs.lever.co/zoox/6e661ebe-548b-4532-a243-a310fbf60223",
-      "date_posted": 1787344957,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Software Engineer L3 Control Flow",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7816159",
-      "date_posted": 1787342306,
       "flags": []
     }
   ]
