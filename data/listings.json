@@ -3,9 +3,33 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-24T01:23:45.851Z",
+  "generated_at": "2026-09-24T15:49:20.133Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Stripe",
+      "title": "Sourcer, GTM",
+      "location": "Chicago, Atlanta, US-Remote",
+      "url": "https://boards.greenhouse.io/stripe/jobs/8016504",
+      "date_posted": 1790218100,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Software Engineer, Data Access",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8168881?gh_jid=8168881",
+      "date_posted": 1790212858,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Senior Product Manager, Control Plane, RSC-G & Government",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8225580?gh_jid=8225580",
+      "date_posted": 1790209528,
+      "flags": []
+    },
     {
       "company": "Airbnb",
       "title": "Software Engineer, Application Platform",
@@ -150,6 +174,14 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8212529?gh_jid=8212529",
       "date_posted": 1790124248,
+      "flags": []
+    },
+    {
+      "company": "Salesforce",
+      "title": "Senior Analyst of Strategic Planning / Data Analytics",
+      "location": "Indiana - Indianapolis",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Senior-Analyst-of-Strategic-Planning---Data-Analytics_JR359415",
+      "date_posted": 1790121600,
       "flags": []
     },
     {
@@ -1061,6 +1093,14 @@
       "flags": []
     },
     {
+      "company": "Zillow",
+      "title": "Senior Software Engineer",
+      "location": "Remote",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Senior-Software-Engineer_P751275-1",
+      "date_posted": 1789344000,
+      "flags": []
+    },
+    {
       "company": "Netflix",
       "title": "Product Operations Lead, Ads Platform",
       "location": "New York",
@@ -1425,6 +1465,14 @@
       "title": "Creative Director",
       "location": "Remote - NC",
       "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Creative-Director_R15475-1",
+      "date_posted": 1788998400,
+      "flags": []
+    },
+    {
+      "company": "Intel",
+      "title": "Ocotillo Technology Fabrication Dry Etch Module Equipment Technician (Entry-level)",
+      "location": "US, Arizona, Phoenix",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ocotillo-Technology-Fabrication-Dry-Etch-Module-Equipment-Technician--Entry-level-_JR0286465-1",
       "date_posted": 1788998400,
       "flags": []
     },
@@ -3162,54 +3210,6 @@
       "location": "Foster City, CA",
       "url": "https://jobs.lever.co/zoox/c2abc555-0105-4eda-b9c9-5c9ee28703e7",
       "date_posted": 1787700102,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Software Engineer, Creator Studio",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8131689?gh_jid=8131689",
-      "date_posted": 1787697989,
-      "flags": []
-    },
-    {
-      "company": "Fivetran",
-      "title": "Senior Staff Software Engineer",
-      "location": "Oakland, California",
-      "url": "https://www.fivetran.com/careers/job?gh_jid=7976827003",
-      "date_posted": 1787690661,
-      "flags": []
-    },
-    {
-      "company": "Zip",
-      "title": "Software Engineer, New Grad (2027 Start)",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea/application",
-      "date_posted": 1787690231,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Industry Marketing Manager, Startups",
-      "location": "United States",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8638650002",
-      "date_posted": 1787685908,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Sr. Systems Analyst, Finance, Enterprise Apps",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8154856?gh_jid=8154856",
-      "date_posted": 1787685743,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Senior Solutions Engineer, Observe",
-      "location": "US-IL-Remote",
-      "url": "https://jobs.ashbyhq.com/snowflake/afaaccae-b713-4432-9c04-cc8b1be52d59/application",
-      "date_posted": 1787684905,
       "flags": []
     }
   ]
