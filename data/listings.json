@@ -3,9 +3,57 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-25T01:29:49.654Z",
+  "generated_at": "2026-09-25T15:49:50.058Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Senior Customer Engineer, Named - Calgary, Alberta",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8223736?gh_jid=8223736",
+      "date_posted": 1790343033,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Principal Growth Marketing Manager - SEO/GEO",
+      "location": "New York, New York, USA; San Francisco, California",
+      "url": "https://careers.datadoghq.com/detail/8180681/?gh_jid=8180681",
+      "date_posted": 1790339387,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Partner Solutions Engineer, Operational Excellence",
+      "location": "US-NYC; US-SF; US-Chicago; US-Atlanta; US-Seattle; US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8227563",
+      "date_posted": 1790333554,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Sr Professional Services Strategy & Ops Program Manager",
+      "location": "Mountain View, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000151815569",
+      "date_posted": 1790332523,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Staff Machine Learning Engineer, App Ads Modeling",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8187652",
+      "date_posted": 1790298807,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (AI / ML) - Spring 2027",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application",
+      "date_posted": 1790298350,
+      "flags": []
+    },
     {
       "company": "Airbnb",
       "title": "Senior Machine Learning Engineer, Trust",
@@ -140,6 +188,14 @@
       "location": "San Francisco",
       "url": "https://www.asana.com/jobs/apply/8227150?gh_jid=8227150",
       "date_posted": 1790262349,
+      "flags": []
+    },
+    {
+      "company": "Autodesk",
+      "title": "Senior Manager, Product",
+      "location": "AMER - United States - Colorado - Denver - Wewatta",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/ext/job/amer---united-states---colorado---denver---wewatta/senior-manager--product_26wd101260-1",
+      "date_posted": 1790252803,
       "flags": []
     },
     {
@@ -3154,62 +3210,6 @@
       "location": "United States",
       "url": "https://jobs.ashbyhq.com/sentilink/cbeda58b-9a35-4c75-a89a-5fa2c6dd83c1/application",
       "date_posted": 1787853746,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Solution Architect",
-      "location": "Remote, Virginia",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146042249",
-      "date_posted": 1787852673,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
-      "location": "San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8756214002",
-      "date_posted": 1787850192,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Software Engineer, Rulesets",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8159348?gh_jid=8159348",
-      "date_posted": 1787849088,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Staff Software Engineer - Snowhouse",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/68b45abb-f1d6-46b2-a30e-c551076e7e7e/application",
-      "date_posted": 1787846680,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Technical Program Manager, Security",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://job-boards.greenhouse.io/pinterest/jobs/7494650",
-      "date_posted": 1787832121,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Technical Program Manager 2, Technical Solutions",
-      "location": "Boston, Massachusetts, USA; New York, New York, USA; San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/datadog/jobs/8030837",
-      "date_posted": 1787832121,
-      "flags": []
-    },
-    {
-      "company": "Workday",
-      "title": "Machine Learning Engineer(GenAI)",
-      "location": "USA, CA, Pleasanton",
-      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Principal-Machine-Learning-Engineer-GenAI-_JR-0104686",
-      "date_posted": 1787832086,
       "flags": []
     }
   ]
