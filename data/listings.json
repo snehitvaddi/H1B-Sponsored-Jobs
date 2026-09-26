@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-26T01:33:24.050Z",
+  "generated_at": "2026-09-26T14:58:56.405Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "ServiceNow",
+      "title": "Sr. Staff Product Designer, Mobile Experience Strategy & Systems",
+      "location": "Santa Clara, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000151981339",
+      "date_posted": 1790392324,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Staff Software Engineer - Postgres Control Plane",
+      "location": "US-WA-Bellevue",
+      "url": "https://jobs.ashbyhq.com/snowflake/b99ba76c-0938-4a41-931b-d1fb2543126c/application",
+      "date_posted": 1790387560,
+      "flags": []
+    },
     {
       "company": "Zoox",
       "title": "Technical Program Manager - System Behavior Analysis",
@@ -100,6 +116,14 @@
       "location": "-REMOTE, USA",
       "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8233818",
       "date_posted": 1790360893,
+      "flags": []
+    },
+    {
+      "company": "Spotify",
+      "title": "Senior Program Manager - Podcast Sales Strategy & Solutions",
+      "location": "Los Angeles, CA",
+      "url": "https://jobs.lever.co/spotify/99860086-49bc-46b4-97ec-99d8993ffffb",
+      "date_posted": 1790360112,
       "flags": []
     },
     {
@@ -1621,6 +1645,14 @@
       "flags": []
     },
     {
+      "company": "Davita",
+      "title": "Sr Analyst, Statistical Inference and Data Science (IKC)",
+      "location": "05555 - Casa del Mundo Office (Denver HQ)",
+      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/05555---Casa-del-Mundo-Office-Denver-HQ/Analytics-and-Reporting-Sr-Analytics--IKC-_R0450869",
+      "date_posted": 1789084800,
+      "flags": []
+    },
+    {
       "company": "Affirm",
       "title": "Senior Software Engineer, Frontend (Auth Experiences)",
       "location": "Remote",
@@ -1825,6 +1857,14 @@
       "title": "Ocotillo Technology Fabrication Dry Etch Module Equipment Technician (Entry-level)",
       "location": "US, Arizona, Phoenix",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ocotillo-Technology-Fabrication-Dry-Etch-Module-Equipment-Technician--Entry-level-_JR0286465-1",
+      "date_posted": 1788998400,
+      "flags": []
+    },
+    {
+      "company": "Salesforce",
+      "title": "Senior Backend Software Engineer",
+      "location": "California - San Francisco",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/california---san-francisco/lead-backend-software-engineer_jr356282/apply/applyManually",
       "date_posted": 1788998400,
       "flags": []
     },
@@ -3170,46 +3210,6 @@
       "location": "United States",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Senior-Vulnerability-Analyst_R-00184271",
       "date_posted": 1788019302,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Machine Learning Engineer II, Responsible AI",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8162046",
-      "date_posted": 1788019301,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Software Engineer, Economy Platform",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
-      "date_posted": 1787957828,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Sr Staff AI Engineer - Veza",
-      "location": "Minneapolis, Minnesota",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146269339",
-      "date_posted": 1787957552,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Staff Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8761940002?gh_jid=8761940002",
-      "date_posted": 1787957433,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Machine Learning Engineer, Core Engineering",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote",
-      "url": "https://job-boards.greenhouse.io/pinterest/jobs/6121450",
-      "date_posted": 1787947302,
       "flags": []
     }
   ]
