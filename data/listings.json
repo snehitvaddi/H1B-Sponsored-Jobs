@@ -3,9 +3,137 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-25T15:49:50.058Z",
+  "generated_at": "2026-09-26T01:33:24.050Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Zoox",
+      "title": "Technical Program Manager - System Behavior Analysis",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/42bb084b-e5a0-47d7-bdf7-90a24026e4c5",
+      "date_posted": 1790377321,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, Cloud Infrastructure and Observability",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8221208",
+      "date_posted": 1790377040,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
+      "date_posted": 1790376395,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer - Postgres",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/6e96b818-2350-4601-8bdd-7ddd6c4a5f6d/application",
+      "date_posted": 1790376153,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer (Backend/Product focus, AIaaS)",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8231343?gh_jid=8231343",
+      "date_posted": 1790375677,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Staff Software Engineer, Backend (Trust and Safety)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7993030003",
+      "date_posted": 1790375578,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer (Platform - Financial Engineering)",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8204243?gh_jid=8204243",
+      "date_posted": 1790375039,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Transformation Architect - Enterprise, Central",
+      "location": "Remote - Illinois, USA; Remote - Indiana, USA; Remote - Kentucky, USA; Remote - Michigan, USA; Remote - Ohio, USA; Remote - Tennessee",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5234928007",
+      "date_posted": 1790369696,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Program Manager, Business Practices",
+      "location": "San Francisco, CA",
+      "url": "https://stripe.com/jobs/search?gh_jid=8209633",
+      "date_posted": 1790368847,
+      "flags": []
+    },
+    {
+      "company": "Asana",
+      "title": "Manager, Customer Success",
+      "location": "San Francisco",
+      "url": "https://www.asana.com/jobs/apply/8227362?gh_jid=8227362",
+      "date_posted": 1790368307,
+      "flags": []
+    },
+    {
+      "company": "Brex",
+      "title": "Senior Brand Producer",
+      "location": "New York, New York, United States; San Francisco, California",
+      "url": "https://www.brex.com/careers/8845851002?gh_jid=8845851002",
+      "date_posted": 1790367130,
+      "flags": []
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Group Product Manager - Corporate Systems",
+      "location": "-REMOTE, USA",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8233818",
+      "date_posted": 1790360893,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Product Analyst, Finance Technologies",
+      "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/8213700?gh_jid=8213700",
+      "date_posted": 1790357857,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Customer Engineer, Named - Toronto Canada",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8223359?gh_jid=8223359",
+      "date_posted": 1790357611,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Principal Customer Success Executive",
+      "location": "New York, NEW YORK",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000151875065",
+      "date_posted": 1790348126,
+      "flags": []
+    },
+    {
+      "company": "Netskope",
+      "title": "Director, Marketing Operations",
+      "location": "United States",
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8207334",
+      "date_posted": 1790344895,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Senior Customer Engineer, Named - Calgary, Alberta",
@@ -1050,6 +1178,14 @@
       "location": "Las Vegas, NV",
       "url": "https://jobs.lever.co/zoox/29783182-a9c1-444b-bfc4-74cad9a32476",
       "date_posted": 1789522501,
+      "flags": []
+    },
+    {
+      "company": "Paypal",
+      "title": "Data Scientist",
+      "location": "San Jose, California",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Data-Scientist_R0137881",
+      "date_posted": 1789520155,
       "flags": []
     },
     {
@@ -2309,6 +2445,14 @@
       "flags": []
     },
     {
+      "company": "Verkada",
+      "title": "Business Systems Support Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5230743007",
+      "date_posted": 1788477735,
+      "flags": []
+    },
+    {
       "company": "Zoox",
       "title": "Software Engineer - Collision Avoidance System Metrics",
       "location": "Foster City, CA",
@@ -3066,150 +3210,6 @@
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote",
       "url": "https://job-boards.greenhouse.io/pinterest/jobs/6121450",
       "date_posted": 1787947302,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Software Engineer, CDP - Payment Acceptance",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730",
-      "date_posted": 1787946547,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Product Analyst (Workday Payroll, Absence & Time Tracking)",
-      "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
-      "url": "https://www.okta.com/company/careers/opportunity/8159611?gh_jid=8159611",
-      "date_posted": 1787944292,
-      "flags": []
-    },
-    {
-      "company": "Mongodb",
-      "title": "Revenue Operations Manager",
-      "location": "Palo Alto",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8157127",
-      "date_posted": 1787943491,
-      "flags": []
-    },
-    {
-      "company": "Flexport",
-      "title": "Senior Systems Engineer (Identity and Access)",
-      "location": "U.S. Remote",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/8164901",
-      "date_posted": 1787943334,
-      "flags": []
-    },
-    {
-      "company": "Roku",
-      "title": "Senior Software Engineer - AI Automation",
-      "location": "San Jose, California",
-      "url": "https://www.weareroku.com/jobs/8162838?gh_jid=8162838",
-      "date_posted": 1787942246,
-      "flags": []
-    },
-    {
-      "company": "Flexport",
-      "title": "Senior Security Engineer, Detection & Response",
-      "location": "U.S. Remote",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/8164847",
-      "date_posted": 1787941157,
-      "flags": []
-    },
-    {
-      "company": "Plaid",
-      "title": "Data Scientist",
-      "location": "San Francisco HQ",
-      "url": "https://jobs.ashbyhq.com/plaid/172bb8e8-7dc8-4fdc-ae20-525456989ff4/application",
-      "date_posted": 1787938948,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Product Operations Manager",
-      "location": "NYC, SF, Seattle",
-      "url": "https://stripe.com/jobs/search?gh_jid=8163532",
-      "date_posted": 1787938230,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Global Account Manager, Telco",
-      "location": "US-WA-Bellevue",
-      "url": "https://jobs.ashbyhq.com/snowflake/c67fe2e1-f4b6-44ae-989a-f6e9058cb1f2/application",
-      "date_posted": 1787938001,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Senior Software Engineer - Mapping Web",
-      "location": "Foster City, CA",
-      "url": "https://jobs.lever.co/zoox/ef2fe77d-9b7b-4fdf-a98d-93e46f7ed272",
-      "date_posted": 1787932219,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Applied Scientist",
-      "location": "New York, New York",
-      "url": "https://careers.datadoghq.com/detail/8164181/?gh_jid=8164181",
-      "date_posted": 1787925442,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Staff Software Engineer, Backend (Identity International)",
-      "location": "Remote UK",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7979134003",
-      "date_posted": 1787916613,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Systems Reliability Engineer (SRE), Edge",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8161940?gh_jid=8161940",
-      "date_posted": 1787910412,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Staff Data Platform Engineer - Data Access Team",
-      "location": "Santa Clara, CALIFORNIA",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146075479",
-      "date_posted": 1787870404,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Senior FP&A Analyst, Operations",
-      "location": "Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8157691",
-      "date_posted": 1787866934,
-      "flags": []
-    },
-    {
-      "company": "Elastic",
-      "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
-      "location": "United States",
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8162445&gh_jid=8162445",
-      "date_posted": 1787856873,
-      "flags": []
-    },
-    {
-      "company": "Marlabs",
-      "title": "Senior Software Engineer (.Net)",
-      "location": "Coppell, TX",
-      "url": "https://marlabs.breezy.hr/p/9a9cabbb5a49-senior-software-engineer-net",
-      "date_posted": 1787855915,
-      "flags": []
-    },
-    {
-      "company": "Sentilink",
-      "title": "Senior Software Engineer, Platform/Backend",
-      "location": "United States",
-      "url": "https://jobs.ashbyhq.com/sentilink/cbeda58b-9a35-4c75-a89a-5fa2c6dd83c1/application",
-      "date_posted": 1787853746,
       "flags": []
     }
   ]
