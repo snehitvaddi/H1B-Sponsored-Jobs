@@ -3,9 +3,17 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-26T14:58:56.405Z",
+  "generated_at": "2026-09-27T01:27:01.309Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Datadog",
+      "title": "Senior Product Marketing Manager",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8113654/?gh_jid=8113654",
+      "date_posted": 1790435316,
+      "flags": []
+    },
     {
       "company": "ServiceNow",
       "title": "Sr. Staff Product Designer, Mobile Experience Strategy & Systems",
@@ -20,6 +28,14 @@
       "location": "US-WA-Bellevue",
       "url": "https://jobs.ashbyhq.com/snowflake/b99ba76c-0938-4a41-931b-d1fb2543126c/application",
       "date_posted": 1790387560,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Senior Sales Engineer, Enterprise - Minnesota",
+      "location": "Remote - Minnesota",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5244299007",
+      "date_posted": 1790385364,
       "flags": []
     },
     {
@@ -1202,6 +1218,14 @@
       "location": "Las Vegas, NV",
       "url": "https://jobs.lever.co/zoox/29783182-a9c1-444b-bfc4-74cad9a32476",
       "date_posted": 1789522501,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Staff Software Engineer - ITAM",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149756055",
+      "date_posted": 1789522115,
       "flags": []
     },
     {
@@ -3186,30 +3210,6 @@
       "location": "Remote - Virginia",
       "url": "https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Data-Engineer---Databricks_JR101081",
       "date_posted": 1788134400,
-      "flags": []
-    },
-    {
-      "company": "Guidehouse",
-      "title": "AWS Lakehouse Data Engineer",
-      "location": "Home Office: Tysons, VA",
-      "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/AWS-Lakehouse-Data-Engineer_43865",
-      "date_posted": 1788134400,
-      "flags": []
-    },
-    {
-      "company": "Nvidia",
-      "title": "Senior Software Engineer, Security",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Security-Architect_JR2018245",
-      "date_posted": 1788048000,
-      "flags": []
-    },
-    {
-      "company": "Leidos",
-      "title": "Senior Vulnerability Analyst",
-      "location": "United States",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Senior-Vulnerability-Analyst_R-00184271",
-      "date_posted": 1788019302,
       "flags": []
     }
   ]
