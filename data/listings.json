@@ -3,7 +3,7 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-27T01:27:01.309Z",
+  "generated_at": "2026-09-27T15:40:07.177Z",
   "count": 400,
   "jobs": [
     {
@@ -694,6 +694,14 @@
       "location": "Hybrid - New York, NY",
       "url": "https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241",
       "date_posted": 1790042532,
+      "flags": []
+    },
+    {
+      "company": "Medtronic",
+      "title": "Data Engineer",
+      "location": "Lafayette, Colorado",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Data-Engineer_R77104-1",
+      "date_posted": 1790035200,
       "flags": []
     },
     {
@@ -2861,6 +2869,14 @@
       "flags": []
     },
     {
+      "company": "Nvidia",
+      "title": "Senior SOCD Applied AI Engineer",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-SOCD-Applied-AI-Engineer_JR2020550",
+      "date_posted": 1788307200,
+      "flags": []
+    },
+    {
       "company": "Waymo",
       "title": "Staff Systems Engineer, Depot & Offhail Automation",
       "location": "Mountain View, CA, USA; San Francisco, CA",
@@ -3193,22 +3209,6 @@
       "title": "2027 Intern - Machine Learning Engineer",
       "location": "San Jose",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
-      "date_posted": 1788134400,
-      "flags": []
-    },
-    {
-      "company": "Transunion",
-      "title": "Security Automation Engineer",
-      "location": "Chicago - 555 West Adams St",
-      "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Security-Automation-Engineer_19041837",
-      "date_posted": 1788134400,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Data Engineer - Databricks",
-      "location": "Remote - Virginia",
-      "url": "https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Data-Engineer---Databricks_JR101081",
       "date_posted": 1788134400,
       "flags": []
     }
