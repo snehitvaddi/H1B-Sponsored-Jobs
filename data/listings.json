@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-28T01:39:07.716Z",
+  "generated_at": "2026-09-28T18:36:25.365Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Principal Customer Engineer -Majors, France",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8188337?gh_jid=8188337",
+      "date_posted": 1790607659,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Product Support Specialist",
+      "location": "New York, San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8236757",
+      "date_posted": 1790601294,
+      "flags": []
+    },
     {
       "company": "Datadog",
       "title": "Senior Product Marketing Manager",
@@ -1173,6 +1189,14 @@
       "flags": []
     },
     {
+      "company": "Brex",
+      "title": "Senior Software Engineer, Frontend",
+      "location": "San Francisco, California",
+      "url": "https://www.brex.com/careers/8815462002?gh_jid=8815462002",
+      "date_posted": 1789595471,
+      "flags": []
+    },
+    {
       "company": "Roblox",
       "title": "Senior Software Engineer, Systems",
       "location": "San Mateo, CA",
@@ -1386,6 +1410,14 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7994553003",
       "date_posted": 1789488255,
+      "flags": []
+    },
+    {
+      "company": "Guidehouse",
+      "title": "Data Analyst",
+      "location": "US - Remote (Any location)",
+      "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Data-Analyst_42461",
+      "date_posted": 1789475680,
       "flags": []
     },
     {
@@ -3178,38 +3210,6 @@
       "location": "Santa Clara, CALIFORNIA",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146495429",
       "date_posted": 1788188863,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Technical Support Engineer, Application Performance",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8164649?gh_jid=8164649",
-      "date_posted": 1788188400,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Staff Software Engineer, Enterprise Apps",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8166218?gh_jid=8166218",
-      "date_posted": 1788146714,
-      "flags": []
-    },
-    {
-      "company": "Nvidia",
-      "title": "Senior Software Engineer, NeMo Core Platform",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/senior-software-engineer--nemo-core-platform_jr2024160",
-      "date_posted": 1788134400,
-      "flags": []
-    },
-    {
-      "company": "Asurion",
-      "title": "Senior Software Engineer",
-      "location": "US-Headquarters",
-      "url": "https://asurion.wd5.myworkdayjobs.com/en-US/AsurionCareers_US/job/US-Headquarters/Senior-Software-Engineer_ASU0021257-1",
-      "date_posted": 1788134400,
       "flags": []
     }
   ]
