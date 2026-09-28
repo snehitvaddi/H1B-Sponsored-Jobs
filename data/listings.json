@@ -3,7 +3,7 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-27T15:40:07.177Z",
+  "generated_at": "2026-09-28T01:39:07.716Z",
   "count": 400,
   "jobs": [
     {
@@ -1538,6 +1538,14 @@
       "location": "San Francisco HQ",
       "url": "https://jobs.ashbyhq.com/plaid/85cd5d07-9920-45fa-931a-daf8c3558e5b/application",
       "date_posted": 1789192165,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Santa Clara, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149124469",
+      "date_posted": 1789171355,
       "flags": []
     },
     {
@@ -3201,14 +3209,6 @@
       "title": "Senior Software Engineer",
       "location": "US-Headquarters",
       "url": "https://asurion.wd5.myworkdayjobs.com/en-US/AsurionCareers_US/job/US-Headquarters/Senior-Software-Engineer_ASU0021257-1",
-      "date_posted": 1788134400,
-      "flags": []
-    },
-    {
-      "company": "Adobe",
-      "title": "2027 Intern - Machine Learning Engineer",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
       "date_posted": 1788134400,
       "flags": []
     }
