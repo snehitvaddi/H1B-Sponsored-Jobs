@@ -3,9 +3,177 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-09-29T16:53:49.281Z",
+  "generated_at": "2026-09-30T02:07:12.765Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Databricks",
+      "title": "Sr. Engagement Manager, Forward Deployed Engineering - Public Sector",
+      "location": "Remote - Virginia; Remote - Washington D.C.",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8490644002",
+      "date_posted": 1790727366,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, Native Mobile",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8241720?gh_jid=8241720",
+      "date_posted": 1790726880,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Solutions Consultant",
+      "location": "Chicago, Illinois",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8241586",
+      "date_posted": 1790723838,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Senior Manager, Security Operations Center",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8241565?gh_jid=8241565",
+      "date_posted": 1790721317,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Carrier Deal Desk Manager",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8240694",
+      "date_posted": 1790721280,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Machine Learning Engineer, Ads Bidding & Pacing",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8238679",
+      "date_posted": 1790721074,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Senior Group Product Manager, Verticals",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8857353002?gh_jid=8857353002",
+      "date_posted": 1790719113,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer - Cortex AI Frontend",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/b3fab313-f31f-44b6-8c32-222084f93259/application",
+      "date_posted": 1790718172,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Product Support Specialist - Bridge",
+      "location": "New York, Seattle, San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8241342",
+      "date_posted": 1790717152,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Software Engineer, Passport & Commerce, Web",
+      "location": "Remote",
+      "url": "https://careers.airbnb.com/positions/8239930?gh_jid=8239930",
+      "date_posted": 1790713296,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Social Media Intern",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8222063",
+      "date_posted": 1790709238,
+      "flags": []
+    },
+    {
+      "company": "Anaplan",
+      "title": "Sr. Manager, Revenue Accounting Operations",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8854758002",
+      "date_posted": 1790703606,
+      "flags": []
+    },
+    {
+      "company": "Zoox",
+      "title": "Software Engineer - Embedded Linux Operating Systems",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/63307a27-f2b1-43dc-8e78-a2e09d0eba2b",
+      "date_posted": 1790703133,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Technical Account Manager (Strategic Accounts)",
+      "location": "Chicago, Illinois; Colorado; Texas",
+      "url": "https://www.okta.com/company/careers/opportunity/8221687?gh_jid=8221687",
+      "date_posted": 1790691501,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Senior Manager, Software Development Engineering",
+      "location": "San Jose, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239710007",
+      "date_posted": 1790636700,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Staff Software Engineer, Integrations (Tech Lead)",
+      "location": "Santa Clara, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000152273170",
+      "date_posted": 1790629104,
+      "flags": []
+    },
+    {
+      "company": "Spotify",
+      "title": "Senior Revenue Operations Analyst",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/8c8c3cfc-4156-4dad-bb6d-48266766e94a",
+      "date_posted": 1790625165,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Talent Acquisition Operations, Program Manager",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234307",
+      "date_posted": 1790621870,
+      "flags": []
+    },
+    {
+      "company": "Asana",
+      "title": "Staff Software Engineer, AI Teammates",
+      "location": "San Francisco",
+      "url": "https://www.asana.com/jobs/apply/8237744?gh_jid=8237744",
+      "date_posted": 1790619378,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Software Engineering Manager - Network Transport",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8222106?gh_jid=8222106",
+      "date_posted": 1790615013,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Technical Account Manager",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8220734?gh_jid=8220734",
+      "date_posted": 1790612246,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Principal Customer Engineer -Majors, France",
@@ -1725,6 +1893,14 @@
       "flags": []
     },
     {
+      "company": "Dexcom",
+      "title": "Equipment Technician 2 (2B Wednesday - Friday, every other Saturday from 5:00PM - 5:00AM)",
+      "location": "Mesa, Arizona",
+      "url": "https://dexcom.wd1.myworkdayjobs.com/en-US/Dexcom/job/Mesa-Arizona/Equipment-Technician-2--2B-Wednesday---Friday--every-other-Saturday-from-5-00PM---5-00AM-_JR121137",
+      "date_posted": 1789084800,
+      "flags": []
+    },
+    {
       "company": "Affirm",
       "title": "Senior Software Engineer, Frontend (Auth Experiences)",
       "location": "Remote",
@@ -3034,182 +3210,6 @@
       "location": "New York City",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8167460",
       "date_posted": 1788289096,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Senior Software Engineer, Community Support Engineering (Frontend)",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/airbnb/jobs/8138069",
-      "date_posted": 1788285960,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Staff Software Engineer - Query Processing (Snowtrail)",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/eb080f61-42f2-4bec-91d3-9c0466ea5918/application",
-      "date_posted": 1788275382,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Product Designer, Design Innovation",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://job-boards.greenhouse.io/pinterest/jobs/7839695",
-      "date_posted": 1788264108,
-      "flags": []
-    },
-    {
-      "company": "Spotify",
-      "title": "Senior Machine Learning Engineer - Artist-First AI Music Lab",
-      "location": "New York, NY",
-      "url": "https://jobs.lever.co/spotify/0d82639f-54c4-4e44-984e-4c9de7e8fffe",
-      "date_posted": 1788252605,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Software Engineer - Platforms & Productivity",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8168623?gh_jid=8168623",
-      "date_posted": 1788239952,
-      "flags": []
-    },
-    {
-      "company": "Workday",
-      "title": "Sr. Software Engineer (Distributed Systems)",
-      "location": "USA, GA, Atlanta",
-      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Sr-Software-Engineer--Distributed-Systems-_JR-0108061",
-      "date_posted": 1788220800,
-      "flags": []
-    },
-    {
-      "company": "Kla",
-      "title": "Software Engineer",
-      "location": "USA-CA-Milpitas-KLA",
-      "url": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineer_2640196",
-      "date_posted": 1788220800,
-      "flags": []
-    },
-    {
-      "company": "Trimble",
-      "title": "Lead Product Manager – Identity & Access Management",
-      "location": "US - CO, Westminster",
-      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Product-Manager_R53677",
-      "date_posted": 1788220800,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer, Observability",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8129395?gh_jid=8129395",
-      "date_posted": 1788217810,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Software Engineer, New Grad",
-      "location": "San Francisco, Seattle, New York",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128744",
-      "date_posted": 1788214947,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Principal AI Platform Engineer",
-      "location": "Santa Clara, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146559474",
-      "date_posted": 1788213320,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Staff Software Engineer, Fleet Optimization",
-      "location": "San Francisco, CA ; Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8164291",
-      "date_posted": 1788212283,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Senior Software Engineer - SaaS Data Protection",
-      "location": "Palo Alto, CA",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8157246?gh_jid=8157246",
-      "date_posted": 1788209056,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Solutions Architect - Teleco",
-      "location": "Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8747038002",
-      "date_posted": 1788207966,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Senior Staff / Principal Software Engineer - Freeway Autonomy",
-      "location": "Foster City, CA",
-      "url": "https://jobs.lever.co/zoox/bea6c1d0-09dc-47db-9fff-ed2f33151763",
-      "date_posted": 1788207190,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Tax Manager",
-      "location": "Santa Clara, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5200877007",
-      "date_posted": 1788207144,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Sr. Staff Software Development Engineer",
-      "location": "USA - Update Location",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5212682007",
-      "date_posted": 1788207115,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Staff Software Engineer - Snowflake Feature Store",
-      "location": "US-WA-Bellevue",
-      "url": "https://jobs.ashbyhq.com/snowflake/3744bda5-c74a-4fa0-abb2-73da7fcfef09/application",
-      "date_posted": 1788194056,
-      "flags": []
-    },
-    {
-      "company": "Verkada",
-      "title": "Technical Content Delivery Manager",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5225570007",
-      "date_posted": 1788194053,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Salesforce Engineer",
-      "location": "Seattle, WA",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8761609002?gh_jid=8761609002",
-      "date_posted": 1788191236,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Solutions Architect - Agencies",
-      "location": "Northeast",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8758645002",
-      "date_posted": 1788188938,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Staff Reliability Engineer",
-      "location": "Santa Clara, CALIFORNIA",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146495429",
-      "date_posted": 1788188863,
       "flags": []
     }
   ]
