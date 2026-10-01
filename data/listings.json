@@ -3,9 +3,81 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-01T02:09:04.885Z",
+  "generated_at": "2026-10-01T17:22:59.837Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Pinterest",
+      "title": "Client Account Manager II, CPG",
+      "location": "New York, NY",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8223489",
+      "date_posted": 1790872306,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Staff Product Manager, Credit & Pricing",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8006357003",
+      "date_posted": 1790871992,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Creator Collaboration",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8223523?gh_jid=8223523",
+      "date_posted": 1790871941,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
+      "date_posted": 1790869082,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Senior Partner Marketing Manager",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8245812",
+      "date_posted": 1790868738,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "PhD Data Scientist, Intern",
+      "location": "New York, Seattle, South San Francisco HQ",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+      "date_posted": 1790867125,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Director, Global Partner Marketing",
+      "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
+      "url": "https://www.okta.com/company/careers/opportunity/8220791?gh_jid=8220791",
+      "date_posted": 1790866006,
+      "flags": []
+    },
+    {
+      "company": "Dropbox",
+      "title": "Senior Program Manager, Employee Experience",
+      "location": "Remote - US: Select locations",
+      "url": "https://jobs.dropbox.com/listing/8234201?gh_jid=8234201",
+      "date_posted": 1790864145,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Product Growth Intern (MBA), Summer 2027",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8224424?gh_jid=8224424",
+      "date_posted": 1790863280,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Digital Customer Engineer",
@@ -172,6 +244,14 @@
       "location": "Remote",
       "url": "https://www.coinbase.com/careers/positions/8241720?gh_jid=8241720",
       "date_posted": 1790726880,
+      "flags": []
+    },
+    {
+      "company": "Rsm",
+      "title": "Solution Architect, Data Solutions Architect",
+      "location": "Chicago",
+      "url": "https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/chicago/solution-architect--data-solutions-architect_jr121689",
+      "date_posted": 1790726400,
       "flags": []
     },
     {
@@ -1091,6 +1171,14 @@
       "flags": []
     },
     {
+      "company": "Cloudflare",
+      "title": "Manager, Data Center Rack Integration",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8221187?gh_jid=8221187",
+      "date_posted": 1790030629,
+      "flags": []
+    },
+    {
       "company": "Databricks",
       "title": "Sr. Deployment Strategist, FDE - Financial Services",
       "location": "Atlanta, Georgia; Boston, Massachusetts; Chicago, Illinois; New York City, New York; Washington, D.C.",
@@ -1349,6 +1437,14 @@
       "flags": []
     },
     {
+      "company": "Spotify",
+      "title": "Senior Backend Engineer, Home Surfaces",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/spotify/cefcda32-523e-418b-a327-383104741153",
+      "date_posted": 1789726145,
+      "flags": []
+    },
+    {
       "company": "ServiceNow",
       "title": "Senior Staff Product Manager, Conversational AI",
       "location": "Santa Clara, California",
@@ -1361,6 +1457,14 @@
       "title": "Payor Partnerships Project Manager",
       "location": "01548 - Texas Remote",
       "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/01548---texas-remote/payor-partnerships-project-manager_r0478197",
+      "date_posted": 1789689600,
+      "flags": []
+    },
+    {
+      "company": "Transunion",
+      "title": "Principal Technical Product Manager",
+      "location": "Chicago, Illinois",
+      "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Principal-Technical-Product-Manager_19042244",
       "date_posted": 1789689600,
       "flags": []
     },
@@ -3108,110 +3212,6 @@
       "location": "New York",
       "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8096118",
       "date_posted": 1788383764,
-      "flags": []
-    },
-    {
-      "company": "Plaid",
-      "title": "Senior Product Manager, Consumer",
-      "location": "San Francisco HQ",
-      "url": "https://jobs.ashbyhq.com/plaid/780fdd2e-5c29-4f25-831a-8f30e24923cd/application",
-      "date_posted": 1788381508,
-      "flags": []
-    },
-    {
-      "company": "Asana",
-      "title": "Social Media Lead",
-      "location": "Chicago",
-      "url": "https://www.asana.com/jobs/apply/8129531?gh_jid=8129531",
-      "date_posted": 1788377593,
-      "flags": []
-    },
-    {
-      "company": "Asana",
-      "title": "Senior Software Engineer, Product Frameworks",
-      "location": "New York City",
-      "url": "https://www.asana.com/jobs/apply/8174616?gh_jid=8174616",
-      "date_posted": 1788377131,
-      "flags": []
-    },
-    {
-      "company": "Leidos",
-      "title": "Data Engineer",
-      "location": "United States",
-      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Data-Engineer_R-00172767",
-      "date_posted": 1788372179,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Senior Technical Program Manager",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7832310003",
-      "date_posted": 1788370106,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Software Engineer, R2 Gateway",
-      "location": "In-Office",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8174207?gh_jid=8174207",
-      "date_posted": 1788369878,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Enterprise Account Manager",
-      "location": "New York, NY",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8777403002?gh_jid=8777403002",
-      "date_posted": 1788368051,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Principal Engineer, Big Data Platform",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7683981",
-      "date_posted": 1788367822,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Staff Research Engineer/Scientist",
-      "location": "Santa Clara, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147044517",
-      "date_posted": 1788367626,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "[Summer 2027] Product Management Intern",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
-      "date_posted": 1788367273,
-      "flags": []
-    },
-    {
-      "company": "Intel",
-      "title": "Applied Machine Learning Engineer (LLMs & RL)",
-      "location": "USA - CA - Santa Clara",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Applied-Machine-Learning-Engineer--LLMs---RL-_JR0282825",
-      "date_posted": 1788364924,
-      "flags": []
-    },
-    {
-      "company": "Workday",
-      "title": "Sr Cybersecurity Engineer",
-      "location": "USA.VA.Reston",
-      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Sr-Cybersecurity-Engineer_JR-0107488",
-      "date_posted": 1788350608,
-      "flags": []
-    },
-    {
-      "company": "Leidos",
-      "title": "Security Operations Center (SOC) Analyst (Mid)",
-      "location": "United States",
-      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Security-Operations-Center--SOC--Analyst--Mid-_R-00185685",
-      "date_posted": 1788350608,
       "flags": []
     }
   ]
