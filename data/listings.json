@@ -3,9 +3,105 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-01T17:22:59.837Z",
+  "generated_at": "2026-10-02T02:15:15.095Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Netskope",
+      "title": "Deal Desk Manager",
+      "location": "Maryland",
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8248431",
+      "date_posted": 1790899317,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Business Intelligence Analyst",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/4557ced6-d472-45c7-ab02-15c2024e8936/application",
+      "date_posted": 1790898511,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Director, Product & Brand Communications",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8861939002?gh_jid=8861939002",
+      "date_posted": 1790898338,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Senior Software Engineer, Ride Hailing Product",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=7438992",
+      "date_posted": 1790894270,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Technical Program Manager, Commercialization - Expansion",
+      "location": "Mountain View, CA, US; San Francisco, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8244452",
+      "date_posted": 1790893949,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Software Engineer, CDP - Stablecoin",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8234278?gh_jid=8234278",
+      "date_posted": 1790887108,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Sales Operations Lead",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8244229?gh_jid=8244229",
+      "date_posted": 1790885928,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior customer Engineer, Named - New York City",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8247433?gh_jid=8247433",
+      "date_posted": 1790884487,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Principal Platform Architect - SecOps and IRM",
+      "location": "Addison, Texas",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153009859",
+      "date_posted": 1790879733,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Staff Machine Learning Engineer, Ads ML Efficiency",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8247280",
+      "date_posted": 1790876906,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "UX Quantitative Research Intern (USA) *Remote",
+      "location": "Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
+      "date_posted": 1790874052,
+      "flags": []
+    },
+    {
+      "company": "Dropbox",
+      "title": "Scaled Customer Success Manager",
+      "location": "Remote - US: Select locations",
+      "url": "https://jobs.dropbox.com/listing/8233086?gh_jid=8233086",
+      "date_posted": 1790873678,
+      "flags": []
+    },
     {
       "company": "Pinterest",
       "title": "Client Account Manager II, CPG",
@@ -869,6 +965,14 @@
       "title": "Software Engineering AMTS (College Grad)",
       "location": "California - San Francisco",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Software-Engineering-AMTS--College-Grad-_JR355250-1",
+      "date_posted": 1790208000,
+      "flags": []
+    },
+    {
+      "company": "Ncr",
+      "title": "Cyber Security AI Engineer, Security Operations Center",
+      "location": "ATLANTA, GA",
+      "url": "https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/Information-Security-Operations-Analyst_R0156645",
       "date_posted": 1790208000,
       "flags": []
     },
@@ -3108,110 +3212,6 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8171112",
       "date_posted": 1788460808,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Threat Intelligence Platform Engineer",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619",
-      "date_posted": 1788458536,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Senior Staff Software Engineer, Fullstack (Marketplace and Consumer Experiences)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7978722003",
-      "date_posted": 1788449433,
-      "flags": []
-    },
-    {
-      "company": "Zuora",
-      "title": "Senior Java Engineer",
-      "location": "Foster City, California",
-      "url": "https://boards.greenhouse.io/zuora/jobs/7966286?gh_jid=7966286",
-      "date_posted": 1788449293,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Senior Manager, Financial Systems",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7983767003",
-      "date_posted": 1788447856,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Sales Engineer - UK",
-      "location": "Remote - UK",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5211686007",
-      "date_posted": 1788445162,
-      "flags": []
-    },
-    {
-      "company": "Tiger Analytics Inc.",
-      "title": "Technology Partner - Databricks",
-      "location": "Remote",
-      "url": "https://jobs.workable.com/view/pYJFjQCCjWjuyQNCLdM1t8/remote-technology-partner---databricks-in-new-york-at-tiger-analytics-inc",
-      "date_posted": 1788444160,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Software Engineer, Security Rules",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8160660?gh_jid=8160660",
-      "date_posted": 1788439183,
-      "flags": []
-    },
-    {
-      "company": "Nuro",
-      "title": "Senior Product Designer",
-      "location": "Mountain View, California (HQ)",
-      "url": "https://nuro.ai/careersitem?gh_jid=8174226",
-      "date_posted": 1788400124,
-      "flags": []
-    },
-    {
-      "company": "Tiger Analytics Inc.",
-      "title": "Technology Partner - Databricks",
-      "location": "Sunnyvale, California",
-      "url": "https://apply.workable.com/j/83F54268FF/apply",
-      "date_posted": 1788393600,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Senior Software Engineer - Cloud Security",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/f4754cf9-8e07-46b9-8874-528e810892f0/application",
-      "date_posted": 1788389799,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Staff Application Security Engineer (ServiceNow Instance Security)",
-      "location": "Santa Clara, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147091979",
-      "date_posted": 1788388984,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Senior Software Engineer",
-      "location": "South San Francisco, CA",
-      "url": "https://stripe.com/jobs/search?gh_jid=8175099",
-      "date_posted": 1788384848,
-      "flags": []
-    },
-    {
-      "company": "Netskope",
-      "title": "Channel Solutions Engineer - NYC",
-      "location": "New York",
-      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8096118",
-      "date_posted": 1788383764,
       "flags": []
     }
   ]
