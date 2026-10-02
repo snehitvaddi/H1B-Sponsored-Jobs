@@ -3,9 +3,81 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-02T02:15:15.095Z",
+  "generated_at": "2026-10-02T16:38:43.343Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Twilio",
+      "title": "Principal Product Manager",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8236862",
+      "date_posted": 1790955940,
+      "flags": []
+    },
+    {
+      "company": "Socure",
+      "title": "Principal Product Operations Manager - Launches",
+      "location": "Hub - San Francisco",
+      "url": "https://jobs.ashbyhq.com/socure/f41db638-c712-422f-928e-577482303df9/application",
+      "date_posted": 1790954352,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Card Loan Platform)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8005075003",
+      "date_posted": 1790953039,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Strategic Finance Senior Manager",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8244067",
+      "date_posted": 1790948883,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "AI Solutions Specialist",
+      "location": "US, Remote",
+      "url": "https://jobs.ashbyhq.com/snowflake/9321b73a-1bc9-41d2-96fb-d4ec1818f046/application",
+      "date_posted": 1790948491,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Technical Support Engineer - Developer Platform",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245501?gh_jid=8245501",
+      "date_posted": 1790943577,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Manager, Revenue Accounting",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8238132/?gh_jid=8238132",
+      "date_posted": 1790940036,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Product Manager, Network Flows Optimization",
+      "location": "San Francisco, CA, USA; Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8245284",
+      "date_posted": 1790934277,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8242207?gh_jid=8242207",
+      "date_posted": 1790901382,
+      "flags": []
+    },
     {
       "company": "Netskope",
       "title": "Deal Desk Manager",
@@ -28,6 +100,22 @@
       "location": "San Francisco, CA",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8861939002?gh_jid=8861939002",
       "date_posted": 1790898338,
+      "flags": []
+    },
+    {
+      "company": "Gusto",
+      "title": "Staff Software Engineer, Financial Platform",
+      "location": "Austin, TX - Remote; Burlingame, CA - Hybrid; Chicago, IL - Remote; Denver, CO - Hybrid; Los Angeles, CA - Remote; Miami, FL - Remote; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8205075",
+      "date_posted": 1790895073,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Staff Engineer - Business Systems",
+      "location": "New York City",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8221355",
+      "date_posted": 1790894420,
       "flags": []
     },
     {
@@ -68,6 +156,22 @@
       "location": "Hybrid",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8247433?gh_jid=8247433",
       "date_posted": 1790884487,
+      "flags": []
+    },
+    {
+      "company": "Brex",
+      "title": "Brand Marketing Lead",
+      "location": "New York, New York, United States; San Francisco, California, United States;",
+      "url": "https://www.brex.com/careers/8860097002?gh_jid=8860097002",
+      "date_posted": 1790882666,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Product Designer, Toast Support Experiences",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8242950",
+      "date_posted": 1790880485,
       "flags": []
     },
     {
@@ -124,6 +228,22 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8223523?gh_jid=8223523",
       "date_posted": 1790871941,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Director of Business Systems Product Management",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5238205007",
+      "date_posted": 1790870492,
+      "flags": []
+    },
+    {
+      "company": "Plaid",
+      "title": "Product Manager - Data Supply Health and Traffic",
+      "location": "New York City Office",
+      "url": "https://jobs.ashbyhq.com/plaid/058c0896-18fb-47a5-8b34-2f1a78623312/application",
+      "date_posted": 1790869101,
       "flags": []
     },
     {
@@ -1211,6 +1331,14 @@
       "flags": []
     },
     {
+      "company": "Carvana",
+      "title": "Systems Administrator Team Lead",
+      "location": "Carmel, IN",
+      "url": "https://www.carvana.com/careers/apply?gh_jid=8221959",
+      "date_posted": 1790095657,
+      "flags": []
+    },
+    {
       "company": "Flexport",
       "title": "Senior Account Manager, Fulfillment",
       "location": "Atlanta Warehouse; Chicago Warehouse; Dallas Warehouse; Phillipsburg Warehouse; San Bernardino Warehouse",
@@ -1554,6 +1682,14 @@
       "location": "Santa Clara, California",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150270254",
       "date_posted": 1789699935,
+      "flags": []
+    },
+    {
+      "company": "Skyspecs",
+      "title": "Product Manager, Asset Integrity & Operations",
+      "location": "United States",
+      "url": "https://skyspecs.breezy.hr/p/4f22055c3e40-product-manager-asset-integrity-operations",
+      "date_posted": 1789690008,
       "flags": []
     },
     {
@@ -3076,142 +3212,6 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8164933?gh_jid=8164933",
       "date_posted": 1788545127,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer, Data Engineering (Short Term)",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8174475?gh_jid=8174475",
-      "date_posted": 1788537710,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Senior Manager, Global Deal Desk",
-      "location": "United States",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8174784?gh_jid=8174784",
-      "date_posted": 1788537192,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Staff Security Engineer, Threat Hunting",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8157344",
-      "date_posted": 1788535532,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "RVP, SOLUTION ENGINEERING, FINANCIAL SERVICES",
-      "location": "US-NY-New York",
-      "url": "https://jobs.ashbyhq.com/snowflake/edbc6f39-b5db-496e-8b01-debd7893d174/application",
-      "date_posted": 1788535458,
-      "flags": []
-    },
-    {
-      "company": "Workday",
-      "title": "Senior Software Engineer/Software Engineer III (Data ...",
-      "location": "USA, CA, Pleasanton",
-      "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Senior-Software-Engineer-Software-Engineer-III--Data-Engineering-_JR-0106163",
-      "date_posted": 1788523397,
-      "flags": []
-    },
-    {
-      "company": "Netskope",
-      "title": "Solutions Engineer - Healthcare",
-      "location": "Texas",
-      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8045251",
-      "date_posted": 1788516085,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Strategic Enterprise Account Executive - Financial Services",
-      "location": "New York City, New York",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8770530002",
-      "date_posted": 1788500171,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Solutions Architect, Customer Lake",
-      "location": "United States",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8762360002",
-      "date_posted": 1788483007,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Principal Applied AI Architect",
-      "location": "Denver, Colorado",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147375129",
-      "date_posted": 1788481028,
-      "flags": []
-    },
-    {
-      "company": "Verkada",
-      "title": "Business Systems Support Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5230743007",
-      "date_posted": 1788477735,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Software Engineer - Collision Avoidance System Metrics",
-      "location": "Foster City, CA",
-      "url": "https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5",
-      "date_posted": 1788473127,
-      "flags": []
-    },
-    {
-      "company": "Intel",
-      "title": "Business Analyst - Intel",
-      "location": "USA - AZ - Chandler",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Business-Analyst_JR0284479",
-      "date_posted": 1788473009,
-      "flags": []
-    },
-    {
-      "company": "Davita",
-      "title": "Analyst, Business (ROPS)",
-      "location": "09507 - Colorado Remote",
-      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/09507---colorado-remote/analyst--business--rops-_r0452314",
-      "date_posted": 1788473009,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Manager Product Management ServiceNow Cloud",
-      "location": "Kirkland, Washington",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147362229",
-      "date_posted": 1788471317,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Systems Engineer, Growth Engineering",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8175620?gh_jid=8175620",
-      "date_posted": 1788468804,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Software Engineer, Online Database Infrastructure",
-      "location": "Seattle, WA",
-      "url": "https://stripe.com/jobs/search?gh_jid=8177930",
-      "date_posted": 1788461822,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Principal Presales Engineer, ISV HLS",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8171112",
-      "date_posted": 1788460808,
       "flags": []
     }
   ]
