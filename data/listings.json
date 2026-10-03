@@ -3,15 +3,31 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-03T01:56:25.163Z",
+  "generated_at": "2026-10-03T15:10:32.206Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Plaid",
+      "title": "Product Operations Specialist",
+      "location": "San Francisco HQ",
+      "url": "https://jobs.ashbyhq.com/plaid/a063f469-1ec5-44d1-8cc5-1da47a7b8783/application",
+      "date_posted": 1790987124,
+      "flags": []
+    },
     {
       "company": "Reddit",
       "title": "Staff Machine Learning Engineer, Ads Creative Effectiveness",
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8250389",
       "date_posted": 1790983734,
+      "flags": []
+    },
+    {
+      "company": "Brex",
+      "title": "Director, Revenue Operations",
+      "location": "Seattle, Washington",
+      "url": "https://www.brex.com/careers/8865086002?gh_jid=8865086002",
+      "date_posted": 1790980809,
       "flags": []
     },
     {
@@ -3196,22 +3212,6 @@
       "location": "Remote - Washington; Seattle, Washington",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569637002",
       "date_posted": 1788891324,
-      "flags": []
-    },
-    {
-      "company": "Brex",
-      "title": "Staff Brand Designer, Interactive",
-      "location": "New York, New York",
-      "url": "https://www.brex.com/careers/8782407002?gh_jid=8782407002",
-      "date_posted": 1788890084,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Software Engineer - Robot Software Infrastructure",
-      "location": "Foster City, CA",
-      "url": "https://jobs.lever.co/zoox/6da52aa7-0ccb-48d0-af25-0889f41ddee5",
-      "date_posted": 1788887190,
       "flags": []
     }
   ]
