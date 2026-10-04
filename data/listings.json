@@ -3,7 +3,7 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-03T15:10:32.206Z",
+  "generated_at": "2026-10-04T02:38:22.208Z",
   "count": 400,
   "jobs": [
     {
@@ -772,6 +772,14 @@
       "location": "San Jose, California",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239710007",
       "date_posted": 1790636700,
+      "flags": []
+    },
+    {
+      "company": "Sunpower",
+      "title": "System Designer - Commercial & Residential",
+      "location": "Mountain View, CA",
+      "url": "https://sunpower.breezy.hr/p/1e3a59d1e184-system-designer-commercial-residential",
+      "date_posted": 1790629452,
       "flags": []
     },
     {
@@ -3204,14 +3212,6 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8180238",
       "date_posted": 1788893274,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Solutions Architect - Travel and Hospitality",
-      "location": "Remote - Washington; Seattle, Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569637002",
-      "date_posted": 1788891324,
       "flags": []
     }
   ]
