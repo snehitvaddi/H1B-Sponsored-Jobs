@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-05T02:00:23.323Z",
+  "generated_at": "2026-10-05T19:42:37.702Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Senior Customer Engineer, Strategic Pursuits, APAC (Based in Singapore)",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8248543?gh_jid=8248543",
+      "date_posted": 1791193558,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Customer Success Manager, Revenue Suite",
+      "location": "Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=8237366",
+      "date_posted": 1791193485,
+      "flags": []
+    },
     {
       "company": "Plaid",
       "title": "Product Operations Specialist",
@@ -3196,22 +3212,6 @@
       "location": "Chicago, Illinois",
       "url": "https://www.okta.com/company/careers/opportunity/7363101?gh_jid=7363101",
       "date_posted": 1788898764,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Global Solutions Architect",
-      "location": "USA , Remote",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8140609?gh_jid=8140609",
-      "date_posted": 1788893336,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Principal Presales Product Specialist",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8180238",
-      "date_posted": 1788893274,
       "flags": []
     }
   ]
