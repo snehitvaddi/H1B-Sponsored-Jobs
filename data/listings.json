@@ -3,9 +3,65 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-09T02:56:23.054Z",
+  "generated_at": "2026-10-09T17:26:54.063Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Senior Certificate Authority Architect",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8263503?gh_jid=8263503",
+      "date_posted": 1791561598,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Senior Design Manager - AI Monitoring & Management",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8262004/?gh_jid=8262004",
+      "date_posted": 1791560785,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Customer Success Manager II, SMB -Account Strategy",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8265595",
+      "date_posted": 1791558921,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Batch Developer Experience)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003028003",
+      "date_posted": 1791552053,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Marketing Operations Manager, AMER Events",
+      "location": "US Remote; Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=8250483",
+      "date_posted": 1791525368,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Data Scientist, Monetary Policy",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8240745?gh_jid=8240745",
+      "date_posted": 1791521188,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Staff Software Engineer, iOS Platform",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8262769?gh_jid=8262769",
+      "date_posted": 1791518802,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Systems Engineer - Data Security",
@@ -422,6 +478,14 @@
       "location": "North America",
       "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8239449",
       "date_posted": 1791305515,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Business Development Lead, VC/PE",
+      "location": "New York City, New York; San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8475477002",
+      "date_posted": 1791300927,
       "flags": []
     },
     {
@@ -2343,6 +2407,14 @@
       "flags": []
     },
     {
+      "company": "Cargurus",
+      "title": "Software Development Engineer II, Dealer Inventory",
+      "location": "Boston, Massachusetts",
+      "url": "https://careers.cargurus.com/us/en/job/8204329?gh_jid=8204329",
+      "date_posted": 1789759633,
+      "flags": []
+    },
+    {
       "company": "Dropbox",
       "title": "Senior Financial Planning & Analysis Partner - Product & Growth",
       "location": "Remote - US: Select locations",
@@ -3142,78 +3214,6 @@
       "location": "NYC, Chicago, Seattle, San Francisco",
       "url": "https://stripe.com/jobs/search?gh_jid=8176254",
       "date_posted": 1789129157,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Frontend Engineer, Ads",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
-      "date_posted": 1789101415,
-      "flags": []
-    },
-    {
-      "company": "Paypal",
-      "title": "Staff Software Engineer - BE Python",
-      "location": "San Jose, California",
-      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Staff-Software-Engineer---BE-Python_R0134436-1",
-      "date_posted": 1789084800,
-      "flags": []
-    },
-    {
-      "company": "Zillow",
-      "title": "Program Manager, HR Compliance",
-      "location": "Remote",
-      "url": "https://zillow.wd5.myworkdayjobs.com/zillow_group_external/job/remote-usa/program-manager--hr-compliance_p751326-1",
-      "date_posted": 1789084800,
-      "flags": []
-    },
-    {
-      "company": "Davita",
-      "title": "Sr Analyst, Statistical Inference and Data Science (IKC)",
-      "location": "05555 - Casa del Mundo Office (Denver HQ)",
-      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/05555---Casa-del-Mundo-Office-Denver-HQ/Analytics-and-Reporting-Sr-Analytics--IKC-_R0450869",
-      "date_posted": 1789084800,
-      "flags": []
-    },
-    {
-      "company": "Dexcom",
-      "title": "Equipment Technician 2 (2B Wednesday - Friday, every other Saturday from 5:00PM - 5:00AM)",
-      "location": "Mesa, Arizona",
-      "url": "https://dexcom.wd1.myworkdayjobs.com/en-US/Dexcom/job/Mesa-Arizona/Equipment-Technician-2--2B-Wednesday---Friday--every-other-Saturday-from-5-00PM---5-00AM-_JR121137",
-      "date_posted": 1789084800,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Senior Software Engineer, Frontend (Auth Experiences)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7984714003",
-      "date_posted": 1789082404,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Lead Ads Product Marketing Manager",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8130606",
-      "date_posted": 1789079691,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Staff Cloud Architect",
-      "location": "Kirkland, Washington",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148877067",
-      "date_posted": 1789079078,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Staff Technical Program Manager - Security",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/21bfc3fe-827c-46e9-bc56-d0a676a6d9d0/application",
-      "date_posted": 1789078235,
       "flags": []
     }
   ]
