@@ -3,9 +3,187 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-08T17:52:54.651Z",
+  "generated_at": "2026-10-09T02:56:23.054Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Systems Engineer - Data Security",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8257140?gh_jid=8257140",
+      "date_posted": 1791504900,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Software Engineer, Data Model",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8159857?gh_jid=8159857",
+      "date_posted": 1791504221,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading)",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8174232?gh_jid=8174232",
+      "date_posted": 1791503437,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Security Engineer, Incident Response",
+      "location": "Remote - California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8841960002",
+      "date_posted": 1791503209,
+      "flags": [
+        "clearance"
+      ]
+    },
+    {
+      "company": "Plaid",
+      "title": "GTM Strategic Finance",
+      "location": "San Francisco HQ",
+      "url": "https://jobs.ashbyhq.com/plaid/a342fecf-4607-42bb-9dce-2952cfa6ad33/application",
+      "date_posted": 1791503126,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Growth Marketing Manager",
+      "location": "United States",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8265960",
+      "date_posted": 1791501695,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer - Customer Experience Engineering",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec/application",
+      "date_posted": 1791501341,
+      "flags": []
+    },
+    {
+      "company": "Carvana",
+      "title": "Senior Analyst, Financial Planning and Analysis",
+      "location": "Tempe, AZ",
+      "url": "https://www.carvana.com/careers/apply?gh_jid=8265922",
+      "date_posted": 1791500997,
+      "flags": []
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Product Operations Manager (Remote Eligible)",
+      "location": "-REMOTE, USA",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8265320",
+      "date_posted": 1791499865,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Senior Learning Experience Designer",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8261442",
+      "date_posted": 1791497121,
+      "flags": []
+    },
+    {
+      "company": "Gusto",
+      "title": "Senior Creative Program Manager",
+      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8260095",
+      "date_posted": 1791493663,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Senior Embedded Software Engineer",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8263454",
+      "date_posted": 1791492067,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Senior Product Marketing Manager, Solutions",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5255170007",
+      "date_posted": 1791491979,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Solutions Engineer Intern 2027 (USA)",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214788",
+      "date_posted": 1791489983,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, AI",
+      "location": "NYC, SF, or Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=8248509",
+      "date_posted": 1791487092,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Senior Android Software Engineer, Consumer Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8263407",
+      "date_posted": 1791485718,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8262154",
+      "date_posted": 1791484918,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Principal, CX Strategy & Analytics",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8259835",
+      "date_posted": 1791484521,
+      "flags": []
+    },
+    {
+      "company": "Sunpower",
+      "title": "Journeyman Electrician",
+      "location": "Portland, OR",
+      "url": "https://sunpower.breezy.hr/p/264775f627ae-journeyman-electrician",
+      "date_posted": 1791484154,
+      "flags": []
+    },
+    {
+      "company": "Dropbox",
+      "title": "Principal Software Engineer",
+      "location": "Remote - US: All locations",
+      "url": "https://jobs.dropbox.com/listing/8261911?gh_jid=8261911",
+      "date_posted": 1791480113,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Senior Technical Marketing Engineer",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5250702007",
+      "date_posted": 1791479753,
+      "flags": []
+    },
+    {
+      "company": "Natera",
+      "title": "Senior Director / Director , Breast Oncology Lifecycle Management",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6216503004",
+      "date_posted": 1791479048,
+      "flags": []
+    },
     {
       "company": "Rubrik",
       "title": "Revenue Accounting Manager",
@@ -76,6 +254,14 @@
       "location": "In-Office",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8264687?gh_jid=8264687",
       "date_posted": 1791471793,
+      "flags": []
+    },
+    {
+      "company": "Socure",
+      "title": "Staff Product Operations Manager",
+      "location": "Hub - New York",
+      "url": "https://jobs.ashbyhq.com/socure/83bea28d-65f1-4819-b6a4-b7e03beea345/application",
+      "date_posted": 1791471444,
       "flags": []
     },
     {
@@ -268,6 +454,14 @@
       "location": "Remote",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8236786",
       "date_posted": 1791221858,
+      "flags": []
+    },
+    {
+      "company": "Nationsbenefits",
+      "title": "Software Development Engineer I",
+      "location": "United States",
+      "url": "https://nationsbenefits.breezy.hr/p/ceb3693725d7-software-development-engineer-i",
+      "date_posted": 1791203867,
       "flags": []
     },
     {
@@ -3020,198 +3214,6 @@
       "location": "US-CA-Menlo Park",
       "url": "https://jobs.ashbyhq.com/snowflake/21bfc3fe-827c-46e9-bc56-d0a676a6d9d0/application",
       "date_posted": 1789078235,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Senior Software Engineer, Mapping Data & Eval",
-      "location": "San Francisco, CA, USA; Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8177548",
-      "date_posted": 1789077847,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer - Machine Bootstrap",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8148696?gh_jid=8148696",
-      "date_posted": 1789073369,
-      "flags": []
-    },
-    {
-      "company": "Spotify",
-      "title": "Staff Machine Learning Engineer, Home Surfaces",
-      "location": "New York, NY",
-      "url": "https://jobs.lever.co/spotify/281e7db9-86ba-4a1c-8773-c23b96ed32dc",
-      "date_posted": 1789071945,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Principal Software Engineer - Semantic Views",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/81f44bce-ec85-4674-b07e-1c9bda452788/application",
-      "date_posted": 1789070098,
-      "flags": []
-    },
-    {
-      "company": "Plaid",
-      "title": "Senior Machine Learning Engineer - Embedded Insights",
-      "location": "New York City Office",
-      "url": "https://jobs.ashbyhq.com/plaid/a1db9566-d51d-495e-9e87-4d57ac307d3c/application",
-      "date_posted": 1789067583,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Manager, Forward Deployed Engineering",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8192032?gh_jid=8192032",
-      "date_posted": 1789065700,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Solutions Engineering Associate, Okta",
-      "location": "Boston, Massachusetts; New York, New York; Pennsylvania",
-      "url": "https://www.okta.com/company/careers/opportunity/8191371?gh_jid=8191371",
-      "date_posted": 1789063751,
-      "flags": []
-    },
-    {
-      "company": "Verkada",
-      "title": "Product Marketing Manager, Workplace",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5233774007",
-      "date_posted": 1789062172,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Solutions Architect, Enterprise Hunter (Presales)",
-      "location": "San Francisco, CA",
-      "url": "https://stripe.com/jobs/search?gh_jid=8175663",
-      "date_posted": 1789059399,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Sales Engineer (SLED, K-12)",
-      "location": "Remote",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8128167?gh_jid=8128167",
-      "date_posted": 1789059141,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Senior Product Manager, Community Support Experience",
-      "location": "Remote",
-      "url": "https://careers.airbnb.com/positions/8186787?gh_jid=8186787",
-      "date_posted": 1789058876,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Lifecycle & Email Marketing Strategist",
-      "location": "Santa Clara, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148829349",
-      "date_posted": 1789058298,
-      "flags": []
-    },
-    {
-      "company": "Natera",
-      "title": "Senior Software Engineer - Commercial Services",
-      "location": "US Remote",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6146411004",
-      "date_posted": 1789056489,
-      "flags": []
-    },
-    {
-      "company": "Paypal",
-      "title": "Senior Software Engineer - Python",
-      "location": "San Jose, California",
-      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Senior-Software-Engineer---Python_R0134448-1",
-      "date_posted": 1789049185,
-      "flags": []
-    },
-    {
-      "company": "Spotify",
-      "title": "Data Scientist - Music Promotion",
-      "location": "New York, NY",
-      "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
-      "date_posted": 1789046011,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Director, Data & Storage Reliability Engineering",
-      "location": "Santa Clara, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148663539",
-      "date_posted": 1789007273,
-      "flags": []
-    },
-    {
-      "company": "Intel",
-      "title": "AI Software Engineering PhD Intern",
-      "location": "US, Arizona, Phoenix",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730",
-      "date_posted": 1788998400,
-      "flags": []
-    },
-    {
-      "company": "Kla",
-      "title": "AI Software Engineer|Manufacturing",
-      "location": "Ann Arbor, MI",
-      "url": "https://kla.wd1.myworkdayjobs.com/en-US/AnnArbor/job/Ann-Arbor-MI/AI-Software-Engineer-Manufacturing_2640648",
-      "date_posted": 1788998400,
-      "flags": []
-    },
-    {
-      "company": "Pfizer",
-      "title": "Director, Data Integration Engineer",
-      "location": "United States - New York - New York City",
-      "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Director--Data-Integration-Engineer_4963451-1",
-      "date_posted": 1788998400,
-      "flags": []
-    },
-    {
-      "company": "Workday",
-      "title": "Sr Customer Success Manager",
-      "location": "USA, MA, Boston",
-      "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-MA-Boston/Sr-Customer-Success-Manager_JR-0109833",
-      "date_posted": 1788998400,
-      "flags": []
-    },
-    {
-      "company": "Athenahealth",
-      "title": "Creative Director",
-      "location": "Remote - NC",
-      "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Creative-Director_R15475-1",
-      "date_posted": 1788998400,
-      "flags": []
-    },
-    {
-      "company": "Intel",
-      "title": "Ocotillo Technology Fabrication Dry Etch Module Equipment Technician (Entry-level)",
-      "location": "US, Arizona, Phoenix",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ocotillo-Technology-Fabrication-Dry-Etch-Module-Equipment-Technician--Entry-level-_JR0286465-1",
-      "date_posted": 1788998400,
-      "flags": []
-    },
-    {
-      "company": "Salesforce",
-      "title": "Senior Backend Software Engineer",
-      "location": "California - San Francisco",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/california---san-francisco/lead-backend-software-engineer_jr356282/apply/applyManually",
-      "date_posted": 1788998400,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "AI Systems Research and Development Engineer – LLM Inference Systems & Optimization",
-      "location": "US-WA-Bellevue",
-      "url": "https://jobs.ashbyhq.com/snowflake/9e0ae021-f264-4efb-bc80-26c04bd06df6/application",
-      "date_posted": 1788997568,
       "flags": []
     }
   ]
