@@ -3,9 +3,33 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-10T16:14:37.900Z",
+  "generated_at": "2026-10-11T01:52:47.016Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Snowflake",
+      "title": "Senior Technical Program Manager - ML/AI",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/2d66e411-c782-43d5-9ad5-389c4407f9c6/application",
+      "date_posted": 1791675232,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Associate Program Manager",
+      "location": "New York City, New York",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8214366",
+      "date_posted": 1791648790,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Certificate Management",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8269081?gh_jid=8269081",
+      "date_posted": 1791590766,
+      "flags": []
+    },
     {
       "company": "Databricks",
       "title": "Evergreen - Product Design New Grad (2027 Start)",
@@ -3190,30 +3214,6 @@
       "location": "Seattle, WA",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8806969002?gh_jid=8806969002",
       "date_posted": 1789420190,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
-      "location": "Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899",
-      "date_posted": 1789412600,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Manager, Field Engineering - Sports",
-      "location": "Northeast",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8716314002",
-      "date_posted": 1789408661,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Staff Software Engineer- Wallets, Liquidity & Bridging",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8197831?gh_jid=8197831",
-      "date_posted": 1789402366,
       "flags": []
     }
   ]
