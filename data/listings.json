@@ -3,9 +3,81 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-12T02:23:49.016Z",
+  "generated_at": "2026-10-12T20:18:04.058Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Snowflake",
+      "title": "Partner Development Manager, SAP AMER",
+      "location": "US-USA-Remote",
+      "url": "https://jobs.ashbyhq.com/snowflake/a9a18bcd-638b-41f1-bd6c-be1c3be15aca/application",
+      "date_posted": 1791832915,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Digital Native Business",
+      "location": "Northeast - United States; Southeast - United States; West Coast",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8736471002",
+      "date_posted": 1791831009,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Software Engineer (SRE), Infrastructure Security",
+      "location": "Austin; New York City",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8274765",
+      "date_posted": 1791829932,
+      "flags": []
+    },
+    {
+      "company": "Roku",
+      "title": "Creative Director, Brand Storytelling",
+      "location": "Santa Monica, California",
+      "url": "https://www.weareroku.com/jobs/8265661?gh_jid=8265661",
+      "date_posted": 1791829820,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Senior AI Engineer, Agentic Systems",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8274601?gh_jid=8274601",
+      "date_posted": 1791825342,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Customer Engineer, Named - Portland, OR",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8268259?gh_jid=8268259",
+      "date_posted": 1791824201,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer - Network Transport",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8247320?gh_jid=8247320",
+      "date_posted": 1791822883,
+      "flags": []
+    },
+    {
+      "company": "Gusto",
+      "title": "Retirement Implementation Specialist",
+      "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8083986",
+      "date_posted": 1791817832,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Lead Product Manager, Users & Permissions",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5176478007",
+      "date_posted": 1791756671,
+      "flags": []
+    },
     {
       "company": "Stripe",
       "title": "Writer, Content Marketing",
@@ -3142,78 +3214,6 @@
       "location": "US-NY-New York",
       "url": "https://jobs.ashbyhq.com/snowflake/0e1ea0b0-bf78-46e6-94d4-673d586271a1/application",
       "date_posted": 1789489162,
-      "flags": []
-    },
-    {
-      "company": "Spotify",
-      "title": "Backend Engineer, Mimir, Personalization",
-      "location": "New York, NY",
-      "url": "https://jobs.lever.co/spotify/318f73b5-6a78-49c7-b625-ecb1481042b9",
-      "date_posted": 1789488681,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Staff Workday Integration Engineer, Tech Foundations",
-      "location": "United States",
-      "url": "https://careers.airbnb.com/positions/8202878?gh_jid=8202878",
-      "date_posted": 1789488280,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Staff Security Engineer, Enterprise AI",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7994553003",
-      "date_posted": 1789488255,
-      "flags": []
-    },
-    {
-      "company": "Guidehouse",
-      "title": "Data Analyst",
-      "location": "US - Remote (Any location)",
-      "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Data-Analyst_42461",
-      "date_posted": 1789475680,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Specialist Solutions Architect - Data Engineering (Healthcare & Life Sciences)",
-      "location": "United States",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8717331002",
-      "date_posted": 1789444267,
-      "flags": []
-    },
-    {
-      "company": "Paypal",
-      "title": "Analyst, Business Operations",
-      "location": "Pennsylvania, United States of America (Virtual)",
-      "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Pennsylvania-United-States-of-America-Virtual/Analyst--Business-Operations_R0138041/apply",
-      "date_posted": 1789430400,
-      "flags": []
-    },
-    {
-      "company": "Intel",
-      "title": "Product Manager - AI Software and Solution",
-      "location": "US, California, Santa Clara",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Product-Manager---AI-Software-and-Solution_JR0287128",
-      "date_posted": 1789430400,
-      "flags": []
-    },
-    {
-      "company": "Paypal",
-      "title": "Data Scientist - Payments Risk Management & Data analytics",
-      "location": "San Jose, California",
-      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Data-Scientist---Payments-Risk-Management---Data-analytics_R0138043",
-      "date_posted": 1789430400,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Software Engineer, Payins Card Networks",
-      "location": "Seattle, WA",
-      "url": "https://stripe.com/jobs/search?gh_jid=8198207",
-      "date_posted": 1789422368,
       "flags": []
     }
   ]
