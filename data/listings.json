@@ -3,9 +3,105 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-12T20:18:04.058Z",
+  "generated_at": "2026-10-13T03:33:24.978Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Databricks",
+      "title": "Sr. Staff Security Software Engineer - Agentic Security Engineering",
+      "location": "Remote - California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8612865002",
+      "date_posted": 1791852413,
+      "flags": []
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Security Analyst, Security Risk Management",
+      "location": "Seattle Office",
+      "url": "https://jobs.ashbyhq.com/plaid/4c4af954-2c70-4a3c-acc2-97c58211f920/application",
+      "date_posted": 1791846476,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Security Engineer, Infrastructure",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=7702403",
+      "date_posted": 1791845569,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Client Account Manager, Luxury",
+      "location": "New York, NY",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8233213",
+      "date_posted": 1791845224,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "AI Solutions Engineer, People & Culture",
+      "location": "Bellevue, Washington, USA; Santa Clara, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5208827007",
+      "date_posted": 1791844475,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Technical Program Manager",
+      "location": "US-NY-New York City-Remote",
+      "url": "https://jobs.ashbyhq.com/snowflake/34f83a57-280d-4ee6-9f99-bcc06d8ab4ea/application",
+      "date_posted": 1791844263,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Perception, Model Lifecycle",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8248411",
+      "date_posted": 1791842600,
+      "flags": []
+    },
+    {
+      "company": "Samsara",
+      "title": "Staff Product Designer",
+      "location": "Remote",
+      "url": "https://www.samsara.com/company/careers/roles/8275248?gh_jid=8275248",
+      "date_posted": 1791841003,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Staff Android Engineer, Android Platform",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8275143",
+      "date_posted": 1791840861,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Customer Engineer, Majors - TOLA",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8268965?gh_jid=8268965",
+      "date_posted": 1791839031,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal Machine Learning Platform Engineer, Foundation AI",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8233722?gh_jid=8233722",
+      "date_posted": 1791838651,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Software Engineer, Payments Platform",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8274802?gh_jid=8274802",
+      "date_posted": 1791837154,
+      "flags": []
+    },
     {
       "company": "Snowflake",
       "title": "Partner Development Manager, SAP AMER",
@@ -814,6 +910,14 @@
       "location": "San Francisco, NYC, Seattle",
       "url": "https://stripe.com/jobs/search?gh_jid=8257354",
       "date_posted": 1791231469,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Builder Experience",
+      "location": "San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8206731",
+      "date_posted": 1791230862,
       "flags": []
     },
     {
@@ -3110,110 +3214,6 @@
       "location": "09507 - Colorado Remote",
       "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/09507---colorado-remote/director--talent-acquisition_r0473785",
       "date_posted": 1789516800,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Staff Solution Designer",
-      "location": "Santa Clara, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149732679",
-      "date_posted": 1789514531,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Sr. Staff Technical Program Manager",
-      "location": "Remote - USA; San Jose, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5225789007",
-      "date_posted": 1789514214,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Machine Learning Engineer L2",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8178588",
-      "date_posted": 1789510941,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Technical Program Manager, Manufacturing",
-      "location": "Hayward, CA",
-      "url": "https://jobs.lever.co/zoox/300e20c4-8c4b-4325-90aa-473e7d4abe52",
-      "date_posted": 1789505906,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer, Geometry Systems",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8205219?gh_jid=8205219",
-      "date_posted": 1789504848,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Marketing Analytics Manager",
-      "location": "Chicago, Illinois",
-      "url": "https://www.okta.com/company/careers/opportunity/8204938?gh_jid=8204938",
-      "date_posted": 1789504794,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Product Manager, Employee Experiences",
-      "location": "United States",
-      "url": "https://stripe.com/jobs/search?gh_jid=8203423",
-      "date_posted": 1789502725,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Qualitative UX Researcher, Monetization",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684577",
-      "date_posted": 1789500871,
-      "flags": []
-    },
-    {
-      "company": "Dropbox",
-      "title": "Customer Success Manager",
-      "location": "Remote - US: Select locations",
-      "url": "https://jobs.dropbox.com/listing/8186675?gh_jid=8186675",
-      "date_posted": 1789498739,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MBA, Salesforce Product Owner",
-      "location": "Los Angeles, California",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198582",
-      "date_posted": 1789498298,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Sr. Marketing Strategy and Analytics Manager",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8189769",
-      "date_posted": 1789496710,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Senior Software Engineer - iOS",
-      "location": "San Francisco, CA",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8780012002?gh_jid=8780012002",
-      "date_posted": 1789489519,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Senior Solution Engineer, Financial Services",
-      "location": "US-NY-New York",
-      "url": "https://jobs.ashbyhq.com/snowflake/0e1ea0b0-bf78-46e6-94d4-673d586271a1/application",
-      "date_posted": 1789489162,
       "flags": []
     }
   ]
