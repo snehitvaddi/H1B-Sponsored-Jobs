@@ -3,9 +3,81 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-14T01:54:10.140Z",
+  "generated_at": "2026-10-14T15:49:34.491Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Senior Systems Engineer, Browser Isolation",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8278262?gh_jid=8278262",
+      "date_posted": 1791976273,
+      "flags": []
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Sr. Data Scientist II - Product Analytics (Remote Eligible)",
+      "location": "-REMOTE, USA",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8280345",
+      "date_posted": 1791949750,
+      "flags": []
+    },
+    {
+      "company": "Gusto",
+      "title": "Senior Commercial Lines Account Manager",
+      "location": "Denver, CO - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8257865",
+      "date_posted": 1791947119,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Staff Software Engineer, Care Experience",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8278877",
+      "date_posted": 1791942928,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Senior Sales Engineer, Majors - West",
+      "location": "Remote - California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5262887007",
+      "date_posted": 1791941773,
+      "flags": []
+    },
+    {
+      "company": "Asana",
+      "title": "Senior Manager, Payroll",
+      "location": "San Francisco",
+      "url": "https://www.asana.com/jobs/apply/8275152?gh_jid=8275152",
+      "date_posted": 1791941633,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer - Ingestion Execution Platform",
+      "location": "US-WA-Bellevue",
+      "url": "https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68/application",
+      "date_posted": 1791937758,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Software Engineer, Agentic Test Systems",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8279903",
+      "date_posted": 1791937006,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Staff Software Engineer, Backend (Cards)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8015279003",
+      "date_posted": 1791936969,
+      "flags": []
+    },
     {
       "company": "Natera",
       "title": "Finance Functional Lead, Oracle Fusion Cloud",
@@ -1118,6 +1190,14 @@
       "location": "Remote",
       "url": "https://www.coinbase.com/careers/positions/8259801?gh_jid=8259801",
       "date_posted": 1791319629,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Product Manager II, Advanced Trade",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8258909?gh_jid=8258909",
+      "date_posted": 1791318221,
       "flags": []
     },
     {
@@ -3132,86 +3212,6 @@
       "location": "San Diego, CA",
       "url": "https://jobs.lever.co/zoox/e1f6143d-a18d-4d92-ad6c-fb2cd661609e",
       "date_posted": 1789754813,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "ServiceNow Product Management Director - Contact Center Frameworks",
-      "location": "Santa Clara, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150427265",
-      "date_posted": 1789752318,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Software Engineering Winter Internship",
-      "location": "Palo Alto, CA",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
-      "date_posted": 1789750991,
-      "flags": []
-    },
-    {
-      "company": "Adobe",
-      "title": "Machine Learning Engineer",
-      "location": "San Jose",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171645-1",
-      "date_posted": 1789740148,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Distribution Account Manager, META",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8188313?gh_jid=8188313",
-      "date_posted": 1789736851,
-      "flags": []
-    },
-    {
-      "company": "Spotify",
-      "title": "Senior Backend Engineer, Home Surfaces",
-      "location": "New York, NY",
-      "url": "https://jobs.lever.co/spotify/cefcda32-523e-418b-a327-383104741153",
-      "date_posted": 1789726145,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Staff Product Manager, Conversational AI",
-      "location": "Santa Clara, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150270254",
-      "date_posted": 1789699935,
-      "flags": []
-    },
-    {
-      "company": "Skyspecs",
-      "title": "Product Manager, Asset Integrity & Operations",
-      "location": "United States",
-      "url": "https://skyspecs.breezy.hr/p/4f22055c3e40-product-manager-asset-integrity-operations",
-      "date_posted": 1789690008,
-      "flags": []
-    },
-    {
-      "company": "Davita",
-      "title": "Payor Partnerships Project Manager",
-      "location": "01548 - Texas Remote",
-      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/01548---texas-remote/payor-partnerships-project-manager_r0478197",
-      "date_posted": 1789689600,
-      "flags": []
-    },
-    {
-      "company": "Transunion",
-      "title": "Principal Technical Product Manager",
-      "location": "Chicago, Illinois",
-      "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Principal-Technical-Product-Manager_19042244",
-      "date_posted": 1789689600,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Software Engineer, Early Career - Immediate Start",
-      "location": "San Francisco, Seattle, New York",
-      "url": "https://stripe.com/jobs/search?gh_jid=8212508",
-      "date_posted": 1789687352,
       "flags": []
     }
   ]
