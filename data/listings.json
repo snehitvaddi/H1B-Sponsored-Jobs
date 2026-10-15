@@ -3,9 +3,113 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-14T15:49:34.491Z",
+  "generated_at": "2026-10-15T01:28:11.680Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Verkada",
+      "title": "Senior Accountant",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5265026007",
+      "date_posted": 1792015916,
+      "flags": []
+    },
+    {
+      "company": "Samsara",
+      "title": "Principal Product Manager",
+      "location": "Remote",
+      "url": "https://www.samsara.com/company/careers/roles/8233947?gh_jid=8233947",
+      "date_posted": 1792015587,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Analytics Engineer",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
+      "date_posted": 1792015396,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Product Manager, Ads Quality Delivery",
+      "location": "Palo Alto, CA, US; Seattle, WA, US; Remote, CA",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770970",
+      "date_posted": 1792011583,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Staff Product Manager, Accounting Products",
+      "location": "SF, SEA, NYC",
+      "url": "https://stripe.com/jobs/search?gh_jid=8234243",
+      "date_posted": 1792009930,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Principal Program Manager - Migrations",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/570cbac3-875a-4ce4-83b4-3c19e4b279db/application",
+      "date_posted": 1792009542,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Sr. Staff Software Development Engineer",
+      "location": "Santa Clara, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239536007",
+      "date_posted": 1792009138,
+      "flags": []
+    },
+    {
+      "company": "Gusto",
+      "title": "Senior Paid Acquisition Manager, Paid Social",
+      "location": "Burlingame, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8282421",
+      "date_posted": 1792008040,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Senior Software Engineer, Autonomy Behavior Testing",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8282222",
+      "date_posted": 1792004638,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Product Designer, Platform",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8280149?gh_jid=8280149",
+      "date_posted": 1792001744,
+      "flags": []
+    },
+    {
+      "company": "Natera",
+      "title": "Senior Product Manager, Provider and RWD Health Systems Applications",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6222763004",
+      "date_posted": 1792000445,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Engineer",
+      "location": "New York City, New York",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
+      "date_posted": 1791991563,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Software Engineer, Android",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8258811",
+      "date_posted": 1791988194,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Senior Systems Engineer, Browser Isolation",
@@ -324,6 +428,14 @@
       "location": "Distributed",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8264043?gh_jid=8264043",
       "date_posted": 1791899074,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "FP&A Analyst, Cloud Finance",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8267437/?gh_jid=8267437",
+      "date_posted": 1791897959,
       "flags": []
     },
     {
@@ -3098,120 +3210,6 @@
       "location": "Mountain View, California; San Francisco, California",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8823880002",
       "date_posted": 1789776529,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Staff Tech Lead Software Engineer, Vehicle Realism Platform",
-      "location": "Mountain View, CA, USA; San Francisco, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8209835",
-      "date_posted": 1789773906,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Backend Software Engineer, Airports",
-      "location": "San Francisco, CA",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002",
-      "date_posted": 1789771233,
-      "flags": []
-    },
-    {
-      "company": "Guidehouse",
-      "title": "Cloud Engineer",
-      "location": "US - MD, Bethesda",
-      "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Cloud-Engineer_43252",
-      "date_posted": 1789768848,
-      "flags": [
-        "clearance"
-      ]
-    },
-    {
-      "company": "Snowflake",
-      "title": "Senior Social Media Manager, Developer Community",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/ccefa621-7c3c-4908-a7ce-380033415bd8/application",
-      "date_posted": 1789768263,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Senior Staff Software Engineer, Tech Foundations",
-      "location": "Remote",
-      "url": "https://careers.airbnb.com/positions/8187190?gh_jid=8187190",
-      "date_posted": 1789767180,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Customer Success Manager, Enterprise",
-      "location": "Chicago",
-      "url": "https://stripe.com/jobs/search?gh_jid=8208521",
-      "date_posted": 1789766902,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Supply Chain Program Manager",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8214726?gh_jid=8214726",
-      "date_posted": 1789766694,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer - Account Infrastructure",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8209010?gh_jid=8209010",
-      "date_posted": 1789766095,
-      "flags": []
-    },
-    {
-      "company": "Flexport",
-      "title": "Senior IT Systems Engineer",
-      "location": "U.S. Remote",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/8213955",
-      "date_posted": 1789762121,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Principal Program Manager",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5236314007",
-      "date_posted": 1789761550,
-      "flags": []
-    },
-    {
-      "company": "Cargurus",
-      "title": "Software Development Engineer II, Dealer Inventory",
-      "location": "Boston, Massachusetts",
-      "url": "https://careers.cargurus.com/us/en/job/8204329?gh_jid=8204329",
-      "date_posted": 1789759633,
-      "flags": []
-    },
-    {
-      "company": "Dropbox",
-      "title": "Senior Financial Planning & Analysis Partner - Product & Growth",
-      "location": "Remote - US: Select locations",
-      "url": "https://jobs.dropbox.com/listing/8207874?gh_jid=8207874",
-      "date_posted": 1789758956,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Solutions Engineer - Digital Native Business (Strategic Accounts)",
-      "location": "Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8756686002",
-      "date_posted": 1789755490,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Systems Test Engineer, System Behavior Analysis",
-      "location": "San Diego, CA",
-      "url": "https://jobs.lever.co/zoox/e1f6143d-a18d-4d92-ad6c-fb2cd661609e",
-      "date_posted": 1789754813,
       "flags": []
     }
   ]
