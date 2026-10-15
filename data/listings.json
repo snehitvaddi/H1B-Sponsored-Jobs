@@ -3,9 +3,65 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-15T01:28:11.680Z",
+  "generated_at": "2026-10-15T15:35:43.751Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Stripe",
+      "title": "Technical Program Manager, Extensibility Platform",
+      "location": "US Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8282859",
+      "date_posted": 1792070574,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Principal Software Engineer, Anti-Abuse",
+      "location": "US-WA-Bellevue",
+      "url": "https://jobs.ashbyhq.com/snowflake/797cadbe-fad8-4f1d-a656-d14ca76d29b9/application",
+      "date_posted": 1792033128,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Senior Manager, Product Design - Security",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8281102/?gh_jid=8281102",
+      "date_posted": 1792032730,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Senior Machine Learning Systems Engineer, ML Platform",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8283770",
+      "date_posted": 1792026596,
+      "flags": []
+    },
+    {
+      "company": "Gusto",
+      "title": "Senior Staff Software Engineer, Gusto Agent & Partner Experiences (API)",
+      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8168216",
+      "date_posted": 1792024126,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Sr. Manager, People Data Infrastructure & Platforms",
+      "location": "Bellevue, Washington, USA; Santa Clara, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5261844007",
+      "date_posted": 1792023272,
+      "flags": []
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Product Security Engineer",
+      "location": "Seattle Office",
+      "url": "https://jobs.ashbyhq.com/plaid/865f7c94-9da4-49ac-b490-2f770bd94b1c/application",
+      "date_posted": 1792022630,
+      "flags": []
+    },
     {
       "company": "Verkada",
       "title": "Senior Accountant",
@@ -1585,6 +1641,14 @@
       "flags": []
     },
     {
+      "company": "Thumbtack",
+      "title": "IT Systems Engineer II",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/thumbtack/2c3b12ee-1729-4b2b-ad4d-d753c87bec03/application",
+      "date_posted": 1790962230,
+      "flags": []
+    },
+    {
       "company": "Twilio",
       "title": "Senior Presales Engineer",
       "location": "Remote",
@@ -3146,70 +3210,6 @@
       "location": "Foster City, CA",
       "url": "https://jobs.lever.co/zoox/48a6b2ac-0dcb-4481-ab26-386ce62decab",
       "date_posted": 1790015112,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior/Principal Product Manager, Video Generation (Roblox Reality)",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8180420?gh_jid=8180420",
-      "date_posted": 1790014047,
-      "flags": []
-    },
-    {
-      "company": "Spotify",
-      "title": "Senior Applied Research Scientist - Personalization",
-      "location": "New York, NY",
-      "url": "https://jobs.lever.co/spotify/6eb9ce0e-5372-4a4f-b2fa-d005f9426750",
-      "date_posted": 1790012752,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Manager, Lifecycle Marketing",
-      "location": "New York, New York",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150689709",
-      "date_posted": 1789995363,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Staff Product Manager, Payments Intelligence",
-      "location": "NYC, SF, Seattle, US - Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=8209996",
-      "date_posted": 1789994398,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Senior Director, Analytics Engineering, Data Analytics & AI",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/517c85f9-9b37-4510-a969-978671021376/application",
-      "date_posted": 1789843202,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Staff Software Engineer - AI Search",
-      "location": "Santa Clara, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150494819",
-      "date_posted": 1789783829,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Software Engineer II, Data Analytics & Engineering",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
-      "date_posted": 1789777952,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Staff Product Operations Lead, Marketplace Operations",
-      "location": "Mountain View, California; San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8823880002",
-      "date_posted": 1789776529,
       "flags": []
     }
   ]
