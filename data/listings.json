@@ -3,15 +3,71 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-16T01:19:58.996Z",
+  "generated_at": "2026-10-16T15:22:42.926Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Mongodb",
+      "title": "Principal Security Engineer",
+      "location": "New York City;",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8274032",
+      "date_posted": 1792156989,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Incident Response Engineer",
+      "location": "US-CA-Bay Area-Remote",
+      "url": "https://jobs.ashbyhq.com/snowflake/88a70f56-834d-44d4-add8-e36b739e5495/application",
+      "date_posted": 1792154782,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Principal Product Manager, Certificate Authority",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8276299?gh_jid=8276299",
+      "date_posted": 1792148523,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, Backend - FinHub (Transfers)",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8287662?gh_jid=8287662",
+      "date_posted": 1792131934,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Product Finance Senior Manager, Cloud Platform Costs & Operations",
+      "location": "Mountain View, California; San Francisco, California; Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8823191002",
+      "date_posted": 1792122247,
+      "flags": []
+    },
     {
       "company": "American Express",
       "title": "American Express Careers",
       "location": "United States",
       "url": "https://careers.americanexpress.com/en/sites/CX_1/jobs?intlink=us-amex-career-en-us-technology-explore-jobs&lastSelectedFacet=AttributeChar6&location=United+States&locationId=300000000229164&locationLevel=country&mode=location&selectedFlexFieldsFacets=%22AttributeChar6%7CTechnology%22",
       "date_posted": 1792113285,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Software Engineer II, Mobile (Card Acquisition)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8032173003",
+      "date_posted": 1792113011,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior SEO Strategy Lead (SEO, AEO, GEO)",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8280719?gh_jid=8280719",
+      "date_posted": 1792111930,
       "flags": []
     },
     {
@@ -3154,62 +3210,6 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8212529?gh_jid=8212529",
       "date_posted": 1790124248,
-      "flags": []
-    },
-    {
-      "company": "Salesforce",
-      "title": "Senior Analyst of Strategic Planning / Data Analytics",
-      "location": "Indiana - Indianapolis",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Senior-Analyst-of-Strategic-Planning---Data-Analytics_JR359415",
-      "date_posted": 1790121600,
-      "flags": []
-    },
-    {
-      "company": "Paypal",
-      "title": "Sr Manager, Tax - Indirect",
-      "location": "San Jose, California",
-      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Sr-Manager--Tax---Indirect_R0137791",
-      "date_posted": 1790121600,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Systems Engineer - Application Security",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8222091?gh_jid=8222091",
-      "date_posted": 1790120386,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, PhD, Data Science",
-      "location": "Mountain View, CA, USA; San Francisco, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221956",
-      "date_posted": 1790114532,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Software Engineer- Openflow",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/ab0abd7e-7e3f-4f1e-bca0-297765ed6425/application",
-      "date_posted": 1790111864,
-      "flags": []
-    },
-    {
-      "company": "Nuro",
-      "title": "Embedded Software Engineer",
-      "location": "Mountain View, California (HQ)",
-      "url": "https://nuro.ai/careersitem?gh_jid=8180955",
-      "date_posted": 1790110303,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Channel/Partner Sales Engineer - Southeast",
-      "location": "Atlanta, GA",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8220615?gh_jid=8220615",
-      "date_posted": 1790107848,
       "flags": []
     }
   ]
