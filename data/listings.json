@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-17T01:18:56.115Z",
+  "generated_at": "2026-10-17T14:13:13.081Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Roblox",
+      "title": "Senior Content Designer",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8278922?gh_jid=8278922",
+      "date_posted": 1792210084,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Public Relations Manager",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8860657002",
+      "date_posted": 1792199127,
+      "flags": []
+    },
     {
       "company": "Natera",
       "title": "Customer Experience Associate",
@@ -188,6 +204,14 @@
       "location": "Mountain View, California; San Francisco, California; Seattle, Washington",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8823191002",
       "date_posted": 1792122247,
+      "flags": []
+    },
+    {
+      "company": "American Express",
+      "title": "AI Engineer III - Enterprise Architecture",
+      "location": "United States",
+      "url": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26014856/?intlink=us-amex-career-en-us-technology-explore-jobs&lastSelectedFacet=AttributeChar6&location=United+States&locationId=300000000229164&locationLevel=country&mode=location&selectedFlexFieldsFacets=%22AttributeChar6%7CTechnology%22",
+      "date_posted": 1792113492,
       "flags": []
     },
     {
@@ -3184,30 +3208,6 @@
       "location": "Chicago, Atlanta, US-Remote",
       "url": "https://boards.greenhouse.io/stripe/jobs/8016504",
       "date_posted": 1790218100,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Software Engineer, Data Access",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8168881?gh_jid=8168881",
-      "date_posted": 1790212858,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Senior Product Manager, Control Plane, RSC-G & Government",
-      "location": "Palo Alto, CA",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8225580?gh_jid=8225580",
-      "date_posted": 1790209528,
-      "flags": []
-    },
-    {
-      "company": "Kla",
-      "title": "Technical Product Support Engineer -Semiconductor Equipment Escalations",
-      "location": "Phoenix, AZ",
-      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Phoenix-AZ/Technical-Product-Support-Engineer--Semiconductor-Equipment-Escalations_2641251-1",
-      "date_posted": 1790208062,
       "flags": []
     }
   ]
