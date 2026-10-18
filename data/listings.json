@@ -3,7 +3,7 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-17T14:13:13.081Z",
+  "generated_at": "2026-10-18T01:01:23.606Z",
   "count": 400,
   "jobs": [
     {
@@ -12,6 +12,14 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8278922?gh_jid=8278922",
       "date_posted": 1792210084,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "UX Researcher",
+      "location": "New York, NY",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8896666002?gh_jid=8896666002",
+      "date_posted": 1792203417,
       "flags": []
     },
     {
@@ -3200,14 +3208,6 @@
       "location": "AMER - United States - Colorado - Denver - Wewatta",
       "url": "https://autodesk.wd1.myworkdayjobs.com/ext/job/amer---united-states---colorado---denver---wewatta/senior-manager--product_26wd101260-1",
       "date_posted": 1790252803,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Sourcer, GTM",
-      "location": "Chicago, Atlanta, US-Remote",
-      "url": "https://boards.greenhouse.io/stripe/jobs/8016504",
-      "date_posted": 1790218100,
       "flags": []
     }
   ]
