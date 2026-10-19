@@ -3,9 +3,97 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-19T01:15:44.936Z",
+  "generated_at": "2026-10-19T17:29:08.483Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Asana",
+      "title": "Manager, Customer Success",
+      "location": "Chicago",
+      "url": "https://www.asana.com/jobs/apply/8279133?gh_jid=8279133",
+      "date_posted": 1792427719,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+      "location": "Denver, Colorado",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8900134002",
+      "date_posted": 1792426772,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Senior Sales Engineer - Majors, Kansas City",
+      "location": "Remote - Kansas, USA; Remote - Missouri",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5267159007",
+      "date_posted": 1792425887,
+      "flags": []
+    },
+    {
+      "company": "AbbVie",
+      "title": "Project Engineer",
+      "location": "United States",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014924517-project-engineer",
+      "date_posted": 1792425724,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Research Scientist, Visual Reasoning",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8292367",
+      "date_posted": 1792425503,
+      "flags": []
+    },
+    {
+      "company": "Carvana",
+      "title": "Quality Assurance Coordinator - Chicago",
+      "location": "Chicago, IL",
+      "url": "https://www.carvana.com/careers/apply?gh_jid=8300962",
+      "date_posted": 1792425387,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Manager, Content & Knowledge Architecture",
+      "location": "California, United States, Oregon, United States, Washington",
+      "url": "https://careers.airbnb.com/positions/8290025?gh_jid=8290025",
+      "date_posted": 1792424420,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Lead, Product Management",
+      "location": "Palo Alto",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7909429",
+      "date_posted": 1792422154,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Engineering Manager, Data Center Operations",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8293647?gh_jid=8293647",
+      "date_posted": 1792420400,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Integration Support Engineer",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8260171",
+      "date_posted": 1792383751,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Software Engineer, Agent Optimization & Evaluation",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8275745",
+      "date_posted": 1792374286,
+      "flags": []
+    },
     {
       "company": "Roblox",
       "title": "Senior Content Designer",
@@ -172,6 +260,14 @@
       "location": "United States",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8274029",
       "date_posted": 1792162716,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Customer Care Expert - Enterprise",
+      "location": "Omaha, NE",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8289031",
+      "date_posted": 1792162563,
       "flags": []
     },
     {
@@ -583,11 +679,27 @@
       "flags": []
     },
     {
+      "company": "Point72",
+      "title": "2027 Summer Internship - Fundamental Researcher, Canvas",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/point72/jobs/8885693002",
+      "date_posted": 1791987543,
+      "flags": []
+    },
+    {
       "company": "Cloudflare",
       "title": "Senior Systems Engineer, Browser Isolation",
       "location": "Hybrid",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8278262?gh_jid=8278262",
       "date_posted": 1791976273,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Director, Product Management, Microsoft Product Partnership",
+      "location": "Kirkland, Washington",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155472964",
+      "date_posted": 1791973936,
       "flags": []
     },
     {
@@ -3096,118 +3208,6 @@
       "location": "Seattle",
       "url": "https://stripe.com/jobs/search?gh_jid=8175661",
       "date_posted": 1790286431,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Program Manager, Services Solutions & Delivery Acceleration",
-      "location": "Chicago, Illinois; Toronto, Ontario, Canada",
-      "url": "https://www.okta.com/company/careers/opportunity/8226936?gh_jid=8226936",
-      "date_posted": 1790284730,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Internal Communications Manager",
-      "location": "San Francisco, CA",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8843279002?gh_jid=8843279002",
-      "date_posted": 1790281489,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Business Systems Analyst",
-      "location": "New York, New York",
-      "url": "https://careers.datadoghq.com/detail/8231811/?gh_jid=8231811",
-      "date_posted": 1790280211,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Senior Associate, Strategic Finance",
-      "location": "Boston MA",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8223116",
-      "date_posted": 1790277275,
-      "flags": []
-    },
-    {
-      "company": "Spotify",
-      "title": "Security Engineer - Detection and Response",
-      "location": "New York, NY",
-      "url": "https://jobs.lever.co/spotify/cb29d857-395b-401d-9749-367e666ff870",
-      "date_posted": 1790275959,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "SENIOR SOFTWARE ENGINEER",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/c03acc32-f60b-40de-9838-e954d3f419b9/application",
-      "date_posted": 1790275687,
-      "flags": []
-    },
-    {
-      "company": "Mongodb",
-      "title": "Senior Software Engineer, Cluster Scalability",
-      "location": "United States",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8221182",
-      "date_posted": 1790274342,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Product Designer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8227604?gh_jid=8227604",
-      "date_posted": 1790271689,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
-      "location": "Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
-      "date_posted": 1790271080,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7985860003",
-      "date_posted": 1790267376,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Software Engineer- Blockchain Platform (Wallets, Liquidity & Bridging)",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8204215?gh_jid=8204215",
-      "date_posted": 1790263720,
-      "flags": []
-    },
-    {
-      "company": "Asana",
-      "title": "Global Design & Project Manager",
-      "location": "San Francisco",
-      "url": "https://www.asana.com/jobs/apply/8227150?gh_jid=8227150",
-      "date_posted": 1790262349,
-      "flags": []
-    },
-    {
-      "company": "Coursera",
-      "title": "Promotions Marketing Manager",
-      "location": "Denver, Colorado",
-      "url": "https://job-boards.greenhouse.io/coursera/jobs/6207197004",
-      "date_posted": 1790262346,
-      "flags": []
-    },
-    {
-      "company": "Autodesk",
-      "title": "Senior Manager, Product",
-      "location": "AMER - United States - Colorado - Denver - Wewatta",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/ext/job/amer---united-states---colorado---denver---wewatta/senior-manager--product_26wd101260-1",
-      "date_posted": 1790252803,
       "flags": []
     }
   ]
