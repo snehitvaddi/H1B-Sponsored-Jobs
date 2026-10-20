@@ -3,9 +3,153 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-19T17:29:08.483Z",
+  "generated_at": "2026-10-20T01:49:36.883Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Pinterest",
+      "title": "Staff Technical Program Manager",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8263122",
+      "date_posted": 1792453102,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Enginer, Backend - Payments Platform",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8302189?gh_jid=8302189",
+      "date_posted": 1792448073,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Staff Community Product Marketing Manager, Trust & Safety",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8302227",
+      "date_posted": 1792447147,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Lead Product Manager, Video Platform",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5268914007",
+      "date_posted": 1792445995,
+      "flags": []
+    },
+    {
+      "company": "Sunpower",
+      "title": "Journeyman Electrician",
+      "location": "Medford, OR",
+      "url": "https://sunpower.breezy.hr/p/6f452f8a51fb-journeyman-electrician",
+      "date_posted": 1792445075,
+      "flags": []
+    },
+    {
+      "company": "Asana",
+      "title": "Staff Software Engineer, Data Loading Infrastructure",
+      "location": "San Francisco",
+      "url": "https://www.asana.com/jobs/apply/8226969?gh_jid=8226969",
+      "date_posted": 1792444985,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff ML Accelerator Architect",
+      "location": "Mountain View, CA, USA; New York, New York",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8301900",
+      "date_posted": 1792444464,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Technical Enablement Specialist - Field Engineering Onboarding",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8824168002",
+      "date_posted": 1792443869,
+      "flags": []
+    },
+    {
+      "company": "Samsara",
+      "title": "Senior AI Data & Analytics Engineer II",
+      "location": "Remote - Seattle",
+      "url": "https://www.samsara.com/company/careers/roles/8302004?gh_jid=8302004",
+      "date_posted": 1792443324,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Integrated Marketing Manager (Short Term)",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8209048?gh_jid=8209048",
+      "date_posted": 1792442423,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Senior Product Manager, Trust & Safety",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8889185002?gh_jid=8889185002",
+      "date_posted": 1792441283,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Security Engineer - Enterprise Security",
+      "location": "US-WA-Bellevue",
+      "url": "https://jobs.ashbyhq.com/snowflake/a2b6a785-5103-4668-b5ff-12a7ac00249e/application",
+      "date_posted": 1792438499,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Marketing Technology Program Manager",
+      "location": "US Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8257939",
+      "date_posted": 1792437121,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Senior Professional Services Project Manager",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5260488007",
+      "date_posted": 1792437054,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Data Scientist, People Analytics & Research",
+      "location": "Remote",
+      "url": "https://careers.airbnb.com/positions/8301515?gh_jid=8301515",
+      "date_posted": 1792436346,
+      "flags": []
+    },
+    {
+      "company": "Natera",
+      "title": "Director of Bioinformatics and Machine Learning",
+      "location": "San Carlos, CA",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6226991004",
+      "date_posted": 1792435841,
+      "flags": []
+    },
+    {
+      "company": "Anaplan",
+      "title": "Sr. Solutions Implementation Manager - Finance",
+      "location": "Miami",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8744351002",
+      "date_posted": 1792435228,
+      "flags": []
+    },
+    {
+      "company": "Brex",
+      "title": "Senior Finance Manager, Marketing",
+      "location": "New York, New York",
+      "url": "https://www.brex.com/careers/8900330002?gh_jid=8900330002",
+      "date_posted": 1792430904,
+      "flags": []
+    },
     {
       "company": "Asana",
       "title": "Manager, Customer Success",
@@ -2337,6 +2481,14 @@
       "flags": []
     },
     {
+      "company": "Coursera",
+      "title": "Corporate FP&A Manager",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6192106004",
+      "date_posted": 1790889221,
+      "flags": []
+    },
+    {
       "company": "Coinbase",
       "title": "Software Engineer, CDP - Stablecoin",
       "location": "Remote",
@@ -3054,160 +3206,6 @@
       "location": "Los Angeles, CA",
       "url": "https://jobs.lever.co/spotify/99860086-49bc-46b4-97ec-99d8993ffffb",
       "date_posted": 1790360112,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Manager, Capacity Engineering",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://job-boards.greenhouse.io/pinterest/jobs/8046842",
-      "date_posted": 1790359048,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Product Analyst, Finance Technologies",
-      "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC",
-      "url": "https://www.okta.com/company/careers/opportunity/8213700?gh_jid=8213700",
-      "date_posted": 1790357857,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Customer Engineer, Named - Toronto Canada",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8223359?gh_jid=8223359",
-      "date_posted": 1790357611,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Principal Customer Success Executive",
-      "location": "New York, NEW YORK",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000151875065",
-      "date_posted": 1790348126,
-      "flags": []
-    },
-    {
-      "company": "Netskope",
-      "title": "Director, Marketing Operations",
-      "location": "United States",
-      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8207334",
-      "date_posted": 1790344895,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Customer Engineer, Named - Calgary, Alberta",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8223736?gh_jid=8223736",
-      "date_posted": 1790343033,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Principal Growth Marketing Manager - SEO/GEO",
-      "location": "New York, New York, USA; San Francisco, California",
-      "url": "https://careers.datadoghq.com/detail/8180681/?gh_jid=8180681",
-      "date_posted": 1790339387,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Partner Solutions Engineer, Operational Excellence",
-      "location": "US-NYC; US-SF; US-Chicago; US-Atlanta; US-Seattle; US-Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=8227563",
-      "date_posted": 1790333554,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Sr Professional Services Strategy & Ops Program Manager",
-      "location": "Mountain View, CALIFORNIA",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000151815569",
-      "date_posted": 1790332523,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Staff Machine Learning Engineer, App Ads Modeling",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8187652",
-      "date_posted": 1790298807,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Software Engineer Intern (AI / ML) - Spring 2027",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application",
-      "date_posted": 1790298350,
-      "flags": []
-    },
-    {
-      "company": "Sunpower",
-      "title": "Solar Electrician",
-      "location": "Charlottesville, VA",
-      "url": "https://sunpower.breezy.hr/p/3f0a8f1205d6-solar-electrician",
-      "date_posted": 1790296270,
-      "flags": []
-    },
-    {
-      "company": "Transunion",
-      "title": "Technical Project Manager",
-      "location": "Salzburg",
-      "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Technical-Project-Manager_19041263",
-      "date_posted": 1790294400,
-      "flags": []
-    },
-    {
-      "company": "Guidehouse",
-      "title": "Business Analyst",
-      "location": "US - AL, Huntsville",
-      "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Business-Analyst_44641",
-      "date_posted": 1790294400,
-      "flags": [
-        "clearance"
-      ]
-    },
-    {
-      "company": "Airbnb",
-      "title": "Senior Machine Learning Engineer, Trust",
-      "location": "San Francisco, CA",
-      "url": "https://careers.airbnb.com/positions/8232153?gh_jid=8232153",
-      "date_posted": 1790292257,
-      "flags": []
-    },
-    {
-      "company": "Plaid",
-      "title": "Product Manager, Sales-Assisted Growth",
-      "location": "San Francisco HQ",
-      "url": "https://jobs.ashbyhq.com/plaid/35ab341f-7831-4260-b42a-b300a46b61db/application",
-      "date_posted": 1790291445,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Technical Program Manager II, Shopping Platforms",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209020",
-      "date_posted": 1790287897,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Architect, Software Development (Layer 7 Security & Proxy)",
-      "location": "San Jose, California, USA; Santa Clara, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239093007",
-      "date_posted": 1790287741,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Partner Marketing Manager, Online & Regional Events",
-      "location": "Seattle",
-      "url": "https://stripe.com/jobs/search?gh_jid=8175661",
-      "date_posted": 1790286431,
       "flags": []
     }
   ]
