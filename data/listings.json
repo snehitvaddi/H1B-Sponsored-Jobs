@@ -3,9 +3,41 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-20T01:49:36.883Z",
+  "generated_at": "2026-10-20T15:39:24.412Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Rubrik",
+      "title": "Senior Manager, GTM Analytics & Strategy",
+      "location": "Remote",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8279161?gh_jid=8279161",
+      "date_posted": 1792502526,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Software Engineer, Streaming Infrastructure",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8242235?gh_jid=8242235",
+      "date_posted": 1792471890,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Data Infrastructure Compute",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8042578?gh_jid=8042578",
+      "date_posted": 1792459529,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Product Manager - Okta Identity Governance",
+      "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/8248427?gh_jid=8248427",
+      "date_posted": 1792457899,
+      "flags": []
+    },
     {
       "company": "Pinterest",
       "title": "Staff Technical Program Manager",
@@ -148,6 +180,14 @@
       "location": "New York, New York",
       "url": "https://www.brex.com/careers/8900330002?gh_jid=8900330002",
       "date_posted": 1792430904,
+      "flags": []
+    },
+    {
+      "company": "Gusto",
+      "title": "FP&A AI Architect",
+      "location": "San Francisco, CA - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8282088",
+      "date_posted": 1792429200,
       "flags": []
     },
     {
@@ -3166,46 +3206,6 @@
       "location": "San Francisco, CA",
       "url": "https://stripe.com/jobs/search?gh_jid=8209633",
       "date_posted": 1790368847,
-      "flags": []
-    },
-    {
-      "company": "Asana",
-      "title": "Manager, Customer Success",
-      "location": "San Francisco",
-      "url": "https://www.asana.com/jobs/apply/8227362?gh_jid=8227362",
-      "date_posted": 1790368307,
-      "flags": []
-    },
-    {
-      "company": "Brex",
-      "title": "Senior Brand Producer",
-      "location": "New York, New York, United States; San Francisco, California",
-      "url": "https://www.brex.com/careers/8845851002?gh_jid=8845851002",
-      "date_posted": 1790367130,
-      "flags": []
-    },
-    {
-      "company": "Klaviyo",
-      "title": "Partner Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.klaviyo.com/careers/jobs/8005687003?gh_jid=8005687003",
-      "date_posted": 1790364338,
-      "flags": []
-    },
-    {
-      "company": "Smartsheet",
-      "title": "Group Product Manager - Corporate Systems",
-      "location": "-REMOTE, USA",
-      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8233818",
-      "date_posted": 1790360893,
-      "flags": []
-    },
-    {
-      "company": "Spotify",
-      "title": "Senior Program Manager - Podcast Sales Strategy & Solutions",
-      "location": "Los Angeles, CA",
-      "url": "https://jobs.lever.co/spotify/99860086-49bc-46b4-97ec-99d8993ffffb",
-      "date_posted": 1790360112,
       "flags": []
     }
   ]
