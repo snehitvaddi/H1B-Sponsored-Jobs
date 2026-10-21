@@ -3,9 +3,153 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-20T15:39:24.412Z",
+  "generated_at": "2026-10-21T01:34:56.728Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Pinterest",
+      "title": "Integrated Marketing Lead, UCAN Programming & Industry",
+      "location": "New York, NY, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268329",
+      "date_posted": 1792538142,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Principal Strategy Architect",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5268023007",
+      "date_posted": 1792532173,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Sr. Project Manager - Migrations",
+      "location": "US-NY-New York",
+      "url": "https://jobs.ashbyhq.com/snowflake/f0dfa3f8-0bed-4e4b-97ff-825eb19fa894/application",
+      "date_posted": 1792532160,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Program Manager I",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8012093003",
+      "date_posted": 1792531283,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Senior Machine Learning Engineer, Ads ML Efficiency",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8304463",
+      "date_posted": 1792529846,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Manager, Client Platform Engineering",
+      "location": "Palo Alto; San Francisco",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8300746",
+      "date_posted": 1792529553,
+      "flags": []
+    },
+    {
+      "company": "Brex",
+      "title": "Engineering Manager, Salesforce",
+      "location": "New York, New York",
+      "url": "https://www.brex.com/careers/8877370002?gh_jid=8877370002",
+      "date_posted": 1792529036,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Program Manager, AV Safety Policy & Programs",
+      "location": "New York, NY",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8900349002?gh_jid=8900349002",
+      "date_posted": 1792527862,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Realtime Analytics Platform",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8287853?gh_jid=8287853",
+      "date_posted": 1792526072,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Software Engineer - Crypto Data Foundations",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038",
+      "date_posted": 1792521759,
+      "flags": []
+    },
+    {
+      "company": "Zuora",
+      "title": "VP of AI Platform",
+      "location": "Foster City, California",
+      "url": "https://boards.greenhouse.io/zuora/jobs/8302897?gh_jid=8302897",
+      "date_posted": 1792521559,
+      "flags": []
+    },
+    {
+      "company": "Natera",
+      "title": "Digital Product Manager, Tissue Acquisition Experience",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6223183004",
+      "date_posted": 1792521306,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Staff Software Engineer - Watchdog Anomaly Detection",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8304107/?gh_jid=8304107",
+      "date_posted": 1792520676,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Software Engineer, Users Foundation",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8304030?gh_jid=8304030",
+      "date_posted": 1792520293,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Technical Architect, Engage Central Platform",
+      "location": "Orlando, Florida",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156622794",
+      "date_posted": 1792517414,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Principal Product Designer, Onboarding",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8281285",
+      "date_posted": 1792513514,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Staff Software Engineer, Radar",
+      "location": "San Francisco, Seattle",
+      "url": "https://stripe.com/jobs/search?gh_jid=8287912",
+      "date_posted": 1792512452,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Customer Engineer, Majors - NE",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8300941?gh_jid=8300941",
+      "date_posted": 1792507948,
+      "flags": []
+    },
     {
       "company": "Rubrik",
       "title": "Senior Manager, GTM Analytics & Strategy",
@@ -3062,150 +3206,6 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8222106?gh_jid=8222106",
       "date_posted": 1790615013,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Technical Account Manager",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8220734?gh_jid=8220734",
-      "date_posted": 1790612246,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Principal Customer Engineer -Majors, France",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8188337?gh_jid=8188337",
-      "date_posted": 1790607659,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Product Support Specialist",
-      "location": "New York, San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8236757",
-      "date_posted": 1790601294,
-      "flags": []
-    },
-    {
-      "company": "Ncr",
-      "title": "Senior Technical Project Manager",
-      "location": "ATLANTA, GA",
-      "url": "https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/Senior-Technical-Project-Manager_R0158542",
-      "date_posted": 1790553600,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Product Marketing Manager",
-      "location": "New York, New York",
-      "url": "https://careers.datadoghq.com/detail/8113654/?gh_jid=8113654",
-      "date_posted": 1790435316,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Sr. Staff Product Designer, Mobile Experience Strategy & Systems",
-      "location": "Santa Clara, CALIFORNIA",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000151981339",
-      "date_posted": 1790392324,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Staff Software Engineer - Postgres Control Plane",
-      "location": "US-WA-Bellevue",
-      "url": "https://jobs.ashbyhq.com/snowflake/b99ba76c-0938-4a41-931b-d1fb2543126c/application",
-      "date_posted": 1790387560,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior Sales Engineer, Enterprise - Minnesota",
-      "location": "Remote - Minnesota",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5244299007",
-      "date_posted": 1790385364,
-      "flags": []
-    },
-    {
-      "company": "Zoox",
-      "title": "Technical Program Manager - System Behavior Analysis",
-      "location": "Foster City, CA",
-      "url": "https://jobs.lever.co/zoox/42bb084b-e5a0-47d7-bdf7-90a24026e4c5",
-      "date_posted": 1790377321,
-      "flags": []
-    },
-    {
-      "company": "Nuro",
-      "title": "Software Engineer, Cloud Infrastructure and Observability",
-      "location": "Mountain View, California (HQ)",
-      "url": "https://nuro.ai/careersitem?gh_jid=8221208",
-      "date_posted": 1790377040,
-      "flags": []
-    },
-    {
-      "company": "Roku",
-      "title": "Sr. Financial Analyst",
-      "location": "San Jose, California",
-      "url": "https://www.weareroku.com/jobs/8234094?gh_jid=8234094",
-      "date_posted": 1790376855,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
-      "location": "Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
-      "date_posted": 1790376395,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Software Engineer - Postgres",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/6e96b818-2350-4601-8bdd-7ddd6c4a5f6d/application",
-      "date_posted": 1790376153,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer (Backend/Product focus, AIaaS)",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8231343?gh_jid=8231343",
-      "date_posted": 1790375677,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Staff Software Engineer, Backend (Trust and Safety)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7993030003",
-      "date_posted": 1790375578,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Staff Software Engineer (Platform - Financial Engineering)",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8204243?gh_jid=8204243",
-      "date_posted": 1790375039,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Transformation Architect - Enterprise, Central",
-      "location": "Remote - Illinois, USA; Remote - Indiana, USA; Remote - Kentucky, USA; Remote - Michigan, USA; Remote - Ohio, USA; Remote - Tennessee",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5234928007",
-      "date_posted": 1790369696,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Program Manager, Business Practices",
-      "location": "San Francisco, CA",
-      "url": "https://stripe.com/jobs/search?gh_jid=8209633",
-      "date_posted": 1790368847,
       "flags": []
     }
   ]
