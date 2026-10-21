@@ -3,9 +3,73 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-21T01:34:56.728Z",
+  "generated_at": "2026-10-21T15:57:46.168Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Toast",
+      "title": "Senior Product Manager, Lending",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8245664",
+      "date_posted": 1792590725,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Platform Marketing Lead",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8012914003",
+      "date_posted": 1792588850,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Product Manager, LATAM (Miami or San Francisco)",
+      "location": "Miami, San Francisco",
+      "url": "https://careers.airbnb.com/positions/8303047?gh_jid=8303047",
+      "date_posted": 1792569301,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Customer Experience Manager - Dutch or Swedish Speaking",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8300499?gh_jid=8300499",
+      "date_posted": 1792569115,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Enterprise Customer Success Manager - Boston/New York",
+      "location": "Boston, Massachusetts, USA; New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8282212/?gh_jid=8282212",
+      "date_posted": 1792568406,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Compute",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8248303?gh_jid=8248303",
+      "date_posted": 1792556559,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Head of Key Accounts, Customer Success",
+      "location": "U.S.",
+      "url": "https://stripe.com/jobs/search?gh_jid=8300616",
+      "date_posted": 1792543589,
+      "flags": []
+    },
+    {
+      "company": "Plaid",
+      "title": "Software Engineer - Security Engineering",
+      "location": "Seattle Office",
+      "url": "https://jobs.ashbyhq.com/plaid/f214bf6c-2008-4eab-8943-03f5d03088c2/application",
+      "date_posted": 1792543066,
+      "flags": []
+    },
     {
       "company": "Pinterest",
       "title": "Integrated Marketing Lead, UCAN Programming & Industry",
@@ -92,6 +156,14 @@
       "location": "Foster City, California",
       "url": "https://boards.greenhouse.io/zuora/jobs/8302897?gh_jid=8302897",
       "date_posted": 1792521559,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Customer Success Executive - HC/LS",
+      "location": "Addison, Texas",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156638359",
+      "date_posted": 1792521526,
       "flags": []
     },
     {
@@ -820,6 +892,14 @@
       "location": "Seattle",
       "url": "https://stripe.com/jobs/search?gh_jid=8257935",
       "date_posted": 1792082930,
+      "flags": []
+    },
+    {
+      "company": "Quora",
+      "title": "Machine Learning Engineer, New Grad - Quora (Remote)",
+      "location": "Remote - Multiple Locations",
+      "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3",
+      "date_posted": 1792081133,
       "flags": []
     },
     {
@@ -3126,86 +3206,6 @@
       "location": "Foster City, CA",
       "url": "https://jobs.lever.co/zoox/63307a27-f2b1-43dc-8e78-a2e09d0eba2b",
       "date_posted": 1790703133,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Technical Account Manager (Strategic Accounts)",
-      "location": "Chicago, Illinois; Colorado; Texas",
-      "url": "https://www.okta.com/company/careers/opportunity/8221687?gh_jid=8221687",
-      "date_posted": 1790691501,
-      "flags": []
-    },
-    {
-      "company": "Tiger Analytics Inc.",
-      "title": "Lead AI Architect & Delivery Manager",
-      "location": "Remote",
-      "url": "https://jobs.workable.com/view/dBps6QzbiipvTtyqSv1wxj/remote-lead-ai-architect-%26-delivery-manager-in-united-states-at-tiger-analytics-inc",
-      "date_posted": 1790690802,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior Manager, Software Development Engineering",
-      "location": "San Jose, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239710007",
-      "date_posted": 1790636700,
-      "flags": []
-    },
-    {
-      "company": "Sunpower",
-      "title": "System Designer - Commercial & Residential",
-      "location": "Mountain View, CA",
-      "url": "https://sunpower.breezy.hr/p/1e3a59d1e184-system-designer-commercial-residential",
-      "date_posted": 1790629452,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Staff Software Engineer, Integrations (Tech Lead)",
-      "location": "Santa Clara, CALIFORNIA",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000152273170",
-      "date_posted": 1790629104,
-      "flags": []
-    },
-    {
-      "company": "Spotify",
-      "title": "Senior Revenue Operations Analyst",
-      "location": "New York, NY",
-      "url": "https://jobs.lever.co/spotify/8c8c3cfc-4156-4dad-bb6d-48266766e94a",
-      "date_posted": 1790625165,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Talent Acquisition Operations, Program Manager",
-      "location": "Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234307",
-      "date_posted": 1790621870,
-      "flags": []
-    },
-    {
-      "company": "Asana",
-      "title": "Staff Software Engineer, AI Teammates",
-      "location": "San Francisco",
-      "url": "https://www.asana.com/jobs/apply/8237744?gh_jid=8237744",
-      "date_posted": 1790619378,
-      "flags": []
-    },
-    {
-      "company": "Asana",
-      "title": "Field Marketing Manager",
-      "location": "New York City",
-      "url": "https://www.asana.com/jobs/apply/8237559?gh_jid=8237559",
-      "date_posted": 1790615914,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Software Engineering Manager - Network Transport",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8222106?gh_jid=8222106",
-      "date_posted": 1790615013,
       "flags": []
     }
   ]
