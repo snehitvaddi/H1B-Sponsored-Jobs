@@ -3,9 +3,73 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-22T01:31:15.994Z",
+  "generated_at": "2026-10-22T15:53:12.976Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Datadog",
+      "title": "FP&A Analyst GTM",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438",
+      "date_posted": 1792675957,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Associate Forward Deployed Engineer",
+      "location": "New York City, New York",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+      "date_posted": 1792675879,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Director, Global Security Operations Center",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8306758",
+      "date_posted": 1792675164,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Data Scientist",
+      "location": "In-Office",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8275927?gh_jid=8275927",
+      "date_posted": 1792660670,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Software Engineer - Warehouse UX",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/2f1fa81b-78ac-4b86-bd7c-48a3c2d3ab97/application",
+      "date_posted": 1792639408,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Commercial Sales Engineer - East",
+      "location": "Remote - Massachusetts, USA; Remote - New Jersey, USA; Remote - New York, USA; Remote - Virginia",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5268700007",
+      "date_posted": 1792638064,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Operations Program Manager, Consumer Support",
+      "location": "NYC",
+      "url": "https://stripe.com/jobs/search?gh_jid=8288334",
+      "date_posted": 1792637651,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Sr Staff Software Engineer (Distributed Systems | Data Ingestion | Storage | Analytics) - Remote",
+      "location": "San Diego, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156912806",
+      "date_posted": 1792630366,
+      "flags": []
+    },
     {
       "company": "Plaid",
       "title": "Accounting Operations",
@@ -100,6 +164,14 @@
       "location": "Hybrid",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8301509?gh_jid=8301509",
       "date_posted": 1792610145,
+      "flags": []
+    },
+    {
+      "company": "Oportun",
+      "title": "Sr. Manager - Loan Portfolio & Revenue (R14333)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/oportun/jobs/4746079005",
+      "date_posted": 1792609353,
       "flags": []
     },
     {
@@ -420,6 +492,14 @@
       "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
       "url": "https://www.okta.com/company/careers/opportunity/8248427?gh_jid=8248427",
       "date_posted": 1792457899,
+      "flags": []
+    },
+    {
+      "company": "Marlabs",
+      "title": "GenAI Fullstack Engineer",
+      "location": "Englewood Cliffs, NJ",
+      "url": "https://marlabs.breezy.hr/p/4d7af9beb782-genai-fullstack-engineer",
+      "date_posted": 1792454400,
       "flags": []
     },
     {
@@ -3126,86 +3206,6 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8226958?gh_jid=8226958",
       "date_posted": 1790809514,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Experiential Marketing Associate",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8238576?gh_jid=8238576",
-      "date_posted": 1790806665,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Manager, Delivery Solutions Architects - Financial Services",
-      "location": "Illinois; Massachusetts; New York; Texas; Washington, D.C.",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8821959002",
-      "date_posted": 1790800573,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Staff Software Engineer, Product ML Infrastructure",
-      "location": "Palo Alto, CA, US; San Francisco, CA",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8046860",
-      "date_posted": 1790797315,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Software Engineer, OIG",
-      "location": "Bellevue, Washington",
-      "url": "https://www.okta.com/company/careers/opportunity/8243989?gh_jid=8243989",
-      "date_posted": 1790795457,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "ServiceNow VP, CRM GTM Innovation",
-      "location": "San Francisco, CALIFORNIA",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000152750829",
-      "date_posted": 1790794980,
-      "flags": []
-    },
-    {
-      "company": "Anaplan",
-      "title": "Principal Data Scientist - AI",
-      "location": "New York City",
-      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8858759002",
-      "date_posted": 1790792358,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Staff Designated Support Engineer",
-      "location": "US-TX-Remote",
-      "url": "https://jobs.ashbyhq.com/snowflake/631f5d58-a2e7-4717-9892-3e0fa8c3b464/application",
-      "date_posted": 1790786342,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Sr. Customer Success Manager",
-      "location": "Chicago, Illinois; Iowa; Michigan; Minnesota; Ohio; Texas",
-      "url": "https://www.okta.com/company/careers/opportunity/8240584?gh_jid=8240584",
-      "date_posted": 1790778277,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Senior Staff Machine Learning Engineer, ML Understanding",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8243010",
-      "date_posted": 1790778153,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Customer Engineer SLED TX (Austin, Dallas or Houston)",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8238015?gh_jid=8238015",
-      "date_posted": 1790774786,
       "flags": []
     }
   ]
