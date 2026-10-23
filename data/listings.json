@@ -3,9 +3,33 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-23T01:30:16.558Z",
+  "generated_at": "2026-10-23T15:45:04.175Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Mongodb",
+      "title": "Director of Customer Marketing & Advocacy",
+      "location": "United States",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8301805",
+      "date_posted": 1792760785,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Manager, Sales Engineering - SMB",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5268698007",
+      "date_posted": 1792720331,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Program Manager, Commercial Solutions",
+      "location": "US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8279867",
+      "date_posted": 1792716390,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Software Engineer, Agentic Commerce",
@@ -500,6 +524,14 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8012093003",
       "date_posted": 1792531283,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Software Engineer",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8304034?gh_jid=8304034",
+      "date_posted": 1792530368,
       "flags": []
     },
     {
@@ -1012,6 +1044,14 @@
       "location": "US-SF, US-NYC, US-Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=8198323",
       "date_posted": 1792177236,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Machine Learning Engineer, Ads Conversion Core Modeling",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8284744",
+      "date_posted": 1792176442,
       "flags": []
     },
     {
@@ -3166,46 +3206,6 @@
       "location": "Mountain View, CA, US; San Francisco, CA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8244452",
       "date_posted": 1790893949,
-      "flags": []
-    },
-    {
-      "company": "Coursera",
-      "title": "Corporate FP&A Manager",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/coursera/jobs/6192106004",
-      "date_posted": 1790889221,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Software Engineer, CDP - Stablecoin",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8234278?gh_jid=8234278",
-      "date_posted": 1790887108,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Senior Sales Operations Lead",
-      "location": "United States",
-      "url": "https://careers.airbnb.com/positions/8244229?gh_jid=8244229",
-      "date_posted": 1790885928,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior customer Engineer, Named - New York City",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8247433?gh_jid=8247433",
-      "date_posted": 1790884487,
-      "flags": []
-    },
-    {
-      "company": "Brex",
-      "title": "Brand Marketing Lead",
-      "location": "New York, New York, United States; San Francisco, California, United States;",
-      "url": "https://www.brex.com/careers/8860097002?gh_jid=8860097002",
-      "date_posted": 1790882666,
       "flags": []
     }
   ]
