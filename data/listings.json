@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-24T01:34:33.404Z",
+  "generated_at": "2026-10-24T14:34:30.231Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Roblox",
+      "title": "Product Designer, Creator Services",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8304526?gh_jid=8304526",
+      "date_posted": 1792801658,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Software Engineer, AI Platform & Infrastructure",
+      "location": "San Francisco, California",
+      "url": "https://www.okta.com/company/careers/opportunity/8319285?gh_jid=8319285",
+      "date_posted": 1792801603,
+      "flags": []
+    },
     {
       "company": "Pinterest",
       "title": "Sr. Manager, Payroll",
@@ -63,6 +79,14 @@
       "flags": []
     },
     {
+      "company": "ServiceNow",
+      "title": "Senior Auditor - Business & IT Operations",
+      "location": "San Diego, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157566579",
+      "date_posted": 1792788005,
+      "flags": []
+    },
+    {
       "company": "Waymo",
       "title": "Staff Software Engineer",
       "location": "PERM - N/A",
@@ -108,6 +132,14 @@
       "location": "Remote",
       "url": "https://www.coinbase.com/careers/positions/8318555?gh_jid=8318555",
       "date_posted": 1792780028,
+      "flags": []
+    },
+    {
+      "company": "Samsara",
+      "title": "Technical Account Manager",
+      "location": "Remote - US;",
+      "url": "https://www.samsara.com/company/careers/roles/8281716?gh_jid=8281716",
+      "date_posted": 1792776536,
       "flags": []
     },
     {
@@ -3174,38 +3206,6 @@
       "location": "Mountain View, California (HQ)",
       "url": "https://nuro.ai/careersitem?gh_jid=8249825",
       "date_posted": 1790970600,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Vulnerability Defense Software Engineer, Cloudforce One",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245503?gh_jid=8245503",
-      "date_posted": 1790969735,
-      "flags": []
-    },
-    {
-      "company": "Carvana",
-      "title": "People Systems Analyst",
-      "location": "Tempe, AZ",
-      "url": "https://www.carvana.com/careers/apply?gh_jid=8250036",
-      "date_posted": 1790969633,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Product Designer - Okta for AI Agents",
-      "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC",
-      "url": "https://www.okta.com/company/careers/opportunity/8248278?gh_jid=8248278",
-      "date_posted": 1790967190,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Staff Technical Program Manager- Security",
-      "location": "Mountain View, California; San Francisco, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8864290002",
-      "date_posted": 1790965775,
       "flags": []
     }
   ]
