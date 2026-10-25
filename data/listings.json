@@ -3,9 +3,41 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-24T14:34:30.231Z",
+  "generated_at": "2026-10-25T01:09:20.048Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Reddit",
+      "title": "Software Engineer, Ad Signals",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8319655",
+      "date_posted": 1792859689,
+      "flags": []
+    },
+    {
+      "company": "Asana",
+      "title": "Corporate and Strategic Finance, FP&A",
+      "location": "San Francisco",
+      "url": "https://www.asana.com/jobs/apply/8282522?gh_jid=8282522",
+      "date_posted": 1792858309,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Designer",
+      "location": "Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336",
+      "date_posted": 1792849449,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+      "location": "San Francisco, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8304574",
+      "date_posted": 1792802161,
+      "flags": []
+    },
     {
       "company": "Roblox",
       "title": "Product Designer, Creator Services",
@@ -1084,6 +1116,14 @@
       "location": "United States",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014924517-project-engineer",
       "date_posted": 1792425724,
+      "flags": []
+    },
+    {
+      "company": "Point72",
+      "title": "2028 Point72 Academy Investment Analyst Summer Internship Program - US",
+      "location": "United States",
+      "url": "https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002",
+      "date_posted": 1792425708,
       "flags": []
     },
     {
@@ -3166,46 +3206,6 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8036757?gh_jid=8036757",
       "date_posted": 1790975422,
-      "flags": []
-    },
-    {
-      "company": "Verkada",
-      "title": "Lead Product Manager, Security Trailers",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5255988007",
-      "date_posted": 1790974277,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Staff Cloud Support Engineer",
-      "location": "US-CA-Dublin",
-      "url": "https://jobs.ashbyhq.com/snowflake/1ebb1380-17b4-472b-86c1-2bbfa6f53b8a/application",
-      "date_posted": 1790973767,
-      "flags": []
-    },
-    {
-      "company": "Natera",
-      "title": "Director, Rare Disease Product Marketing & Sales Enablement",
-      "location": "US Remote",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6215748004",
-      "date_posted": 1790973362,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Program Manager, Tooling and Integrations",
-      "location": "Mountain View, CA, USA, Remote",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8238145",
-      "date_posted": 1790971898,
-      "flags": []
-    },
-    {
-      "company": "Nuro",
-      "title": "Senior Program Manager, Compliance Reporting",
-      "location": "Mountain View, California (HQ)",
-      "url": "https://nuro.ai/careersitem?gh_jid=8249825",
-      "date_posted": 1790970600,
       "flags": []
     }
   ]
