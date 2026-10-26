@@ -3,9 +3,57 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-26T01:09:14.692Z",
+  "generated_at": "2026-10-26T17:23:55.415Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Affirm",
+      "title": "Implementation Specialist I",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040794003",
+      "date_posted": 1793029355,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "RevOps Technologist",
+      "location": "Distributed",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8306604?gh_jid=8306604",
+      "date_posted": 1793028597,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Product Manager II, Wallets and DeFi",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8311341?gh_jid=8311341",
+      "date_posted": 1793027308,
+      "flags": []
+    },
+    {
+      "company": "Point72",
+      "title": "IT Operations Engineer, Data Center Technology",
+      "location": "New York, NY",
+      "url": "https://boards.greenhouse.io/point72/jobs/8899767002?gh_jid=8899767002",
+      "date_posted": 1793026853,
+      "flags": []
+    },
+    {
+      "company": "Asana",
+      "title": "Sales Engineer",
+      "location": "Chicago",
+      "url": "https://www.asana.com/jobs/apply/8282422?gh_jid=8282422",
+      "date_posted": 1793025256,
+      "flags": []
+    },
+    {
+      "company": "Brex",
+      "title": "Director, Performance Marketing",
+      "location": "San Francisco, California",
+      "url": "https://www.brex.com/careers/8899486002?gh_jid=8899486002",
+      "date_posted": 1792898214,
+      "flags": []
+    },
     {
       "company": "Reddit",
       "title": "Software Engineer, Ad Signals",
@@ -652,6 +700,14 @@
       "location": "Remote",
       "url": "https://www.rubrik.com/company/careers/departments/job.8306164?gh_jid=8306164",
       "date_posted": 1792594731,
+      "flags": []
+    },
+    {
+      "company": "Gusto",
+      "title": "Workday System Developer",
+      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8257486",
+      "date_posted": 1792593339,
       "flags": []
     },
     {
@@ -3150,62 +3206,6 @@
       "location": "US > Arizona > Phoenix",
       "url": "https://www.asm.com/open-vacancies/?gh_jid=4978663101",
       "date_posted": 1791187908,
-      "flags": []
-    },
-    {
-      "company": "Plaid",
-      "title": "Product Operations Specialist",
-      "location": "San Francisco HQ",
-      "url": "https://jobs.ashbyhq.com/plaid/a063f469-1ec5-44d1-8cc5-1da47a7b8783/application",
-      "date_posted": 1790987124,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Staff Machine Learning Engineer, Ads Creative Effectiveness",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8250389",
-      "date_posted": 1790983734,
-      "flags": []
-    },
-    {
-      "company": "Brex",
-      "title": "Director, Revenue Operations",
-      "location": "Seattle, Washington",
-      "url": "https://www.brex.com/careers/8865086002?gh_jid=8865086002",
-      "date_posted": 1790980809,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Software Engineer, Revenue and Financial Automation",
-      "location": "United States",
-      "url": "https://stripe.com/jobs/search?gh_jid=8076616",
-      "date_posted": 1790980624,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
-      "location": "San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
-      "date_posted": 1790978147,
-      "flags": []
-    },
-    {
-      "company": "Smartsheet",
-      "title": "Sr. Software Engineer II (Remote Eligible)",
-      "location": "-REMOTE, USA",
-      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8250247",
-      "date_posted": 1790977796,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer (Full Stack), Global Actions",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8036757?gh_jid=8036757",
-      "date_posted": 1790975422,
       "flags": []
     }
   ]
