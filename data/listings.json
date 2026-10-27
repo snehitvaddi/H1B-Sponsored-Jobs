@@ -3,9 +3,73 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-27T02:04:22.113Z",
+  "generated_at": "2026-10-27T16:41:57.770Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Stripe",
+      "title": "Global Head of Specialist Solutions Architecture, Revenue Suite",
+      "location": "United States",
+      "url": "https://stripe.com/jobs/search?gh_jid=8175669",
+      "date_posted": 1793114508,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Certificates Management",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8326127?gh_jid=8326127",
+      "date_posted": 1793113223,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Principal Software Development Engineer- Go",
+      "location": "Santa Clara, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5256472007",
+      "date_posted": 1793113034,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Product Designer (Short Term)",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8318426?gh_jid=8318426",
+      "date_posted": 1793110243,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Data Analyst",
+      "location": "Boston",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8300025",
+      "date_posted": 1793110073,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Staff Software Engineer, Frontend (Decisions Orechestration)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8034825003",
+      "date_posted": 1793102710,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Product Designer - UI Platform",
+      "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/8326116?gh_jid=8326116",
+      "date_posted": 1793071686,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Sr. Director, Marketing Strategy, Analytics & Innovation",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8325734",
+      "date_posted": 1793068636,
+      "flags": []
+    },
     {
       "company": "Waymo",
       "title": "Group Product Manager, Depot Operations Automation",
@@ -3144,70 +3208,6 @@
       "location": "US Remote",
       "url": "https://job-boards.greenhouse.io/natera/jobs/6217256004",
       "date_posted": 1791415827,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Staff Technical Program Manager, Infrastructure",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7995207",
-      "date_posted": 1791415531,
-      "flags": []
-    },
-    {
-      "company": "Zuora",
-      "title": "VP, Product Design",
-      "location": "Foster City, California",
-      "url": "https://boards.greenhouse.io/zuora/jobs/8262227?gh_jid=8262227",
-      "date_posted": 1791410434,
-      "flags": []
-    },
-    {
-      "company": "Plaid",
-      "title": "Staff Software Engineer - Credit Insights",
-      "location": "New York City Office",
-      "url": "https://jobs.ashbyhq.com/plaid/ee0f35b6-22ee-4fd9-b734-fc8e99426563/application",
-      "date_posted": 1791409294,
-      "flags": []
-    },
-    {
-      "company": "Roku",
-      "title": "Senior Product Manager, Advertising - Supply Integrations",
-      "location": "New York, New York",
-      "url": "https://www.weareroku.com/jobs/8263080?gh_jid=8263080",
-      "date_posted": 1791407634,
-      "flags": []
-    },
-    {
-      "company": "Verkada",
-      "title": "Senior Growth Marketing Manager, Upper Funnel",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5260590007",
-      "date_posted": 1791404906,
-      "flags": []
-    },
-    {
-      "company": "Brex",
-      "title": "Engineering Manager, Salesforce",
-      "location": "San Francisco, California",
-      "url": "https://www.brex.com/careers/8857110002?gh_jid=8857110002",
-      "date_posted": 1791402871,
-      "flags": []
-    },
-    {
-      "company": "Anaplan",
-      "title": "Sr. Manager, Revenue Accounting Operations",
-      "location": "Reston",
-      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8876963002",
-      "date_posted": 1791402577,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Staff Research Scientist - Post-Training for Agents",
-      "location": "New York, New York, USA; Pittsburgh, Pennsylvania",
-      "url": "https://careers.datadoghq.com/detail/8261934/?gh_jid=8261934",
-      "date_posted": 1791390862,
       "flags": []
     }
   ]
