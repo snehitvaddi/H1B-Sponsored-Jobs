@@ -3,9 +3,171 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-26T17:23:55.415Z",
+  "generated_at": "2026-10-27T02:04:22.113Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Waymo",
+      "title": "Group Product Manager, Depot Operations Automation",
+      "location": "Mountain View, CA, US; San Francisco, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8314252",
+      "date_posted": 1793057186,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Software Engineer, Compute Service",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/95b87897-68dc-47c0-a4c0-2320d36dafac/application",
+      "date_posted": 1793055705,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Brand Designer, Illustration & Graphic",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8317585?gh_jid=8317585",
+      "date_posted": 1793055462,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Account Manager III, Fulfillment",
+      "location": "Atlanta, Georgia, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Los Angeles, California",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8325948",
+      "date_posted": 1793054437,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Partner Account Manager, Southeast & MidAtlantic Region",
+      "location": "Distributed",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8306651?gh_jid=8306651",
+      "date_posted": 1793053773,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Sr. Staff Applied AI Engineer, GTM",
+      "location": "Remote - USA; Santa Clara, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5275347007",
+      "date_posted": 1793053623,
+      "flags": []
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Senior Channel Account Manager",
+      "location": "-REMOTE, USA",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8325836",
+      "date_posted": 1793053268,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Staff Software Engineer, UI Tooling",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8325753?gh_jid=8325753",
+      "date_posted": 1793052732,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (AI Platform)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040267003",
+      "date_posted": 1793051161,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Machine Learning Engineering Manager - Core Ads Ranking",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8319536",
+      "date_posted": 1793050900,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "iOS Engineer, Identity Product",
+      "location": "San Francisco, CA; Seattle, WA; New York City, NY",
+      "url": "https://stripe.com/jobs/search?gh_jid=8311082",
+      "date_posted": 1793048021,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Security Engineer, Corporate Security",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8319448?gh_jid=8319448",
+      "date_posted": 1793047762,
+      "flags": []
+    },
+    {
+      "company": "Natera",
+      "title": "Senior Software Engineer, Portal Application",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6233389004",
+      "date_posted": 1793047138,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Senior Manager, 1:Many Account-Based Marketing",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8244872?gh_jid=8244872",
+      "date_posted": 1793046724,
+      "flags": []
+    },
+    {
+      "company": "Zuora",
+      "title": "IT Support Specialist",
+      "location": "Foster City, California",
+      "url": "https://boards.greenhouse.io/zuora/jobs/8281565?gh_jid=8281565",
+      "date_posted": 1793045971,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Senior Product Manager, Access Management",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5222016007",
+      "date_posted": 1793044922,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Staff, Product Manager - Identity",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8319160",
+      "date_posted": 1793043671,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Senior Product Manager, Rider ML/AI",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8916924002?gh_jid=8916924002",
+      "date_posted": 1793034556,
+      "flags": []
+    },
+    {
+      "company": "Gusto",
+      "title": "Product Counsel, Payroll and Fintech",
+      "location": "San Francisco, CA - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8304582",
+      "date_posted": 1793033977,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Information Security Analyst II - Federal Programs",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8319487/?gh_jid=8319487",
+      "date_posted": 1793032278,
+      "flags": [
+        "clearance"
+      ]
+    },
     {
       "company": "Affirm",
       "title": "Implementation Specialist I",
@@ -212,6 +374,14 @@
       "location": "Remote",
       "url": "https://www.coinbase.com/careers/positions/8318555?gh_jid=8318555",
       "date_posted": 1792780028,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Software Engineer II (Fullstack), Digital Storefront",
+      "location": "US (remote)",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8186869",
+      "date_posted": 1792777816,
       "flags": []
     },
     {
@@ -3038,174 +3208,6 @@
       "location": "New York, New York, USA; Pittsburgh, Pennsylvania",
       "url": "https://careers.datadoghq.com/detail/8261934/?gh_jid=8261934",
       "date_posted": 1791390862,
-      "flags": []
-    },
-    {
-      "company": "Klaviyo",
-      "title": "PIPELINE - L5 Principal Software Engineer",
-      "location": "Boston, MA",
-      "url": "https://www.klaviyo.com/careers/jobs/8011054003?gh_jid=8011054003",
-      "date_posted": 1791390855,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Waymo Operation System Implementation Manager",
-      "location": "Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8238044",
-      "date_posted": 1791385881,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Deal Desk Manager",
-      "location": "US-CA-Dublin",
-      "url": "https://jobs.ashbyhq.com/snowflake/fbe9833c-f148-4f45-93ad-f34895a85b0a/application",
-      "date_posted": 1791381083,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Senior PBP, Finance",
-      "location": "New York, NY",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8872290002?gh_jid=8872290002",
-      "date_posted": 1791324246,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Technical Program Manager, Consumer",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8259801?gh_jid=8259801",
-      "date_posted": 1791319629,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Product Manager II, Advanced Trade",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8258909?gh_jid=8258909",
-      "date_posted": 1791318221,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Staff Software Engineer, Payments (AirCover Insurance Platform)",
-      "location": "Remote",
-      "url": "https://careers.airbnb.com/positions/8259526?gh_jid=8259526",
-      "date_posted": 1791316750,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Solutions Architect",
-      "location": "Central - United States; Remote - Texas",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8782816002",
-      "date_posted": 1791316106,
-      "flags": []
-    },
-    {
-      "company": "Gusto",
-      "title": "Staff Software Engineer, PEO",
-      "location": "San Francisco, CA - Hybrid",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8244969",
-      "date_posted": 1791315921,
-      "flags": []
-    },
-    {
-      "company": "Mongodb",
-      "title": "VP, Corporate Controller",
-      "location": "Palo Alto; San Francisco",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8256571",
-      "date_posted": 1791309020,
-      "flags": []
-    },
-    {
-      "company": "Netskope",
-      "title": "VP, Solutions Engineer NAM",
-      "location": "North America",
-      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8239449",
-      "date_posted": 1791305515,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Business Development Lead, VC/PE",
-      "location": "New York City, New York; San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/databricks/jobs/8475477002",
-      "date_posted": 1791300927,
-      "flags": []
-    },
-    {
-      "company": "Dropbox",
-      "title": "Head of Field and Partner Marketing",
-      "location": "Remote - US: All locations",
-      "url": "https://jobs.dropbox.com/listing/8038748?gh_jid=8038748",
-      "date_posted": 1791232939,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Staff Software Engineer, Link - Consumer Preference",
-      "location": "San Francisco, NYC, Seattle",
-      "url": "https://stripe.com/jobs/search?gh_jid=8257354",
-      "date_posted": 1791231469,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Builder Experience",
-      "location": "San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8206731",
-      "date_posted": 1791230862,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Staff Mobile Engineer (P4)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
-      "date_posted": 1791226286,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Sr. Associate, Customer Marketing",
-      "location": "Remote",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8236786",
-      "date_posted": 1791221858,
-      "flags": []
-    },
-    {
-      "company": "Nationsbenefits",
-      "title": "Software Development Engineer I",
-      "location": "United States",
-      "url": "https://nationsbenefits.breezy.hr/p/ceb3693725d7-software-development-engineer-i",
-      "date_posted": 1791203867,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Customer Engineer, Strategic Pursuits, APAC (Based in Singapore)",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8248543?gh_jid=8248543",
-      "date_posted": 1791193558,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Customer Success Manager, Revenue Suite",
-      "location": "Chicago",
-      "url": "https://stripe.com/jobs/search?gh_jid=8237366",
-      "date_posted": 1791193485,
-      "flags": []
-    },
-    {
-      "company": "Asm",
-      "title": "Specialist II, Customer Service",
-      "location": "US > Arizona > Phoenix",
-      "url": "https://www.asm.com/open-vacancies/?gh_jid=4978663101",
-      "date_posted": 1791187908,
       "flags": []
     }
   ]
