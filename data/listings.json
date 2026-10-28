@@ -3,9 +3,89 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-28T02:14:09.868Z",
+  "generated_at": "2026-10-28T17:10:33.063Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Lyft",
+      "title": "Staff Product Manager I, Base Pricing",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8917426002?gh_jid=8917426002",
+      "date_posted": 1793203203,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Client Account Manager, Health",
+      "location": "New York, NY",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8290034",
+      "date_posted": 1793202820,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Software Engineer II, Shipping Solutions",
+      "location": "Bellevue, Washington",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8326088",
+      "date_posted": 1793202728,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Forward Deployed Solution Engineer - Applied AI FDE",
+      "location": "New York, New York",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158334169",
+      "date_posted": 1793202354,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Product Marketing Manager, Subscriptions",
+      "location": "New York, San Francisco, Seattle, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8331124",
+      "date_posted": 1793201310,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Hardware Systems Engineer",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8325821?gh_jid=8325821",
+      "date_posted": 1793200516,
+      "flags": []
+    },
+    {
+      "company": "Asana",
+      "title": "Design Leader, Emerging Products",
+      "location": "San Francisco",
+      "url": "https://www.asana.com/jobs/apply/8154796?gh_jid=8154796",
+      "date_posted": 1793199556,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Staff Software Engineer, Backend (Observability)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040396003",
+      "date_posted": 1793191551,
+      "flags": []
+    },
+    {
+      "company": "Carvana",
+      "title": "Auto Mechanic II - ADESA Mira Loma",
+      "location": "Mira Loma, CA",
+      "url": "https://www.carvana.com/careers/apply?gh_jid=8330533",
+      "date_posted": 1793186191,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal Software Engineer, GenAI Platform",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8287614?gh_jid=8287614",
+      "date_posted": 1793155359,
+      "flags": []
+    },
     {
       "company": "Stripe",
       "title": "Staff Software Engineer, Dashboard Product",
@@ -1166,6 +1246,14 @@
       "location": "Palo Alto; San Francisco",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8300746",
       "date_posted": 1792529553,
+      "flags": []
+    },
+    {
+      "company": "Liveramp-inc",
+      "title": "Client Partner, Global Strategic Brands",
+      "location": "New York, NY",
+      "url": "https://jobs.ashbyhq.com/liveramp-inc/d204d154-4be5-46df-b212-a792af3abd73/application",
+      "date_posted": 1792529268,
       "flags": []
     },
     {
@@ -3049,6 +3137,14 @@
       "flags": []
     },
     {
+      "company": "Tiger Analytics Inc.",
+      "title": "Manager - BI Consulting (Power BI)",
+      "location": "Diamond Bar, California",
+      "url": "https://apply.workable.com/tiger-analytics/j/56CAD49F61",
+      "date_posted": 1791504000,
+      "flags": []
+    },
+    {
       "company": "Coinbase",
       "title": "Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading)",
       "location": "Remote",
@@ -3112,102 +3208,6 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8261442",
       "date_posted": 1791497121,
-      "flags": []
-    },
-    {
-      "company": "Gusto",
-      "title": "Senior Creative Program Manager",
-      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8260095",
-      "date_posted": 1791493663,
-      "flags": []
-    },
-    {
-      "company": "Nuro",
-      "title": "Senior Embedded Software Engineer",
-      "location": "Mountain View, California (HQ)",
-      "url": "https://nuro.ai/careersitem?gh_jid=8263454",
-      "date_posted": 1791492067,
-      "flags": []
-    },
-    {
-      "company": "Verkada",
-      "title": "Senior Product Marketing Manager, Solutions",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5255170007",
-      "date_posted": 1791491979,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Solutions Engineer Intern 2027 (USA)",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214788",
-      "date_posted": 1791489983,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Solutions Architect, AI",
-      "location": "NYC, SF, or Chicago",
-      "url": "https://stripe.com/jobs/search?gh_jid=8248509",
-      "date_posted": 1791487092,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Senior Android Software Engineer, Consumer Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8263407",
-      "date_posted": 1791485718,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
-      "location": "Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8262154",
-      "date_posted": 1791484918,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Principal, CX Strategy & Analytics",
-      "location": "Remote",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8259835",
-      "date_posted": 1791484521,
-      "flags": []
-    },
-    {
-      "company": "Sunpower",
-      "title": "Journeyman Electrician",
-      "location": "Portland, OR",
-      "url": "https://sunpower.breezy.hr/p/264775f627ae-journeyman-electrician",
-      "date_posted": 1791484154,
-      "flags": []
-    },
-    {
-      "company": "Dropbox",
-      "title": "Principal Software Engineer",
-      "location": "Remote - US: All locations",
-      "url": "https://jobs.dropbox.com/listing/8261911?gh_jid=8261911",
-      "date_posted": 1791480113,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior Technical Marketing Engineer",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5250702007",
-      "date_posted": 1791479753,
-      "flags": []
-    },
-    {
-      "company": "Natera",
-      "title": "Senior Director / Director , Breast Oncology Lifecycle Management",
-      "location": "US Remote",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6216503004",
-      "date_posted": 1791479048,
       "flags": []
     }
   ]
