@@ -3,9 +3,105 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-27T16:41:57.770Z",
+  "generated_at": "2026-10-28T02:14:09.868Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Stripe",
+      "title": "Staff Software Engineer, Dashboard Product",
+      "location": "Seattle",
+      "url": "https://stripe.com/jobs/search?gh_jid=8329718",
+      "date_posted": 1793150487,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Principal, Strategic Finance & Analytics - Membership",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8329612?gh_jid=8329612",
+      "date_posted": 1793145927,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Staff Software Engineer, Orders",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8313894",
+      "date_posted": 1793140191,
+      "flags": []
+    },
+    {
+      "company": "Natera",
+      "title": "Finance Compliance Analyst",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6234723004",
+      "date_posted": 1793137367,
+      "flags": []
+    },
+    {
+      "company": "Coursera",
+      "title": "Senior Financial Analyst, Enterprise",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6219592004",
+      "date_posted": 1793134298,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Engineering Manager - Reliability Engineering",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8283711?gh_jid=8283711",
+      "date_posted": 1793133918,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Data Scientist, Performance Marketing",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8280111",
+      "date_posted": 1793130666,
+      "flags": []
+    },
+    {
+      "company": "Carvana",
+      "title": "Senior Project Manager, Construction",
+      "location": "Tempe, AZ",
+      "url": "https://www.carvana.com/careers/apply?gh_jid=8328744",
+      "date_posted": 1793129945,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Solutions Engineering Manager, Select & Territory",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5253735007",
+      "date_posted": 1793124398,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Staff Product Manager, Databases",
+      "location": "US - Remote",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8327831?gh_jid=8327831",
+      "date_posted": 1793124122,
+      "flags": []
+    },
+    {
+      "company": "Marlabs",
+      "title": "Technical Product Owner (Strategy & Execution)",
+      "location": "Indianapolis, IN",
+      "url": "https://marlabs.breezy.hr/p/e0d87afb40d4-technical-product-owner-strategy-execution",
+      "date_posted": 1793120721,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Director, Site Reliability Engineering",
+      "location": "Bellevue, Washington; San Francisco, California",
+      "url": "https://www.okta.com/company/careers/opportunity/8303680?gh_jid=8303680",
+      "date_posted": 1793118159,
+      "flags": []
+    },
     {
       "company": "Stripe",
       "title": "Global Head of Specialist Solutions Architecture, Revenue Suite",
@@ -231,6 +327,14 @@
       "flags": [
         "clearance"
       ]
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Partner Technology Architect",
+      "location": "Vienna, Virginia",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157860360",
+      "date_posted": 1793031224,
+      "flags": []
     },
     {
       "company": "Affirm",
@@ -3104,110 +3208,6 @@
       "location": "US Remote",
       "url": "https://job-boards.greenhouse.io/natera/jobs/6216503004",
       "date_posted": 1791479048,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Revenue Accounting Manager",
-      "location": "Palo Alto, CA",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8260085?gh_jid=8260085",
-      "date_posted": 1791477685,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Art Director, Demand Gen",
-      "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California",
-      "url": "https://www.okta.com/company/careers/opportunity/8262246?gh_jid=8262246",
-      "date_posted": 1791477373,
-      "flags": []
-    },
-    {
-      "company": "Smartsheet",
-      "title": "Senior Product Manager - People Systems",
-      "location": "-REMOTE, USA",
-      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8264858",
-      "date_posted": 1791476587,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer II, Frontend (Marketing and Privacy)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010608003",
-      "date_posted": 1791476062,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "[2027] Senior Machine Learning Engineer - PhD Early Career",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8242623?gh_jid=8242623",
-      "date_posted": 1791475513,
-      "flags": []
-    },
-    {
-      "company": "Nuro",
-      "title": "Demo Program Manager",
-      "location": "Mountain View, California (HQ)",
-      "url": "https://nuro.ai/careersitem?gh_jid=8262221",
-      "date_posted": 1791474742,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Machine Learning Engineer, Content Visual AI",
-      "location": "San Francisco, CA, US; New York City, NY, US; Seattle, WA, US; Remote",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8247246",
-      "date_posted": 1791474566,
-      "flags": []
-    },
-    {
-      "company": "Samsara",
-      "title": "Sr Offensive AI Security Engineer II",
-      "location": "Remote - MA",
-      "url": "https://www.samsara.com/company/careers/roles/8264748?gh_jid=8264748",
-      "date_posted": 1791473271,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Software Engineer, Agentic Discovery",
-      "location": "In-Office",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8264687?gh_jid=8264687",
-      "date_posted": 1791471793,
-      "flags": []
-    },
-    {
-      "company": "Socure",
-      "title": "Staff Product Operations Manager",
-      "location": "Hub - New York",
-      "url": "https://jobs.ashbyhq.com/socure/83bea28d-65f1-4819-b6a4-b7e03beea345/application",
-      "date_posted": 1791471444,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Senior AI Analyst, People Digital Solutions",
-      "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC",
-      "url": "https://job-boards.greenhouse.io/okta/jobs/8257554",
-      "date_posted": 1791465548,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Staff Software Development Engineer (Microservices)",
-      "location": "Santa Clara, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5260367007",
-      "date_posted": 1791441507,
-      "flags": []
-    },
-    {
-      "company": "Natera",
-      "title": "Patient Engagement Programs Manager (Oncology Marketing)",
-      "location": "US Remote",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6217256004",
-      "date_posted": 1791415827,
       "flags": []
     }
   ]
