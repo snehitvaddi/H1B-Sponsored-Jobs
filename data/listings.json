@@ -3,9 +3,57 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-29T02:26:22.660Z",
+  "generated_at": "2026-10-29T17:26:28.326Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Product Manager Intern (2027) - London, UK",
+      "location": "In-Office",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914",
+      "date_posted": 1793288551,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Staff Machine Learning Engineer, Ads Forecasting & Scenarios",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8334138",
+      "date_posted": 1793287499,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Financial Analyst, P&T",
+      "location": "New York City",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8328622",
+      "date_posted": 1793281175,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Games",
+      "location": "West Coast",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8859518002",
+      "date_posted": 1793278487,
+      "flags": []
+    },
+    {
+      "company": "Zuora",
+      "title": "AI Product Manager, Enterprise AI",
+      "location": "Foster City, California",
+      "url": "https://boards.greenhouse.io/zuora/jobs/8325518?gh_jid=8325518",
+      "date_posted": 1793262814,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Machine Learning Engineer, Compliance Automation (Platform)",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8333165?gh_jid=8333165",
+      "date_posted": 1793253737,
+      "flags": []
+    },
     {
       "company": "Stripe",
       "title": "Software Engineer, Fraud System Interventions",
@@ -3158,54 +3206,6 @@
       "location": "Bellevue, Washington",
       "url": "https://www.okta.com/company/careers/opportunity/8267556?gh_jid=8267556",
       "date_posted": 1791568792,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Manager, Policy Communications",
-      "location": "New York, NY, US; Los Angeles, CA, US; District of Columbia, Washington",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8238682",
-      "date_posted": 1791568606,
-      "flags": []
-    },
-    {
-      "company": "Smartsheet",
-      "title": "Principal Software Engineer, Core Experiences (Remote Eligible)",
-      "location": "-REMOTE, USA",
-      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8265318",
-      "date_posted": 1791568606,
-      "flags": []
-    },
-    {
-      "company": "Roku",
-      "title": "Senior Software Engineer, Advanced Development",
-      "location": "Austin, Texas",
-      "url": "https://www.weareroku.com/jobs/8262169?gh_jid=8262169",
-      "date_posted": 1791565103,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Brand Designer",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/eb9f1871-de71-4d76-8a7b-e885d491dd12/application",
-      "date_posted": 1791565014,
-      "flags": []
-    },
-    {
-      "company": "Anaplan",
-      "title": "Manager, Revenue Accounting",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8878189002",
-      "date_posted": 1791563685,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Senior Internal Auditor",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8256427",
-      "date_posted": 1791562605,
       "flags": []
     }
   ]
