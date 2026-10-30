@@ -3,9 +3,57 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-30T02:36:15.034Z",
+  "generated_at": "2026-10-30T17:01:13.251Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Datadog",
+      "title": "Senior Product Manager, Chat, Video, and Collaboration Integrations",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8335047/?gh_jid=8335047",
+      "date_posted": 1793375039,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Manager, Security Incident Response",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8045376003",
+      "date_posted": 1793369531,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Forward Deployed Engineer, Professional Services (Application Security)",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8330512?gh_jid=8330512",
+      "date_posted": 1793369338,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Startup Products Strategy & Operations, Insights & Analytics",
+      "location": "Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8234710",
+      "date_posted": 1793365892,
+      "flags": []
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Lead Product Data Scientist, Forecasting",
+      "location": "Boston, MA",
+      "url": "https://www.klaviyo.com/careers/jobs/8048080003?gh_jid=8048080003",
+      "date_posted": 1793360825,
+      "flags": []
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Infrastructure Engineer - Network Infrastructure",
+      "location": "New York City Office",
+      "url": "https://jobs.ashbyhq.com/plaid/a6324085-a7f8-4acd-9e36-a330a6249c4d/application",
+      "date_posted": 1793329887,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Technical Support Engineer, Zero Trust",
@@ -3158,54 +3206,6 @@
       "location": "Palo Alto, CA",
       "url": "https://www.rubrik.com/company/careers/departments/job.8274601?gh_jid=8274601",
       "date_posted": 1791825342,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Customer Engineer, Named - Portland, OR",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8268259?gh_jid=8268259",
-      "date_posted": 1791824201,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer - Network Transport",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8247320?gh_jid=8247320",
-      "date_posted": 1791822883,
-      "flags": []
-    },
-    {
-      "company": "Gusto",
-      "title": "Retirement Implementation Specialist",
-      "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8083986",
-      "date_posted": 1791817832,
-      "flags": []
-    },
-    {
-      "company": "Verkada",
-      "title": "Lead Product Manager, Users & Permissions",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5176478007",
-      "date_posted": 1791756671,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Writer, Content Marketing",
-      "location": "US Hybrid",
-      "url": "https://stripe.com/jobs/search?gh_jid=8265686",
-      "date_posted": 1791683801,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Staff Software Engineer - Engineering Systems, Continuous Integration Team",
-      "location": "US-WA-Bellevue",
-      "url": "https://jobs.ashbyhq.com/snowflake/f38ad1b0-00a6-490d-afcf-80a78c8b8aed/application",
-      "date_posted": 1791679367,
       "flags": []
     }
   ]
