@@ -3,9 +3,163 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-10-30T17:01:13.251Z",
+  "generated_at": "2026-10-31T02:21:53.394Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Samsara",
+      "title": "Director, GTM AI Engineering",
+      "location": "Remote",
+      "url": "https://www.samsara.com/company/careers/roles/8261007?gh_jid=8261007",
+      "date_posted": 1793407047,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Staff Program Manager, Human & LLM Data Annotation Operations",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8319764",
+      "date_posted": 1793400794,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Product Data Scientist, Marketplace Machine Learning",
+      "location": "Mountain View, CA, USA; San Francisco, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8328202",
+      "date_posted": 1793399368,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Manager, Tax Information Reporting and Withholding Advisory",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8338076?gh_jid=8338076",
+      "date_posted": 1793398191,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Strategic Sales Engineer, Desert/Rockies",
+      "location": "Colorado or Utah",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8335801?gh_jid=8335801",
+      "date_posted": 1793395474,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Systems Engineer, SDKs, Terraform, & Code Generation",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8338018?gh_jid=8338018",
+      "date_posted": 1793394828,
+      "flags": []
+    },
+    {
+      "company": "Natera",
+      "title": "Senior Manager, Software Engineering - Case Management Platform",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6239908004",
+      "date_posted": 1793394236,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Staff Product Manager, Metering and Attribution",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8337954/?gh_jid=8337954",
+      "date_posted": 1793394023,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Senior Brand Designer",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8337877",
+      "date_posted": 1793391503,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Motion Designer, Design Innovation",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8302281",
+      "date_posted": 1793390305,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Manager, Software Engineering",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8311088",
+      "date_posted": 1793390266,
+      "flags": []
+    },
+    {
+      "company": "Brex",
+      "title": "Partner Operations Program Manager, Associate",
+      "location": "Salt Lake City, Utah",
+      "url": "https://www.brex.com/careers/8925893002?gh_jid=8925893002",
+      "date_posted": 1793388168,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Security Architect, Applied Field Engineering",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/07a0beb2-43ee-43bf-b178-9fed843affee/application",
+      "date_posted": 1793386590,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Security Architect - U.S. Public Sector",
+      "location": "Washington, DC",
+      "url": "https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602",
+      "date_posted": 1793386368,
+      "flags": [
+        "clearance"
+      ]
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Lead IT Program Manager",
+      "location": "Boston, MA",
+      "url": "https://www.klaviyo.com/careers/jobs/8040490003?gh_jid=8040490003",
+      "date_posted": 1793386135,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Senior Software Engineer, Map Platform",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8324974",
+      "date_posted": 1793384413,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Staff Software Engineer, Backend (Compute Platform)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8057948003",
+      "date_posted": 1793377514,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Director, Product Management-Customer Growth & Value Realization",
+      "location": "Santa Clara, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5250710007",
+      "date_posted": 1793377118,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "[2027] Senior Software Engineer - Data Acquisition PhD Early Career",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8315883?gh_jid=8315883",
+      "date_posted": 1793376257,
+      "flags": []
+    },
     {
       "company": "Datadog",
       "title": "Senior Product Manager, Chat, Video, and Collaboration Integrations",
@@ -340,6 +494,14 @@
       "location": "San Francisco, CA",
       "url": "https://jobs.ashbyhq.com/liveramp-inc/823cb7e2-1155-42a4-b7e7-ab03b4f28344/application",
       "date_posted": 1793218909,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Technical Account Manager, Crypto",
+      "location": "New York, San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8329116",
+      "date_posted": 1793218778,
       "flags": []
     },
     {
@@ -3046,166 +3208,6 @@
       "location": "Mountain View, CA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8212440",
       "date_posted": 1791897632,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior Sales Engineer, Majors - Colorado",
-      "location": "Remote - Colorado",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5254625007",
-      "date_posted": 1791857385,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Principal Software Engineer, Agent Infrastructure",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8259270?gh_jid=8259270",
-      "date_posted": 1791855419,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Staff Security Software Engineer - Agentic Security Engineering",
-      "location": "Remote - California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8612865002",
-      "date_posted": 1791852413,
-      "flags": []
-    },
-    {
-      "company": "Plaid",
-      "title": "Senior Security Analyst, Security Risk Management",
-      "location": "Seattle Office",
-      "url": "https://jobs.ashbyhq.com/plaid/4c4af954-2c70-4a3c-acc2-97c58211f920/application",
-      "date_posted": 1791846476,
-      "flags": []
-    },
-    {
-      "company": "Nuro",
-      "title": "Security Engineer, Infrastructure",
-      "location": "Mountain View, California (HQ)",
-      "url": "https://nuro.ai/careersitem?gh_jid=7702403",
-      "date_posted": 1791845569,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Client Account Manager, Luxury",
-      "location": "New York, NY",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8233213",
-      "date_posted": 1791845224,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "AI Solutions Engineer, People & Culture",
-      "location": "Bellevue, Washington, USA; Santa Clara, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5208827007",
-      "date_posted": 1791844475,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Technical Program Manager",
-      "location": "US-NY-New York City-Remote",
-      "url": "https://jobs.ashbyhq.com/snowflake/34f83a57-280d-4ee6-9f99-bcc06d8ab4ea/application",
-      "date_posted": 1791844263,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Perception, Model Lifecycle",
-      "location": "Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8248411",
-      "date_posted": 1791842600,
-      "flags": []
-    },
-    {
-      "company": "Nuro",
-      "title": "Senior/Staff Software Engineer, Applied Controls",
-      "location": "Mountain View, California (HQ)",
-      "url": "https://nuro.ai/careersitem?gh_jid=8263453",
-      "date_posted": 1791841689,
-      "flags": []
-    },
-    {
-      "company": "Samsara",
-      "title": "Staff Product Designer",
-      "location": "Remote",
-      "url": "https://www.samsara.com/company/careers/roles/8275248?gh_jid=8275248",
-      "date_posted": 1791841003,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Staff Android Engineer, Android Platform",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8275143",
-      "date_posted": 1791840861,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Customer Engineer, Majors - TOLA",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8268965?gh_jid=8268965",
-      "date_posted": 1791839031,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Principal Machine Learning Platform Engineer, Foundation AI",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8233722?gh_jid=8233722",
-      "date_posted": 1791838651,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Senior Software Engineer, Payments Platform",
-      "location": "United States",
-      "url": "https://careers.airbnb.com/positions/8274802?gh_jid=8274802",
-      "date_posted": 1791837154,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Partner Development Manager, SAP AMER",
-      "location": "US-USA-Remote",
-      "url": "https://jobs.ashbyhq.com/snowflake/a9a18bcd-638b-41f1-bd6c-be1c3be15aca/application",
-      "date_posted": 1791832915,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Delivery Solutions Architect - Digital Native Business",
-      "location": "Northeast - United States; Southeast - United States; West Coast",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8736471002",
-      "date_posted": 1791831009,
-      "flags": []
-    },
-    {
-      "company": "Mongodb",
-      "title": "Senior Software Engineer (SRE), Infrastructure Security",
-      "location": "Austin; New York City",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8274765",
-      "date_posted": 1791829932,
-      "flags": []
-    },
-    {
-      "company": "Roku",
-      "title": "Creative Director, Brand Storytelling",
-      "location": "Santa Monica, California",
-      "url": "https://www.weareroku.com/jobs/8265661?gh_jid=8265661",
-      "date_posted": 1791829820,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Senior AI Engineer, Agentic Systems",
-      "location": "Palo Alto, CA",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8274601?gh_jid=8274601",
-      "date_posted": 1791825342,
       "flags": []
     }
   ]
