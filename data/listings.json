@@ -3,7 +3,7 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-01T02:13:13.290Z",
+  "generated_at": "2026-11-01T17:07:47.246Z",
   "count": 400,
   "jobs": [
     {
@@ -566,6 +566,14 @@
       "location": "San Francisco, CA",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8921735002?gh_jid=8921735002",
       "date_posted": 1793212195,
+      "flags": []
+    },
+    {
+      "company": "Liveramp-inc",
+      "title": "Sr. Full-Stack Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/liveramp-inc/7b319b5a-95b4-4574-82ea-767f42149b7d/application",
+      "date_posted": 1793209892,
       "flags": []
     },
     {
@@ -3200,14 +3208,6 @@
       "location": "Remote",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8256213",
       "date_posted": 1791900176,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Software Engineer - Distributed Systems (Continuous Profiler)",
-      "location": "New York, New York",
-      "url": "https://careers.datadoghq.com/detail/8278276/?gh_jid=8278276",
-      "date_posted": 1791899832,
       "flags": []
     }
   ]
