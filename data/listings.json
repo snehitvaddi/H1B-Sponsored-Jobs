@@ -3,9 +3,17 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-01T17:07:47.246Z",
+  "generated_at": "2026-11-02T02:30:02.274Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "ServiceNow",
+      "title": "Senior Staff Data Platform Software Engineer",
+      "location": "San Diego, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158984819",
+      "date_posted": 1793572557,
+      "flags": []
+    },
     {
       "company": "Coinbase",
       "title": "Staff Analytics Engineer",
@@ -3200,14 +3208,6 @@
       "location": "Boston, Massachusetts; Massachusetts; New Jersey; New York, New York",
       "url": "https://www.okta.com/company/careers/opportunity/8276264?gh_jid=8276264",
       "date_posted": 1791901469,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Staff Software Engineer, Developer Experience",
-      "location": "Remote",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8256213",
-      "date_posted": 1791900176,
       "flags": []
     }
   ]
