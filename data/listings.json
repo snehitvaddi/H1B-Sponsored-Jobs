@@ -3,9 +3,81 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-02T02:30:02.274Z",
+  "generated_at": "2026-11-02T20:47:37.917Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Asana",
+      "title": "Head of IT Systems Engineering",
+      "location": "San Francisco",
+      "url": "https://www.asana.com/jobs/apply/8326299?gh_jid=8326299",
+      "date_posted": 1793649492,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Customer Engineer, Named Enterprise - Montreal, QC",
+      "location": "Distributed",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8335624?gh_jid=8335624",
+      "date_posted": 1793649343,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Machine Learning Engineer, Homefeed",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8279563",
+      "date_posted": 1793647128,
+      "flags": []
+    },
+    {
+      "company": "Thumbtack",
+      "title": "Manager, Launch and Growth Operations",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/thumbtack/cd323d01-b472-4b35-9cca-806ba1c50a1d/application",
+      "date_posted": 1793646857,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Staff Software Engineer, Tech Foundations",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8334372?gh_jid=8334372",
+      "date_posted": 1793646187,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Marketing Operations Manager",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8337880",
+      "date_posted": 1793646073,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Data Scientist, FX Quantitative Research",
+      "location": "New York, NY",
+      "url": "https://stripe.com/jobs/search?gh_jid=8346831",
+      "date_posted": 1793645648,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Backend Software Engineer - University Graduate 2027",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5280545007",
+      "date_posted": 1793645249,
+      "flags": []
+    },
+    {
+      "company": "Plaid",
+      "title": "Machine Learning Engineer - Lendscore",
+      "location": "New York City Office",
+      "url": "https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4/application",
+      "date_posted": 1793597274,
+      "flags": []
+    },
     {
       "company": "ServiceNow",
       "title": "Senior Staff Data Platform Software Engineer",
@@ -3136,78 +3208,6 @@
       "location": "Boston, MA",
       "url": "https://www.klaviyo.com/careers/jobs/8011546003?gh_jid=8011546003",
       "date_posted": 1791913109,
-      "flags": []
-    },
-    {
-      "company": "Carvana",
-      "title": "Specialist, Tax",
-      "location": "Tempe, AZ",
-      "url": "https://www.carvana.com/careers/apply?gh_jid=8274717",
-      "date_posted": 1791912035,
-      "flags": []
-    },
-    {
-      "company": "Gusto",
-      "title": "Finance Intern (Summer 2027)",
-      "location": "New York, NY - Hybrid",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8257115",
-      "date_posted": 1791911365,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Program Manager, Community Support",
-      "location": "United States",
-      "url": "https://careers.airbnb.com/positions/8278753?gh_jid=8278753",
-      "date_posted": 1791909071,
-      "flags": []
-    },
-    {
-      "company": "Sunpower",
-      "title": "Solar Electrician",
-      "location": "Raleigh, NC",
-      "url": "https://sunpower.breezy.hr/p/07b02c9cdf46-solar-electrician",
-      "date_posted": 1791908578,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Software Engineer, Backend (Retail DEX)",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8243520?gh_jid=8243520",
-      "date_posted": 1791904332,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Sales Operations Planning Analyst",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8266068",
-      "date_posted": 1791904163,
-      "flags": []
-    },
-    {
-      "company": "Roku",
-      "title": "Salesforce Administrator",
-      "location": "San Jose, California",
-      "url": "https://www.weareroku.com/jobs/8274840?gh_jid=8274840",
-      "date_posted": 1791901963,
-      "flags": []
-    },
-    {
-      "company": "Samsara",
-      "title": "Enterprise Sales Engineer - US Southeast",
-      "location": "Remote",
-      "url": "https://www.samsara.com/company/careers/roles/8244432?gh_jid=8244432",
-      "date_posted": 1791901592,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Sr. Customer Success Manager",
-      "location": "Boston, Massachusetts; Massachusetts; New Jersey; New York, New York",
-      "url": "https://www.okta.com/company/careers/opportunity/8276264?gh_jid=8276264",
-      "date_posted": 1791901469,
       "flags": []
     }
   ]
