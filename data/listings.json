@@ -3,9 +3,89 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-03T03:55:23.286Z",
+  "generated_at": "2026-11-03T18:27:42.186Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Natera",
+      "title": "Associate Director / Director of Product Management, Signatera Hematologic Oncology (Heme)",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6242264004",
+      "date_posted": 1793727200,
+      "flags": []
+    },
+    {
+      "company": "Liveramp-inc",
+      "title": "Senior Collaboration Architect",
+      "location": "New York, NY",
+      "url": "https://jobs.ashbyhq.com/liveramp-inc/686d634e-b319-4270-9758-eddb4e46a87d/application",
+      "date_posted": 1793726492,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Product Manager, Risk",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8348406?gh_jid=8348406",
+      "date_posted": 1793726243,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Senior Software Engineer, Forecasting & Real-Time Optimization",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8927263002?gh_jid=8927263002",
+      "date_posted": 1793722207,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Product Manager, Toast Ticketing",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8263078",
+      "date_posted": 1793721665,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Genie Sales Director (AI/BI)",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8824175002",
+      "date_posted": 1793717651,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "IT Support Engineer",
+      "location": "San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8328323",
+      "date_posted": 1793713784,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Customer Success Manager, Mid Market - Moveworks",
+      "location": "San Diego, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159291939",
+      "date_posted": 1793678379,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Staff Software Engineer, Fullstack (Card Experiences)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040271003",
+      "date_posted": 1793673311,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Senior Staff Applied Scientist, Science Platform",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8282748",
+      "date_posted": 1793670083,
+      "flags": []
+    },
     {
       "company": "ServiceNow",
       "title": "Vice President, Corporate and Product Public Relations (Americas)",
@@ -97,6 +177,14 @@
       "flags": []
     },
     {
+      "company": "Snowflake",
+      "title": "Sales Development Representative, Observability",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/b31da4db-b3a4-4c95-96f3-f82523f9073a/application",
+      "date_posted": 1793650309,
+      "flags": []
+    },
+    {
       "company": "Asana",
       "title": "Head of IT Systems Engineering",
       "location": "San Francisco",
@@ -174,6 +262,14 @@
       "location": "Remote",
       "url": "https://jobs.ashbyhq.com/socure/098f230b-072f-45f9-a723-1ac93ba30780/application",
       "date_posted": 1793644405,
+      "flags": []
+    },
+    {
+      "company": "Qualtrics",
+      "title": "Software Engineer I - XMD",
+      "location": "Seattle, Washington",
+      "url": "https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652",
+      "date_posted": 1793643869,
       "flags": []
     },
     {
@@ -302,6 +398,14 @@
       "location": "Remote",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8311088",
       "date_posted": 1793390266,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Senior IT Systems Engineer",
+      "location": "U.S. Remote",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8337256",
+      "date_posted": 1793388236,
       "flags": []
     },
     {
@@ -704,6 +808,14 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8240487",
       "date_posted": 1793219317,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Staff Backend Engineer - Licensing & Revenue Platform",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5278642007",
+      "date_posted": 1793219172,
       "flags": []
     },
     {
@@ -1184,6 +1296,14 @@
       "location": "San Francisco, CA - Hybrid",
       "url": "https://job-boards.greenhouse.io/gusto/jobs/8304582",
       "date_posted": 1793033977,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Staff Software Development Engineer",
+      "location": "San Jose, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5270973007",
+      "date_posted": 1793033746,
       "flags": []
     },
     {
@@ -2757,6 +2877,14 @@
       "flags": []
     },
     {
+      "company": "Gusto",
+      "title": "Staff Software Engineer, HR Experience",
+      "location": "New York, NY - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8039525",
+      "date_posted": 1792100529,
+      "flags": []
+    },
+    {
       "company": "Affirm",
       "title": "Software Engineer I, Fullstack (Search)",
       "location": "Remote",
@@ -2810,6 +2938,14 @@
       "location": "Chicago, Illinois",
       "url": "https://job-boards.greenhouse.io/flexport/jobs/8282867",
       "date_posted": 1792095632,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Senior Product Manager",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8247185",
+      "date_posted": 1792092051,
       "flags": []
     },
     {
@@ -3074,142 +3210,6 @@
       "location": "Remote",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8258811",
       "date_posted": 1791988194,
-      "flags": []
-    },
-    {
-      "company": "Point72",
-      "title": "2027 Summer Internship - Software Engineer",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/point72/jobs/8885733002",
-      "date_posted": 1791987641,
-      "flags": []
-    },
-    {
-      "company": "Point72",
-      "title": "2027 Summer Internship - Fundamental Researcher, Canvas",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/point72/jobs/8885693002",
-      "date_posted": 1791987543,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Systems Engineer, Browser Isolation",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8278262?gh_jid=8278262",
-      "date_posted": 1791976273,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Director, Product Management, Microsoft Product Partnership",
-      "location": "Kirkland, Washington",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155472964",
-      "date_posted": 1791973936,
-      "flags": []
-    },
-    {
-      "company": "Smartsheet",
-      "title": "Sr. Data Scientist II - Product Analytics (Remote Eligible)",
-      "location": "-REMOTE, USA",
-      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8280345",
-      "date_posted": 1791949750,
-      "flags": []
-    },
-    {
-      "company": "Gusto",
-      "title": "Senior Commercial Lines Account Manager",
-      "location": "Denver, CO - Hybrid",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8257865",
-      "date_posted": 1791947119,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Staff Software Engineer, Care Experience",
-      "location": "Remote",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8278877",
-      "date_posted": 1791942928,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior Sales Engineer, Majors - West",
-      "location": "Remote - California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5262887007",
-      "date_posted": 1791941773,
-      "flags": []
-    },
-    {
-      "company": "Asana",
-      "title": "Senior Manager, Payroll",
-      "location": "San Francisco",
-      "url": "https://www.asana.com/jobs/apply/8275152?gh_jid=8275152",
-      "date_posted": 1791941633,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Software Engineer - Ingestion Execution Platform",
-      "location": "US-WA-Bellevue",
-      "url": "https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68/application",
-      "date_posted": 1791937758,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Senior Software Engineer, Agentic Test Systems",
-      "location": "Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8279903",
-      "date_posted": 1791937006,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Senior Staff Software Engineer, Backend (Cards)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8015279003",
-      "date_posted": 1791936969,
-      "flags": []
-    },
-    {
-      "company": "Natera",
-      "title": "Finance Functional Lead, Oracle Fusion Cloud",
-      "location": "US Remote",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6214624004",
-      "date_posted": 1791932504,
-      "flags": []
-    },
-    {
-      "company": "Samsara",
-      "title": "Senior AI Data & Analytics Engineer II",
-      "location": "Remote - Dallas",
-      "url": "https://www.samsara.com/company/careers/roles/8280137?gh_jid=8280137",
-      "date_posted": 1791932112,
-      "flags": []
-    },
-    {
-      "company": "Zuora",
-      "title": "Sr Frontend Engineer",
-      "location": "Foster City, California",
-      "url": "https://boards.greenhouse.io/zuora/jobs/8243464?gh_jid=8243464",
-      "date_posted": 1791931637,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Systems Engineer, DNS",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8275392?gh_jid=8275392",
-      "date_posted": 1791929340,
-      "flags": []
-    },
-    {
-      "company": "Anaplan",
-      "title": "Senior Software Development Engineer in Test - AI",
-      "location": "North Carolina-Remote",
-      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8845737002",
-      "date_posted": 1791929275,
       "flags": []
     }
   ]
