@@ -3,9 +3,99 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-04T02:59:55.421Z",
+  "generated_at": "2026-11-04T18:39:03.055Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "AbbVie",
+      "title": "AbbVie is looking for a AI Engineer in North Chicago, IL, USA",
+      "location": "United States",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016565806-ai-engineer",
+      "date_posted": 1793815385,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "Growth Marketing Manager, Lifecycle",
+      "location": "Seattle, WA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8930438002?gh_jid=8930438002",
+      "date_posted": 1793815141,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Software Engineer, Ads Agent Infra",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8328868",
+      "date_posted": 1793812319,
+      "flags": []
+    },
+    {
+      "company": "Gusto",
+      "title": "People Tech Business Systems Analyst",
+      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8257482",
+      "date_posted": 1793808808,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Senior Sales Engineer - Federal (NSA, CIA, FBI)",
+      "location": "Remote - Maryland, USA; Remote - Virginia",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5284066007",
+      "date_posted": 1793808264,
+      "flags": [
+        "clearance"
+      ]
+    },
+    {
+      "company": "ServiceNow",
+      "title": "AI Solutions Delivery Associate",
+      "location": "West Palm Beach, Florida",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159668209",
+      "date_posted": 1793806988,
+      "flags": []
+    },
+    {
+      "company": "Liveramp-inc",
+      "title": "Dedicated Support Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/liveramp-inc/74bbbd96-126e-43d3-b681-463ca2ae4580/application",
+      "date_posted": 1793804685,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Product Manager, Signals & Data Products",
+      "location": "Hybrid; In-Office",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8349425?gh_jid=8349425",
+      "date_posted": 1793785558,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Climate Program Manager",
+      "location": "SF",
+      "url": "https://stripe.com/jobs/search?gh_jid=8319831",
+      "date_posted": 1793775593,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Staff Software Engineer - Billing Platform",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/4371e808-51f1-4c7a-a1ca-1819926a5c74/application",
+      "date_posted": 1793774740,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Social Support Specialist I",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618",
+      "date_posted": 1793753529,
+      "flags": []
+    },
     {
       "company": "Airbnb",
       "title": "Senior Machine Learning Engineer, Relevance",
@@ -100,6 +190,14 @@
       "location": "Moody, AL",
       "url": "https://www.carvana.com/careers/apply?gh_jid=8350858",
       "date_posted": 1793738088,
+      "flags": []
+    },
+    {
+      "company": "Marlabs",
+      "title": "Implementation Project Manager - Payments & PCI",
+      "location": "United States",
+      "url": "https://marlabs.breezy.hr/p/bde2e618a2d2-implementation-project-manager-payments-pci",
+      "date_posted": 1793736992,
       "flags": []
     },
     {
@@ -3114,102 +3212,6 @@
       "location": "San Mateo, CA",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5265149007",
       "date_posted": 1792087757,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Software Engineer, Applied AI",
-      "location": "San Francisco, California",
-      "url": "https://www.okta.com/company/careers/opportunity/8281941?gh_jid=8281941",
-      "date_posted": 1792086847,
-      "flags": []
-    },
-    {
-      "company": "Plaid",
-      "title": "Technical Account Manager - Enterprise",
-      "location": "San Francisco HQ",
-      "url": "https://jobs.ashbyhq.com/plaid/c13f8cf4-4ac7-404b-a8d9-7787dc82a89a/application",
-      "date_posted": 1792086652,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Mid-Market Retail Solutions Engineer",
-      "location": "Remote",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8257129",
-      "date_posted": 1792086019,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Staff Technical Program Manager, Infrastructure Security",
-      "location": "United States",
-      "url": "https://careers.airbnb.com/positions/8286207?gh_jid=8286207",
-      "date_posted": 1792085261,
-      "flags": []
-    },
-    {
-      "company": "Roku",
-      "title": "Senior AI DevOps Engineer",
-      "location": "San Jose, California",
-      "url": "https://www.weareroku.com/jobs/8286654?gh_jid=8286654",
-      "date_posted": 1792084459,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Staff Software Engineer, Alloy Integrations",
-      "location": "Seattle",
-      "url": "https://stripe.com/jobs/search?gh_jid=8257935",
-      "date_posted": 1792082930,
-      "flags": []
-    },
-    {
-      "company": "Quora",
-      "title": "Machine Learning Engineer, New Grad - Quora (Remote)",
-      "location": "Remote - Multiple Locations",
-      "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3",
-      "date_posted": 1792081133,
-      "flags": []
-    },
-    {
-      "company": "Gusto",
-      "title": "Staff Product Designer",
-      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8281363",
-      "date_posted": 1792080967,
-      "flags": []
-    },
-    {
-      "company": "Anaplan",
-      "title": "Sr. Solution Architect",
-      "location": "Texas-Remote",
-      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8890869002",
-      "date_posted": 1792080023,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Technical Program Manager, Extensibility Platform",
-      "location": "US Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=8282859",
-      "date_posted": 1792070574,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Principal Software Engineer, Anti-Abuse",
-      "location": "US-WA-Bellevue",
-      "url": "https://jobs.ashbyhq.com/snowflake/797cadbe-fad8-4f1d-a656-d14ca76d29b9/application",
-      "date_posted": 1792033128,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Manager, Product Design - Security",
-      "location": "New York, New York",
-      "url": "https://careers.datadoghq.com/detail/8281102/?gh_jid=8281102",
-      "date_posted": 1792032730,
       "flags": []
     }
   ]
