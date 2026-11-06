@@ -3,15 +3,63 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-06T03:25:53.795Z",
+  "generated_at": "2026-11-06T17:58:50.837Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "AbbVie",
+      "title": "AbbVie is looking for a Equipment Technician III in Waco, TX",
+      "location": "United States",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014817746-equipment-technician-iii",
+      "date_posted": 1793976054,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+      "location": "San Francisco, California",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
+      "date_posted": 1793974883,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Principal HR - APJC Benefits Leader and Program Manager",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8354632?gh_jid=8354632",
+      "date_posted": 1793957276,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Principal Software Engineer - Observability",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/07b49797-c9c4-4a9e-b7b6-c88cdcd7a464/application",
+      "date_posted": 1793945217,
+      "flags": []
+    },
     {
       "company": "Coursera",
       "title": "Senior Revenue Operations Manager",
       "location": "United States",
       "url": "https://job-boards.greenhouse.io/coursera/jobs/6251192004",
       "date_posted": 1793928126,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Product Manager II",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842",
+      "date_posted": 1793927209,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Ads Measurement",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8315904?gh_jid=8315904",
+      "date_posted": 1793926070,
       "flags": []
     },
     {
@@ -3166,54 +3214,6 @@
       "location": "San Carlos, CA",
       "url": "https://job-boards.greenhouse.io/natera/jobs/6226991004",
       "date_posted": 1792435841,
-      "flags": []
-    },
-    {
-      "company": "Anaplan",
-      "title": "Sr. Solutions Implementation Manager - Finance",
-      "location": "Miami",
-      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8744351002",
-      "date_posted": 1792435228,
-      "flags": []
-    },
-    {
-      "company": "Brex",
-      "title": "Senior Finance Manager, Marketing",
-      "location": "New York, New York",
-      "url": "https://www.brex.com/careers/8900330002?gh_jid=8900330002",
-      "date_posted": 1792430904,
-      "flags": []
-    },
-    {
-      "company": "Gusto",
-      "title": "FP&A AI Architect",
-      "location": "San Francisco, CA - Hybrid",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8282088",
-      "date_posted": 1792429200,
-      "flags": []
-    },
-    {
-      "company": "Marlabs",
-      "title": "Technical Product Manager(AI & DevOps)",
-      "location": "Indianapolis, IN",
-      "url": "https://marlabs.breezy.hr/p/9a49fe934d3b-technical-product-manager-ai-devops",
-      "date_posted": 1792428420,
-      "flags": []
-    },
-    {
-      "company": "Asana",
-      "title": "Manager, Customer Success",
-      "location": "Chicago",
-      "url": "https://www.asana.com/jobs/apply/8279133?gh_jid=8279133",
-      "date_posted": 1792427719,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
-      "location": "Denver, Colorado",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8900134002",
-      "date_posted": 1792426772,
       "flags": []
     }
   ]
