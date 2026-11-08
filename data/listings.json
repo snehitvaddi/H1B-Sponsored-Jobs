@@ -3,9 +3,17 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-07T16:50:29.971Z",
+  "generated_at": "2026-11-08T02:28:35.674Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Snowflake",
+      "title": "Senior Product Manager: Extensible Compute",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/ba140960-361c-4357-8a8e-e4825f0d200b/application",
+      "date_posted": 1794080473,
+      "flags": []
+    },
     {
       "company": "ServiceNow",
       "title": "Forward Deployed Solution Engineer - Applied AI FDE",
@@ -20,6 +28,14 @@
       "location": "North Chicago, IL",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016715126",
       "date_posted": 1794014714,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Product Designer - Measurement, Data, & AI",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8249279",
+      "date_posted": 1794010268,
       "flags": []
     },
     {
@@ -140,6 +156,14 @@
       "location": "Seattle, WA",
       "url": "https://stripe.com/jobs/search?gh_jid=8357739",
       "date_posted": 1793991904,
+      "flags": []
+    },
+    {
+      "company": "Gusto",
+      "title": "Partner Manager, Franchise",
+      "location": "Denver, CO - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8347750",
+      "date_posted": 1793985051,
       "flags": []
     },
     {
@@ -3190,30 +3214,6 @@
       "location": "San Francisco, Seattle",
       "url": "https://stripe.com/jobs/search?gh_jid=8287912",
       "date_posted": 1792512452,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Customer Engineer, Majors - NE",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8300941?gh_jid=8300941",
-      "date_posted": 1792507948,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Senior Manager, GTM Analytics & Strategy",
-      "location": "Remote",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8279161?gh_jid=8279161",
-      "date_posted": 1792502526,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Senior Software Engineer, Streaming Infrastructure",
-      "location": "United States",
-      "url": "https://careers.airbnb.com/positions/8242235?gh_jid=8242235",
-      "date_posted": 1792471890,
       "flags": []
     }
   ]
