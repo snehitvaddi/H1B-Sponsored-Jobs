@@ -3,7 +3,7 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-08T02:28:35.674Z",
+  "generated_at": "2026-11-08T17:05:02.276Z",
   "count": 400,
   "jobs": [
     {
@@ -252,6 +252,14 @@
       "location": "Hybrid",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016",
       "date_posted": 1793923313,
+      "flags": []
+    },
+    {
+      "company": "Sunpower",
+      "title": "Industrial Engineer - Solar Operations & Data Analytics",
+      "location": "Orem, UT",
+      "url": "https://sunpower.breezy.hr/p/328df4bae729-industrial-engineer-solar-operations-data-analytics",
+      "date_posted": 1793923200,
       "flags": []
     },
     {
@@ -2409,6 +2417,14 @@
       "flags": []
     },
     {
+      "company": "Brex",
+      "title": "Partnerships Manager, Accounting Channel",
+      "location": "San Francisco, California",
+      "url": "https://www.brex.com/careers/8912610002?gh_jid=8912610002",
+      "date_posted": 1792786037,
+      "flags": []
+    },
+    {
       "company": "Toast",
       "title": "Senior Software Engineer, Consumer",
       "location": "Remote",
@@ -3198,22 +3214,6 @@
       "location": "Orlando, Florida",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156622794",
       "date_posted": 1792517414,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Principal Product Designer, Onboarding",
-      "location": "Remote",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8281285",
-      "date_posted": 1792513514,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Staff Software Engineer, Radar",
-      "location": "San Francisco, Seattle",
-      "url": "https://stripe.com/jobs/search?gh_jid=8287912",
-      "date_posted": 1792512452,
       "flags": []
     }
   ]

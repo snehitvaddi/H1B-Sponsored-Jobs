@@ -47,17 +47,18 @@ they ever reach this list.
 | **Coursera** | Senior Revenue Accountant | United States | 🇺🇸 | 1d | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6236206004) |
 | **Stripe** | Controllership Intern | Seattle, WA | 🇺🇸 | 1d | [Apply](https://stripe.com/jobs/search?gh_jid=8357739) |
 | **Gusto** | Partner Manager, Franchise | Denver, CO - Hybrid | 🇺🇸 | 1d | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8347750) |
-| **Toast** | Senior Software Engineer, Business Map | Remote | 🇺🇸 | 1d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8301214) |
-| **AbbVie** | AbbVie is looking for a Equipment Technician III in Waco, TX | United States | 🇺🇸 | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014817746-equipment-technician-iii) |
-| **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer, Multiverse | San Francisco, California | 🇺🇸 | 1d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8350832) |
-| **Cloudflare** | Principal HR - APJC Benefits Leader and Program Manager | Hybrid | 🇺🇸 | 1d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8354632?gh_jid=8354632) |
-| **Snowflake** | Principal Software Engineer - Observability | US-CA-Menlo Park | 🇺🇸 | 1d | [Apply](https://jobs.ashbyhq.com/snowflake/07b49797-c9c4-4a9e-b7b6-c88cdcd7a464/application) |
+| **Toast** | Senior Software Engineer, Business Map | Remote | 🇺🇸 | 2d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8301214) |
+| **AbbVie** | AbbVie is looking for a Equipment Technician III in Waco, TX | United States | 🇺🇸 | 2d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014817746-equipment-technician-iii) |
+| **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer, Multiverse | San Francisco, California | 🇺🇸 | 2d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8350832) |
+| **Cloudflare** | Principal HR - APJC Benefits Leader and Program Manager | Hybrid | 🇺🇸 | 2d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8354632?gh_jid=8354632) |
+| **Snowflake** | Principal Software Engineer - Observability | US-CA-Menlo Park | 🇺🇸 | 2d | [Apply](https://jobs.ashbyhq.com/snowflake/07b49797-c9c4-4a9e-b7b6-c88cdcd7a464/application) |
 | **Coursera** | Senior Revenue Operations Manager | United States | 🇺🇸 | 2d | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6251192004) |
 | **Coinbase** | Product Manager II | Remote | 🇺🇸 | 2d | [Apply](https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842) |
 | **Roblox** | Senior Software Engineer, Ads Measurement | San Mateo, CA | 🇺🇸 | 2d | [Apply](https://careers.roblox.com/jobs/8315904?gh_jid=8315904) |
 | **Stripe** | AMER Data Analyst - Sales Strategy and Operations | Chicago, US Remote, SF, NYC, Seattle | 🇺🇸 | 2d | [Apply](https://stripe.com/jobs/search?gh_jid=8354566) |
 | **Smartsheet** | Director, Payroll | Bellevue, WA | 🇺🇸 | 2d | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/8357651) |
 | **Cloudflare** | Senior Software Engineer - Kubernetes platform | Hybrid | 🇺🇸 | 2d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016) |
+| **Sunpower** | Industrial Engineer - Solar Operations & Data Analytics | Orem, UT | 🇺🇸 | 2d | [Apply](https://sunpower.breezy.hr/p/328df4bae729-industrial-engineer-solar-operations-data-analytics) |
 | **Natera** | Sr Product Manager | US Remote | 🇺🇸 | 2d | [Apply](https://job-boards.greenhouse.io/natera/jobs/6250660004) |
 | **Coinbase** | Payments Infrastructure Product Manager | Remote | 🇺🇸 | 2d | [Apply](https://www.coinbase.com/careers/positions/8356838?gh_jid=8356838) |
 | **Nuro** | Manager, Technical Program Manager, AI Platform | Mountain View, California (HQ) | 🇺🇸 | 2d | [Apply](https://nuro.ai/careersitem?gh_jid=8357144) |
@@ -77,16 +78,16 @@ they ever reach this list.
 | **Waymo** | Staff Machine Learning Engineer, AI Infrastructure | Mountain View, CA, USA; San Francisco, CA, USA; New York, NY | 🇺🇸 | 2d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8354804) |
 | **Datadog** | Delivery Manager, Web | New York, New York | 🇺🇸 | 2d | [Apply](https://careers.datadoghq.com/detail/8335262/?gh_jid=8335262) |
 | **Databricks** | Sr. Solutions Engineer - AI Natives Business | West Coast | 🇺🇸 | 2d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8893772002) |
-| **Gusto** | Solution Architect | Atlanta, GA - Hybrid; Denver, CO - Hybrid | 🇺🇸 | 2d | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8346979) |
-| **ServiceNow** | Sr. CRM Solution Sales Executive - CPQ - SLED | Chicago, Illinois | 🇺🇸 | 2d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000159928559) |
-| **Plaid** | Sales Engineer - Banking and Wealth | New York City Office | 🇺🇸 | 2d | [Apply](https://jobs.ashbyhq.com/plaid/62ae216d-86c8-42ea-8590-0c0b7e68c464/application) |
-| **Affirm** | Staff Software Engineer, Fullstack (Account Management) | Remote | 🇺🇸 | 2d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8162556003) |
-| **Samsara** | Account Manager, Mid-Market | Remote | 🇺🇸 | 2d | [Apply](https://www.samsara.com/company/careers/roles/8282629?gh_jid=8282629) |
-| **Okta** | Partner Services Senior Program Manager | San Francisco, California | 🇺🇸 | 2d | [Apply](https://www.okta.com/company/careers/opportunity/8347758?gh_jid=8347758) |
-| **Reddit** | Senior Data Scientist | San Francisco, CA | 🇺🇸 | 2d | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8355688) |
-| **Coursera** | Senior Revenue Operations Manager | Denver, Colorado | 🇺🇸 | 2d | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6250226004) |
-| **Mongodb** | Regional Director, Commercial Growth | Austin | 🇺🇸 | 2d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8348261) |
-| **Snowflake** | Senior Solutions Engineer, Observe | US-NY-New York | 🇺🇸 | 2d | [Apply](https://jobs.ashbyhq.com/snowflake/466cb97a-809c-46bc-a15c-a8464915ab66/application) |
+| **Gusto** | Solution Architect | Atlanta, GA - Hybrid; Denver, CO - Hybrid | 🇺🇸 | 3d | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8346979) |
+| **ServiceNow** | Sr. CRM Solution Sales Executive - CPQ - SLED | Chicago, Illinois | 🇺🇸 | 3d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000159928559) |
+| **Plaid** | Sales Engineer - Banking and Wealth | New York City Office | 🇺🇸 | 3d | [Apply](https://jobs.ashbyhq.com/plaid/62ae216d-86c8-42ea-8590-0c0b7e68c464/application) |
+| **Affirm** | Staff Software Engineer, Fullstack (Account Management) | Remote | 🇺🇸 | 3d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8162556003) |
+| **Samsara** | Account Manager, Mid-Market | Remote | 🇺🇸 | 3d | [Apply](https://www.samsara.com/company/careers/roles/8282629?gh_jid=8282629) |
+| **Okta** | Partner Services Senior Program Manager | San Francisco, California | 🇺🇸 | 3d | [Apply](https://www.okta.com/company/careers/opportunity/8347758?gh_jid=8347758) |
+| **Reddit** | Senior Data Scientist | San Francisco, CA | 🇺🇸 | 3d | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8355688) |
+| **Coursera** | Senior Revenue Operations Manager | Denver, Colorado | 🇺🇸 | 3d | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6250226004) |
+| **Mongodb** | Regional Director, Commercial Growth | Austin | 🇺🇸 | 3d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8348261) |
+| **Snowflake** | Senior Solutions Engineer, Observe | US-NY-New York | 🇺🇸 | 3d | [Apply](https://jobs.ashbyhq.com/snowflake/466cb97a-809c-46bc-a15c-a8464915ab66/application) |
 | **ServiceNow** | Senior Data & Analytics Solution Sales Executive - Healthcare West | San Diego, California | 🇺🇸 | 3d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000159773060) |
 | **Plaid** | Staff Product Manager - Agent Trust | New York City Office | 🇺🇸 | 3d | [Apply](https://jobs.ashbyhq.com/plaid/b5060d3e-7714-4f71-8141-b3956ef3af57/application) |
 | **Stripe** | Senior Staff Engineer, Big Data Infrastructure | San Francsico | 🇺🇸 | 3d | [Apply](https://stripe.com/jobs/search?gh_jid=8317306) |
@@ -111,13 +112,13 @@ they ever reach this list.
 | **AbbVie** | AbbVie is looking for a AI Engineer in North Chicago, IL, USA | United States | 🇺🇸 | 3d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016565806-ai-engineer) |
 | **Lyft** | Growth Marketing Manager, Lifecycle | Seattle, WA | 🇺🇸 | 3d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8930438002?gh_jid=8930438002) |
 | **Pinterest** | Staff Software Engineer, Ads Agent Infra | San Francisco, CA, US; Remote | 🇺🇸 | 3d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8328868) |
-| **Gusto** | People Tech Business Systems Analyst | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🇺🇸 | 3d | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8257482) |
-| **Zscaler** | Senior Sales Engineer - Federal (NSA, CIA, FBI) | Remote - Maryland, USA; Remote - Virginia | 🇺🇸 🔐 | 3d | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5284066007) |
-| **ServiceNow** | AI Solutions Delivery Associate | West Palm Beach, Florida | 🇺🇸 | 3d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000159668209) |
-| **Liveramp-inc** | Dedicated Support Engineer | San Francisco, CA | 🇺🇸 | 3d | [Apply](https://jobs.ashbyhq.com/liveramp-inc/74bbbd96-126e-43d3-b681-463ca2ae4580/application) |
-| **Cloudflare** | Senior Product Manager, Signals & Data Products | Hybrid; In-Office | 🇺🇸 | 3d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8349425?gh_jid=8349425) |
-| **Stripe** | Climate Program Manager | SF | 🇺🇸 | 3d | [Apply](https://stripe.com/jobs/search?gh_jid=8319831) |
-| **Snowflake** | Staff Software Engineer - Billing Platform | US-CA-Menlo Park | 🇺🇸 | 3d | [Apply](https://jobs.ashbyhq.com/snowflake/4371e808-51f1-4c7a-a1ca-1819926a5c74/application) |
+| **Gusto** | People Tech Business Systems Analyst | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🇺🇸 | 4d | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8257482) |
+| **Zscaler** | Senior Sales Engineer - Federal (NSA, CIA, FBI) | Remote - Maryland, USA; Remote - Virginia | 🇺🇸 🔐 | 4d | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5284066007) |
+| **ServiceNow** | AI Solutions Delivery Associate | West Palm Beach, Florida | 🇺🇸 | 4d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000159668209) |
+| **Liveramp-inc** | Dedicated Support Engineer | San Francisco, CA | 🇺🇸 | 4d | [Apply](https://jobs.ashbyhq.com/liveramp-inc/74bbbd96-126e-43d3-b681-463ca2ae4580/application) |
+| **Cloudflare** | Senior Product Manager, Signals & Data Products | Hybrid; In-Office | 🇺🇸 | 4d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8349425?gh_jid=8349425) |
+| **Stripe** | Climate Program Manager | SF | 🇺🇸 | 4d | [Apply](https://stripe.com/jobs/search?gh_jid=8319831) |
+| **Snowflake** | Staff Software Engineer - Billing Platform | US-CA-Menlo Park | 🇺🇸 | 4d | [Apply](https://jobs.ashbyhq.com/snowflake/4371e808-51f1-4c7a-a1ca-1819926a5c74/application) |
 | **Coinbase** | Social Support Specialist I | Remote | 🇺🇸 | 4d | [Apply](https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618) |
 | **Airbnb** | Senior Machine Learning Engineer, Relevance | United States | 🇺🇸 | 4d | [Apply](https://careers.airbnb.com/positions/8351417?gh_jid=8351417) |
 | **Databricks** | Senior Software Engineer, IT Digital Employee Experience | San Francisco, California | 🇺🇸 | 4d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8829053002) |
@@ -140,13 +141,13 @@ they ever reach this list.
 | **Natera** | Associate Director / Director of Product Management, Signatera Hematologic Oncology (Heme) | US Remote | 🇺🇸 | 4d | [Apply](https://job-boards.greenhouse.io/natera/jobs/6242264004) |
 | **Liveramp-inc** | Senior Collaboration Architect | New York, NY | 🇺🇸 | 4d | [Apply](https://jobs.ashbyhq.com/liveramp-inc/686d634e-b319-4270-9758-eddb4e46a87d/application) |
 | **Coinbase** | Senior Product Manager, Risk | Remote | 🇺🇸 | 4d | [Apply](https://www.coinbase.com/careers/positions/8348406?gh_jid=8348406) |
-| **Lyft** | Senior Software Engineer, Forecasting & Real-Time Optimization | San Francisco, CA | 🇺🇸 | 4d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8927263002?gh_jid=8927263002) |
-| **Toast** | Product Manager, Toast Ticketing | Remote | 🇺🇸 | 4d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8263078) |
-| **Databricks** | Genie Sales Director (AI/BI) | United States | 🇺🇸 | 4d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8824175002) |
-| **Socure** | Executive Creative Director | Hub - San Francisco | 🇺🇸 | 4d | [Apply](https://jobs.ashbyhq.com/socure/44896ce9-e971-420e-9a68-17293e0da0af/application) |
-| **Stripe** | IT Support Engineer | San Francisco | 🇺🇸 | 4d | [Apply](https://stripe.com/jobs/search?gh_jid=8328323) |
-| **ServiceNow** | Customer Success Manager, Mid Market - Moveworks | San Diego, California | 🇺🇸 | 4d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000159291939) |
-| **Affirm** | Staff Software Engineer, Fullstack (Card Experiences) | Remote | 🇺🇸 | 4d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8040271003) |
+| **Lyft** | Senior Software Engineer, Forecasting & Real-Time Optimization | San Francisco, CA | 🇺🇸 | 5d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8927263002?gh_jid=8927263002) |
+| **Toast** | Product Manager, Toast Ticketing | Remote | 🇺🇸 | 5d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8263078) |
+| **Databricks** | Genie Sales Director (AI/BI) | United States | 🇺🇸 | 5d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8824175002) |
+| **Socure** | Executive Creative Director | Hub - San Francisco | 🇺🇸 | 5d | [Apply](https://jobs.ashbyhq.com/socure/44896ce9-e971-420e-9a68-17293e0da0af/application) |
+| **Stripe** | IT Support Engineer | San Francisco | 🇺🇸 | 5d | [Apply](https://stripe.com/jobs/search?gh_jid=8328323) |
+| **ServiceNow** | Customer Success Manager, Mid Market - Moveworks | San Diego, California | 🇺🇸 | 5d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000159291939) |
+| **Affirm** | Staff Software Engineer, Fullstack (Card Experiences) | Remote | 🇺🇸 | 5d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8040271003) |
 | **Reddit** | Senior Staff Applied Scientist, Science Platform | Remote | 🇺🇸 | 5d | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8282748) |
 | **ServiceNow** | Vice President, Corporate and Product Public Relations (Americas) | Santa Clara, CALIFORNIA | 🇺🇸 | 5d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000159265259) |
 | **Databricks** | Sr. Staff Software Engineer, Agentic Applications | Mountain View, California | 🇺🇸 | 5d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8927749002) |
@@ -171,10 +172,10 @@ they ever reach this list.
 | **Verkada** | Backend Software Engineer - University Graduate 2027 | San Mateo, CA | 🇺🇸 | 5d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007) |
 | **Socure** | Senior Technical Program Manager, Partner Ecosystem | Remote | 🇺🇸 | 5d | [Apply](https://jobs.ashbyhq.com/socure/098f230b-072f-45f9-a723-1ac93ba30780/application) |
 | **Qualtrics** | Software Engineer I - XMD | Seattle, Washington | 🇺🇸 | 5d | [Apply](https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652) |
-| **Mongodb** | Manager, Customer Success Operations | New York City | 🇺🇸 | 5d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8337355) |
-| **Plaid** | Machine Learning Engineer - Lendscore | New York City Office | 🇺🇸 | 5d | [Apply](https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4/application) |
+| **Mongodb** | Manager, Customer Success Operations | New York City | 🇺🇸 | 6d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8337355) |
+| **Plaid** | Machine Learning Engineer - Lendscore | New York City Office | 🇺🇸 | 6d | [Apply](https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4/application) |
 | **ServiceNow** | Senior Staff Data Platform Software Engineer | San Diego, CALIFORNIA | 🇺🇸 | 6d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000158984819) |
-| **Coinbase** | Staff Analytics Engineer | Remote | 🇺🇸 | 7d | [Apply](https://www.coinbase.com/careers/positions/8047150?gh_jid=8047150) |
+| **Coinbase** | Staff Analytics Engineer | Remote | 🇺🇸 | 8d | [Apply](https://www.coinbase.com/careers/positions/8047150?gh_jid=8047150) |
 | **Roblox** | Software Engineering Manager - Engine Networking | San Mateo, CA | 🇺🇸 | 8d | [Apply](https://careers.roblox.com/jobs/8338380?gh_jid=8338380) |
 | **Samsara** | Director, GTM AI Engineering | Remote | 🇺🇸 | 8d | [Apply](https://www.samsara.com/company/careers/roles/8261007?gh_jid=8261007) |
 | **Reddit** | Staff Program Manager, Human & LLM Data Annotation Operations | Remote | 🇺🇸 | 8d | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8319764) |
@@ -193,15 +194,15 @@ they ever reach this list.
 | **Okta** | Security Architect - U.S. Public Sector | Washington, DC | 🇺🇸 🔐 | 8d | [Apply](https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602) |
 | **Klaviyo** | Lead IT Program Manager | Boston, MA | 🇺🇸 | 8d | [Apply](https://www.klaviyo.com/careers/jobs/8040490003?gh_jid=8040490003) |
 | **Nuro** | Senior Software Engineer, Map Platform | Mountain View, California (HQ) | 🇺🇸 | 8d | [Apply](https://nuro.ai/careersitem?gh_jid=8324974) |
-| **Affirm** | Senior Staff Software Engineer, Backend (Compute Platform) | Remote | 🇺🇸 | 8d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8057948003) |
-| **Zscaler** | Director, Product Management-Customer Growth & Value Realization | Santa Clara, California | 🇺🇸 | 8d | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5250710007) |
-| **Roblox** | [2027] Senior Software Engineer - Data Acquisition PhD Early Career | San Mateo, CA | 🇺🇸 | 8d | [Apply](https://careers.roblox.com/jobs/8315883?gh_jid=8315883) |
-| **Datadog** | Senior Product Manager, Chat, Video, and Collaboration Integrations | New York, New York | 🇺🇸 | 8d | [Apply](https://careers.datadoghq.com/detail/8335047/?gh_jid=8335047) |
-| **Affirm** | Senior Manager, Security Incident Response | Remote | 🇺🇸 | 8d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8045376003) |
-| **Cloudflare** | Forward Deployed Engineer, Professional Services (Application Security) | Hybrid | 🇺🇸 | 8d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8330512?gh_jid=8330512) |
-| **Stripe** | Startup Products Strategy & Operations, Insights & Analytics | Remote | 🇺🇸 | 8d | [Apply](https://stripe.com/jobs/search?gh_jid=8234710) |
-| **Klaviyo** | Lead Product Data Scientist, Forecasting | Boston, MA | 🇺🇸 | 8d | [Apply](https://www.klaviyo.com/careers/jobs/8048080003?gh_jid=8048080003) |
-| **Plaid** | Senior Infrastructure Engineer - Network Infrastructure | New York City Office | 🇺🇸 | 8d | [Apply](https://jobs.ashbyhq.com/plaid/a6324085-a7f8-4acd-9e36-a330a6249c4d/application) |
+| **Affirm** | Senior Staff Software Engineer, Backend (Compute Platform) | Remote | 🇺🇸 | 9d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8057948003) |
+| **Zscaler** | Director, Product Management-Customer Growth & Value Realization | Santa Clara, California | 🇺🇸 | 9d | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5250710007) |
+| **Roblox** | [2027] Senior Software Engineer - Data Acquisition PhD Early Career | San Mateo, CA | 🇺🇸 | 9d | [Apply](https://careers.roblox.com/jobs/8315883?gh_jid=8315883) |
+| **Datadog** | Senior Product Manager, Chat, Video, and Collaboration Integrations | New York, New York | 🇺🇸 | 9d | [Apply](https://careers.datadoghq.com/detail/8335047/?gh_jid=8335047) |
+| **Affirm** | Senior Manager, Security Incident Response | Remote | 🇺🇸 | 9d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8045376003) |
+| **Cloudflare** | Forward Deployed Engineer, Professional Services (Application Security) | Hybrid | 🇺🇸 | 9d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8330512?gh_jid=8330512) |
+| **Stripe** | Startup Products Strategy & Operations, Insights & Analytics | Remote | 🇺🇸 | 9d | [Apply](https://stripe.com/jobs/search?gh_jid=8234710) |
+| **Klaviyo** | Lead Product Data Scientist, Forecasting | Boston, MA | 🇺🇸 | 9d | [Apply](https://www.klaviyo.com/careers/jobs/8048080003?gh_jid=8048080003) |
+| **Plaid** | Senior Infrastructure Engineer - Network Infrastructure | New York City Office | 🇺🇸 | 9d | [Apply](https://jobs.ashbyhq.com/plaid/a6324085-a7f8-4acd-9e36-a330a6249c4d/application) |
 | **Cloudflare** | Technical Support Engineer, Zero Trust | Hybrid | 🇺🇸 | 9d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8329758?gh_jid=8329758) |
 | **Anaplan** | Manager, Revenue Accounting | Miami | 🇺🇸 | 9d | [Apply](https://job-boards.greenhouse.io/anaplan/jobs/8924752002) |
 | **Airbnb** | Staff Software Engineer AI, Platform | United States | 🇺🇸 | 9d | [Apply](https://careers.airbnb.com/positions/8307226?gh_jid=8307226) |
@@ -220,15 +221,15 @@ they ever reach this list.
 | **Coursera** | Enterprise FP&A Lead | United States | 🇺🇸 | 9d | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6238594004) |
 | **Databricks** | Sr. Solutions Architect - Travel and Hospitality | Chicago, Illinois; Dallas, Texas | 🇺🇸 | 9d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886517002) |
 | **Reddit** | Senior Frontend Engineer, Ads Formats | Remote | 🇺🇸 | 9d | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8287466) |
-| **Asana** | Customer Success Manager (AI Success Architect) | Chicago | 🇺🇸 | 9d | [Apply](https://www.asana.com/jobs/apply/8311577?gh_jid=8311577) |
-| **Databricks** | Staff Machine Learning Engineer, CustomerLake (ML/LLM) | New York City, New York | 🇺🇸 | 9d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8923831002) |
-| **Waymo** | Product Operations Manager, Ops Compliance & Regulatory Infrastructure | Mountain View, CA, USA; San Francisco, CA | 🇺🇸 | 9d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8315881) |
-| **Cloudflare** | Product Manager Intern (2027) - London, UK | In-Office | 🇺🇸 | 9d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914) |
-| **Reddit** | Staff Machine Learning Engineer, Ads Forecasting & Scenarios | Remote | 🇺🇸 | 9d | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8334138) |
-| **Mongodb** | Financial Analyst, P&T | New York City | 🇺🇸 | 9d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8328622) |
-| **Databricks** | Solutions Architect - Games | West Coast | 🇺🇸 | 9d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8859518002) |
-| **Zuora** | AI Product Manager, Enterprise AI | Foster City, California | 🇺🇸 | 9d | [Apply](https://boards.greenhouse.io/zuora/jobs/8325518?gh_jid=8325518) |
-| **Coinbase** | Staff Machine Learning Engineer, Compliance Automation (Platform) | Remote | 🇺🇸 | 9d | [Apply](https://www.coinbase.com/careers/positions/8333165?gh_jid=8333165) |
+| **Asana** | Customer Success Manager (AI Success Architect) | Chicago | 🇺🇸 | 10d | [Apply](https://www.asana.com/jobs/apply/8311577?gh_jid=8311577) |
+| **Databricks** | Staff Machine Learning Engineer, CustomerLake (ML/LLM) | New York City, New York | 🇺🇸 | 10d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8923831002) |
+| **Waymo** | Product Operations Manager, Ops Compliance & Regulatory Infrastructure | Mountain View, CA, USA; San Francisco, CA | 🇺🇸 | 10d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8315881) |
+| **Cloudflare** | Product Manager Intern (2027) - London, UK | In-Office | 🇺🇸 | 10d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914) |
+| **Reddit** | Staff Machine Learning Engineer, Ads Forecasting & Scenarios | Remote | 🇺🇸 | 10d | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8334138) |
+| **Mongodb** | Financial Analyst, P&T | New York City | 🇺🇸 | 10d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8328622) |
+| **Databricks** | Solutions Architect - Games | West Coast | 🇺🇸 | 10d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8859518002) |
+| **Zuora** | AI Product Manager, Enterprise AI | Foster City, California | 🇺🇸 | 10d | [Apply](https://boards.greenhouse.io/zuora/jobs/8325518?gh_jid=8325518) |
+| **Coinbase** | Staff Machine Learning Engineer, Compliance Automation (Platform) | Remote | 🇺🇸 | 10d | [Apply](https://www.coinbase.com/careers/positions/8333165?gh_jid=8333165) |
 | **Stripe** | Software Engineer, Fraud System Interventions | South San Francisco, CA | 🇺🇸 | 10d | [Apply](https://stripe.com/jobs/search?gh_jid=8332718) |
 | **Anaplan** | Product Manager III, Applications | Minneapolis | 🇺🇸 | 10d | [Apply](https://job-boards.greenhouse.io/anaplan/jobs/8922899002) |
 | **Roblox** | Senior Security Auditor | San Mateo, CA | 🇺🇸 | 10d | [Apply](https://careers.roblox.com/jobs/8271705?gh_jid=8271705) |
@@ -249,18 +250,18 @@ they ever reach this list.
 | **Pinterest** | Sr. UX Engineer | San Francisco, CA, USA; Remote | 🇺🇸 | 10d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8015362) |
 | **Lyft** | Senior Technical Program Manager, Central | San Francisco, CA | 🇺🇸 | 10d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8921735002?gh_jid=8921735002) |
 | **Liveramp-inc** | Sr. Full-Stack Software Engineer | San Francisco, CA | 🇺🇸 | 10d | [Apply](https://jobs.ashbyhq.com/liveramp-inc/7b319b5a-95b4-4574-82ea-767f42149b7d/application) |
-| **Coinbase** | Senior Enterprise Product Manager, FP&A | Remote | 🇺🇸 | 10d | [Apply](https://www.coinbase.com/careers/positions/8318557?gh_jid=8318557) |
-| **Snowflake** | Staff Forward Deployed Engineer, Applied AI | US-CA-Menlo Park | 🇺🇸 | 10d | [Apply](https://jobs.ashbyhq.com/snowflake/fe41fd7e-56ad-4bdc-b13f-20adb2542171/application) |
-| **Lyft** | Staff Product Manager I, Base Pricing | San Francisco, CA | 🇺🇸 | 10d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8917426002?gh_jid=8917426002) |
-| **Pinterest** | Sr. Client Account Manager, Health | New York, NY | 🇺🇸 | 10d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8290034) |
-| **Flexport** | Software Engineer II, Shipping Solutions | Bellevue, Washington | 🇺🇸 | 10d | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8326088) |
-| **ServiceNow** | Forward Deployed Solution Engineer - Applied AI FDE | New York, New York | 🇺🇸 | 10d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000158334169) |
-| **Stripe** | Product Marketing Manager, Subscriptions | New York, San Francisco, Seattle, Remote | 🇺🇸 | 10d | [Apply](https://stripe.com/jobs/search?gh_jid=8331124) |
-| **Cloudflare** | Hardware Systems Engineer | Hybrid | 🇺🇸 | 10d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8325821?gh_jid=8325821) |
-| **Asana** | Design Leader, Emerging Products | San Francisco | 🇺🇸 | 10d | [Apply](https://www.asana.com/jobs/apply/8154796?gh_jid=8154796) |
-| **Affirm** | Staff Software Engineer, Backend (Observability) | Remote | 🇺🇸 | 10d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8040396003) |
-| **Carvana** | Auto Mechanic II - ADESA Mira Loma | Mira Loma, CA | 🇺🇸 | 10d | [Apply](https://www.carvana.com/careers/apply?gh_jid=8330533) |
-| **Roblox** | Principal Software Engineer, GenAI Platform | San Mateo, CA | 🇺🇸 | 10d | [Apply](https://careers.roblox.com/jobs/8287614?gh_jid=8287614) |
+| **Coinbase** | Senior Enterprise Product Manager, FP&A | Remote | 🇺🇸 | 11d | [Apply](https://www.coinbase.com/careers/positions/8318557?gh_jid=8318557) |
+| **Snowflake** | Staff Forward Deployed Engineer, Applied AI | US-CA-Menlo Park | 🇺🇸 | 11d | [Apply](https://jobs.ashbyhq.com/snowflake/fe41fd7e-56ad-4bdc-b13f-20adb2542171/application) |
+| **Lyft** | Staff Product Manager I, Base Pricing | San Francisco, CA | 🇺🇸 | 11d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8917426002?gh_jid=8917426002) |
+| **Pinterest** | Sr. Client Account Manager, Health | New York, NY | 🇺🇸 | 11d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8290034) |
+| **Flexport** | Software Engineer II, Shipping Solutions | Bellevue, Washington | 🇺🇸 | 11d | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8326088) |
+| **ServiceNow** | Forward Deployed Solution Engineer - Applied AI FDE | New York, New York | 🇺🇸 | 11d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000158334169) |
+| **Stripe** | Product Marketing Manager, Subscriptions | New York, San Francisco, Seattle, Remote | 🇺🇸 | 11d | [Apply](https://stripe.com/jobs/search?gh_jid=8331124) |
+| **Cloudflare** | Hardware Systems Engineer | Hybrid | 🇺🇸 | 11d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8325821?gh_jid=8325821) |
+| **Asana** | Design Leader, Emerging Products | San Francisco | 🇺🇸 | 11d | [Apply](https://www.asana.com/jobs/apply/8154796?gh_jid=8154796) |
+| **Affirm** | Staff Software Engineer, Backend (Observability) | Remote | 🇺🇸 | 11d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8040396003) |
+| **Carvana** | Auto Mechanic II - ADESA Mira Loma | Mira Loma, CA | 🇺🇸 | 11d | [Apply](https://www.carvana.com/careers/apply?gh_jid=8330533) |
+| **Roblox** | Principal Software Engineer, GenAI Platform | San Mateo, CA | 🇺🇸 | 11d | [Apply](https://careers.roblox.com/jobs/8287614?gh_jid=8287614) |
 | **Stripe** | Staff Software Engineer, Dashboard Product | Seattle | 🇺🇸 | 11d | [Apply](https://stripe.com/jobs/search?gh_jid=8329718) |
 | **Airbnb** | Principal, Strategic Finance & Analytics - Membership | United States | 🇺🇸 | 11d | [Apply](https://careers.airbnb.com/positions/8329612?gh_jid=8329612) |
 | **Toast** | Staff Software Engineer, Orders | Remote | 🇺🇸 | 11d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8313894) |
@@ -272,16 +273,16 @@ they ever reach this list.
 | **Verkada** | Solutions Engineering Manager, Select & Territory | San Mateo, CA | 🇺🇸 | 11d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5253735007) |
 | **Rubrik** | Staff Product Manager, Databases | US - Remote | 🇺🇸 | 11d | [Apply](https://www.rubrik.com/company/careers/departments/job.8327831?gh_jid=8327831) |
 | **Marlabs** | Technical Product Owner (Strategy & Execution) | Indianapolis, IN | 🇺🇸 | 11d | [Apply](https://marlabs.breezy.hr/p/e0d87afb40d4-technical-product-owner-strategy-execution) |
-| **Okta** | Director, Site Reliability Engineering | Bellevue, Washington; San Francisco, California | 🇺🇸 | 11d | [Apply](https://www.okta.com/company/careers/opportunity/8303680?gh_jid=8303680) |
-| **Natera** | Sr Product Manager | US Remote | 🇺🇸 | 11d | [Apply](https://job-boards.greenhouse.io/natera/jobs/6236001004) |
-| **Stripe** | Global Head of Specialist Solutions Architecture, Revenue Suite | United States | 🇺🇸 | 11d | [Apply](https://stripe.com/jobs/search?gh_jid=8175669) |
-| **Coinbase** | Senior Software Engineer, Certificates Management | Remote | 🇺🇸 | 11d | [Apply](https://www.coinbase.com/careers/positions/8326127?gh_jid=8326127) |
-| **Zscaler** | Principal Software Development Engineer- Go | Santa Clara, California | 🇺🇸 | 11d | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5256472007) |
-| **Roblox** | Senior Product Designer (Short Term) | San Mateo, CA | 🇺🇸 | 11d | [Apply](https://careers.roblox.com/jobs/8318426?gh_jid=8318426) |
-| **Toast** | Senior Data Analyst | Boston | 🇺🇸 | 11d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8300025) |
-| **Affirm** | Staff Software Engineer, Frontend (Decisions Orechestration) | Remote | 🇺🇸 | 11d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8034825003) |
-| **Okta** | Staff Product Designer - UI Platform | Bellevue, Washington; Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC | 🇺🇸 | 11d | [Apply](https://www.okta.com/company/careers/opportunity/8326116?gh_jid=8326116) |
-| **Twilio** | Sr. Director, Marketing Strategy, Analytics & Innovation | Remote | 🇺🇸 | 11d | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8325734) |
+| **Okta** | Director, Site Reliability Engineering | Bellevue, Washington; San Francisco, California | 🇺🇸 | 12d | [Apply](https://www.okta.com/company/careers/opportunity/8303680?gh_jid=8303680) |
+| **Natera** | Sr Product Manager | US Remote | 🇺🇸 | 12d | [Apply](https://job-boards.greenhouse.io/natera/jobs/6236001004) |
+| **Stripe** | Global Head of Specialist Solutions Architecture, Revenue Suite | United States | 🇺🇸 | 12d | [Apply](https://stripe.com/jobs/search?gh_jid=8175669) |
+| **Coinbase** | Senior Software Engineer, Certificates Management | Remote | 🇺🇸 | 12d | [Apply](https://www.coinbase.com/careers/positions/8326127?gh_jid=8326127) |
+| **Zscaler** | Principal Software Development Engineer- Go | Santa Clara, California | 🇺🇸 | 12d | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5256472007) |
+| **Roblox** | Senior Product Designer (Short Term) | San Mateo, CA | 🇺🇸 | 12d | [Apply](https://careers.roblox.com/jobs/8318426?gh_jid=8318426) |
+| **Toast** | Senior Data Analyst | Boston | 🇺🇸 | 12d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8300025) |
+| **Affirm** | Staff Software Engineer, Frontend (Decisions Orechestration) | Remote | 🇺🇸 | 12d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8034825003) |
+| **Okta** | Staff Product Designer - UI Platform | Bellevue, Washington; Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC | 🇺🇸 | 12d | [Apply](https://www.okta.com/company/careers/opportunity/8326116?gh_jid=8326116) |
+| **Twilio** | Sr. Director, Marketing Strategy, Analytics & Innovation | Remote | 🇺🇸 | 12d | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8325734) |
 | **Waymo** | Group Product Manager, Depot Operations Automation | Mountain View, CA, US; San Francisco, CA | 🇺🇸 | 12d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8314252) |
 | **Snowflake** | Senior Software Engineer, Compute Service | US-CA-Menlo Park | 🇺🇸 | 12d | [Apply](https://jobs.ashbyhq.com/snowflake/95b87897-68dc-47c0-a4c0-2320d36dafac/application) |
 | **Roblox** | Senior Brand Designer, Illustration & Graphic | San Mateo, CA | 🇺🇸 | 12d | [Apply](https://careers.roblox.com/jobs/8317585?gh_jid=8317585) |
@@ -301,19 +302,19 @@ they ever reach this list.
 | **Twilio** | Staff, Product Manager - Identity | Remote | 🇺🇸 | 12d | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8319160) |
 | **Klaviyo** | Senior Lead AI Engineer - G&A Systems | Boston, MA | 🇺🇸 | 12d | [Apply](https://www.klaviyo.com/careers/jobs/8017125003?gh_jid=8017125003) |
 | **Lyft** | Senior Product Manager, Rider ML/AI | San Francisco, CA | 🇺🇸 | 12d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8916924002?gh_jid=8916924002) |
-| **Gusto** | Product Counsel, Payroll and Fintech | San Francisco, CA - Hybrid | 🇺🇸 | 12d | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8304582) |
-| **Zscaler** | Staff Software Development Engineer | San Jose, California | 🇺🇸 | 12d | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5270973007) |
-| **Datadog** | Information Security Analyst II - Federal Programs | New York, New York | 🇺🇸 🔐 | 12d | [Apply](https://careers.datadoghq.com/detail/8319487/?gh_jid=8319487) |
-| **ServiceNow** | Partner Technology Architect | Vienna, Virginia | 🇺🇸 | 12d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157860360) |
-| **Affirm** | Implementation Specialist I | Remote | 🇺🇸 | 12d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8040794003) |
-| **Cloudflare** | RevOps Technologist | Distributed | 🇺🇸 | 12d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8306604?gh_jid=8306604) |
-| **Coinbase** | Product Manager II, Wallets and DeFi | Remote | 🇺🇸 | 12d | [Apply](https://www.coinbase.com/careers/positions/8311341?gh_jid=8311341) |
-| **Point72** | IT Operations Engineer, Data Center Technology | New York, NY | 🇺🇸 | 12d | [Apply](https://boards.greenhouse.io/point72/jobs/8899767002?gh_jid=8899767002) |
-| **Asana** | Sales Engineer | Chicago | 🇺🇸 | 12d | [Apply](https://www.asana.com/jobs/apply/8282422?gh_jid=8282422) |
-| **Brex** | Director, Performance Marketing | San Francisco, California | 🇺🇸 | 13d | [Apply](https://www.brex.com/careers/8899486002?gh_jid=8899486002) |
-| **Reddit** | Software Engineer, Ad Signals | Remote | 🇺🇸 | 14d | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8319655) |
-| **Asana** | Corporate and Strategic Finance, FP&A | San Francisco | 🇺🇸 | 14d | [Apply](https://www.asana.com/jobs/apply/8282522?gh_jid=8282522) |
-| **Pinterest** | Designer | Remote | 🇺🇸 | 14d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8268336) |
+| **Gusto** | Product Counsel, Payroll and Fintech | San Francisco, CA - Hybrid | 🇺🇸 | 13d | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8304582) |
+| **Zscaler** | Staff Software Development Engineer | San Jose, California | 🇺🇸 | 13d | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5270973007) |
+| **Datadog** | Information Security Analyst II - Federal Programs | New York, New York | 🇺🇸 🔐 | 13d | [Apply](https://careers.datadoghq.com/detail/8319487/?gh_jid=8319487) |
+| **ServiceNow** | Partner Technology Architect | Vienna, Virginia | 🇺🇸 | 13d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157860360) |
+| **Affirm** | Implementation Specialist I | Remote | 🇺🇸 | 13d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8040794003) |
+| **Cloudflare** | RevOps Technologist | Distributed | 🇺🇸 | 13d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8306604?gh_jid=8306604) |
+| **Coinbase** | Product Manager II, Wallets and DeFi | Remote | 🇺🇸 | 13d | [Apply](https://www.coinbase.com/careers/positions/8311341?gh_jid=8311341) |
+| **Point72** | IT Operations Engineer, Data Center Technology | New York, NY | 🇺🇸 | 13d | [Apply](https://boards.greenhouse.io/point72/jobs/8899767002?gh_jid=8899767002) |
+| **Asana** | Sales Engineer | Chicago | 🇺🇸 | 13d | [Apply](https://www.asana.com/jobs/apply/8282422?gh_jid=8282422) |
+| **Brex** | Director, Performance Marketing | San Francisco, California | 🇺🇸 | 14d | [Apply](https://www.brex.com/careers/8899486002?gh_jid=8899486002) |
+| **Reddit** | Software Engineer, Ad Signals | Remote | 🇺🇸 | 15d | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8319655) |
+| **Asana** | Corporate and Strategic Finance, FP&A | San Francisco | 🇺🇸 | 15d | [Apply](https://www.asana.com/jobs/apply/8282522?gh_jid=8282522) |
+| **Pinterest** | Designer | Remote | 🇺🇸 | 15d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8268336) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations | San Francisco, CA | 🇺🇸 | 15d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8304574) |
 | **Roblox** | Product Designer, Creator Services | San Mateo, CA | 🇺🇸 | 15d | [Apply](https://careers.roblox.com/jobs/8304526?gh_jid=8304526) |
 | **Okta** | Staff Software Engineer, AI Platform & Infrastructure | San Francisco, California | 🇺🇸 | 15d | [Apply](https://www.okta.com/company/careers/opportunity/8319285?gh_jid=8319285) |
@@ -326,6 +327,7 @@ they ever reach this list.
 | **Reddit** | Staff Machine Learning Engineer, Retrieval & Targeting | Remote | 🇺🇸 | 15d | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8316086) |
 | **ServiceNow** | Senior Auditor - Business & IT Operations | San Diego, CALIFORNIA | 🇺🇸 | 15d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157566579) |
 | **Waymo** | Staff Software Engineer | PERM - N/A | 🇺🇸 | 15d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8319342) |
+| **Brex** | Partnerships Manager, Accounting Channel | San Francisco, California | 🇺🇸 | 15d | [Apply](https://www.brex.com/careers/8912610002?gh_jid=8912610002) |
 | **Toast** | Senior Software Engineer, Consumer | Remote | 🇺🇸 | 15d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8162174) |
 | **Affirm** | Group Product Management Manager | Remote | 🇺🇸 | 15d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8041930003) |
 | **Mongodb** | Director, Brand & Creative Marketing | United States | 🇺🇸 | 15d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8304692) |
@@ -333,13 +335,13 @@ they ever reach this list.
 | **Coinbase** | Staff User Researcher | Remote | 🇺🇸 | 15d | [Apply](https://www.coinbase.com/careers/positions/8318555?gh_jid=8318555) |
 | **Toast** | Software Engineer II (Fullstack), Digital Storefront | US (remote) | 🇺🇸 | 15d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8186869) |
 | **Samsara** | Technical Account Manager | Remote - US; | 🇺🇸 | 15d | [Apply](https://www.samsara.com/company/careers/roles/8281716?gh_jid=8281716) |
-| **ServiceNow** | Executive Producer, Brand Strategy & Creative | New York City, NEW YORK | 🇺🇸 | 15d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157528589) |
-| **Stripe** | Software Engineer, Payments | United States | 🇺🇸 | 15d | [Apply](https://stripe.com/jobs/search?gh_jid=8260982) |
-| **Cloudflare** | Data Center Network Operations Engineer | Hybrid | 🇺🇸 | 15d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8311378?gh_jid=8311378) |
-| **Twilio** | Partner Program Manager | Remote | 🇺🇸 | 15d | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8287927) |
-| **Databricks** | Associate Forward Deployed Engineer | Mountain View, California | 🇺🇸 | 15d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002) |
-| **Datadog** | Associate Customer Success Manager - Denver | Denver, Colorado | 🇺🇸 | 15d | [Apply](https://careers.datadoghq.com/detail/8301113/?gh_jid=8301113) |
-| **Mongodb** | Director of Customer Marketing & Advocacy | United States | 🇺🇸 | 15d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8301805) |
+| **ServiceNow** | Executive Producer, Brand Strategy & Creative | New York City, NEW YORK | 🇺🇸 | 16d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157528589) |
+| **Stripe** | Software Engineer, Payments | United States | 🇺🇸 | 16d | [Apply](https://stripe.com/jobs/search?gh_jid=8260982) |
+| **Cloudflare** | Data Center Network Operations Engineer | Hybrid | 🇺🇸 | 16d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8311378?gh_jid=8311378) |
+| **Twilio** | Partner Program Manager | Remote | 🇺🇸 | 16d | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8287927) |
+| **Databricks** | Associate Forward Deployed Engineer | Mountain View, California | 🇺🇸 | 16d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002) |
+| **Datadog** | Associate Customer Success Manager - Denver | Denver, Colorado | 🇺🇸 | 16d | [Apply](https://careers.datadoghq.com/detail/8301113/?gh_jid=8301113) |
+| **Mongodb** | Director of Customer Marketing & Advocacy | United States | 🇺🇸 | 16d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8301805) |
 | **Zscaler** | Manager, Sales Engineering - SMB | Remote | 🇺🇸 | 16d | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5268698007) |
 | **Stripe** | Program Manager, Commercial Solutions | US-Remote | 🇺🇸 | 16d | [Apply](https://stripe.com/jobs/search?gh_jid=8279867) |
 | **Cloudflare** | Software Engineer, Agentic Commerce | In-Office | 🇺🇸 | 16d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8312256?gh_jid=8312256) |
@@ -359,20 +361,20 @@ they ever reach this list.
 | **ServiceNow** | Senior Manager, Partner Technology Architecture | New York, New York | 🇺🇸 | 16d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157202629) |
 | **Zscaler** | Sr. Staff Software Engineer, Cloud Networking & Datapath | Santa Clara, California | 🇺🇸 | 16d | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5253937007) |
 | **Natera** | Lab Assistant I | San Carlos, CA | 🇺🇸 | 16d | [Apply](https://job-boards.greenhouse.io/natera/jobs/6223220004) |
-| **Pinterest** | Brand Partnerships Lead | San Francisco, CA, US; Remote | 🇺🇸 | 16d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8268323) |
-| **Stripe** | Software Engineer, Resource Automation | South San Francisco, CA | 🇺🇸 | 16d | [Apply](https://stripe.com/jobs/search?gh_jid=8314235) |
-| **Datadog** | Regional Manager, Sales Engineering - AI Accounts | California, USA, Remote; Illinois, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 🇺🇸 | 16d | [Apply](https://careers.datadoghq.com/detail/8284998/?gh_jid=8284998) |
-| **Okta** | Solutions Engineer, Okta (Enterprise West) | Bellevue, Washington; San Francisco, California | 🇺🇸 | 16d | [Apply](https://www.okta.com/company/careers/opportunity/8312752?gh_jid=8312752) |
-| **Carvana** | Customer Service Vehicle Delivery Driver | Lexington, KY | 🇺🇸 | 16d | [Apply](https://www.carvana.com/careers/apply?gh_jid=8313340) |
-| **Samsara** | Manager II, Customer Success | Remote - CA; Remote - IL; Remote - TX; Remote - WA | 🇺🇸 | 16d | [Apply](https://www.samsara.com/company/careers/roles/8232209?gh_jid=8232209) |
-| **Datadog** | FP&A Analyst GTM | New York, New York | 🇺🇸 | 16d | [Apply](https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438) |
-| **Databricks** | Associate Forward Deployed Engineer | New York City, New York | 🇺🇸 | 16d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002) |
-| **Twilio** | Director, Global Security Operations Center | Remote | 🇺🇸 | 16d | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8306758) |
-| **Zuora** | Sr Payroll Specialist | Atlanta, Georgia | 🇺🇸 | 16d | [Apply](https://boards.greenhouse.io/zuora/jobs/8281561?gh_jid=8281561) |
-| **Cloudflare** | Data Scientist | In-Office | 🇺🇸 | 16d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8275927?gh_jid=8275927) |
-| **Snowflake** | Senior Software Engineer - Warehouse UX | US-CA-Menlo Park | 🇺🇸 | 16d | [Apply](https://jobs.ashbyhq.com/snowflake/2f1fa81b-78ac-4b86-bd7c-48a3c2d3ab97/application) |
-| **Zscaler** | Commercial Sales Engineer - East | Remote - Massachusetts, USA; Remote - New Jersey, USA; Remote - New York, USA; Remote - Virginia | 🇺🇸 | 16d | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5268700007) |
-| **Stripe** | Operations Program Manager, Consumer Support | NYC | 🇺🇸 | 16d | [Apply](https://stripe.com/jobs/search?gh_jid=8288334) |
+| **Pinterest** | Brand Partnerships Lead | San Francisco, CA, US; Remote | 🇺🇸 | 17d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8268323) |
+| **Stripe** | Software Engineer, Resource Automation | South San Francisco, CA | 🇺🇸 | 17d | [Apply](https://stripe.com/jobs/search?gh_jid=8314235) |
+| **Datadog** | Regional Manager, Sales Engineering - AI Accounts | California, USA, Remote; Illinois, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 🇺🇸 | 17d | [Apply](https://careers.datadoghq.com/detail/8284998/?gh_jid=8284998) |
+| **Okta** | Solutions Engineer, Okta (Enterprise West) | Bellevue, Washington; San Francisco, California | 🇺🇸 | 17d | [Apply](https://www.okta.com/company/careers/opportunity/8312752?gh_jid=8312752) |
+| **Carvana** | Customer Service Vehicle Delivery Driver | Lexington, KY | 🇺🇸 | 17d | [Apply](https://www.carvana.com/careers/apply?gh_jid=8313340) |
+| **Samsara** | Manager II, Customer Success | Remote - CA; Remote - IL; Remote - TX; Remote - WA | 🇺🇸 | 17d | [Apply](https://www.samsara.com/company/careers/roles/8232209?gh_jid=8232209) |
+| **Datadog** | FP&A Analyst GTM | New York, New York | 🇺🇸 | 17d | [Apply](https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438) |
+| **Databricks** | Associate Forward Deployed Engineer | New York City, New York | 🇺🇸 | 17d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002) |
+| **Twilio** | Director, Global Security Operations Center | Remote | 🇺🇸 | 17d | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8306758) |
+| **Zuora** | Sr Payroll Specialist | Atlanta, Georgia | 🇺🇸 | 17d | [Apply](https://boards.greenhouse.io/zuora/jobs/8281561?gh_jid=8281561) |
+| **Cloudflare** | Data Scientist | In-Office | 🇺🇸 | 17d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8275927?gh_jid=8275927) |
+| **Snowflake** | Senior Software Engineer - Warehouse UX | US-CA-Menlo Park | 🇺🇸 | 17d | [Apply](https://jobs.ashbyhq.com/snowflake/2f1fa81b-78ac-4b86-bd7c-48a3c2d3ab97/application) |
+| **Zscaler** | Commercial Sales Engineer - East | Remote - Massachusetts, USA; Remote - New Jersey, USA; Remote - New York, USA; Remote - Virginia | 🇺🇸 | 17d | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5268700007) |
+| **Stripe** | Operations Program Manager, Consumer Support | NYC | 🇺🇸 | 17d | [Apply](https://stripe.com/jobs/search?gh_jid=8288334) |
 | **ServiceNow** | Sr Staff Software Engineer (Distributed Systems \| Data Ingestion \| Storage \| Analytics) - Remote | San Diego, CALIFORNIA | 🇺🇸 | 17d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000156912806) |
 | **Plaid** | Accounting Operations | Remote | 🇺🇸 | 17d | [Apply](https://jobs.ashbyhq.com/plaid/2cbe8c44-76a0-4f29-9c45-2c09df556318/application) |
 | **Airbnb** | Software Engineer, DevAI | United States | 🇺🇸 | 17d | [Apply](https://careers.airbnb.com/positions/8280222?gh_jid=8280222) |
@@ -395,15 +397,15 @@ they ever reach this list.
 | **Mongodb** | Enterprise Account Executive, Growth | Boston | 🇺🇸 | 17d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7027834) |
 | **Roblox** | Facilities Project Manager | San Mateo, CA | 🇺🇸 | 17d | [Apply](https://careers.roblox.com/jobs/8292641?gh_jid=8292641) |
 | **Carvana** | Customer Vehicle Delivery Driver | Reno, NV | 🇺🇸 | 17d | [Apply](https://www.carvana.com/careers/apply?gh_jid=8306752) |
-| **Lyft** | Creative Project Manager, Manifold | U.S. Anywhere | 🇺🇸 | 17d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8902977002?gh_jid=8902977002) |
-| **Rubrik** | Manager, CyberSecurity Risk Management | Remote | 🇺🇸 | 17d | [Apply](https://www.rubrik.com/company/careers/departments/job.8306164?gh_jid=8306164) |
-| **Gusto** | Workday System Developer | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🇺🇸 | 17d | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8257486) |
-| **Toast** | Senior Product Manager, Lending | Remote | 🇺🇸 | 17d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8245664) |
-| **Affirm** | Platform Marketing Lead | Remote | 🇺🇸 | 17d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8012914003) |
-| **Airbnb** | Product Manager, LATAM (Miami or San Francisco) | Miami, San Francisco | 🇺🇸 | 17d | [Apply](https://careers.airbnb.com/positions/8303047?gh_jid=8303047) |
-| **Cloudflare** | Customer Experience Manager - Dutch or Swedish Speaking | Hybrid | 🇺🇸 | 17d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8300499?gh_jid=8300499) |
-| **Datadog** | Enterprise Customer Success Manager - Boston/New York | Boston, Massachusetts, USA; New York, New York | 🇺🇸 | 17d | [Apply](https://careers.datadoghq.com/detail/8282212/?gh_jid=8282212) |
-| **Roblox** | Senior Software Engineer, Compute | San Mateo, CA | 🇺🇸 | 17d | [Apply](https://careers.roblox.com/jobs/8248303?gh_jid=8248303) |
+| **Lyft** | Creative Project Manager, Manifold | U.S. Anywhere | 🇺🇸 | 18d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8902977002?gh_jid=8902977002) |
+| **Rubrik** | Manager, CyberSecurity Risk Management | Remote | 🇺🇸 | 18d | [Apply](https://www.rubrik.com/company/careers/departments/job.8306164?gh_jid=8306164) |
+| **Gusto** | Workday System Developer | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | 🇺🇸 | 18d | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8257486) |
+| **Toast** | Senior Product Manager, Lending | Remote | 🇺🇸 | 18d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8245664) |
+| **Affirm** | Platform Marketing Lead | Remote | 🇺🇸 | 18d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8012914003) |
+| **Airbnb** | Product Manager, LATAM (Miami or San Francisco) | Miami, San Francisco | 🇺🇸 | 18d | [Apply](https://careers.airbnb.com/positions/8303047?gh_jid=8303047) |
+| **Cloudflare** | Customer Experience Manager - Dutch or Swedish Speaking | Hybrid | 🇺🇸 | 18d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8300499?gh_jid=8300499) |
+| **Datadog** | Enterprise Customer Success Manager - Boston/New York | Boston, Massachusetts, USA; New York, New York | 🇺🇸 | 18d | [Apply](https://careers.datadoghq.com/detail/8282212/?gh_jid=8282212) |
+| **Roblox** | Senior Software Engineer, Compute | San Mateo, CA | 🇺🇸 | 18d | [Apply](https://careers.roblox.com/jobs/8248303?gh_jid=8248303) |
 | **Stripe** | Head of Key Accounts, Customer Success | U.S. | 🇺🇸 | 18d | [Apply](https://stripe.com/jobs/search?gh_jid=8300616) |
 | **Plaid** | Software Engineer - Security Engineering | Seattle Office | 🇺🇸 | 18d | [Apply](https://jobs.ashbyhq.com/plaid/f214bf6c-2008-4eab-8943-03f5d03088c2/application) |
 | **Pinterest** | Integrated Marketing Lead, UCAN Programming & Industry | New York, NY, US; Remote | 🇺🇸 | 18d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8268329) |
@@ -425,8 +427,6 @@ they ever reach this list.
 | **Datadog** | Staff Software Engineer - Watchdog Anomaly Detection | New York, New York | 🇺🇸 | 18d | [Apply](https://careers.datadoghq.com/detail/8304107/?gh_jid=8304107) |
 | **Airbnb** | Senior Software Engineer, Users Foundation | United States | 🇺🇸 | 18d | [Apply](https://careers.airbnb.com/positions/8304030?gh_jid=8304030) |
 | **ServiceNow** | Technical Architect, Engage Central Platform | Orlando, Florida | 🇺🇸 | 18d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000156622794) |
-| **Toast** | Principal Product Designer, Onboarding | Remote | 🇺🇸 | 18d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8281285) |
-| **Stripe** | Staff Software Engineer, Radar | San Francisco, Seattle | 🇺🇸 | 18d | [Apply](https://stripe.com/jobs/search?gh_jid=8287912) |
 
 ---
 
@@ -458,4 +458,4 @@ https://applyloop.pro/api/public/h1b-jobs
   <p><sub>Built for people on F-1 OPT and H-1B timelines, where speed decides outcomes.</sub></p>
 </div>
 
-<sub>Last updated: 2026-11-08 02:28 UTC</sub>
+<sub>Last updated: 2026-11-08 17:05 UTC</sub>
