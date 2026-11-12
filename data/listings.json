@@ -3,9 +3,97 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-11T18:42:23.084Z",
+  "generated_at": "2026-11-12T03:48:09.093Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Twilio",
+      "title": "Architect",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8316035",
+      "date_posted": 1794444313,
+      "flags": []
+    },
+    {
+      "company": "Samsara",
+      "title": "Supply Chain Program Manager",
+      "location": "Remote",
+      "url": "https://www.samsara.com/company/careers/roles/8327792?gh_jid=8327792",
+      "date_posted": 1794440725,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Principal Growth Marketing Manager",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8374274?gh_jid=8374274",
+      "date_posted": 1794439286,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Engine Infrastructure",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8346849?gh_jid=8346849",
+      "date_posted": 1794439030,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Staff Software Engineer, Application Infrastructure",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8371715",
+      "date_posted": 1794438490,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Software Engineer - Virtual Platform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8351288?gh_jid=8351288",
+      "date_posted": 1794437669,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Revenue Operations Manager",
+      "location": "West Coast",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922724002",
+      "date_posted": 1794434461,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Advanced Analytics Intern",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
+      "date_posted": 1794432928,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Principal GenAI Data Engineer",
+      "location": "Bellevue, Washington, USA; Santa Clara, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5282847007",
+      "date_posted": 1794432418,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Staff Product Manager, Foundation Pillar",
+      "location": "SF, SEA, NY, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8381041",
+      "date_posted": 1794429765,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Product Marketing Manager - Growth",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5292732007",
+      "date_posted": 1794423404,
+      "flags": []
+    },
     {
       "company": "Snowflake",
       "title": "Technical Program Manager, Compute Infrastructure",
@@ -132,6 +220,14 @@
       "location": "Blue Mound",
       "url": "https://www.carvana.com/careers/apply?gh_jid=8375699",
       "date_posted": 1794353656,
+      "flags": []
+    },
+    {
+      "company": "Socure",
+      "title": "Senior Product Manager, Identity Graph Platform Products",
+      "location": "Hub - New York",
+      "url": "https://jobs.ashbyhq.com/socure/9b3db58d-1330-44f5-9530-1f21c38519f3/application",
+      "date_posted": 1794352577,
       "flags": []
     },
     {
@@ -1653,6 +1749,14 @@
       "flags": []
     },
     {
+      "company": "Flexport",
+      "title": "Account Executive, Flexport Capital",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8347716",
+      "date_posted": 1793658271,
+      "flags": []
+    },
+    {
       "company": "Snowflake",
       "title": "Information Systems Security Engineer",
       "location": "US-VA-McLean",
@@ -3112,110 +3216,6 @@
       "location": "New York City, NEW YORK",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157528589",
       "date_posted": 1792773285,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Software Engineer, Payments",
-      "location": "United States",
-      "url": "https://stripe.com/jobs/search?gh_jid=8260982",
-      "date_posted": 1792772374,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Data Center Network Operations Engineer",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8311378?gh_jid=8311378",
-      "date_posted": 1792772330,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Partner Program Manager",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8287927",
-      "date_posted": 1792770218,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Associate Forward Deployed Engineer",
-      "location": "Mountain View, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
-      "date_posted": 1792768771,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Associate Customer Success Manager - Denver",
-      "location": "Denver, Colorado",
-      "url": "https://careers.datadoghq.com/detail/8301113/?gh_jid=8301113",
-      "date_posted": 1792765304,
-      "flags": []
-    },
-    {
-      "company": "Mongodb",
-      "title": "Director of Customer Marketing & Advocacy",
-      "location": "United States",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8301805",
-      "date_posted": 1792760785,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Manager, Sales Engineering - SMB",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5268698007",
-      "date_posted": 1792720331,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Program Manager, Commercial Solutions",
-      "location": "US-Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=8279867",
-      "date_posted": 1792716390,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Software Engineer, Agentic Commerce",
-      "location": "In-Office",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8312256?gh_jid=8312256",
-      "date_posted": 1792710911,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Machine Learning Engineer, Scenes",
-      "location": "Mountain View, California, United States, San Francisco, California",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8212626",
-      "date_posted": 1792706795,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Cloud Architect, Product Management",
-      "location": "US - Remote",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8314327?gh_jid=8314327",
-      "date_posted": 1792704894,
-      "flags": []
-    },
-    {
-      "company": "Mongodb",
-      "title": "Senior Software Engineer, Replication",
-      "location": "United States",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8263247",
-      "date_posted": 1792704523,
-      "flags": []
-    },
-    {
-      "company": "Plaid",
-      "title": "Sales Engineer - Public Sector",
-      "location": "San Francisco HQ",
-      "url": "https://jobs.ashbyhq.com/plaid/6466dc3d-8717-4be3-ad86-121ad0e43c04/application",
-      "date_posted": 1792703351,
       "flags": []
     }
   ]
