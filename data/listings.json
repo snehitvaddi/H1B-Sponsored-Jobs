@@ -3,9 +3,81 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-13T03:24:48.747Z",
+  "generated_at": "2026-11-13T18:30:57.608Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Roblox",
+      "title": "Senior Machine Learning Engineer, Behavioral Detection",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8311549?gh_jid=8311549",
+      "date_posted": 1794592072,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Software Engineer, Profile & Community, Web",
+      "location": "Remote",
+      "url": "https://careers.airbnb.com/positions/8386065?gh_jid=8386065",
+      "date_posted": 1794591587,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, TRUST Network",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8368472?gh_jid=8368472",
+      "date_posted": 1794590185,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Solutions Architect (Pre-Sales)",
+      "location": "Detroit",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8314053",
+      "date_posted": 1794589145,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Senior Sales Engineer - Majors, NYC Financials",
+      "location": "Remote - Connecticut, USA; Remote - New Jersey, USA; Remote - New York",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5292843007",
+      "date_posted": 1794586325,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Customer Engineer - Digital Natives",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8076958?gh_jid=8076958",
+      "date_posted": 1794586313,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Digital Native Business (DNB)",
+      "location": "Remote - California; San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8938652002",
+      "date_posted": 1794578545,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Sr Mgr, Sales (Cyber Security and Risk)",
+      "location": "Atlanta, GEORGIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161422979",
+      "date_posted": 1794540917,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Staff Software engineer - Storage",
+      "location": "US-WA-Bellevue",
+      "url": "https://jobs.ashbyhq.com/snowflake/b861ddac-1fc4-4e42-9cde-a81be6f00fe2/application",
+      "date_posted": 1794537042,
+      "flags": []
+    },
     {
       "company": "ServiceNow",
       "title": "Principal Software Engineer & Architect, Cyber Defense Engineering",
@@ -342,6 +414,14 @@
       "location": "SF, SEA, NY, Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=8381041",
       "date_posted": 1794429765,
+      "flags": []
+    },
+    {
+      "company": "Sunpower",
+      "title": "System Designer - Commercial & Residential",
+      "location": "Mountain View, CA",
+      "url": "https://sunpower.breezy.hr/p/e14f3b06e442-system-designer-commercial-residential",
+      "date_posted": 1794426608,
       "flags": []
     },
     {
@@ -952,6 +1032,14 @@
       "location": "Tempe, AZ",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8346963",
       "date_posted": 1794191391,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Solutions Engineer, International",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8363046",
+      "date_posted": 1794147353,
       "flags": []
     },
     {
@@ -3128,94 +3216,6 @@
       "location": "-REMOTE, USA",
       "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8325836",
       "date_posted": 1793053268,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Staff Software Engineer, UI Tooling",
-      "location": "United States",
-      "url": "https://careers.airbnb.com/positions/8325753?gh_jid=8325753",
-      "date_posted": 1793052732,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Senior Software Engineer, Backend (AI Platform)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040267003",
-      "date_posted": 1793051161,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Machine Learning Engineering Manager - Core Ads Ranking",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8319536",
-      "date_posted": 1793050900,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "iOS Engineer, Identity Product",
-      "location": "San Francisco, CA; Seattle, WA; New York City, NY",
-      "url": "https://stripe.com/jobs/search?gh_jid=8311082",
-      "date_posted": 1793048021,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Security Engineer, Corporate Security",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8319448?gh_jid=8319448",
-      "date_posted": 1793047762,
-      "flags": []
-    },
-    {
-      "company": "Natera",
-      "title": "Senior Software Engineer, Portal Application",
-      "location": "US Remote",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6233389004",
-      "date_posted": 1793047138,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Senior Manager, 1:Many Account-Based Marketing",
-      "location": "Palo Alto, CA",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8244872?gh_jid=8244872",
-      "date_posted": 1793046724,
-      "flags": []
-    },
-    {
-      "company": "Zuora",
-      "title": "IT Support Specialist",
-      "location": "Foster City, California",
-      "url": "https://boards.greenhouse.io/zuora/jobs/8281565?gh_jid=8281565",
-      "date_posted": 1793045971,
-      "flags": []
-    },
-    {
-      "company": "Verkada",
-      "title": "Senior Product Manager, Access Management",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5222016007",
-      "date_posted": 1793044922,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Staff, Product Manager - Identity",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8319160",
-      "date_posted": 1793043671,
-      "flags": []
-    },
-    {
-      "company": "Klaviyo",
-      "title": "Senior Lead AI Engineer - G&A Systems",
-      "location": "Boston, MA",
-      "url": "https://www.klaviyo.com/careers/jobs/8017125003?gh_jid=8017125003",
-      "date_posted": 1793036026,
       "flags": []
     }
   ]
