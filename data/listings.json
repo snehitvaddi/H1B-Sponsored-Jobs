@@ -3,9 +3,145 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-13T18:30:57.608Z",
+  "generated_at": "2026-11-14T03:13:34.646Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Metronome (Startups)",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=stripe&token=8338839",
+      "date_posted": 1794621707,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Director, Growth Sales (AI & Digital Natives)",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8383781?gh_jid=8383781",
+      "date_posted": 1794611311,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Senior Software Engineer, Performance",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8386877",
+      "date_posted": 1794610362,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Senior Growth Marketing Manager",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8386745",
+      "date_posted": 1794609821,
+      "flags": []
+    },
+    {
+      "company": "Rubrik",
+      "title": "Sales Engineer, SaaS Product Specialist",
+      "location": "East Coast",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8350545?gh_jid=8350545",
+      "date_posted": 1794609314,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Principal Product Manager - Catering & Events",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8383535",
+      "date_posted": 1794608848,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Software Engineer - Okta Identity Governance",
+      "location": "San Francisco, California",
+      "url": "https://www.okta.com/company/careers/opportunity/8373834?gh_jid=8373834",
+      "date_posted": 1794608229,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Customer Success Executive",
+      "location": "Santa Clara, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161584669",
+      "date_posted": 1794607334,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Strategy & Execution Manager - Deal Desk Transformation",
+      "location": "Mountain View, California; San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8762400002",
+      "date_posted": 1794607131,
+      "flags": []
+    },
+    {
+      "company": "Dropbox",
+      "title": "Implementation Architect",
+      "location": "Remote - US: Select locations",
+      "url": "https://jobs.dropbox.com/listing/8374438?gh_jid=8374438",
+      "date_posted": 1794606625,
+      "flags": []
+    },
+    {
+      "company": "Natera",
+      "title": "Manager, Software Engineering",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6260848004",
+      "date_posted": 1794606238,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal Software Engineer, Creator Analytics",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8310779?gh_jid=8310779",
+      "date_posted": 1794602362,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Principal, Product Manager ( L5)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8386024",
+      "date_posted": 1794600512,
+      "flags": []
+    },
+    {
+      "company": "Lyft",
+      "title": "SVP, Chief Communications Officer",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8927801002?gh_jid=8927801002",
+      "date_posted": 1794599938,
+      "flags": []
+    },
+    {
+      "company": "Carvana",
+      "title": "Customer Service Delivery Advocate",
+      "location": "Knoxville, TN",
+      "url": "https://www.carvana.com/careers/apply?gh_jid=8386286",
+      "date_posted": 1794597827,
+      "flags": []
+    },
+    {
+      "company": "Samsara",
+      "title": "Sr. Hardware Reliability Engineer",
+      "location": "San Francisco - SF9",
+      "url": "https://www.samsara.com/company/careers/roles/8374813?gh_jid=8374813",
+      "date_posted": 1794596076,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Product Manager - Openflow",
+      "location": "US-WA-Bellevue",
+      "url": "https://jobs.ashbyhq.com/snowflake/61d48d79-aeb8-45fb-806a-5b6e9f625de7/application",
+      "date_posted": 1794592977,
+      "flags": []
+    },
     {
       "company": "Roblox",
       "title": "Senior Machine Learning Engineer, Behavioral Detection",
@@ -254,6 +390,14 @@
       "location": "New York",
       "url": "https://boards.greenhouse.io/point72/jobs/8939660002?gh_jid=8939660002",
       "date_posted": 1794502594,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Client Account Manager, Walmart",
+      "location": "New York, NY",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8347744",
+      "date_posted": 1794500224,
       "flags": []
     },
     {
@@ -3072,150 +3216,6 @@
       "location": "US - Remote",
       "url": "https://www.rubrik.com/company/careers/departments/job.8327831?gh_jid=8327831",
       "date_posted": 1793124122,
-      "flags": []
-    },
-    {
-      "company": "Marlabs",
-      "title": "Technical Product Owner (Strategy & Execution)",
-      "location": "Indianapolis, IN",
-      "url": "https://marlabs.breezy.hr/p/e0d87afb40d4-technical-product-owner-strategy-execution",
-      "date_posted": 1793120721,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Director, Site Reliability Engineering",
-      "location": "Bellevue, Washington; San Francisco, California",
-      "url": "https://www.okta.com/company/careers/opportunity/8303680?gh_jid=8303680",
-      "date_posted": 1793118159,
-      "flags": []
-    },
-    {
-      "company": "Natera",
-      "title": "Sr Product Manager",
-      "location": "US Remote",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6236001004",
-      "date_posted": 1793115341,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Global Head of Specialist Solutions Architecture, Revenue Suite",
-      "location": "United States",
-      "url": "https://stripe.com/jobs/search?gh_jid=8175669",
-      "date_posted": 1793114508,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Software Engineer, Certificates Management",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8326127?gh_jid=8326127",
-      "date_posted": 1793113223,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Principal Software Development Engineer- Go",
-      "location": "Santa Clara, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5256472007",
-      "date_posted": 1793113034,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Product Designer (Short Term)",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8318426?gh_jid=8318426",
-      "date_posted": 1793110243,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Senior Data Analyst",
-      "location": "Boston",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8300025",
-      "date_posted": 1793110073,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Staff Software Engineer, Frontend (Decisions Orechestration)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8034825003",
-      "date_posted": 1793102710,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Product Designer - UI Platform",
-      "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC",
-      "url": "https://www.okta.com/company/careers/opportunity/8326116?gh_jid=8326116",
-      "date_posted": 1793071686,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Sr. Director, Marketing Strategy, Analytics & Innovation",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8325734",
-      "date_posted": 1793068636,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Group Product Manager, Depot Operations Automation",
-      "location": "Mountain View, CA, US; San Francisco, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8314252",
-      "date_posted": 1793057186,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Senior Software Engineer, Compute Service",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/95b87897-68dc-47c0-a4c0-2320d36dafac/application",
-      "date_posted": 1793055705,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Brand Designer, Illustration & Graphic",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8317585?gh_jid=8317585",
-      "date_posted": 1793055462,
-      "flags": []
-    },
-    {
-      "company": "Flexport",
-      "title": "Account Manager III, Fulfillment",
-      "location": "Atlanta, Georgia, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Los Angeles, California",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/8325948",
-      "date_posted": 1793054437,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Partner Account Manager, Southeast & MidAtlantic Region",
-      "location": "Distributed",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8306651?gh_jid=8306651",
-      "date_posted": 1793053773,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Sr. Staff Applied AI Engineer, GTM",
-      "location": "Remote - USA; Santa Clara, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5275347007",
-      "date_posted": 1793053623,
-      "flags": []
-    },
-    {
-      "company": "Smartsheet",
-      "title": "Senior Channel Account Manager",
-      "location": "-REMOTE, USA",
-      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8325836",
-      "date_posted": 1793053268,
       "flags": []
     }
   ]
