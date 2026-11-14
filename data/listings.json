@@ -3,7 +3,7 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-14T03:13:34.646Z",
+  "generated_at": "2026-11-14T17:09:27.137Z",
   "count": 400,
   "jobs": [
     {
@@ -12,6 +12,14 @@
       "location": "United States",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=stripe&token=8338839",
       "date_posted": 1794621707,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Roblox OS",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8350723?gh_jid=8350723",
+      "date_posted": 1794621365,
       "flags": []
     },
     {
@@ -254,6 +262,14 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8196747003",
       "date_posted": 1794525280,
+      "flags": []
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Software Engineer II - Flows Experience",
+      "location": "Boston, MA",
+      "url": "https://www.klaviyo.com/careers/jobs/8199437003?gh_jid=8199437003",
+      "date_posted": 1794521907,
       "flags": []
     },
     {
@@ -3200,22 +3216,6 @@
       "location": "Tempe, AZ",
       "url": "https://www.carvana.com/careers/apply?gh_jid=8328744",
       "date_posted": 1793129945,
-      "flags": []
-    },
-    {
-      "company": "Verkada",
-      "title": "Solutions Engineering Manager, Select & Territory",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5253735007",
-      "date_posted": 1793124398,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Staff Product Manager, Databases",
-      "location": "US - Remote",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8327831?gh_jid=8327831",
-      "date_posted": 1793124122,
       "flags": []
     }
   ]
