@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-14T17:09:27.137Z",
+  "generated_at": "2026-11-15T02:38:43.533Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Zuora",
+      "title": "Customer Solution Engineer, Zuora + Workday Financial Management (FINS)",
+      "location": "Remote",
+      "url": "https://boards.greenhouse.io/zuora/jobs/8387830?gh_jid=8387830",
+      "date_posted": 1794677868,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Staff Machine Learning Engineer - Vision AI",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8368738",
+      "date_posted": 1794623511,
+      "flags": []
+    },
     {
       "company": "Stripe",
       "title": "Solutions Architect, Metronome (Startups)",
@@ -196,6 +212,14 @@
       "location": "Hybrid",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8076958?gh_jid=8076958",
       "date_posted": 1794586313,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Trade Advisory Associate",
+      "location": "Bellevue, Washington, United States; New York City, New York, United States; San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8385664",
+      "date_posted": 1794582865,
       "flags": []
     },
     {
@@ -1408,6 +1432,14 @@
       "location": "San Francisco, California",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
       "date_posted": 1793974883,
+      "flags": []
+    },
+    {
+      "company": "Samsara",
+      "title": "Staff Machine Learning Engineer - Edge AI",
+      "location": "Remote",
+      "url": "https://www.samsara.com/company/careers/roles/8358617?gh_jid=8358617",
+      "date_posted": 1793964657,
       "flags": []
     },
     {
@@ -3184,38 +3216,6 @@
       "location": "US Remote",
       "url": "https://job-boards.greenhouse.io/natera/jobs/6234723004",
       "date_posted": 1793137367,
-      "flags": []
-    },
-    {
-      "company": "Coursera",
-      "title": "Senior Financial Analyst, Enterprise",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/coursera/jobs/6219592004",
-      "date_posted": 1793134298,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Engineering Manager - Reliability Engineering",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8283711?gh_jid=8283711",
-      "date_posted": 1793133918,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Data Scientist, Performance Marketing",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8280111",
-      "date_posted": 1793130666,
-      "flags": []
-    },
-    {
-      "company": "Carvana",
-      "title": "Senior Project Manager, Construction",
-      "location": "Tempe, AZ",
-      "url": "https://www.carvana.com/careers/apply?gh_jid=8328744",
-      "date_posted": 1793129945,
       "flags": []
     }
   ]
