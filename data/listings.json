@@ -3,9 +3,121 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-16T02:43:15.851Z",
+  "generated_at": "2026-11-16T21:03:09.038Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Plaid",
+      "title": "Staff Software Engineer - Device Fingerprinting",
+      "location": "San Francisco HQ",
+      "url": "https://jobs.ashbyhq.com/plaid/8315280a-2498-4b41-9b98-621a61c1f4dc/application",
+      "date_posted": 1794859215,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer-ML Platform",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8268776?gh_jid=8268776",
+      "date_posted": 1794856625,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Software Engineer (Frontend) - MFA, Assurance, Policies and Hybrid Access",
+      "location": "San Francisco, California",
+      "url": "https://www.okta.com/company/careers/opportunity/8238010?gh_jid=8238010",
+      "date_posted": 1794855578,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Software Engineer - Elastic Global Services",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/829e9786-6661-4134-b7cd-aef3bed75c1c/application",
+      "date_posted": 1794854945,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Revenue Accountant- Platform Revenue",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8359279",
+      "date_posted": 1794854561,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Forward Deployed Solution Engineer - Applied AI FDE",
+      "location": "Kirkland, Washington",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161881425",
+      "date_posted": 1794851805,
+      "flags": []
+    },
+    {
+      "company": "Carvana",
+      "title": "Customer Service Delivery Advocate- 4 day work week!",
+      "location": "Tolleson, AZ",
+      "url": "https://www.carvana.com/careers/apply?gh_jid=8393542",
+      "date_posted": 1794851275,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Staff Security Engineer (Identity & Access Systems)",
+      "location": "Santa Clara, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5263590007",
+      "date_posted": 1794850978,
+      "flags": []
+    },
+    {
+      "company": "Liveramp-inc",
+      "title": "Senior Deal Desk Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/liveramp-inc/a1b1a7e3-f80d-4218-94f6-e58d5227ea79/application",
+      "date_posted": 1794850380,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Program Manager, North America Policy",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8393253?gh_jid=8393253",
+      "date_posted": 1794849696,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Customer Success Manager",
+      "location": "Los Angeles; Salt Lake City; San Diego",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8384442",
+      "date_posted": 1794846345,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Principal Software Engineer, Identity & Access Management",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8383577?gh_jid=8383577",
+      "date_posted": 1794845690,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, TRUST Network",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8368463?gh_jid=8368463",
+      "date_posted": 1794838951,
+      "flags": []
+    },
+    {
+      "company": "Amazon.com Services LLC",
+      "title": "Data Engineer, SPTC",
+      "location": "Seattle, WA",
+      "url": "https://www.amazon.jobs/en/jobs/10537982/data-engineer-sptc",
+      "date_posted": 1794799866,
+      "flags": []
+    },
     {
       "company": "Samsara",
       "title": "Product Design (Mechanical Engineering) Co-Op",
@@ -534,6 +646,14 @@
       "location": "Santa Clara, California",
       "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8381956",
       "date_posted": 1794443554,
+      "flags": []
+    },
+    {
+      "company": "Tiger Analytics Inc.",
+      "title": "Industry Partner Sales Leader - Financial Services (AWS)",
+      "location": "Santa Clara, California",
+      "url": "https://apply.workable.com/j/EE5D0492D8/apply",
+      "date_posted": 1794441600,
       "flags": []
     },
     {
@@ -1392,6 +1512,14 @@
       "location": "United States",
       "url": "https://job-boards.greenhouse.io/coursera/jobs/6236206004",
       "date_posted": 1793997392,
+      "flags": []
+    },
+    {
+      "company": "Thumbtack",
+      "title": "Product Designer, Partnerships and Brand Experience",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/thumbtack/610283d2-f374-49e1-9fd4-f6d48c1e7e87/application",
+      "date_posted": 1793993348,
       "flags": []
     },
     {
@@ -3088,134 +3216,6 @@
       "location": "San Mateo, CA",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5275085007",
       "date_posted": 1793215139,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. UX Engineer",
-      "location": "San Francisco, CA, USA; Remote",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015362",
-      "date_posted": 1793214901,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Senior Technical Program Manager, Central",
-      "location": "San Francisco, CA",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8921735002?gh_jid=8921735002",
-      "date_posted": 1793212195,
-      "flags": []
-    },
-    {
-      "company": "Liveramp-inc",
-      "title": "Sr. Full-Stack Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/liveramp-inc/7b319b5a-95b4-4574-82ea-767f42149b7d/application",
-      "date_posted": 1793209892,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Enterprise Product Manager, FP&A",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8318557?gh_jid=8318557",
-      "date_posted": 1793205731,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Staff Forward Deployed Engineer, Applied AI",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/fe41fd7e-56ad-4bdc-b13f-20adb2542171/application",
-      "date_posted": 1793205258,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Staff Product Manager I, Base Pricing",
-      "location": "San Francisco, CA",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8917426002?gh_jid=8917426002",
-      "date_posted": 1793203203,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Client Account Manager, Health",
-      "location": "New York, NY",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8290034",
-      "date_posted": 1793202820,
-      "flags": []
-    },
-    {
-      "company": "Flexport",
-      "title": "Software Engineer II, Shipping Solutions",
-      "location": "Bellevue, Washington",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/8326088",
-      "date_posted": 1793202728,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Forward Deployed Solution Engineer - Applied AI FDE",
-      "location": "New York, New York",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158334169",
-      "date_posted": 1793202354,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Product Marketing Manager, Subscriptions",
-      "location": "New York, San Francisco, Seattle, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=8331124",
-      "date_posted": 1793201310,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Hardware Systems Engineer",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8325821?gh_jid=8325821",
-      "date_posted": 1793200516,
-      "flags": []
-    },
-    {
-      "company": "Asana",
-      "title": "Design Leader, Emerging Products",
-      "location": "San Francisco",
-      "url": "https://www.asana.com/jobs/apply/8154796?gh_jid=8154796",
-      "date_posted": 1793199556,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Staff Software Engineer, Backend (Observability)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040396003",
-      "date_posted": 1793191551,
-      "flags": []
-    },
-    {
-      "company": "Carvana",
-      "title": "Auto Mechanic II - ADESA Mira Loma",
-      "location": "Mira Loma, CA",
-      "url": "https://www.carvana.com/careers/apply?gh_jid=8330533",
-      "date_posted": 1793186191,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Principal Software Engineer, GenAI Platform",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8287614?gh_jid=8287614",
-      "date_posted": 1793155359,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Staff Software Engineer, Dashboard Product",
-      "location": "Seattle",
-      "url": "https://stripe.com/jobs/search?gh_jid=8329718",
-      "date_posted": 1793150487,
       "flags": []
     }
   ]
