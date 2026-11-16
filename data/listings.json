@@ -3,9 +3,17 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-15T17:43:43.365Z",
+  "generated_at": "2026-11-16T02:43:15.851Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Samsara",
+      "title": "Product Design (Mechanical Engineering) Co-Op",
+      "location": "San Francisco - SF9",
+      "url": "https://www.samsara.com/company/careers/roles/8214590?gh_jid=8214590",
+      "date_posted": 1794768536,
+      "flags": []
+    },
     {
       "company": "Zuora",
       "title": "Customer Solution Engineer, Zuora + Workday Financial Management (FINS)",
@@ -1224,6 +1232,14 @@
       "location": "Remote",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8363046",
       "date_posted": 1794147353,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Systems Engineer, Driving Behaviors",
+      "location": "Mountain View, CA, USA; San Francisco, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8363213",
+      "date_posted": 1794105180,
       "flags": []
     },
     {
@@ -2827,6 +2843,14 @@
       "flags": []
     },
     {
+      "company": "Roblox",
+      "title": "Principal Software Engineer, WebRTC",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8174172?gh_jid=8174172",
+      "date_posted": 1793305012,
+      "flags": []
+    },
+    {
       "company": "Coursera",
       "title": "Enterprise FP&A Lead",
       "location": "United States",
@@ -3192,30 +3216,6 @@
       "location": "Seattle",
       "url": "https://stripe.com/jobs/search?gh_jid=8329718",
       "date_posted": 1793150487,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Principal, Strategic Finance & Analytics - Membership",
-      "location": "United States",
-      "url": "https://careers.airbnb.com/positions/8329612?gh_jid=8329612",
-      "date_posted": 1793145927,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Staff Software Engineer, Orders",
-      "location": "Remote",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8313894",
-      "date_posted": 1793140191,
-      "flags": []
-    },
-    {
-      "company": "Natera",
-      "title": "Finance Compliance Analyst",
-      "location": "US Remote",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6234723004",
-      "date_posted": 1793137367,
       "flags": []
     }
   ]
