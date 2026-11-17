@@ -3,9 +3,129 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-17T05:04:23.852Z",
+  "generated_at": "2026-11-17T19:51:49.966Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Affirm",
+      "title": "Manager, Software Engineering (Code Standards)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8197742003",
+      "date_posted": 1794937374,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Software Engineer, Communication Safety",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8386848?gh_jid=8386848",
+      "date_posted": 1794937176,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Staff Software Development Engineer- AI Security (Go/Rust/Python)",
+      "location": "Santa Clara, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5219189007",
+      "date_posted": 1794935410,
+      "flags": []
+    },
+    {
+      "company": "Nuro",
+      "title": "Staff Program Manager, Strike Team",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8396167",
+      "date_posted": 1794935320,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Software Engineer, Data Platform",
+      "location": "Bellevue, WA",
+      "url": "https://www.okta.com/company/careers/opportunity/8384001?gh_jid=8384001",
+      "date_posted": 1794935061,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Staff Software Engineer, IQ",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8327428",
+      "date_posted": 1794934651,
+      "flags": []
+    },
+    {
+      "company": "Carvana",
+      "title": "ADESA Customer Service Representative / Customer Advocate",
+      "location": "Tempe, Arizona",
+      "url": "https://www.carvana.com/careers/apply?gh_jid=8394409",
+      "date_posted": 1794934573,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Forward Deployed AI Accelerator, Marketing",
+      "location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=8395851",
+      "date_posted": 1794931534,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Software Engineer",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8383586?gh_jid=8383586",
+      "date_posted": 1794930354,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Engineer",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8925851002",
+      "date_posted": 1794928995,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Financial Integrity",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8395582?gh_jid=8395582",
+      "date_posted": 1794927581,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Manager, Business Risk and AI Automation",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8395504",
+      "date_posted": 1794924924,
+      "flags": []
+    },
+    {
+      "company": "Point72",
+      "title": "Machine Learning Infrastructure Engineer, Technology",
+      "location": "New York, NY",
+      "url": "https://boards.greenhouse.io/point72/jobs/8945315002?gh_jid=8945315002",
+      "date_posted": 1794922528,
+      "flags": []
+    },
+    {
+      "company": "Natera",
+      "title": "Patient Outreach and Support Specialist-Temp",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6263353004",
+      "date_posted": 1794890060,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Technical Program Manager II",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8369211",
+      "date_posted": 1794884167,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Public Relations Associate, APJC",
@@ -124,6 +244,14 @@
       "location": "United States",
       "url": "https://stripe.com/jobs/search?gh_jid=8383460",
       "date_posted": 1794860604,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Sales Operations Analyst",
+      "location": "San Diego, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161903959",
+      "date_posted": 1794859532,
       "flags": []
     },
     {
@@ -348,6 +476,14 @@
       "location": "Mountain View, California; San Francisco, California",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8762400002",
       "date_posted": 1794607131,
+      "flags": []
+    },
+    {
+      "company": "Tiger Analytics Inc.",
+      "title": "Forward Deployed Engineer (FDE) - GenAI / Agentic AI",
+      "location": "Remote",
+      "url": "https://jobs.workable.com/view/epNh7DhAkyxDunaq7Xig44/remote-forward-deployed-engineer-(fde)---genai-%2F-agentic-ai-in-united-states-at-tiger-analytics-inc.",
+      "date_posted": 1794606930,
       "flags": []
     },
     {
@@ -3080,142 +3216,6 @@
       "location": "Washington, District of Columbia",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158604059",
       "date_posted": 1793307118,
-      "flags": []
-    },
-    {
-      "company": "Point72",
-      "title": "Systems Engineer, Collaboration Technology",
-      "location": "New York, NY",
-      "url": "https://boards.greenhouse.io/point72/jobs/8923153002?gh_jid=8923153002",
-      "date_posted": 1793306152,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Client Platform Engineer",
-      "location": "San Francisco, California",
-      "url": "https://www.okta.com/company/careers/opportunity/8332521?gh_jid=8332521",
-      "date_posted": 1793306135,
-      "flags": []
-    },
-    {
-      "company": "Brex",
-      "title": "Analyst, Banking Operations (Domestic)",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/brex/jobs/8924533002",
-      "date_posted": 1793306112,
-      "flags": []
-    },
-    {
-      "company": "Brex",
-      "title": "Analyst, Banking Operations (Domestic)",
-      "location": "Salt Lake City, Utah",
-      "url": "https://boards.greenhouse.io/brex/jobs/8923923002",
-      "date_posted": 1793306017,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Principal Software Engineer, WebRTC",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8174172?gh_jid=8174172",
-      "date_posted": 1793305012,
-      "flags": []
-    },
-    {
-      "company": "Coursera",
-      "title": "Enterprise FP&A Lead",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/coursera/jobs/6238594004",
-      "date_posted": 1793302723,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Solutions Architect - Travel and Hospitality",
-      "location": "Chicago, Illinois; Dallas, Texas",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886517002",
-      "date_posted": 1793298892,
-      "flags": []
-    },
-    {
-      "company": "Carvana",
-      "title": "Entry-Level Auto Mechanic",
-      "location": "Framingham, MA",
-      "url": "https://www.carvana.com/careers/apply?gh_jid=8334789",
-      "date_posted": 1793298262,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Senior Frontend Engineer, Ads Formats",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8287466",
-      "date_posted": 1793295566,
-      "flags": []
-    },
-    {
-      "company": "Asana",
-      "title": "Customer Success Manager (AI Success Architect)",
-      "location": "Chicago",
-      "url": "https://www.asana.com/jobs/apply/8311577?gh_jid=8311577",
-      "date_posted": 1793293473,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
-      "location": "New York City, New York",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8923831002",
-      "date_posted": 1793291163,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Product Operations Manager, Ops Compliance & Regulatory Infrastructure",
-      "location": "Mountain View, CA, USA; San Francisco, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8315881",
-      "date_posted": 1793290979,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Product Manager Intern (2027) - London, UK",
-      "location": "In-Office",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914",
-      "date_posted": 1793288551,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Staff Machine Learning Engineer, Ads Forecasting & Scenarios",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8334138",
-      "date_posted": 1793287499,
-      "flags": []
-    },
-    {
-      "company": "Mongodb",
-      "title": "Financial Analyst, P&T",
-      "location": "New York City",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8328622",
-      "date_posted": 1793281175,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Solutions Architect - Games",
-      "location": "West Coast",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8859518002",
-      "date_posted": 1793278487,
-      "flags": []
-    },
-    {
-      "company": "Zuora",
-      "title": "AI Product Manager, Enterprise AI",
-      "location": "Foster City, California",
-      "url": "https://boards.greenhouse.io/zuora/jobs/8325518?gh_jid=8325518",
-      "date_posted": 1793262814,
       "flags": []
     }
   ]
