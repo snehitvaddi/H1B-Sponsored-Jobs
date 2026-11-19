@@ -3,15 +3,95 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-19T04:11:51.227Z",
+  "generated_at": "2026-11-19T19:29:39.488Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "ServiceNow",
+      "title": "Solution CRM Success Engineer",
+      "location": "Austin, Texas",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162572680",
+      "date_posted": 1795109439,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Marketing Strategy & Operations Lead, Global Demand, Campaigns, Field Marketing",
+      "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the",
+      "url": "https://stripe.com/jobs/search?gh_jid=8384782",
+      "date_posted": 1795109248,
+      "flags": []
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Product Creative Designer",
+      "location": "Remote",
+      "url": "https://www.coinbase.com/careers/positions/8402798?gh_jid=8402798",
+      "date_posted": 1795108443,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Machine Learning Engineer, Homefeed & Search Quality",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8346516",
+      "date_posted": 1795106193,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Senior Client Account Manager, Mid-Market (Goods - Shopping)",
+      "location": "New York City, NY",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8351484",
+      "date_posted": 1795103725,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Program Manager, Governance, Risk and Compliance",
+      "location": "United States",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8395822",
+      "date_posted": 1795103211,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Majors Account Manager",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8393704?gh_jid=8393704",
+      "date_posted": 1795098620,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Games",
+      "location": "Arizona",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8951414002",
+      "date_posted": 1795097795,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Software Engineer, Field Response",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8396989",
+      "date_posted": 1795060094,
+      "flags": []
+    },
     {
       "company": "Databricks",
       "title": "Principal Campaign Marketing Manager, Integrated Campaigns",
       "location": "United States",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8943066002",
       "date_posted": 1795055759,
+      "flags": []
+    },
+    {
+      "company": "Zuora",
+      "title": "Principal Product Manager",
+      "location": "Foster City, California",
+      "url": "https://boards.greenhouse.io/zuora/jobs/8393176?gh_jid=8393176",
+      "date_posted": 1795047456,
       "flags": []
     },
     {
@@ -36,6 +116,14 @@
       "location": "Orem, UT",
       "url": "https://sunpower.breezy.hr/p/eb36f2f3f2d3-industrial-engineer-solar-operations-data-analytics",
       "date_posted": 1795039965,
+      "flags": []
+    },
+    {
+      "company": "Sunpower",
+      "title": "Solar Electrician",
+      "location": "Richmond, VA",
+      "url": "https://sunpower.breezy.hr/p/fd602b394bdd-solar-electrician",
+      "date_posted": 1795039919,
       "flags": []
     },
     {
@@ -2889,6 +2977,14 @@
       "flags": []
     },
     {
+      "company": "Rubrik",
+      "title": "Software Engineer - Orchestrated Application Recovery",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8335812?gh_jid=8335812",
+      "date_posted": 1793746830,
+      "flags": []
+    },
+    {
       "company": "Lyft",
       "title": "Accountant, Lease & Fleet",
       "location": "San Francisco, CA",
@@ -3118,104 +3214,6 @@
       "location": "Bellevue, WA, United States; Chicago, Illinois, United States; Toronto, ON, Canada",
       "url": "https://www.okta.com/company/careers/opportunity/8324993?gh_jid=8324993",
       "date_posted": 1793658551,
-      "flags": []
-    },
-    {
-      "company": "Airbnb",
-      "title": "Senior Systems Engineer, Tech Foundations",
-      "location": "United States",
-      "url": "https://careers.airbnb.com/positions/8348197?gh_jid=8348197",
-      "date_posted": 1793658506,
-      "flags": []
-    },
-    {
-      "company": "Flexport",
-      "title": "Account Executive, Flexport Capital",
-      "location": "San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/8347716",
-      "date_posted": 1793658271,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Information Systems Security Engineer",
-      "location": "US-VA-McLean",
-      "url": "https://jobs.ashbyhq.com/snowflake/808d3b05-081d-4eb6-a5dc-74448c3429e9/application",
-      "date_posted": 1793657371,
-      "flags": [
-        "clearance"
-      ]
-    },
-    {
-      "company": "Toast",
-      "title": "Principal Fraud Analyst (Data Science), Digital Payments Fraud Strategy US",
-      "location": "Remote",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8313888",
-      "date_posted": 1793654258,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Data Center Design Engineer",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8227832?gh_jid=8227832",
-      "date_posted": 1793653124,
-      "flags": []
-    },
-    {
-      "company": "Smartsheet",
-      "title": "Software Engineer I (Remote Eligible)",
-      "location": "-REMOTE, USA",
-      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8347710",
-      "date_posted": 1793651871,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Americas Field Marketing, Financial Services",
-      "location": "US Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=8332880",
-      "date_posted": 1793651078,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Sales Development Representative, Observability",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/b31da4db-b3a4-4c95-96f3-f82523f9073a/application",
-      "date_posted": 1793650309,
-      "flags": []
-    },
-    {
-      "company": "Asana",
-      "title": "Head of IT Systems Engineering",
-      "location": "San Francisco",
-      "url": "https://www.asana.com/jobs/apply/8326299?gh_jid=8326299",
-      "date_posted": 1793649492,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Customer Engineer, Named Enterprise - Montreal, QC",
-      "location": "Distributed",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8335624?gh_jid=8335624",
-      "date_posted": 1793649343,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Machine Learning Engineer, Homefeed",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8279563",
-      "date_posted": 1793647128,
-      "flags": []
-    },
-    {
-      "company": "Thumbtack",
-      "title": "Manager, Launch and Growth Operations",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/thumbtack/cd323d01-b472-4b35-9cca-806ba1c50a1d/application",
-      "date_posted": 1793646857,
       "flags": []
     }
   ]
