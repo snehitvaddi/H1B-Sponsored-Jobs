@@ -3,9 +3,161 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-19T19:29:39.488Z",
+  "generated_at": "2026-11-20T03:58:11.106Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Plaid",
+      "title": "Implementation Specialist - Enterprise",
+      "location": "San Francisco HQ",
+      "url": "https://jobs.ashbyhq.com/plaid/bedae333-aa7f-4bf8-9d20-59fa3ba699b8/application",
+      "date_posted": 1795138678,
+      "flags": []
+    },
+    {
+      "company": "Airbnb",
+      "title": "Product Manager, AI Trip Planning",
+      "location": "San Francisco, CA",
+      "url": "https://careers.airbnb.com/positions/8231431?gh_jid=8231431",
+      "date_posted": 1795136173,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Staff Software Engineer, Mobile Development Productivity",
+      "location": "United States",
+      "url": "https://stripe.com/jobs/search?gh_jid=8404115",
+      "date_posted": 1795135558,
+      "flags": []
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer - UGC Marketplace",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8397795?gh_jid=8397795",
+      "date_posted": 1795132530,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Agentic AI",
+      "location": "Mountain View, California",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8401116",
+      "date_posted": 1795129523,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Machine Learning Engineer, Ads Lightweight Ranking",
+      "location": "San Francisco, CA, US; Remote",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8354411",
+      "date_posted": 1795127413,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Public Sector (Manufacturing / Supply Chain)",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893767002",
+      "date_posted": 1795127217,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Director, CRM Sales - Consumer Goods & Retail",
+      "location": "Santa Clara, California",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162613369",
+      "date_posted": 1795126865,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Professional Services Consultant, Application Security",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8393924?gh_jid=8393924",
+      "date_posted": 1795125916,
+      "flags": []
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) - Summer 2027",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application",
+      "date_posted": 1795124165,
+      "flags": []
+    },
+    {
+      "company": "Okta",
+      "title": "Manager, Enterprise Influencer Relations",
+      "location": "San Francisco, CA",
+      "url": "https://www.okta.com/company/careers/opportunity/8403496?gh_jid=8403496",
+      "date_posted": 1795123642,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Staff Frontend Engineer - Mapping & Spatial Platform",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5302618007",
+      "date_posted": 1795123352,
+      "flags": []
+    },
+    {
+      "company": "Toast",
+      "title": "Senior Principal Product Manager - Vision AI",
+      "location": "Remote",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8402925",
+      "date_posted": 1795118365,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Internal Auditor I (2027 Early Career Program)",
+      "location": "New York, New York",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8206173003",
+      "date_posted": 1795117720,
+      "flags": []
+    },
+    {
+      "company": "Twilio",
+      "title": "Staff Technical Account Manager",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8384556",
+      "date_posted": 1795117512,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Senior Staff Machine Learning Engineer, Ads Ranking",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8368600",
+      "date_posted": 1795115882,
+      "flags": []
+    },
+    {
+      "company": "Mongodb",
+      "title": "Senior Financial Analyst",
+      "location": "Austin",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8381864",
+      "date_posted": 1795113754,
+      "flags": []
+    },
+    {
+      "company": "Datadog",
+      "title": "Art Director - Brand",
+      "location": "New York, New York",
+      "url": "https://careers.datadoghq.com/detail/8400585/?gh_jid=8400585",
+      "date_posted": 1795113100,
+      "flags": []
+    },
+    {
+      "company": "Natera",
+      "title": "Software Engineer III",
+      "location": "Austin, TX",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6250690004",
+      "date_posted": 1795112252,
+      "flags": []
+    },
     {
       "company": "ServiceNow",
       "title": "Solution CRM Success Engineer",
@@ -489,6 +641,14 @@
       "flags": []
     },
     {
+      "company": "AppFolio Inc",
+      "title": "Staff Software Engineer - Owner / Investor",
+      "location": "Office Hub - Santa Barbara",
+      "url": "https://jobs.ashbyhq.com/appfolio/25fa3475-ae8f-4d0f-8292-84ba8757fe2c",
+      "date_posted": 1794936590,
+      "flags": []
+    },
+    {
       "company": "Zscaler",
       "title": "Staff Software Development Engineer- AI Security (Go/Rust/Python)",
       "location": "Santa Clara, California",
@@ -550,6 +710,14 @@
       "location": "Hybrid",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8383586?gh_jid=8383586",
       "date_posted": 1794930354,
+      "flags": []
+    },
+    {
+      "company": "Coursera",
+      "title": "Strategic Account Executive",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6263816004",
+      "date_posted": 1794929620,
       "flags": []
     },
     {
@@ -3046,174 +3214,6 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8350749",
       "date_posted": 1793736678,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior AI-Native Designer & Builder, Design System",
-      "location": "Santa Clara, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5271544007",
-      "date_posted": 1793735485,
-      "flags": []
-    },
-    {
-      "company": "Pinterest",
-      "title": "Motion Designer, PPM SMB",
-      "location": "San Francisco, CA, US; Remote",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268342",
-      "date_posted": 1793732440,
-      "flags": []
-    },
-    {
-      "company": "Twilio",
-      "title": "Software Engineer (L3) Email",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8026199",
-      "date_posted": 1793730122,
-      "flags": []
-    },
-    {
-      "company": "Natera",
-      "title": "Associate Director / Director of Product Management, Signatera Hematologic Oncology (Heme)",
-      "location": "US Remote",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6242264004",
-      "date_posted": 1793727200,
-      "flags": []
-    },
-    {
-      "company": "Liveramp-inc",
-      "title": "Senior Collaboration Architect",
-      "location": "New York, NY",
-      "url": "https://jobs.ashbyhq.com/liveramp-inc/686d634e-b319-4270-9758-eddb4e46a87d/application",
-      "date_posted": 1793726492,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Product Manager, Risk",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8348406?gh_jid=8348406",
-      "date_posted": 1793726243,
-      "flags": []
-    },
-    {
-      "company": "Lyft",
-      "title": "Senior Software Engineer, Forecasting & Real-Time Optimization",
-      "location": "San Francisco, CA",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8927263002?gh_jid=8927263002",
-      "date_posted": 1793722207,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Product Manager, Agentic Search",
-      "location": "In-Office",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8336559?gh_jid=8336559",
-      "date_posted": 1793722073,
-      "flags": []
-    },
-    {
-      "company": "Toast",
-      "title": "Product Manager, Toast Ticketing",
-      "location": "Remote",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8263078",
-      "date_posted": 1793721665,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Genie Sales Director (AI/BI)",
-      "location": "United States",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8824175002",
-      "date_posted": 1793717651,
-      "flags": []
-    },
-    {
-      "company": "Socure",
-      "title": "Executive Creative Director",
-      "location": "Hub - San Francisco",
-      "url": "https://jobs.ashbyhq.com/socure/44896ce9-e971-420e-9a68-17293e0da0af/application",
-      "date_posted": 1793717603,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "IT Support Engineer",
-      "location": "San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8328323",
-      "date_posted": 1793713784,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Customer Success Manager, Mid Market - Moveworks",
-      "location": "San Diego, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159291939",
-      "date_posted": 1793678379,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Staff Software Engineer, Fullstack (Card Experiences)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040271003",
-      "date_posted": 1793673311,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Senior Staff Applied Scientist, Science Platform",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8282748",
-      "date_posted": 1793670083,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Vice President, Corporate and Product Public Relations (Americas)",
-      "location": "Santa Clara, CALIFORNIA",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159265259",
-      "date_posted": 1793665591,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Staff Software Engineer, Agentic Applications",
-      "location": "Mountain View, California",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8927749002",
-      "date_posted": 1793662233,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Software Engineer, Infrastructure Engineering",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8337444",
-      "date_posted": 1793662112,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Data Scientist, Platform",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8304052?gh_jid=8304052",
-      "date_posted": 1793661739,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer (Machine Learning) - Economy ML",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8275414?gh_jid=8275414",
-      "date_posted": 1793661619,
-      "flags": []
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Digital Strategy and Growth Manager",
-      "location": "Bellevue, WA, United States; Chicago, Illinois, United States; Toronto, ON, Canada",
-      "url": "https://www.okta.com/company/careers/opportunity/8324993?gh_jid=8324993",
-      "date_posted": 1793658551,
       "flags": []
     }
   ]
