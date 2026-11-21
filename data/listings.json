@@ -3,9 +3,17 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-21T03:57:59.570Z",
+  "generated_at": "2026-11-21T17:58:32.222Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "ServiceNow",
+      "title": "Solution Marketing Campaign Director, Employee Experience",
+      "location": "Santa Clara, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162954819",
+      "date_posted": 1795251285,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Systems Engineer - Network Software Performance",
@@ -23,6 +31,14 @@
       "flags": [
         "clearance"
       ]
+    },
+    {
+      "company": "Lyft",
+      "title": "Account Manager, Lyft Ads",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8952328002?gh_jid=8952328002",
+      "date_posted": 1795222085,
+      "flags": []
     },
     {
       "company": "Lyft",
@@ -3198,22 +3214,6 @@
       "location": "USCA",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8927394002",
       "date_posted": 1793835383,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer - Ledger",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8335608?gh_jid=8335608",
-      "date_posted": 1793835362,
-      "flags": []
-    },
-    {
-      "company": "Brex",
-      "title": "Senior Product Designer, T&E",
-      "location": "United States",
-      "url": "https://www.brex.com/careers/8919847002?gh_jid=8919847002",
-      "date_posted": 1793835313,
       "flags": []
     }
   ]
