@@ -3,7 +3,7 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-22T03:09:36.854Z",
+  "generated_at": "2026-11-22T18:31:39.991Z",
   "count": 400,
   "jobs": [
     {
@@ -366,6 +366,14 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8384556",
       "date_posted": 1795117512,
+      "flags": []
+    },
+    {
+      "company": "AbbVie",
+      "title": "Software Engineer - Information Security",
+      "location": "North Chicago, IL",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016975636",
+      "date_posted": 1795116591,
       "flags": []
     },
     {
@@ -1552,6 +1560,14 @@
       "location": "Bellevue, Washington, United States; New York City, New York, United States; San Francisco, California",
       "url": "https://job-boards.greenhouse.io/flexport/jobs/8385664",
       "date_posted": 1794582865,
+      "flags": []
+    },
+    {
+      "company": "Flexport",
+      "title": "Trade Advisory Associate",
+      "location": "Chicago, Illinois, United States; Los Angeles, California",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8385662",
+      "date_posted": 1794582792,
       "flags": []
     },
     {
@@ -3198,22 +3214,6 @@
       "location": "Austin",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8348261",
       "date_posted": 1793890558,
-      "flags": []
-    },
-    {
-      "company": "Snowflake",
-      "title": "Senior Solutions Engineer, Observe",
-      "location": "US-NY-New York",
-      "url": "https://jobs.ashbyhq.com/snowflake/466cb97a-809c-46bc-a15c-a8464915ab66/application",
-      "date_posted": 1793883738,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Data & Analytics Solution Sales Executive - Healthcare West",
-      "location": "San Diego, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159773060",
-      "date_posted": 1793844840,
       "flags": []
     }
   ]
