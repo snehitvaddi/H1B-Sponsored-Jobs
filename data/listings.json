@@ -3,15 +3,31 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-21T17:58:32.222Z",
+  "generated_at": "2026-11-22T03:09:36.854Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Senior Platform Engineer, Replicate",
+      "location": "In-Office",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8406944?gh_jid=8406944",
+      "date_posted": 1795283235,
+      "flags": []
+    },
     {
       "company": "ServiceNow",
       "title": "Solution Marketing Campaign Director, Employee Experience",
       "location": "Santa Clara, CALIFORNIA",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162954819",
       "date_posted": 1795251285,
+      "flags": []
+    },
+    {
+      "company": "Verkada",
+      "title": "Reliability Engineering and Quality Manager",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5300741007",
+      "date_posted": 1795241015,
       "flags": []
     },
     {
@@ -31,6 +47,22 @@
       "flags": [
         "clearance"
       ]
+    },
+    {
+      "company": "Affirm",
+      "title": "Software Engineer I, Backend (Streaming Infra)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+      "date_posted": 1795223349,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Systems Engineer",
+      "location": "PERM - N/A",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8407651",
+      "date_posted": 1795222579,
+      "flags": []
     },
     {
       "company": "Lyft",
@@ -462,6 +494,14 @@
       "location": "Denver, Colorado",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162408999",
       "date_posted": 1795046862,
+      "flags": []
+    },
+    {
+      "company": "Socure",
+      "title": "Engineering, New Ventures",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/socure/e9665adc-dc72-4337-80d1-5e2e91dc23d9/application",
+      "date_posted": 1795042182,
       "flags": []
     },
     {
@@ -3174,46 +3214,6 @@
       "location": "San Diego, California",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159773060",
       "date_posted": 1793844840,
-      "flags": []
-    },
-    {
-      "company": "Plaid",
-      "title": "Staff Product Manager - Agent Trust",
-      "location": "New York City Office",
-      "url": "https://jobs.ashbyhq.com/plaid/b5060d3e-7714-4f71-8141-b3956ef3af57/application",
-      "date_posted": 1793842795,
-      "flags": []
-    },
-    {
-      "company": "Stripe",
-      "title": "Senior Staff Engineer, Big Data Infrastructure",
-      "location": "San Francsico",
-      "url": "https://stripe.com/jobs/search?gh_jid=8317306",
-      "date_posted": 1793841567,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Software Engineer, AI & Infrastructure Planning",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8328562?gh_jid=8328562",
-      "date_posted": 1793841491,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "PCBA Reliability Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8354166",
-      "date_posted": 1793840036,
-      "flags": []
-    },
-    {
-      "company": "Databricks",
-      "title": "Sr. Technical Program Manager, FDE",
-      "location": "USCA",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8927394002",
-      "date_posted": 1793835383,
       "flags": []
     }
   ]
