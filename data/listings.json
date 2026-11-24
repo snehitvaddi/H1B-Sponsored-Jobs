@@ -3,9 +3,41 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-23T22:39:53.329Z",
+  "generated_at": "2026-11-24T06:57:17.273Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Airwallex",
+      "title": "Implementation Manager - Embedded Finance",
+      "location": "US - San Francisco",
+      "url": "https://jobs.ashbyhq.com/airwallex/ef0f8894-1a69-480a-a080-8e25afabd23a/application",
+      "date_posted": 1795494784,
+      "flags": []
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Staff Software Engineer - Delivery Retrieval Infrastructure",
+      "location": "San Francisco, CA, US; Palo Alto, CA",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244282",
+      "date_posted": 1795479028,
+      "flags": []
+    },
+    {
+      "company": "Zscaler",
+      "title": "Principal Software Development Engineer, AI Security (C++/Rust/Go)",
+      "location": "Bellevue, Washington, USA; Santa Clara, California",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5291926007",
+      "date_posted": 1795478039,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Head of Global Partnerships and Startup and Ecosystem Product, Finance & Strategy",
+      "location": "SF, NYC, SEA",
+      "url": "https://stripe.com/jobs/search?gh_jid=8404667",
+      "date_posted": 1795476109,
+      "flags": []
+    },
     {
       "company": "Waymo",
       "title": "Safety Communications Manager",
@@ -31,6 +63,14 @@
       "flags": []
     },
     {
+      "company": "Brex",
+      "title": "Senior Lifecycle Marketing Manager, Customer",
+      "location": "San Francisco, California",
+      "url": "https://www.brex.com/careers/8959110002?gh_jid=8959110002",
+      "date_posted": 1795468771,
+      "flags": []
+    },
+    {
       "company": "Dropbox",
       "title": "Senior Security Engineer, Offensive Security",
       "location": "Remote - US: Select locations",
@@ -44,6 +84,14 @@
       "location": "San Francisco",
       "url": "https://careers.airbnb.com/positions/8411290?gh_jid=8411290",
       "date_posted": 1795468184,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Strategy & Execution Manager, Product Lead",
+      "location": "New York City, New York; San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8913000002",
+      "date_posted": 1795465960,
       "flags": []
     },
     {
@@ -1416,6 +1464,14 @@
       "location": "San Francisco, California",
       "url": "https://www.okta.com/company/careers/opportunity/8238010?gh_jid=8238010",
       "date_posted": 1794855578,
+      "flags": []
+    },
+    {
+      "company": "Dropbox",
+      "title": "Senior Account Executive",
+      "location": "Remote - US: Select locations",
+      "url": "https://job-boards.greenhouse.io/dropbox/jobs/8359398",
+      "date_posted": 1794855400,
       "flags": []
     },
     {
@@ -3156,62 +3212,6 @@
       "location": "Bellevue, WA",
       "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8357651",
       "date_posted": 1793924902,
-      "flags": []
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Software Engineer - Kubernetes platform",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016",
-      "date_posted": 1793923313,
-      "flags": []
-    },
-    {
-      "company": "Sunpower",
-      "title": "Industrial Engineer - Solar Operations & Data Analytics",
-      "location": "Orem, UT",
-      "url": "https://sunpower.breezy.hr/p/328df4bae729-industrial-engineer-solar-operations-data-analytics",
-      "date_posted": 1793923200,
-      "flags": []
-    },
-    {
-      "company": "Natera",
-      "title": "Sr Product Manager",
-      "location": "US Remote",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6250660004",
-      "date_posted": 1793922708,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Payments Infrastructure Product Manager",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8356838?gh_jid=8356838",
-      "date_posted": 1793921003,
-      "flags": []
-    },
-    {
-      "company": "Nuro",
-      "title": "Manager, Technical Program Manager, AI Platform",
-      "location": "Mountain View, California (HQ)",
-      "url": "https://nuro.ai/careersitem?gh_jid=8357144",
-      "date_posted": 1793916284,
-      "flags": []
-    },
-    {
-      "company": "Verkada",
-      "title": "Software Engineer, Cloud Infrastructure",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5283655007",
-      "date_posted": 1793915473,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "Zoning Manager, US",
-      "location": "New York City, NY, USA; Washington, D.C., USA; Mountain View, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8351324",
-      "date_posted": 1793914511,
       "flags": []
     }
   ]
