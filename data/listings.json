@@ -3,9 +3,81 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-24T21:13:04.982Z",
+  "generated_at": "2026-11-25T05:25:31.467Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Okta",
+      "title": "Senior Software Engineer, Actions (Auth0)",
+      "location": "Bellevue, WA, United States; Chicago, Illinois, United States; New York, New York, United States; Washington, District of Columbia",
+      "url": "https://www.okta.com/company/careers/opportunity/8415766?gh_jid=8415766",
+      "date_posted": 1795565396,
+      "flags": []
+    },
+    {
+      "company": "Anaplan",
+      "title": "Anaplan Solution Architect",
+      "location": "Minneapolis",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8949486002",
+      "date_posted": 1795562167,
+      "flags": []
+    },
+    {
+      "company": "Liveramp-inc",
+      "title": "Director of AI-Driven Quality & Reliability Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/liveramp-inc/907b4e9c-ac0b-46c3-a59f-103d17df91e3/application",
+      "date_posted": 1795560505,
+      "flags": []
+    },
+    {
+      "company": "Stripe",
+      "title": "Analytics Engineer",
+      "location": "New York",
+      "url": "https://stripe.com/jobs/search?gh_jid=8415333",
+      "date_posted": 1795559742,
+      "flags": []
+    },
+    {
+      "company": "Asana",
+      "title": "SEC Reporting and Equity Accounting Manager",
+      "location": "San Francisco",
+      "url": "https://www.asana.com/jobs/apply/8386666?gh_jid=8386666",
+      "date_posted": 1795557388,
+      "flags": []
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Customer Engineering Manager",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8400327?gh_jid=8400327",
+      "date_posted": 1795554693,
+      "flags": []
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Manager, Field Engineering - Real Money Games",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8586534002",
+      "date_posted": 1795554626,
+      "flags": []
+    },
+    {
+      "company": "Point72",
+      "title": "Software Engineer, PMRA Systems",
+      "location": "Stamford, CT or New York, NY",
+      "url": "https://boards.greenhouse.io/point72/jobs/8959723002?gh_jid=8959723002",
+      "date_posted": 1795552408,
+      "flags": []
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Financial Analyst",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8380693",
+      "date_posted": 1795551121,
+      "flags": []
+    },
     {
       "company": "Verkada",
       "title": "(Sr) Associate / Manager, Corporate Finance - Capital Markets",
@@ -44,6 +116,14 @@
       "location": "Remote",
       "url": "https://www.coinbase.com/careers/positions/8268156?gh_jid=8268156",
       "date_posted": 1795548443,
+      "flags": []
+    },
+    {
+      "company": "Marlabs",
+      "title": "QA Engineer - AI Platform",
+      "location": "Indianapolis, IN",
+      "url": "https://marlabs.breezy.hr/p/7f18a0a6f79a-qa-engineer-ai-platform",
+      "date_posted": 1795548095,
       "flags": []
     },
     {
@@ -196,6 +276,14 @@
       "location": "Richmond, VA",
       "url": "https://sunpower.breezy.hr/p/e2c2624dc94f-solar-electrician",
       "date_posted": 1795474658,
+      "flags": []
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Principal Pricing Program & Operations Manager (Remote Eligible)",
+      "location": "-REMOTE, USA",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412684",
+      "date_posted": 1795474653,
       "flags": []
     },
     {
@@ -3124,94 +3212,6 @@
       "location": "Hybrid",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609",
       "date_posted": 1794008118,
-      "flags": []
-    },
-    {
-      "company": "Zscaler",
-      "title": "Senior Manager, AMS Deal Desk",
-      "location": "Bellevue, Washington, USA; Remote - USA; San Jose, California",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5255124007",
-      "date_posted": 1794005380,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196112003",
-      "date_posted": 1794005257,
-      "flags": []
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Demand Generation Marketing Manager - Integrated Campaigns",
-      "location": "New York, New York",
-      "url": "https://careers.datadoghq.com/detail/8349721/?gh_jid=8349721",
-      "date_posted": 1794004649,
-      "flags": []
-    },
-    {
-      "company": "Natera",
-      "title": "Senior Product Manager, ClinicalAI Real-World Data (RWD)",
-      "location": "US Remote",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6239213004",
-      "date_posted": 1794004260,
-      "flags": []
-    },
-    {
-      "company": "Samsara",
-      "title": "Senior Tax Accountant",
-      "location": "Remote",
-      "url": "https://www.samsara.com/company/careers/roles/8353142?gh_jid=8353142",
-      "date_posted": 1794004106,
-      "flags": []
-    },
-    {
-      "company": "Brex",
-      "title": "Startup & VC Partnerships Manager",
-      "location": "San Francisco, California",
-      "url": "https://www.brex.com/careers/8934022002?gh_jid=8934022002",
-      "date_posted": 1794003038,
-      "flags": []
-    },
-    {
-      "company": "Rubrik",
-      "title": "Sales Engineering Intern, Summer 2027",
-      "location": "Austin, TX",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8268237?gh_jid=8268237",
-      "date_posted": 1794002509,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Product Manager",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8360386?gh_jid=8360386",
-      "date_posted": 1794002500,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Sr CRM Account Executive",
-      "location": "San Diego, California",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160304469",
-      "date_posted": 1794001581,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Senior Product Manager, Finance Technology (Procure-to-Pay & Record-to-Report)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8359289",
-      "date_posted": 1794000177,
-      "flags": []
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, PhD, Machine Learning - Generative World Models & Controllable Simulation",
-      "location": "Mountain View, California",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8351210",
-      "date_posted": 1793998781,
       "flags": []
     }
   ]
