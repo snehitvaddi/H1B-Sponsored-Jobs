@@ -3,15 +3,31 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-26T05:01:54.653Z",
+  "generated_at": "2026-11-26T20:11:43.255Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Cloudflare",
+      "title": "Senior Manager, Customer Engineering - Digital Natives",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8405433?gh_jid=8405433",
+      "date_posted": 1795704646,
+      "flags": []
+    },
     {
       "company": "Netskope",
       "title": "Manager, Solutions Engineer (Healthcare)",
       "location": "United States",
       "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8415775",
       "date_posted": 1795652056,
+      "flags": []
+    },
+    {
+      "company": "Reddit",
+      "title": "Senior Client Account Manager, Large Customer Sales (Financial Services)",
+      "location": "New York City, NY",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8411910",
+      "date_posted": 1795651648,
       "flags": []
     },
     {
@@ -52,6 +68,14 @@
       "location": "Hybrid - New York, NY",
       "url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869",
       "date_posted": 1795638133,
+      "flags": []
+    },
+    {
+      "company": "Cargurus",
+      "title": "Software Development Engineer II",
+      "location": "Boston, Massachusetts",
+      "url": "https://careers.cargurus.com/us/en/job/8417873?gh_jid=8417873",
+      "date_posted": 1795634555,
       "flags": []
     },
     {
@@ -204,6 +228,14 @@
       "location": "San Francisco",
       "url": "https://www.asana.com/jobs/apply/8386666?gh_jid=8386666",
       "date_posted": 1795557388,
+      "flags": []
+    },
+    {
+      "company": "Coursera",
+      "title": "Senior GTM Workflow & Process Analyst",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6266564004",
+      "date_posted": 1795557143,
       "flags": []
     },
     {
@@ -3180,38 +3212,6 @@
       "location": "Remote",
       "url": "https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991",
       "date_posted": 1794253425,
-      "flags": []
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer- Account Access & Controls",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/8350721?gh_jid=8350721",
-      "date_posted": 1794253078,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Senior Software Engineer, Backend (Trust & Safety)",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8197334003",
-      "date_posted": 1794252330,
-      "flags": []
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior CRM Account Executive",
-      "location": "Austin, Texas",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160696189",
-      "date_posted": 1794250439,
-      "flags": []
-    },
-    {
-      "company": "Reddit",
-      "title": "Product Manager, Developer Ecosystem",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8331370",
-      "date_posted": 1794249481,
       "flags": []
     }
   ]
