@@ -3,9 +3,17 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-26T20:11:43.255Z",
+  "generated_at": "2026-11-27T05:02:00.229Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Roblox",
+      "title": "Principal Security Software Engineer - Identity Access Management (IAM)",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8283619?gh_jid=8283619",
+      "date_posted": 1795731618,
+      "flags": []
+    },
     {
       "company": "Cloudflare",
       "title": "Senior Manager, Customer Engineering - Digital Natives",
@@ -2116,6 +2124,14 @@
     },
     {
       "company": "ServiceNow",
+      "title": "Staff Security Engineer (Compliance) - Moveworks",
+      "location": "Mountain View, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161585342",
+      "date_posted": 1794608143,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
       "title": "Customer Success Executive",
       "location": "Santa Clara, CALIFORNIA",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161584669",
@@ -3196,22 +3212,6 @@
       "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
       "url": "https://job-boards.greenhouse.io/gusto/jobs/8360497",
       "date_posted": 1794255924,
-      "flags": []
-    },
-    {
-      "company": "Verkada",
-      "title": "Senior Software Engineer, Business Systems - Data Trust",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5264711007",
-      "date_posted": 1794255922,
-      "flags": []
-    },
-    {
-      "company": "Coinbase",
-      "title": "Software Engineer-1",
-      "location": "Remote",
-      "url": "https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991",
-      "date_posted": 1794253425,
       "flags": []
     }
   ]
