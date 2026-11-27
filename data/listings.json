@@ -3,9 +3,25 @@
   "site": "https://applyloop.pro",
   "license": "CC0-1.0",
   "about": "Curated roles at employers with verified USCIS H-1B approval history (FY2020-FY2023). Sponsorship history describes the EMPLOYER, not this specific role. Always confirm with the employer. Listings are point-in-time and are not monitored for closure.",
-  "generated_at": "2026-11-27T05:02:00.229Z",
+  "generated_at": "2026-11-27T19:58:23.405Z",
   "count": 400,
   "jobs": [
+    {
+      "company": "Stripe",
+      "title": "Software Engineer, Full Stack Atlas",
+      "location": "South San Francisco, CA",
+      "url": "https://stripe.com/jobs/search?gh_jid=8421000",
+      "date_posted": 1795797542,
+      "flags": []
+    },
+    {
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Trust Infra)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8199161003",
+      "date_posted": 1795786955,
+      "flags": []
+    },
     {
       "company": "Roblox",
       "title": "Principal Security Software Engineer - Identity Access Management (IAM)",
@@ -2992,6 +3008,14 @@
     },
     {
       "company": "ServiceNow",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Santa Clara, CALIFORNIA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160949007",
+      "date_posted": 1794336784,
+      "flags": []
+    },
+    {
+      "company": "ServiceNow",
       "title": "Principal Product Success Manager",
       "location": "San Diego, California",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160948209",
@@ -3188,30 +3212,6 @@
       "location": "Mountain View, California (HQ)",
       "url": "https://nuro.ai/careersitem?gh_jid=8368819",
       "date_posted": 1794261503,
-      "flags": []
-    },
-    {
-      "company": "Socure",
-      "title": "Lifecycle Marketing Manager",
-      "location": "Hub - San Francisco",
-      "url": "https://jobs.ashbyhq.com/socure/a8cf0ad6-f50f-47bc-942c-e460993436c9/application",
-      "date_posted": 1794259561,
-      "flags": []
-    },
-    {
-      "company": "Affirm",
-      "title": "Accounting Manager",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8161169003",
-      "date_posted": 1794258725,
-      "flags": []
-    },
-    {
-      "company": "Gusto",
-      "title": "Software Engineer, Financial Data & Payments",
-      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8360497",
-      "date_posted": 1794255924,
       "flags": []
     }
   ]
